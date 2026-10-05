@@ -1,0 +1,205 @@
+{
+  "date": "2026-10-05",
+  "title": "早间简报",
+  "windowNote": "以过去约 6–12 小时为主（北京时间 10/4 晚至 10/5 早）；因 10/3、10/4 无简报，周末已延续的主线进展一并纳入",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/2）：巴西大选首轮计票为新的主导事件；也门政府宣布全面反攻、胡塞称袭击利雅得阿美设施，红海-海湾第二战线升温；伊朗称霍尔木兹「七条件」不满足不开放，10/1 以来 UKMTO 报告至少四起油轮遭袭，美军 B-1 撤离 RAF Fairford；美方推动 10 月底前俄乌美三方技术级会谈，同时俄方宣布加大对基辅打击；Flydubai 劫机案初查指向「独狼」；美国 9 月非农仅 +2.9 万，布油站上 103 美元；孙正义罕见警示 AI 安全。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "巴西大选首轮：弗拉维奥·博索纳罗领先卢拉，计票中优势收窄，预计 10 月 25 日决选",
+      "tag": "新故事",
+      "facts": [
+        "巴西 10 月 4 日举行大选首轮（总统、全部 513 名众议员、三分之二参议员及州长等）。",
+        "据路透与 Folha，约 65% 投票箱计出时，弗拉维奥·博索纳罗（PL）得票 49.58%，卢拉（PT）42.25%；第三名作家 Augusto Cury 约 2.97%。",
+        "Folha 的计票走势显示：弗拉维奥在约 12.5% 计票时一度达 51% 以上，并在 50% 以上维持到约 65% 计票后跌破 50%；路透称其领先「正在收窄」，因卢拉票仓东北部计票较慢。",
+        "民调机构 Datafolha 预测将进入 10 月 25 日第二轮；此前民调显示两人决选大致持平。",
+        "弗拉维奥为前总统雅伊尔·博索纳罗之子，正因 Banco Master 案被联邦警方调查涉嫌洗钱，本人否认；特朗普未正式背书，但曾在白宫接待并公开称赞他。",
+        "彭博称巴西雷亚尔周一早盘小幅走高。"
+      ],
+      "readingA": "首轮右翼大幅领先（远超赛前民调）说明生活成本、债务与治安焦虑压倒了卢拉的社会政策叙事，「反卢拉抗议票」提前释放；若最终结果接近当前数字，弗拉维奥将成决选热门，拉美右转浪潮延续，巴美关系可能重构。",
+      "readingB": "早期计票偏向南部亲博索纳罗州，领先幅度会随东北部计票继续缩小；首轮部分票是「抗议票」，在两人对决时未必转化。决选民调本就接近，且弗拉维奥身负调查，局势远未定型。",
+      "disagree": "分歧在于：首轮领先是真实的结构性右转，还是计票顺序与抗议票造成的短期放大；以及美国因素（被指干预、不承认结果的担忧）会动员哪一方选民。",
+      "synthesis": "能确定的是：首轮无人确定过半的可能性很大，巴西将进入三周决选战，且右翼势头强于赛前预期。最终首轮差距、国会选举结果（影响对大法官莫拉埃斯的弹劾议题）和第三名选民流向，是判断决选的关键。",
+      "unknown": "截至撰稿时的最终首轮票数；弗拉维奥是否最终落在 50% 以下（是否确定决选）；国会两院席位分布；落选候选人的背书方向。",
+      "confidence": "中（计票未完成）",
+      "sources": [
+        {"label": "Reuters（经 Yahoo）", "url": "https://uk.news.yahoo.com/brazilians-head-polls-high-stakes-100439026.html"},
+        {"label": "Folha 计票走势", "url": "https://www1.folha.uol.com.br/poder/2026/10/veja-a-evolucao-da-apuracao-dos-votos-para-presidente.shtml"},
+        {"label": "AFP", "url": "https://www.afp.com/en/flavio-bolsonaro-leads-lula-partial-brazil-poll-results"},
+        {"label": "Extra/Globo", "url": "https://extra.globo.com/politica/noticia/2026/10/resultado-das-eleicoes-2026-veja-resultado-do-1o-turno-pelo-pais.ghtml"}
+      ]
+    },
+    {
+      "id": "2",
+      "title": "也门：政府宣布全面反攻胡塞，胡塞称导弹无人机袭击利雅得阿美设施",
+      "tag": "新故事",
+      "facts": [
+        "也门总统领导委员会主席阿利米 10 月 4 日在利雅得发表电视讲话，宣布政府军「从准备阶段进入行动阶段」，展开收复胡塞控制区的大规模军事行动。",
+        "胡塞 9 月初发动攻势后，已于 9 月 10 日夺取红海港口穆哈、次日夺取曼德海峡的丕林岛（Mayyun）；据军方消息，近 48 小时胡塞在塔伊兹南部继续推进，逼近塔伊兹通往亚丁的最后一条道路。",
+        "胡塞军事发言人萨雷亚 10 月 3 日称以弹道导弹和无人机袭击利雅得阿美设施并引发火灾；当天利雅得以南一处阿美设施附近确有浓烟火光（AFP 照片）。",
+        "沙特领导的联军发言人马利基称胡塞袭击利雅得的说法「具有误导性」；沙特当局和阿美未确认损失。",
+        "政府军发言人称联军周六对胡塞目标实施 257 次精确打击、击毙约 700 人；周日又称实施 97 次打击（均为单方说法，未获独立核实）。",
+        "Axios 报道美国内阁高层 10 月 2 日开会讨论伊朗战争及也门冲突。"
+      ],
+      "readingA": "胡塞控制曼德海峡要地并打击沙特能源设施，使也门成为伊朗战争的「第二战线」；政府反攻意味着 2022 年停火后最大规模的升级，红海与海湾两条航道同时受压，油价风险溢价上升。",
+      "readingB": "政府军宣布反攻更像是止损与政治宣示，此前其防线曾崩溃，能否扭转战场仍待验证；胡塞袭击阿美的效果未被证实，双方伤亡数字均为宣传口径。",
+      "disagree": "分歧在于胡塞对阿美的打击是否真正造成实质损害，以及政府反攻是战局转折还是又一轮消耗。",
+      "synthesis": "确定的是也门战事在快速升级、前线不再冻结，且与伊朗—霍尔木兹危机叠加。应关注塔伊兹—亚丁道路是否被切断、沙特是否加大直接参与，以及红海航运保险与油价反应。",
+      "unknown": "利雅得火灾的真实原因与损失；双方实际伤亡；美国是否会介入也门；胡塞是否获伊朗新的武器补给。",
+      "confidence": "中",
+      "sources": [
+        {"label": "Xinhua", "url": "https://english.news.cn/20261005/848b0f0f1b8246eda9e28eae84b5cf72/c.html"},
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies"},
+        {"label": "WION", "url": "https://www.wionews.com/world/yemen-offensive-retake-houthi-held-territory-taiz-bab-el-mandeb-1791138408494"},
+        {"label": "The Hindu（AFP，含 Axios 内容）", "url": "https://www.thehindu.com/news/international/irans-foreign-minister-tells-us-there-is-no-military-solution-to-their-conflict/article71543286.ece"}
+      ]
+    },
+    {
+      "id": "3",
+      "title": "美伊：伊朗称「七条件」不满足霍尔木兹不开；油轮接连遇袭，美军 B-1 撤离 Fairford",
+      "tag": "续报：有新进展",
+      "facts": [
+        "伊朗议长兼首席谈判代表加利巴夫 10 月 4 日称，基于 6 月「伊斯兰堡谅解备忘录」的七项条件不满足，霍尔木兹海峡不会开放；条件包括停止美方「侵略行为」、结束对伊港口的海上封锁和经济战、释放伊朗资产。",
+        "外交部发言人巴盖伊称，美方经卡塔尔转交的反提案「大体延续既有立场，集中在核问题」，伊方将补充意见；他否认伊朗曾提出以 IAEA 核查换取解除制裁。",
+        "外长阿拉格齐对驻德黑兰使节称「没有军事解决方案，也没有基于新制裁的解决方案」，若再遭军事对抗将「更强回应」。",
+        "UKMTO 称 10 月 3 日一艘原油油轮在阿曼以东 4 海里遭不明投射物击中，4 日另一艘油轮在海峡内被击中、机舱受损；Iran International 引 UKMTO 称 10/1 以来共四起。伊朗格什姆岛附近海域 4 日亦传出爆炸声，未报告伤亡。",
+        "美联社称，美空军已将驻英国 RAF Fairford 的全部 B-1 轰炸机调回本土，背景是该基地相关疑似恐袭调查（英方已将其与德黑兰关联，伊朗否认）。",
+        "AFP 称美国自 9 月 1 日以来未再打击伊朗，但近期在该地区增兵；布伦特原油上周五收于 102.25 美元。"
+      ],
+      "readingA": "伊朗把「霍尔木兹先开放」变成筹码，坚持先解决封锁/制裁再谈核，而美方反提案仍聚焦核问题，排序之争无解；油轮持续遇袭、美方增兵与 B-1 调动显示双方都在为谈判破裂做准备。",
+      "readingB": "双方仍在通过卡塔尔交换文本，伊朗称将「补充意见」而非拒绝，说明通道未断；B-1 撤离可能主要是基地安保考量而非作战部署变化。袭船来源多数未被官方归因。",
+      "disagree": "分歧在于：当前是「僵局中的讨价还价」还是「再开战前夜」；袭船是伊朗施压、代理人行动还是其他方所为。",
+      "synthesis": "外交与军事两条线都在运行，但核心分歧（先核还是先开放海峡）上周以来没有缩小。海峡事实上近乎停航，航运与能源价格是最直接的传导渠道；短期看伊方补充意见的内容与美方是否再动武的表态。",
+      "unknown": "美方反提案全文；遇袭油轮名称与投射物来源；B-1 撤离是否伴随其他兵力调整；七项条件的完整文本。",
+      "confidence": "中高",
+      "sources": [
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions"},
+        {"label": "Al Arabiya", "url": "https://english.alarabiya.net/News/middle-east/2026/10/04/iran-says-strait-of-hormuz-will-not-reopen-until-conditions-are-met"},
+        {"label": "CNBC（含 AP）", "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html"},
+        {"label": "AFP", "url": "https://www.afp.com/en/iran-tells-us-there-no-military-solution-middle-east-war"},
+        {"label": "Iran International / UKMTO", "url": "https://www.iranintl.com/en/202610048198"},
+        {"label": "Tehran Times", "url": "https://www.tehrantimes.com/news/530738/Iran-says-to-deliver-additional-points-on-US-counter-proposal"}
+      ]
+    },
+    {
+      "id": "4",
+      "title": "俄乌：美方推动 10 月底前三方技术级会谈；俄宣布加大对基辅打击，德国追加约 13 亿欧元援助",
+      "tag": "续报：有新进展",
+      "facts": [
+        "泽连斯基 10 月 4 日与德国总理默茨在基辅联合记者会上称，美方正与乌俄双方接触，提议 10 月底前举行三方技术级会谈，地点可能在阿联酋；乌方已确认支持该时间表。",
+        "此前美方斡旋自对伊开战以来暂停；Kyiv Independent 称能源设施互不攻击和黑海粮食走廊可能列入议程。",
+        "泽连斯基接受路透采访称将加大打击俄炼油厂；俄国防部 10 月 4 日随即表示将加强对基辅及乌其他地区军事、军工及相关基础设施的打击。",
+        "基辅市长克里琴科称 10 月 4 日早俄无人机再次击中北桥，2 人受伤；这是连续第四天袭击基辅第聂伯河桥梁。泽连斯基称本周俄方动用 1900 余架攻击无人机（800 余架为喷气式）、1700 枚航弹和 25 枚导弹。",
+        "默茨宣布逾 13 亿欧元（约 14.6 亿美元）援助，其中约 10 亿欧元为军事援助，包括资助生产拦截喷气式武器的拦截无人机及追加 IRIS-T 防空系统，另有能源援助。",
+        "乌安全局称无人机击中俄阿迪格共和国 Khanskaya 机场的苏-35、苏-34 各一架及弹药库（俄方未证实）。"
+      ],
+      "readingA": "美国重新把俄乌拉回谈判桌，且时间表明确；双方同时升级远程打击，可能是在谈判前争夺筹码，「能源停火」成为最现实的第一步。",
+      "readingB": "技术级会谈门槛低、成果有限，克里姆林宫仅称「不排除」；俄方公开宣布加大打击，基辅桥梁与能源连日遭袭，显示战场逻辑仍压倒谈判逻辑。",
+      "disagree": "分歧在于：月底会谈能否落地并产出能源停火，还是又一次以谈促打。",
+      "synthesis": "外交窗口重新打开但很窄，同期军事强度不降反升。短期观察指标：俄方是否正式接受会谈、对基辅交通与能源打击是否扩大、乌方对炼厂打击的频率。",
+      "unknown": "俄方对会谈的正式答复；会谈议程与参会级别；纽约时报所称涉及卢克石油的数十亿美元交易细节。",
+      "confidence": "中高",
+      "sources": [
+        {"label": "Reuters", "url": "https://www.reuters.com/world/europe/russia-intensify-strikes-ukraine-after-zelenskiy-interview-2026-10-04/"},
+        {"label": "Kyiv Independent（会谈）", "url": "https://kyivindependent.com/us-proposes-trilateral-talks-with-russia-ukraine-by-end-of-october-zelensky-says/"},
+        {"label": "Kyiv Independent（综述）", "url": "https://kyivindependent.com/ukraine-war-latest-germany-supplies-kyiv-with-interceptors-air-defense-missiles-in-1-5-billion-aid-package/"},
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/4/ukraine-ready-for-us-backed-talks-with-russia-zelenskyy"},
+        {"label": "France 24", "url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky"}
+      ]
+    },
+    {
+      "id": "5",
+      "title": "美国 9 月非农仅增 2.9 万、加息押注降温；布油破 103 美元，美债与欧债仍承压",
+      "tag": "新故事",
+      "facts": [
+        "彭博称，美国 9 月非农就业仅增加 2.9 万人，低于所有受访经济学家预期，前两个月数据下修；失业率升至 4.2%，工资增速放缓。",
+        "货币市场对美联储 10 月加息的定价降至不足 25%；美国 10 年期国债收益率上周触及 2002 年以来最高。",
+        "布伦特 12 月合约周一早盘一度升破 103 美元，上周累计涨近 5%；OPEC+ 主要成员国同意下月配额不变。",
+        "亚洲周一早盘：日本、韩国、台湾股指期货指向上涨；纳指 100 上周五收于纪录高位。",
+        "本周关注：美国 10 年期与 30 年期国债拍卖、周三公布的美联储 9 月会议纪要；欧洲政府债券近期抛售引发对外溢的担忧。",
+        "据彭博，施耐德电气接近以逾 200 亿美元收购美国工业软件公司 PTC（FT 最先报道，最早或周一宣布，双方未确认）。"
+      ],
+      "readingA": "就业明显降温削弱了「再加息」理由，股市（尤其 AI/半导体）获得喘息，市场转向「金发姑娘」叙事。",
+      "readingB": "油价因中东双线风险居高不下，通胀压力未消；长端收益率在高位、欧债抛售与 AI 相关企业大举发债，说明真正的风险在债市而非股市，就业疲弱也可能意味着增长放缓。",
+      "disagree": "分歧在于：弱非农是「软着陆利好」还是「滞胀前兆」——油价 100 美元以上与就业走弱同时出现。",
+      "synthesis": "短期加息概率下降，但能源供给冲击和债市波动仍是主线。本周国债拍卖需求和会议纪要的通胀措辞，比单一就业数据更能决定方向。",
+      "unknown": "非农弱是否受劳动力供给或统计因素扭曲；欧债抛售的触发点与范围；施耐德—PTC 交易是否最终宣布及条款。",
+      "confidence": "中高",
+      "sources": [
+        {"label": "Bloomberg（经 swissinfo）", "url": "https://www.swissinfo.ch/eng/asian-stocks-to-rise-as-hike-bets-ease%2c-oil-climbs%3a-markets-wrap/92165619"},
+        {"label": "Reuters/FT（经 StreetInsider）", "url": "https://www.streetinsider.com/Reuters/Frances+Schneider+Electric+nears+%2420+billion+deal+to+buy+US+software+group+PTC%2C+FT+reports/27144420.html"}
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Flydubai FZ1073 后续：以方初查称副驾「独狼」作案、原计划撞向本-古里安机场；内塔尼亚胡下令审查外航安保",
+      "tag": "续报：有新进展",
+      "facts": [
+        "据《以色列时报》《国土报》援引报道，以色列初步调查认为阿曼籍副驾哈马姆·哈马米很可能单独作案，暂未发现与恐怖组织或敌对国家的确认联系。",
+        "报道称他在阿联酋受审时供述：原计划袭击机长后照常取得落地许可，再撞向本-古里安机场的建筑或飞机；他曾计划在 7 月行动，因与一名机组成员是朋友而在最后一刻取消。",
+        "阿联酋方面称副驾使用驾驶舱应急斧袭击机长，定性为「恐怖行为」，由阿联酋主导调查。另有报道称他此前曾因极端主义担忧被标记。",
+        "内塔尼亚胡 10 月 4 日指示国家安全委员会负责人任命审查人员，全面审查外国民航飞往以色列的安保安排；此前有报道称以方机构曾警告交通部对国际航班安检执行不力。"
+      ],
+      "readingA": "「独狼」结论削弱了此前特朗普提出的伊朗关联说法，焦点转向航空公司对机组的背景审查与驾驶舱安全漏洞。",
+      "readingB": "这只是以方初查，最终结论在阿联酋；「独狼」也可能受网络煽动，且他曾被标记却仍能执飞，说明制度性失误可能比个人动机更值得追问。",
+      "disagree": "分歧在于是否存在任何外部指使，以及责任主要在航司、监管方还是以色列自身的外航安保监督。",
+      "synthesis": "目前证据指向个人作案，伊朗关联缺乏证据支持。后续看阿联酋正式调查结论、Flydubai 对机组审查的回应，以及以色列是否对外航提出新要求。",
+      "unknown": "阿联酋调查的正式结论；副驾此前被标记的具体内容与处理；以色列审查范围与时间表。",
+      "confidence": "中",
+      "sources": [
+        {"label": "Times of Israel（独狼）", "url": "https://www.timesofisrael.com/liveblog_entry/initial-israeli-investigation-indicates-flydubai-pilot-was-likely-a-lone-wolf-report/"},
+        {"label": "Times of Israel（撞机计划）", "url": "https://www.timesofisrael.com/liveblog_entry/report-terrorist-copilot-meant-to-crash-plane-into-ben-gurion-airport-canceled-july-attack-plan-at-last-moment/"},
+        {"label": "Haaretz", "url": "https://www.haaretz.com/israel-news/israel-security/2026-10-04/ty-article/reports-flydubai-pilot-acted-alone-planned-to-crash-the-plane-in-tel-aviv/000001a1-06d0-de98-a9a7-f7f9e2450000"},
+        {"label": "WION", "url": "https://www.wionews.com/world/netanyahu-orders-security-review-of-foreign-flights-to-israel-after-flydubai-attack-1791140574447"}
+      ]
+    },
+    {
+      "id": "7",
+      "title": "AI：孙正义罕见警示「超级智能落入错误之手极其危险」；美国牵头 17 国 AI 科研倡议（无中国）",
+      "tag": "新故事",
+      "facts": [
+        "软银董事长孙正义 10 月 4 日在京都「科学技术与人类未来论坛」场边活动上表示，他也担心 AI 能力快速提升带来的安全风险，称超级智能在错误之手中会「超级危险」，呼吁各国建立互信、共同控制强大 AI 模型。",
+        "软银已向 OpenAI 投入近 650 亿美元；孙正义重申 AI 与学习型机器到 2040 年将占全球 GDP 至少 20%（约 46 万亿美元），并称 AI 明年起将进入帮助机器人与物理世界交互的阶段。",
+        "同场活动上，白宫科技政策顾问克拉齐奥斯宣布美国牵头的 17 国倡议，推动用 AI 加速科研；日本、韩国、英国、德国、新加坡、阿联酋等参与，首批签署名单不含中国。",
+        "彭博称孙正义的表态反映出近几个月 AI 模型安全事件后担忧上升；此前 OpenAI CEO 奥特曼周六在 X 上称对给 AI 模型赋予「宗教力量或让渡人类判断」感到「非常不安」（未点名）。"
+      ],
+      "readingA": "连最激进的 AI 投资者也公开谈安全，说明自主智能体失控事件已改变行业话语；美国以「AI for Science」组建排除中国的联盟，AI 治理正在阵营化。",
+      "readingB": "孙正义的表态仍以「加快部署、国家合作」为落点，安全论述也可为其巨额投资争取监管确定性；17 国倡议偏科研合作，约束力有限。",
+      "disagree": "分歧在于这些表态是实质性的风险转向，还是在 IPO 与融资周期中的公关与监管博弈。",
+      "synthesis": "AI 安全正从研究议题变成资本与地缘议题：投资方、实验室与政府都在表态，但具体约束机制尚不清晰。关注是否出现可执行的跨国规则，以及中国是否另组对应框架。",
+      "unknown": "17 国倡议的具体承诺与资金；孙正义是否会调整软银的 AI 投资节奏；奥特曼帖文的具体所指。",
+      "confidence": "中高",
+      "sources": [
+        {"label": "The Business Times（Bloomberg）", "url": "https://www.businesstimes.com.sg/international/softbanks-masayoshi-son-has-rare-cautionary-note-ai-safety"},
+        {"label": "The Next Web", "url": "https://thenextweb.com/news/son-ai-safety-kyoto-vision-europe"},
+        {"label": "Times of India", "url": "https://timesofindia.indiatimes.com/technology/tech-news/openai-ceo-sam-altman-is-not-okay-with-anthropic-flying-in-religious-scholars-to-help-build-claudes-soul-says-i-am-very-uncomfortable-about-/articleshow/134670927.cms"}
+      ]
+    }
+  ],
+  "index": [
+    {"n": 1, "title": "Brazil election headed to runoff, projection shows, as Bolsonaro lead narrows", "outlet": "Reuters / Yahoo", "url": "https://uk.news.yahoo.com/brazilians-head-polls-high-stakes-100439026.html"},
+    {"n": 2, "title": "Flavio Bolsonaro leads Lula in partial Brazil poll results", "outlet": "AFP", "url": "https://www.afp.com/en/flavio-bolsonaro-leads-lula-partial-brazil-poll-results"},
+    {"n": 3, "title": "Veja a evolução da apuração dos votos para presidente", "outlet": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2026/10/veja-a-evolucao-da-apuracao-dos-votos-para-presidente.shtml"},
+    {"n": 4, "title": "Houthis extend gains in Yemen's Taiz as gov't announces major military campaign", "outlet": "Xinhua", "url": "https://english.news.cn/20261005/848b0f0f1b8246eda9e28eae84b5cf72/c.html"},
+    {"n": 5, "title": "Houthis claim strike on Aramco site as Yemen fighting intensifies", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies"},
+    {"n": 6, "title": "Yemen launches major offensive to retake Houthi-held territory", "outlet": "WION", "url": "https://www.wionews.com/world/yemen-offensive-retake-houthi-held-territory-taiz-bab-el-mandeb-1791138408494"},
+    {"n": 7, "title": "Iran says Hormuz to remain closed until US meets conditions", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions"},
+    {"n": 8, "title": "All U.S. bombers leave UK air base on concerns of suspected terror plots; more tankers struck near Iran", "outlet": "CNBC", "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html"},
+    {"n": 9, "title": "Iran tells US there is no military solution to Middle East war", "outlet": "AFP", "url": "https://www.afp.com/en/iran-tells-us-there-no-military-solution-middle-east-war"},
+    {"n": 10, "title": "Iran says to deliver additional points on US counter-proposal", "outlet": "Tehran Times", "url": "https://www.tehrantimes.com/news/530738/Iran-says-to-deliver-additional-points-on-US-counter-proposal"},
+    {"n": 11, "title": "UKMTO reports four tanker strikes in Strait of Hormuz since Oct. 1", "outlet": "Iran International", "url": "https://www.iranintl.com/en/202610048198"},
+    {"n": 12, "title": "Russia to intensify strikes on Ukraine after Zelenskiy interview", "outlet": "Reuters", "url": "https://www.reuters.com/world/europe/russia-intensify-strikes-ukraine-after-zelenskiy-interview-2026-10-04/"},
+    {"n": 13, "title": "US proposes trilateral talks with Russia, Ukraine by end of October, Zelensky says", "outlet": "Kyiv Independent", "url": "https://kyivindependent.com/us-proposes-trilateral-talks-with-russia-ukraine-by-end-of-october-zelensky-says/"},
+    {"n": 14, "title": "Germany supplies Kyiv with interceptors, air defense missiles in $1.5 billion aid package", "outlet": "Kyiv Independent", "url": "https://kyivindependent.com/ukraine-war-latest-germany-supplies-kyiv-with-interceptors-air-defense-missiles-in-1-5-billion-aid-package/"},
+    {"n": 15, "title": "Asian Stocks to Rise as Hike Bets Ease, Oil Climbs: Markets Wrap", "outlet": "Bloomberg / swissinfo", "url": "https://www.swissinfo.ch/eng/asian-stocks-to-rise-as-hike-bets-ease%2c-oil-climbs%3a-markets-wrap/92165619"},
+    {"n": 16, "title": "France's Schneider Electric nears $20 billion deal to buy US software group PTC, FT reports", "outlet": "Reuters / StreetInsider", "url": "https://www.streetinsider.com/Reuters/Frances+Schneider+Electric+nears+%2420+billion+deal+to+buy+US+software+group+PTC%2C+FT+reports/27144420.html"},
+    {"n": 17, "title": "Initial Israeli investigation indicates flydubai pilot was likely a lone wolf", "outlet": "Times of Israel", "url": "https://www.timesofisrael.com/liveblog_entry/initial-israeli-investigation-indicates-flydubai-pilot-was-likely-a-lone-wolf-report/"},
+    {"n": 18, "title": "Netanyahu orders security review of foreign flights to Israel after flydubai attack", "outlet": "WION", "url": "https://www.wionews.com/world/netanyahu-orders-security-review-of-foreign-flights-to-israel-after-flydubai-attack-1791140574447"},
+    {"n": 19, "title": "SoftBank's Masayoshi Son has rare cautionary note on AI safety", "outlet": "The Business Times / Bloomberg", "url": "https://www.businesstimes.com.sg/international/softbanks-masayoshi-son-has-rare-cautionary-note-ai-safety"},
+    {"n": 20, "title": "Hundreds of schools to shut Monday as student protests rock France", "outlet": "AFP", "url": "https://www.afp.com/en/hundreds-schools-shut-monday-student-protests-rock-france"},
+    {"n": 21, "title": "Israeli army kills man in southern Syria", "outlet": "Anadolu", "url": "https://www.aa.com.tr/en/middle-east/israeli-army-kills-man-in-southern-syria/4077933"},
+    {"n": 22, "title": "Explosion heard near Iran's Qeshm Island - IRNA", "outlet": "Iran International", "url": "https://www.iranintl.com/en/202610040586"}
+  ]
+}

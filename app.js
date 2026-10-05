@@ -12,7 +12,40 @@
   const $ = (sel, root) => (root || document).querySelector(sel);
   const $$ = (sel, root) => Array.from((root || document).querySelectorAll(sel));
 
+  // Daily briefs can also ship as small per-day files listed in data/days/manifest.json;
+  // they are merged over data/briefs.json by date (newest first).
+  async function loadDays(base) {
+    try {
+      const res = await fetch("data/days/manifest.json", { cache: "no-cache" });
+      if (!res.ok) return base;
+      const manifest = await res.json();
+      const dates = Array.isArray(manifest.dates) ? manifest.dates : [];
+      const byDate = new Map((base.briefs || []).map((b) => [b.date, b]));
+      await Promise.all(
+        dates.map(async (d) => {
+          try {
+            const r = await fetch("data/days/" + d + ".json", { cache: "no-cache" });
+            if (r.ok) {
+              const b = await r.json();
+              if (b && b.date && Array.isArray(b.stories)) byDate.set(b.date, b);
+            }
+          } catch (_) {
+            /* skip missing day */
+          }
+        })
+      );
+      base.briefs = Array.from(byDate.values()).sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+    } catch (_) {
+      /* no manifest: keep base */
+    }
+    return base;
+  }
+
   async function loadData() {
+    return loadDays(await loadBase());
+  }
+
+  async function loadBase() {
     try {
       const res = await fetch("data/briefs.json", { cache: "default" });
       if (res.ok) return await res.json();
