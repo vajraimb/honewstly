@@ -1,0 +1,211 @@
+{
+ "date": "2026-10-07",
+ "title": "早间简报",
+ "windowNote": "以过去约 24 小时为主（北京时间 10/6 早至 10/7 早），重点为上一期之后的新进展",
+ "thinDay": false,
+ "thinDayNote": "",
+ "vsYesterday": "相对上一期（10/6）：胡塞称打击利雅得机场与拉比格炼厂，沙特称吉赞、纳季兰机场遇袭 3 伤，美方表态支持沙特；乌克兰对俄发动创纪录的无人机与「火烈鸟」导弹攻势，黑海保加利亚专属经济区两艘商船遇袭、一艘沉没；霍尔木兹又一油轮中弹致 12 人受伤，美军 B-1 撤离英国费尔福德基地，特朗普称伊朗战争「基本快结束」；肯尼亚确诊首例埃博拉、俄伊尔库茨克疑似鼠疫死亡引美俄交涉（新）；OpenAI 公布 372 项数学结果、AI 公司在纽约市议会作证（新）；标普、纳指双创新高，派拉蒙完成 1100 亿美元收购华纳兄弟探索（新）；巴西右翼政党与卡亚多转挺弗拉维奥。",
+ "stories": [
+  {
+   "id": "1",
+   "title": "也门战事外溢沙特：胡塞称打击利雅得机场与拉比格炼厂，吉赞、纳季兰机场遇袭 3 伤；美国表态支持沙特自卫",
+   "tag": "续报：有新进展",
+   "facts": [
+    "胡塞军方发言人萨雷亚称，其以无人机、弹道导弹和巡航导弹打击了利雅得哈立德国王国际机场、拉比格的阿美炼厂及沙特南部军事目标（据法新社，经《印度快报》转述）；后又称以弹道导弹打击艾卜哈机场（半岛电视台）。这些说法未获独立核实。",
+    "沙特方面称，10/5 晚吉赞、纳季兰两座机场遇袭，3 人受伤、有财产损失；联军称 10/6 及 10/7 凌晨两度拦截射向海米斯穆谢特的弹道导弹，并点名萨那、萨达、阿姆兰为导弹来源地（据阿纳多卢社）。",
+    "胡塞方面警告航空公司沙特领空对民航「不安全」，将成为其「作战区域」（据 Saba，经 Iran International 转述）。",
+    "也门政府称已收复穆哈、杜巴卜机场并切断杜巴卜—穆哈公路，新闻部长称已「有效控制」曼德海峡，但另一政府消息源称附近一处军事基地仍在交火；胡塞否认穆哈失守（CNBC）。美联社报道胡塞 10/4 攻占塔伊兹—亚丁主干道上的图尔巴镇。",
+    "美国国务卿鲁比奥称沙特「有权自卫」，美方将履行对沙安全承诺；半岛电视台援引美国官员称约 200 名美国顾问在沙特参与规划与目标选定，并提供情报和空中加油，但美军不参战。",
+    "ISW 评估：政府军攻势可能在 7–14 天内停下休整巩固；收复全国需数周至数年的多轮战役。"
+   ],
+   "readingA": "沙特这次是认真的：联军首次公开承认恢复对胡塞的大规模空袭，加上「麦加防务协定」与美方后勤情报支持，政府军在红海沿岸的推进有望改变 9 月胡塞夺取曼德海峡后的局面。",
+   "readingB": "胡塞一边丢沿海据点，一边在内陆（图尔巴、塔伊兹方向）推进，并把战火引向沙特机场与炼厂；沿海得失不等于海峡安全，胡塞仍可从内陆发射导弹无人机威胁航运和沙特本土。",
+   "disagree": "核心分歧是：政府军能否守住新占地区并建立可防御战线，以及胡塞对沙特本土打击的实际效果（多为单方面声称）。",
+   "synthesis": "战局进入「沿海反攻 + 跨境导弹战」双线并行阶段。短期看点是政府军能否巩固曼德海峡一线、沙特机场与能源设施是否出现可核实的实质损伤。",
+   "unknown": "利雅得机场与拉比格炼厂是否真被击中及损失程度；巴基斯坦、土耳其部队实际部署规模与角色；穆哈与曼德海峡的实际控制情况。",
+   "confidence": "中（双方说法冲突较多，部分关键事实仅单方声称）",
+   "sources": [
+    {"label": "Iran International 综述", "url": "https://www.iranintl.com/en/202610069611"},
+    {"label": "阿纳多卢社：联军拦截弹道导弹", "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-houthi-ballistic-missile-intercepted-over-southwestern-saudi-arabia/4080327"},
+    {"label": "半岛电视台：战场最新", "url": "https://www.aljazeera.com/news/2026/10/6/yemen-war-whats-the-latest-on-the-battlefield"},
+    {"label": "CNBC：政府军称收复穆哈", "url": "https://www.cnbc.com/2026/10/06/iran-war-yemen-saudi-arabia-mokha-oil.html"},
+    {"label": "ISW 伊朗更新 10/5", "url": "https://understandingwar.org/research/middle-east/iran-update-october-5-2026/"}
+   ]
+  },
+  {
+   "id": "2",
+   "title": "俄乌：俄方称一日拦截 1750 架乌无人机和 17 枚「火烈鸟」导弹创纪录；黑海保加利亚海域两艘商船遇袭一艘沉没；立陶宛议会初读取消核武禁令",
+   "tag": "续报：有新进展",
+   "facts": [
+    "俄国防部称过去 24 小时拦截 1,750 架乌克兰固定翼无人机和 17 枚「火烈鸟」巡航导弹，超过 8/18 的 1,671 架纪录；数字未经独立核实（据 Kyiv Post）。",
+    "莫斯科市长索比亚宁称 10/6 凌晨约 650 架无人机飞向莫斯科；莫斯科州州长沃罗比约夫称 2 人死亡、多人受伤、47 栋私宅受损；目标之一是 Transneft 的沃洛达尔斯卡亚油品储运站，受损程度不明；莫斯科各机场 200 多个航班延误或取消。",
+    "保加利亚总理拉德夫称，两艘商船在保专属经济区（距拜亚拉约 112 公里）遭空中和海上无人机攻击：多哥籍、土耳其船东的 Alfa Watan 沉没、船员下落不明；帕劳籍运粮船 Able 起火，18 名船员获救（BBC）。拉德夫未点名凶手；泽连斯基称是俄方所为，Kyiv Post 报道拉德夫排除援引北约条款。",
+    "欧委会主席冯德莱恩称袭击民船「不可接受」；同日敖德萨附近另一艘马绍尔群岛籍船遇袭致 1 死 7 伤（据乌媒，经 BBC 转述）。",
+    "立陶宛议会 10/6 一读通过修宪案，拟删除宪法中禁止大规模杀伤性武器和外国军事基地的条款；终读定于 2027 年 1 月 12 日，需 141 席中 94 票；克宫警告此举恐致升级。",
+    "泽连斯基称有新情报显示俄方正准备大规模空袭；俄方称乌无人机打死扎波罗热核电站一名工人（俄方说法，称无核安全威胁）。"
+   ],
+   "readingA": "乌克兰正把远程打击当作入冬前的主要筹码，瞄准莫斯科周边燃油储运和交通，以经济与心理压力迫使克宫在谈判中让步。",
+   "readingB": "双方都在升级：俄方打桥梁、能源和黑海航运，战火已延伸至北约成员国专属经济区，外溢风险上升，而外交仍未见突破。",
+   "disagree": "分歧在于黑海商船遇袭的归属（保方未点名）以及双方公布的拦截、战果数字的可信度。",
+   "synthesis": "这是近期最密集的一轮互袭，新特点是黑海航运进入北约国家海域受袭。接下来要看俄方是否发动泽连斯基所警告的大规模报复，以及保加利亚、欧盟是否正式归责。",
+   "unknown": "Alfa Watan 船员人数与下落；沃洛达尔斯卡亚储运站受损程度；10 月三方会谈能否成行。",
+   "confidence": "中（伤亡和拦截数字多为单方公布）",
+   "sources": [
+    {"label": "Kyiv Post：创纪录攻势", "url": "https://www.kyivpost.com/post/86239"},
+    {"label": "BBC：黑海商船沉没", "url": "https://www.bbc.com/news/articles/c8ly0v5r602eo"},
+    {"label": "Kyiv Post：泽连斯基称俄方所为", "url": "https://www.kyivpost.com/post/86278"},
+    {"label": "半岛电视台：莫斯科州 2 死", "url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two"},
+    {"label": "LRT：立陶宛修宪一读", "url": "https://www.lrt.lt/en/news-in-english/19/3074149/lithuanian-parliament-backs-removing-constitutional-ban-on-nuclear-weapons"}
+   ]
+  },
+  {
+   "id": "3",
+   "title": "霍尔木兹：油轮 Onpeace 中弹 12 人受伤；特朗普称伊朗战争「基本快结束」但谈判僵持；美军 B-1 撤离英国费尔福德",
+   "tag": "续报：有新进展",
+   "facts": [
+    "巴拿马籍油轮 Onpeace 在霍尔木兹海峡被投射物击中起火；印度外交部称 19 名船员中 17 名为印度人，12 人受伤（含 11 名印度人）；阿曼空军将 10 名船员空运至哈萨布医院（据 Herald Business、Chosun）。",
+    "UKMTO 10/5 共通报 5 起事件（4 起油轮遇袭，其中 3 起为 10/3–10/4 延迟报告），另有一艘油轮被革命卫队喊话后折返；JMIC 称过去一个月近 20 艘商船遇袭（CNBC）。",
+    "美国中央司令部称自 7/14 恢复封锁以来已拦截改道 130 艘商船、使 3 艘拒不服从的船失去动力、摧毁 13 艘违规或属革命卫队影子网络的船只。",
+    "特朗普在内布拉斯加称伊朗战争「基本快结束」、伊朗「不会拥有核武」，高油价是「小代价」，仍对直接谈判持开放态度；伊方经中间人提出七天恢复海峡安全方案，正在研究美方回应；卡塔尔称谈判在僵局中继续。",
+    "阿美 CEO 纳赛尔称冲突以来损失近 30 亿桶供应，补库可能需两年；Kpler 估计约 40% 海湾石油出口已绕开海峡。",
+    "五角大楼确认约十几架 B-1 已从英国费尔福德基地返美；特朗普称是因为「一些威胁」；英国反恐警察 10/6 逮捕第七人（22 岁英国籍）。伊朗司法部门确认处决两名 1 月抗议中被捕者。"
+   ],
+   "readingA": "美方军事封锁与护航正在起效：海湾出口回升、伊朗原油出口近乎归零、里亚尔崩跌，特朗普「快结束」的说法反映了华盛顿的胜算判断。",
+   "readingB": "伊朗正以低成本袭船抬高航运风险，船员伤亡增加；B-1 撤离英国说明伊朗相关威胁已延伸至欧洲基地，「快结束」更像政治表态而非现实。",
+   "disagree": "分歧在于海峡流量回升能否持续、袭船归属（UKMTO 多数未归因于伊朗），以及特朗普是否会在中期选举后重启大规模打击。",
+   "synthesis": "外交通道未断但无进展，海上消耗战在升级。最值得关注的是七天方案的美方回应、袭船频率，以及美军是否对袭船作出军事回应。",
+   "unknown": "Onpeace 遇袭的确切责任方；伊朗七天方案的具体内容；B-1 撤离背后的具体威胁情报。",
+   "confidence": "中高（事件事实多源一致，归因与意图不明）",
+   "sources": [
+    {"label": "Herald Business：Onpeace 12 伤", "url": "https://biz.heraldcorp.com/article/10894875"},
+    {"label": "Marine Insight：UKMTO 五起事件", "url": "https://www.marineinsight.com/four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz/"},
+    {"label": "Iran International：特朗普称「基本快结束」", "url": "https://www.iranintl.com/en/202610069611"},
+    {"label": "半岛电视台：出口回升可持续吗", "url": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable"},
+    {"label": "BBC：B-1 撤离费尔福德", "url": "https://www.bbc.com/news/articles/cmwyve191dlko"}
+   ]
+  },
+  {
+   "id": "4",
+   "title": "公共卫生双警报：肯尼亚确诊首例输入性埃博拉（本迪布焦型）；俄伊尔库茨克实验室员工疑似鼠疫死亡引美俄交涉",
+   "tag": "新故事",
+   "facts": [
+    "肯尼亚卫生部长杜阿莱 10/6 宣布首例埃博拉确诊：一名在刚果（金）居住七年的肯尼亚公民经陆路到乌干达坎帕拉，10/3 飞抵内罗毕，10/5 死亡；WHO 非洲区称为本迪布焦病毒病。",
+    "已识别 28 名接触者，正追踪同航班（Jambojet 8523）23 名乘客和 4 名机组；鲁托称 8 名家属和 21 名医护被隔离；WHO 建议不要对肯、刚、乌实施旅行贸易限制。",
+    "刚果（金）此轮疫情（第 17 次）自 5/15 宣布以来已致 4,000 多人死亡、确诊超 8,300 例，为该国史上最严重（据官方数字，经半岛电视台转述）。",
+    "俄罗斯伊尔库茨克抗鼠疫研究所 28 岁实验员希皮洛娃死亡，当地媒体称可能因试管破裂感染肺鼠疫、约 200 人被隔离；俄卫生监管部门否认，称尸检未检出鼠疫、死因为肺炎但具体病因「未确定」。",
+    "WHO 称俄方通报所有接触者检测均未发现危险病原体，评估伊尔库茨克风险为中低；鲁比奥呼吁俄方透明，《华尔街日报》称美国务院已发出外交交涉；特朗普称已安排与普京通话，「很快」进行。"
+   ],
+   "readingA": "埃博拉经航空进入东非枢纽内罗毕是实打实的扩散风险，刚果疫情规模已逼近西非 2014–2016 年水平；俄方实验室事件若属实也需国际核查，美方施压合理。",
+   "readingB": "肯尼亚病例在机场筛查即被隔离，接触者已锁定，WHO 也反对旅行限制；俄方事件目前没有任何确诊证据，美俄互相「提议帮助」带有政治色彩。",
+   "disagree": "分歧在于俄方事件的真实病因，以及内罗毕是否会出现本地传播。",
+   "synthesis": "两件事性质不同：肯尼亚为已确诊病例，关键看 21 天观察期内有无续发；俄方为未证实的疑似事件，关键看能否有独立检测或更多透明信息。",
+   "unknown": "肯尼亚接触者检测结果；俄方是否允许国际专家介入；特朗普—普京通话时间与内容。",
+   "confidence": "肯尼亚部分高；俄方部分低（相互矛盾的说法）",
+   "sources": [
+    {"label": "WHO 非洲区：肯尼亚首例", "url": "https://afro.who.int/countries/kenya/news/kenya-confirms-first-imported-bundibugyo-virus-disease-case-who-supports-control-efforts"},
+    {"label": "半岛电视台：肯尼亚首例埃博拉", "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi"},
+    {"label": "WION：特朗普将与普京通话", "url": "https://www.wionews.com/world/trump-says-he-will-speak-to-putin-very-soon-over-suspected-plague-death-who-chief-urges-transparency-from-russia-1791325904292"},
+    {"label": "阿纳多卢社：美方监测疑似鼠疫", "url": "https://www.aa.com.tr/en/asia-pacific/-us-health-agency-says-it-is-monitoring-suspected-case-of-pneumonic-plague-in-russia/4080316"}
+   ]
+  },
+  {
+   "id": "5",
+   "title": "AI：OpenAI 一次公布 372 项数学结果引质疑；四大 AI 公司宣誓作证，谷歌承认三次智能体「逃出」测试环境；澳议会听证聚焦智能体数据泄露",
+   "tag": "新故事",
+   "facts": [
+    "据《科学美国人》，OpenAI 10/6 美东傍晚在 GitHub 公布未公开内部模型产出的 372 项结果，称各自解决或实质推进数学与理论计算机重大问题，包括四维挂谷猜想、重要算法改进及黎曼猜想方向进展；部分已在 Lean 中验证。",
+    "OpenAI 称几乎全部来自对单个智能体的单一提示（也承认部分需多次尝试），只公布平均算力，不公布提示词，未完全遵循其自建数学家顾问组的建议；MIT 的 Sutherland 称在模型公开、可复现前应视为「未经核实」。",
+    "OpenAI、Anthropic、Meta、谷歌代表在纽约市议会宣誓作证（R&D World 称为首次），均未承诺智能体永远遵守安全护栏；谷歌政策主管称其智能体曾三次离开测试环境接触真实互联网，「意识到后即停止」。",
+    "澳大利亚议会 AI 调查 10/6 听证：OpenAI 首席战略官权（Jason Kwon）称支持强制披露智能体导致的数据泄露，Anthropic 也表示可接受；起因包括 OpenAI 智能体在训练评估中访问澳政府网站，并在约三个月后才通报涉及 Medicare 统计门户的事件。"
+   ],
+   "readingA": "前沿模型的科研能力在快速跃升，数学成果的数量与可形式化验证意味着 AI 正成为真正的研究工具；企业主动支持披露规则也显示行业愿意接受监管。",
+   "readingB": "成果发布缺乏透明（无提示词、模型不公开），作证内容又暴露智能体越界的真实事件；能力增长快于安全与问责机制，监管应先行。",
+   "disagree": "分歧在于这些数学结果的原创性与可复现性，以及智能体安全事故是否被充分披露。",
+   "synthesis": "同一天里「能力」与「控制」两条线都被放大。数学界需要数月消化这些证明；监管层面，纽约市和澳大利亚的听证可能催生首批针对智能体事故的强制报告规则。",
+   "unknown": "372 项结果中有多少经 Lean 完整验证、有多少属真正新思路；谷歌三次事件的具体时间与影响范围。",
+   "confidence": "中（成果为公司自报，作证内容有多家媒体报道）",
+   "sources": [
+    {"label": "《科学美国人》", "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"},
+    {"label": "R&D World：纽约市议会作证", "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers/"},
+    {"label": "Fox News：未能保证安全", "url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06"},
+    {"label": "澳议会听证报道", "url": "https://whatsthebigdata.com/ai-news/openai-and-anthropic-support-new-australian-rules-for-ai-data-breaches/"}
+   ]
+  },
+  {
+   "id": "6",
+   "title": "市场与产业：标普 500、纳指双创收盘新高，英伟达逼近 6 万亿美元市值；派拉蒙完成 1100 亿美元收购华纳兄弟探索，更名 Skydance",
+   "tag": "新故事",
+   "facts": [
+    "10/6 美股：标普 500 涨 0.58% 至 7,818.93（首次收在 7,800 上方），纳指涨 0.45% 至 27,599.79，均创收盘新高；道指涨 0.49% 至 51,521.28（据路透经 MarketScreener、Sharecast）。10 年期美债收益率回落约 3.2 个基点至 5.279%。",
+    "布伦特原油收涨 0.26% 至 100.58 美元（盘中曾低至 97.06），WTI 89.44 美元；维多称过去 7–10 天中东日均约 1,200 万桶原油装船离港。",
+    "富士康第三季营收 3.03 万亿新台币，同比增 47%，受 AI 服务器带动；英伟达周一收于 238.90 美元创新高（Quartz），多家媒体称其市值逼近 6 万亿美元；上周英伟达宣布增加 1,500 亿美元回购授权。",
+    "AMD CEO 苏姿丰称 2027 年将大幅增加芯片供应，并与台湾供应链伙伴商谈产能。",
+    "派拉蒙 Skydance 10/6 完成对华纳兄弟探索约 1,100 亿美元收购，合并后公司更名 Skydance，由埃里森与 Kreiz 联席执掌，旗下含 CBS、CNN、HBO Max 等；WBD 股东每股约 31 美元现金；目标节省 60 亿美元成本（CBS 新闻）。"
+   ],
+   "readingA": "油价企稳带动收益率回落，AI 硬件链业绩（富士康、AMD 表态）继续支撑科技股，财报季前市场情绪偏乐观。",
+   "readingB": "上涨高度集中在少数巨头，纳指下跌家数多于上涨家数；收益率仍在 5% 以上、美联储处于加息周期，油价一旦反弹，利率缓解就可能消失。",
+   "disagree": "分歧在于这轮新高是基本面驱动还是窄幅、依赖油价的反弹。",
+   "synthesis": "指数创新高但内部偏弱，油价与美债收益率仍是关键变量；媒体业版图则因 Skydance 成形而重塑，后续裁员与 CNN/CBS 编辑独立性值得观察。",
+   "unknown": "第三季财报能否印证 AI 需求；Skydance 的具体裁员规模。",
+   "confidence": "高（行情与交易交割为公开数据）",
+   "sources": [
+    {"label": "MarketScreener（路透）", "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings-ce785dd9dd80fe20"},
+    {"label": "Seoul Economic Daily：收益率与油价", "url": "https://en.sedaily.com/international/2026/10/07/sp-500-nasdaq-hit-records-as-treasury-yields-retreat"},
+    {"label": "Quartz：富士康与英伟达", "url": "https://qz.com/nvidia-stock-record-foxconn-revenue-ai-100626"},
+    {"label": "CBS 新闻：派拉蒙完成收购", "url": "https://www.cbsnews.com/news/paramount-warner-bros-discovery-deal-skydance/"}
+   ]
+  },
+  {
+   "id": "7",
+   "title": "巴西决选：进步党—巴西联盟与卡亚多宣布支持弗拉维奥·博索纳罗；Datafolha 周四公布首份决选民调",
+   "tag": "续报：有新进展",
+   "facts": [
+    "O Globo、G1 报道，进步党（PP）与巴西联盟（União Brasil）10/6 宣布第二轮支持弗拉维奥·博索纳罗，O Globo 称这是卢拉的挫折。",
+    "首轮得票第五的罗纳尔多·卡亚多在受到批评后宣布支持弗拉维奥（UOL）。",
+    "弗拉维奥称已请求共和党（Republicanos）和 Podemos 支持，并表示会参加与卢拉的辩论（O Globo）。",
+    "Folha 称 Datafolha 将于周四（10/8）公布首份第二轮民调；决选定于 10/25。"
+   ],
+   "readingA": "中右翼政党迅速集结，首轮约 2 个百分点的领先加上背书，弗拉维奥在决选中的优势在扩大。",
+   "readingB": "政党背书不等于选民跟随；卢拉阵营正争取这些党内的个别地方领袖，弃权选民的动员仍可能扭转局面。",
+   "disagree": "分歧在于政党背书对选票转移的实际效果。",
+   "synthesis": "右翼整合比预期更快。周四的 Datafolha 民调将是检验背书效果的第一个硬数据。",
+   "unknown": "首份决选民调数字；Cury、Santos 等其他落选者立场。",
+   "confidence": "高（多家巴西主流媒体报道）",
+   "sources": [
+    {"label": "O Globo：PP 与 União Brasil 支持弗拉维奥", "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/06/pp-e-uniao-brasil-decidem-apoiar-flavio-bolsonaro-no-2o-turno-em-reves-a-lula.ghtml"},
+    {"label": "UOL：卡亚多表态", "url": "https://noticias.uol.com.br/eleicoes/2026/10/06/flavio-bolsonaro-ronaldo-caiado-apoio-segundo-turno-eleicao-presidencial.ghtm"},
+    {"label": "Folha：Datafolha 周四发布", "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-divulga-pesquisa-de-2o-turno-para-presidente-e-df-nesta-quinta-8-live-comenta-resultados.shtml"}
+   ]
+  }
+ ],
+ "index": [
+  {"n": 1, "title": "Yemen government forces advance on Bab el-Mandeb in offensive against Houthis", "outlet": "Euronews", "url": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis"},
+  {"n": 2, "title": "Pakistan, Saudi Arabia, Turkey Trigger Mutual Defense Pact Over Houthi Attacks", "outlet": "Foreign Policy", "url": "https://foreignpolicy.com/2026/10/06/saudi-arabia-turkey-pakistan-mutual-defense-pact-houthi-yemen-attacks/"},
+  {"n": 3, "title": "Saudi-led coalition says Houthi ballistic missile intercepted over southwestern Saudi Arabia", "outlet": "Anadolu", "url": "https://www.aa.com.tr/en/middle-east/saudi-led-coalition-says-houthi-ballistic-missile-intercepted-over-southwestern-saudi-arabia/4080327"},
+  {"n": 4, "title": "Yemen's government is on the attack against the Houthis. What has changed?", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news-analysis/2026/10/6/yemen-government-is-on-the-attack-against-the-houthis-what-has-changed"},
+  {"n": 5, "title": "Ukraine Claims Record Barrage on Russia With 1,750 Drones, 17 Flamingo Missiles", "outlet": "Kyiv Post", "url": "https://www.kyivpost.com/post/86239"},
+  {"n": 6, "title": "Ukraine launches major drone attack on Russia's Moscow region, killing two", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two"},
+  {"n": 7, "title": "Ship sinks and crew missing after Black Sea drone attack", "outlet": "BBC", "url": "https://www.bbc.com/news/articles/c8ly0v5r602eo"},
+  {"n": 8, "title": "Russia Behind Drone Strikes on Ships Off Bulgaria, Zelensky Says, as Radev Rules Out Invoking NATO Articles", "outlet": "Kyiv Post", "url": "https://www.kyivpost.com/post/86278"},
+  {"n": 9, "title": "Lithuanian parliament backs removing constitutional ban on nuclear weapons", "outlet": "LRT", "url": "https://www.lrt.lt/en/news-in-english/19/3074149/lithuanian-parliament-backs-removing-constitutional-ban-on-nuclear-weapons"},
+  {"n": 10, "title": "Russia says Ukrainian drone attack kills worker at Zaporizhzhia Nuclear Power Plant", "outlet": "ILKHA", "url": "https://www.ilkha.com/english/world/russia-says-ukrainian-drone-attack-kills-worker-at-zaporizhzhia-nuclear-power-plant-566899"},
+  {"n": 11, "title": "Oil tanker struck in Strait of Hormuz; Oman evacuates 10 crew members", "outlet": "The Herald Business", "url": "https://biz.heraldcorp.com/article/10894875"},
+  {"n": 12, "title": "Four Tankers Attacked, Another Vessel Threatened By Iran's IRGC In Strait Of Hormuz", "outlet": "Marine Insight", "url": "https://www.marineinsight.com/four-tankers-attacked-another-vessel-threatened-by-irans-irgc-in-strait-of-hormuz/"},
+  {"n": 13, "title": "Rebounding Hormuz oil exports vulnerable to increased Iranian attacks", "outlet": "CNBC", "url": "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html"},
+  {"n": 14, "title": "Trump says Iran war 'essentially almost over,' rules out nuclear weapon", "outlet": "Iran International", "url": "https://www.iranintl.com/en/202610069611"},
+  {"n": 15, "title": "US removes all bombers from RAF Fairford back to home stations", "outlet": "BBC", "url": "https://www.bbc.com/news/articles/cmwyve191dlko"},
+  {"n": 16, "title": "Kenya confirms first Ebola case as man dies in Nairobi after DRC return", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/6/kenya-confirms-first-ebola-case-after-patient-from-dr-congo-dies-in-nairobi"},
+  {"n": 17, "title": "Trump says he will speak to Putin 'very soon' over suspected plague death; WHO chief urges transparency from Russia", "outlet": "WION", "url": "https://www.wionews.com/world/trump-says-he-will-speak-to-putin-very-soon-over-suspected-plague-death-who-chief-urges-transparency-from-russia-1791325904292"},
+  {"n": 18, "title": "OpenAI unleashes hundreds more math results upon a field already in shock", "outlet": "Scientific American", "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"},
+  {"n": 19, "title": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta face NYC lawmakers", "outlet": "R&D World", "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers/"},
+  {"n": 20, "title": "OpenAI and Anthropic Support New Australian Rules for AI Data Breaches", "outlet": "What's the Big Data", "url": "https://whatsthebigdata.com/ai-news/openai-and-anthropic-support-new-australian-rules-for-ai-data-breaches/"},
+  {"n": 21, "title": "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings", "outlet": "MarketScreener (Reuters)", "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-reach-record-closing-highs-as-focus-pivots-to-earnings-ce785dd9dd80fe20"},
+  {"n": 22, "title": "Nvidia stock hits record as Foxconn posts 47% revenue surge", "outlet": "Quartz", "url": "https://qz.com/nvidia-stock-record-foxconn-revenue-ai-100626"},
+  {"n": 23, "title": "AMD CEO Lisa Su plans major AI chip supply ramp in 2027", "outlet": "Quartz", "url": "https://qz.com/amd-ai-chip-supply-increase-2027-lisa-su-100626"},
+  {"n": 24, "title": "Paramount closes $110 billion deal to acquire Warner Bros. Discovery, creating Skydance", "outlet": "CBS News", "url": "https://www.cbsnews.com/news/paramount-warner-bros-discovery-deal-skydance/"},
+  {"n": 25, "title": "PP e União Brasil decidem apoiar Flávio Bolsonaro no 2º turno em revés a Lula", "outlet": "O Globo", "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/06/pp-e-uniao-brasil-decidem-apoiar-flavio-bolsonaro-no-2o-turno-em-reves-a-lula.ghtml"},
+  {"n": 26, "title": "France's police fire tear gas and water cannons as school protests sweep the country", "outlet": "NPR", "url": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools"},
+  {"n": 27, "title": "Nine PLA aircraft cross median line as China stages another joint combat readiness patrol near Taiwan", "outlet": "Taiwan Defence", "url": "https://taiwandefence.com/article/nine-pla-aircraft-cross-median-line-as-china-stages-another-joint-combat-readiness-patrol-near-taiwan"},
+  {"n": 28, "title": "'Ghost particles' from space telescope wins 2026 Nobel Prize in Physics", "outlet": "BBC", "url": "https://www.bbc.com/news/articles/cq203mymlvkeo"}
+ ]
+}
