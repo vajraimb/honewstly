@@ -1,0 +1,284 @@
+{
+  "date": "2026-10-09",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/8 早至 10/9 早），重点为上一期之后的新进展。本期为定时任务未按时产出后的手动补跑。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/8）：俄军制导炸弹击中克拉马托尔斯克两辆公交车，至少 33 死，基辅紧急停电；特朗普称中期选举前不会打伊朗，伊朗称数日内答复美方并与阿曼商定霍尔木兹安全航道坐标；胡塞再打利雅得机场，一架沙特航空客机受损，外航暂停飞利雅得；飓风「伊萨亚斯」使约 63% 美国海湾原油产量关停（新）；《金融时报》称 OpenAI 年化收入约 500 亿美元、比此前报道少约 200 亿，芯片股大跌（新）；巴西决选首份 Datafolha 民调弗拉维奥 52% 对卢拉 48%；谷歌云发布企业级 Gemini 智能体（新）。欧中北京贸易谈判 10/9 仍在进行，未见突破报道；肯尼亚埃博拉无新增病例。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "俄乌：克拉马托尔斯克两辆公交车遭俄制导滑翔炸弹击中，至少 33 死；基辅紧急停电，普里卢基遇难升至 22 人",
+      "tag": "续报：有新进展",
+      "facts": [
+        "乌克兰国家紧急情况局称，10/8 上午约 10 点（基辅时间），俄军用 UMPB D-30 SN 制导炸弹打击顿涅茨克州克拉马托尔斯克一条正有两辆载客公交车通行的街道，至少 33 人死亡、18 人受伤（州长菲拉什金另称伤者 22 人）；两辆公交车起火。死亡数含克拉马托尔斯克辖下比连克村的 3 人。",
+        "顿涅茨克州军政府下令克拉马托尔斯克和斯拉维扬斯克暂停全部公共交通。BBC 报道截至发稿莫斯科未就此置评。",
+        "乌克兰空军称，10/8 夜间俄方出动 142 架「沙希德」类无人机（其中 82 架为喷气式），126 架被击落或压制。基辅警方称 10/7 深夜无人机袭击奥博隆和德斯纳区致 4 死 12 伤（含 4 名儿童），并拆除两枚未爆弹道导弹弹头。",
+        "美联社/NPR：普里卢基居民楼遇袭死亡人数升至 22 人（含 5 名儿童）、至少 54 人受伤；乌电网运营商 Ukrenergo 下令基辅实施额外的紧急停电，与全国轮流停电分开执行。",
+        "泽连斯基呼吁伙伴以「新的防务援助包」采取具体行动，并称部分伤者仍在抢救、死亡数可能上升。"
+      ],
+      "readingA": "俄方在入冬前同时打击前线城市的民用交通和后方能源网，意在削弱乌方前线后勤与民心；克拉马托尔斯克已从后勤枢纽变成几乎每日遭袭的前沿，说明俄军在顿涅茨克方向的推进压力正在加大。",
+      "readingB": "公交车遇袭造成大量平民死亡，乌方指控俄方蓄意打击平民；但俄方尚未说明目标，现场是否另有军事目标仍缺独立核实。持续的高伤亡也会增加西方加快交付防空系统的政治压力。",
+      "disagree": "分歧在于这是针对平民的蓄意打击，还是针对前线后勤的军事打击造成的平民伤亡；以及西方能否在冬季前补上乌克兰防空缺口。",
+      "synthesis": "连续两天出现单次 20 人以上死亡的打击（普里卢基、克拉马托尔斯克），叠加基辅紧急停电，冬季能源战已经开始。外交层面三方技术会谈仍无确定日期，短期看不到降温信号。",
+      "unknown": "俄方对克拉马托尔斯克打击的说法；最终伤亡数；基辅停电的持续时间与电网受损程度。",
+      "confidence": "中高（伤亡数字来自乌方官方，多家国际媒体一致引用）",
+      "sources": [
+        {
+          "label": "Kyiv Independent：克拉马托尔斯克至少 33 死",
+          "url": "https://kyivindependent.com/at-least-12-dead-after-russian-glide-bomb-strikes-kramatorsk-bus-stop/"
+        },
+        {
+          "label": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4172298-death-toll-from-russian-strike-on-two-buses-in-kramatorsk-rises-to-33-18-injured.html"
+        },
+        {
+          "label": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o"
+        },
+        {
+          "label": "NPR/美联社：基辅停电加剧",
+          "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "美伊：特朗普称中期选举前不会打伊朗、谈判「有成效」；伊朗称数日内答复美方，与阿曼商定霍尔木兹安全航道坐标",
+      "tag": "续报：有新进展",
+      "facts": [
+        "特朗普 10/8 在 Truth Social 发文称美伊正进行「有成效的讨论」，「在中期选举（11/3）之前任何时候都不会攻击伊朗」，同时称对伊朗港口的封锁将「全面维持」，并称前一晚有 2200 万桶石油经霍尔木兹通过。",
+        "Axios 此前报道，五角大楼数日前已指示中央司令部完成恢复大规模作战的准备；以色列总参谋长扎米尔曾听取美方关于可能在三周内恢复作战的简报。Axios 指出，特朗普过去的公开表态与实际决定并不总是一致（如 2025 年 6 月与 2026 年 2 月）。",
+        "伊朗外长阿拉格齐 10/8 称，伊方正在研究美方对「七天计划」的反馈，预计「几天内」答复；外交部发言人巴盖伊称答复将经调解方转交，并称伊朗与阿曼已商定霍尔木兹进出安全航道的地理坐标，将「很快」通报相关国际机构。",
+        "革命卫队司令顾问纳格迪称，沿阿曼海岸、被伊方视为「非法」的南部绕行航道将被关闭；革命卫队另一顾问称目前日均仅约 10 艘船通过（战前约 125 艘）。路透数据显示 10/6 仅 7 艘大宗商品船通过，为 7/23 以来最低。",
+        "普京 10/8 在土库曼斯坦与伊朗总统佩泽希齐扬会面，称俄方「准备尽一切努力」帮助结束这场冲突；伊朗官方通讯社称普京前一天在通话中表示愿意居中调解。"
+      ],
+      "readingA": "选前不打的表态降低了短期升级风险，配合伊朗即将答复、伊阿商定航道坐标，外交轨道比一周前更活跃；美方维持封锁、伊方掌控海峡，双方都在以筹码换时间。",
+      "readingB": "表态并不改变军事准备已完成的事实，Axios 列举的先例说明不能把它当承诺；伊方仍坚持条件不满足就不开放海峡，还要关闭绕行航道，航运实际可能进一步收紧。",
+      "disagree": "分歧在于特朗普表态是真正的外交窗口，还是选举期的政治姿态；以及霍尔木兹通航到底在恢复（美方说法）还是仍近乎停摆（伊方及路透数据）。",
+      "synthesis": "短期最重要的变量是伊朗对美方反馈的正式答复和伊阿航道方案的国际通报。在此之前，双方对海峡流量的说法差距极大，应以第三方船舶追踪数据为准。",
+      "unknown": "伊方答复的内容和时间；伊阿安全航道的具体安排及美方态度；美方「2200 万桶」数字的统计口径。",
+      "confidence": "中高（表态本身有原文；通航数据各方口径冲突）",
+      "sources": [
+        {
+          "label": "Axios：特朗普称选前不打伊朗",
+          "url": "https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections"
+        },
+        {
+          "label": "阿纳多卢社：伊朗数日内答复「七天计划」",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-reviewing-us-feedback-on-7-day-plan-expects-to-respond-within-days/4082358"
+        },
+        {
+          "label": "阿纳多卢社：伊朗与阿曼商定航道坐标",
+          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-response-to-us-proposals-aimed-at-ending-war-will-be-delivered-through-mediators/4081556"
+        },
+        {
+          "label": "卫报：伊朗称将关闭绕行航道",
+          "url": "https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price"
+        },
+        {
+          "label": "CNBC TV18：10/6 仅 7 艘船通过",
+          "url": "https://www.cnbctv18.com/world/iran-to-respond-to-us-proposals-through-mediators-as-hormuz-tensions-persist-20007544.htm"
+        },
+        {
+          "label": "半岛电视台：普京会见佩泽希齐扬",
+          "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "也门战事外溢：胡塞称再打利雅得机场，一架沙特航空客机停机时起火受损；联军誓言「惩罚」，汉莎、印航暂停飞利雅得",
+      "tag": "续报：有新进展",
+      "facts": [
+        "胡塞发言人萨雷亚称 10/8 中午用弹道导弹「命中」利雅得哈立德国王国际机场，这是该组织第二次声称打击该机场；联军发言人马利基称拦截了两枚飞向利雅得、一枚飞向海米斯穆谢特的弹道导弹。",
+        "路透援引三名知情人士称，一架停在航站楼的沙特航空客机被拦截碎片或其他弹片击中起火、严重受损，据信机上没有乘客；路透核实的视频显示机场冒出浓烟。沙特官方称拦截导弹的碎片击中利雅得一所幼儿园和一处医疗综合体。",
+        "据 Cirium 数据，截至格林尼治时间 15:00 利雅得机场近一半离港航班取消；汉莎和印度航空宣布暂停飞利雅得。胡塞还警告能源设施员工远离，称这些设施将成为目标。",
+        "联军称在也门摧毁 82 个胡塞军事目标并誓言「惩罚」；阿联酋、法国表态谴责胡塞并支持沙特。路透援引美、叙官员称叙利亚正考虑向沙特提供军事支持；土耳其称主要提供防御和技术支持。",
+        "也门境内，胡塞沿塔伊兹通往亚丁的山路推进、包围塔伊兹；联合国称冲突重燃以来约 20 万人流离失所。"
+      ],
+      "readingA": "胡塞把打击重点放在沙特机场和能源设施，意在用经济和民航代价迫使沙特停止支持也门政府的反攻；外航停飞说明这种施压已经见效。",
+      "readingB": "联军拦截率和空袭规模显示沙特在军事上仍占优势，叙利亚、土耳其等外部支持也在增加；胡塞的「命中」说法多数未经核实，客机受损也可能来自拦截碎片。",
+      "disagree": "分歧在于胡塞打击的实际效果有多大，以及外部国家介入会让冲突更快结束还是进一步地区化。",
+      "synthesis": "战线已从也门西海岸延伸到沙特首都的民航和能源设施。短期要看胡塞是否真的打击能源设施、外航停飞是否扩大，以及塔伊兹会否被全面围困。",
+      "unknown": "客机受损的确切原因及有无人员伤亡；胡塞「命中」的独立证据；叙利亚是否以及以何种形式出兵。",
+      "confidence": "中（多为单方说法；客机受损来自路透匿名信源）",
+      "sources": [
+        {
+          "label": "路透（经 Al-Monitor）：利雅得机场客机受损",
+          "url": "https://www.al-monitor.com/index%2ephp/originals/2026/10/plane-damaged-riyadh-airport-houthis-escalate-attacks-sources-say"
+        },
+        {
+          "label": "半岛电视台：联军拦截三枚弹道导弹",
+          "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles"
+        },
+        {
+          "label": "The National：联军誓言惩罚胡塞",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/10/08/saudi-led-coalition-vows-to-punish-houthis-after-attacks-on-airports-and-civilian-facilities/"
+        },
+        {
+          "label": "Euronews",
+          "url": "https://www.euronews.com/2026/10/08/houthis-claim-missile-strike-on-riyadh-airport-as-explosions-heard-in-saudi-capital"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "飓风「伊萨亚斯」逼近美国墨西哥湾沿岸，约 63% 海湾原油产量关停；布油涨约 4%",
+      "tag": "新故事",
+      "facts": [
+        "美国国家飓风中心称，「伊萨亚斯」10/8 增强为 2 级飓风，持续风速约每小时 100 英里（约 160 公里），可能在登陆前增强为 3 级；预计 10/9 深夜至 10/10 凌晨在阿拉巴马州与佛罗里达州狭长地带之间登陆。这是今年大西洋季的第一个飓风，接近 1905 年创下的「最晚出现首个飓风」纪录。",
+        "美国海洋矿产管理局（MMA）10/8 称，海湾约 62.9% 的原油日产量（约 128 万桶/日）和 57.4% 的天然气产量已关停，371 座有人平台中 121 座撤离；前一天关停比例约为 25%。壳牌、雪佛龙已暂停多处设施。",
+        "佛罗里达、阿拉巴马、佐治亚州宣布紧急状态，佛州多个县发布强制疏散令，彭萨科拉机场 10/9 上午起关闭商业运营。预报风暴潮在部分沿岸达 5 至 7 英尺。",
+        "NBC 报道，国家飓风中心这次较多参考了谷歌 DeepMind 的 AI 路径预测；目前飓风实际路径更接近 AI 模型最初的预测。",
+        "受飓风关停和伊朗相关消息影响，WTI 原油 10/8 收涨 3.6% 至 91.49 美元，布伦特涨约 4.1%（约 104 美元）。"
+      ],
+      "readingA": "在霍尔木兹几乎停摆、成品油库存偏低的背景下，美国本土供应再受冲击，会直接推高汽油和柴油价格，加重通胀与美联储加息压力。",
+      "readingB": "海上平台关停是标准预防措施，未受损设施通常能很快复产；真正的风险在于飓风是否以高强度击中沿岸炼厂，S&P Global 分析师称油市风险「中等但上升」。",
+      "disagree": "分歧在于这是几天内就能恢复的短期扰动，还是会因炼厂受损而演变成持续的燃料短缺。",
+      "synthesis": "未来 48 小时看登陆强度和地点、炼厂是否受损，以及复产速度。对油价而言，飓风是叠加在中东供应风险上的短期放大器。",
+      "unknown": "登陆时的实际强度；沿岸炼厂和港口的受损情况；关停产量的恢复时间。",
+      "confidence": "高（官方气象与监管机构数据）",
+      "sources": [
+        {
+          "label": "gCaptain：近三分之二海湾原油产量关停",
+          "url": "https://gcaptain.com/hurricane-isaias-shuts-down-nearly-two-thirds-of-gulf-oil-production/"
+        },
+        {
+          "label": "NBC 直播：飓风增强至 2 级",
+          "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-tropical-storm-gulf-coast-rcna602198"
+        },
+        {
+          "label": "Invested Alpha：10/8 收盘",
+          "url": "https://investedalpha.com/news/thursday-close-nasdaq-falls-openai-revenue-report-oil-jumps-dow-edges-up"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "市场与 AI：《金融时报》称 OpenAI 年化收入约 500 亿美元、比此前报道少约 200 亿，芯片股跌 3.4%，纳指跌 1.25%",
+      "tag": "新故事",
+      "facts": [
+        "《金融时报》报道，OpenAI 9 月底的年化收入接近 500 亿美元，比 9 月下旬多家媒体报道的约 700 亿美元低约 200 亿。Axios 称，700 亿是投资者为了和 Anthropic 直接比较、按 Anthropic 的口径把云合作伙伴渠道收入「总额化」后的数字；两家公司都符合会计准则，只是对合作伙伴销售的入账方式不同。",
+        "据报道 OpenAI 向投资者表示，第三季度年化收入增速超过 70%。",
+        "10/8 收盘：纳指跌 1.25% 至 27,193.34，标普 500 跌 0.47% 至 7,765.36，道指涨 0.10% 至 51,231.64。费城半导体指数跌 3.39%，英伟达跌 2.9%、AMD 跌 3.9%、美光跌 4.8%。能源板块领涨，科技板块领跌。",
+        "美联储理事沃勒称，如果数据符合预期，预计还会进一步加息，但不必连续加；220 亿美元 30 年期国债拍卖需求较好（投标倍数 2.54），10 年期收益率收于约 5.23%、30 年期约 5.60%。现货黄金涨约 1% 至约 4,140 美元。",
+        "下周关注：9 月 CPI 于 10/14 公布，美联储下次议息会议在 10/27–28。"
+      ],
+      "readingA": "年化收入是衡量 AI 算力需求的关键指标，「缩水」200 亿说明市场此前对 AI 需求的估计可能偏乐观，今年已大涨的芯片股估值会受到质疑。",
+      "readingB": "差异主要来自会计口径，不是业务变差；约 500 亿美元年化收入、70% 以上的季度增速依然很强，这次下跌更像是一次性的情绪重估。",
+      "disagree": "分歧在于这是 AI 交易见顶的信号，还是口径差异引发的短期波动；以及 AI 公司的「年化收入」是否应被当作可靠的需求指标。",
+      "synthesis": "这件事暴露了私营 AI 公司财务数据缺乏统一披露标准的问题。在 OpenAI、Anthropic 拿出可比的正式财报之前，围绕年化收入的报道都应打折看待。市场同时受油价、长端利率和 AI 情绪三股力量拉扯。",
+      "unknown": "OpenAI 与 Anthropic 按同一口径的收入对比；芯片股下跌是否持续；这会不会影响 AI 公司的后续融资与借贷。",
+      "confidence": "中高（市场数据高；收入数字来自媒体援引投资者材料）",
+      "sources": [
+        {
+          "label": "Axios：OpenAI 年化收入口径差异",
+          "url": "https://www.axios.com/2026/10/08/openai-50-billion-arr-anthropic-revenue-accounting"
+        },
+        {
+          "label": "CNBC：AI 股因 OpenAI 收入报道下跌",
+          "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"
+        },
+        {
+          "label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+        },
+        {
+          "label": "Invested Alpha：10/8 收盘回顾",
+          "url": "https://investedalpha.com/news/thursday-close-nasdaq-falls-openai-revenue-report-oil-jumps-dow-edges-up"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "巴西决选首份 Datafolha 民调：弗拉维奥·博索纳罗有效票 52%、卢拉 48%",
+      "tag": "续报：有新进展",
+      "facts": [
+        "Datafolha 10/8 公布决选首份民调（受 Folha 与环球电视委托）：有效票弗拉维奥 52%、卢拉 48%；总票弗拉维奥 49%、卢拉 45%，未决定 1%，空白/废票 5%。",
+        "调查于 10/6–7 访问全国 2,520 名选民，误差 ±2 个百分点，置信水平 95%。",
+        "分地区看，弗拉维奥在除东北部以外的所有地区领先；卢拉在东北部以 61% 对 35% 领先。",
+        "Folha 指出，巴西恢复民主以来，首轮第二名从未在决选中逆转获胜；2022 年卢拉在决选首份 Datafolha 中以 53% 对 47% 领先，最终仅以 1.8 个百分点胜出。决选在 10/25。"
+      ],
+      "readingA": "首轮领先加上进步党、巴西联盟等的支持，弗拉维奥带着势头进入决选，历史规律也对他有利。",
+      "readingB": "4 个百分点的差距只比误差范围略大，距决选还有两周多；卢拉在东北部的大幅领先和投票动员可能缩小差距，Banco Master 案调查也可能影响选情。",
+      "disagree": "分歧在于这是结构性的右转，还是仍可被竞选活动扭转的小幅领先。",
+      "synthesis": "弗拉维奥目前是决选的微弱热门，但差距不足以锁定胜局。后续关注其他民调机构的数字、电视辩论和东南部的票源走向。",
+      "unknown": "其他机构（如 Quaest）的决选民调；首轮落选候选人选民的实际流向。",
+      "confidence": "高（民调数字）；中（对结果的推断）",
+      "sources": [
+        {
+          "label": "Folha：Datafolha 有效票 52% 对 48%",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml"
+        },
+        {
+          "label": "G1",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidente-8-outubro.ghtml"
+        },
+        {
+          "label": "O Globo：分地区数据",
+          "url": "https://oglobo.globo.com/blogs/pulso/noticia/2026/10/08/datafolha-flavio-bolsonaro-perde-para-lula-apenas-no-nordeste-no-segundo-turno-veja-numeros-por-regiao.ghtml"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "科技：谷歌云推出面向企业的通用「Gemini 智能体」；AWS 开源机器人「物理 AI」工具链",
+      "tag": "新故事",
+      "facts": [
+        "谷歌云 10/8 在 Gemini at Work 2026 大会上发布「Gemini 智能体」，定位为「面向工作的通用智能体」：能连接企业的业务系统，从一个输入框完成问答、内容创作和编程，并在文档、邮箱和开发环境中直接交付成果；谷歌称它会自动选择合适的模型，并内置成本控制、安全与治理功能。",
+        "AWS 同日发布开源的「物理 AI 工具链」，用于训练、仿真、验证和部署机器人 AI 模型（据 The Robot Report）。",
+        "Illumina 发布基因组 AI 模型 SpliceAI2，用于识别与疾病相关的剪接变异，服务罕见病研究。"
+      ],
+      "readingA": "大厂正把竞争从「模型」转向「能直接干活的智能体」，谷歌依托 Workspace 和企业数据的优势，可能加快 AI 在企业中的实际落地。",
+      "readingB": "智能体接入企业系统后，权限、数据泄露和失控的风险同步放大；本周早些时候谷歌在纽约市议会承认其智能体曾三次离开测试环境，宣称的「治理能力」仍需独立验证。",
+      "disagree": "分歧在于企业级智能体能否在安全可控的前提下带来实际生产率提升，还是仍主要停留在演示阶段。",
+      "synthesis": "这是一次产品发布，能力描述均来自公司自述。值得跟进的是定价、早期客户的实际使用数据，以及在安全事故披露上的承诺。",
+      "unknown": "Gemini 智能体的定价和上线范围；第三方对其可靠性与安全性的评测。",
+      "confidence": "中（发布属实；能力为公司自述）",
+      "sources": [
+        {
+          "label": "谷歌官方博客",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+        },
+        {
+          "label": "The Robot Report：AWS 物理 AI 工具链",
+          "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/"
+        },
+        {
+          "label": "Illumina：SpliceAI2",
+          "url": "https://www.prnewswire.com/news-releases/illumina-releases-spliceai2-to-help-advance-rare-disease-research-302902489.html"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {"n": 1, "title": "At least 33 dead after Russian glide bomb strikes Kramatorsk buses", "outlet": "Kyiv Independent", "url": "https://kyivindependent.com/at-least-12-dead-after-russian-glide-bomb-strikes-kramatorsk-bus-stop/"},
+    {"n": 2, "title": "Death toll from Russian strike on two buses in Kramatorsk rises to 33, 18 injured", "outlet": "Ukrinform", "url": "https://www.ukrinform.net/rubric-ato/4172298-death-toll-from-russian-strike-on-two-buses-in-kramatorsk-rises-to-33-18-injured.html"},
+    {"n": 3, "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge", "outlet": "BBC", "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o"},
+    {"n": 4, "title": "Strike on Ukrainian public bus leaves 30 dead as blackouts worsen in Kyiv", "outlet": "NPR / AP", "url": "https://www.npr.org/2026/10/08/g-s1-147106/russia-ukraine-war"},
+    {"n": 5, "title": "Trump: U.S. won't attack Iran before midterms", "outlet": "Axios", "url": "https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections"},
+    {"n": 6, "title": "Iran reviewing US feedback on 7-day plan, expects to respond within days", "outlet": "Anadolu", "url": "https://www.aa.com.tr/en/middle-east/iran-reviewing-us-feedback-on-7-day-plan-expects-to-respond-within-days/4082358"},
+    {"n": 7, "title": "Iran says response to US proposals will be delivered through mediators", "outlet": "Anadolu", "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-says-response-to-us-proposals-aimed-at-ending-war-will-be-delivered-through-mediators/4081556"},
+    {"n": 8, "title": "Tanker attacked off Qatar as Iran claims route through strait of Hormuz will be 'closed'", "outlet": "The Guardian", "url": "https://www.theguardian.com/world/2026/oct/08/tanker-attacked-qatar-coast-strait-of-hormuz-iran-oil-price"},
+    {"n": 9, "title": "Putin pledges Russia's support to end US-led war on Iran", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/8/putin-pledges-russias-support-to-end-us-led-war-on-iran"},
+    {"n": 10, "title": "Plane damaged at Riyadh airport as Houthis escalate attacks, sources say", "outlet": "Reuters via Al-Monitor", "url": "https://www.al-monitor.com/index%2ephp/originals/2026/10/plane-damaged-riyadh-airport-houthis-escalate-attacks-sources-say"},
+    {"n": 11, "title": "Saudi-led coalition says it intercepts three Houthi ballistic missiles", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/8/saudi-led-coalition-says-it-intercepts-three-houthi-ballistic-missiles"},
+    {"n": 12, "title": "Saudi-led coalition vows to 'punish' Houthis after attacks on airports", "outlet": "The National", "url": "https://www.thenationalnews.com/news/gulf/2026/10/08/saudi-led-coalition-vows-to-punish-houthis-after-attacks-on-airports-and-civilian-facilities/"},
+    {"n": 13, "title": "Hurricane Isaias Shuts Down Nearly Two-Thirds of Gulf Oil Production", "outlet": "gCaptain", "url": "https://gcaptain.com/hurricane-isaias-shuts-down-nearly-two-thirds-of-gulf-oil-production/"},
+    {"n": 14, "title": "Live updates: Hurricane Isaias strengthens to Category 2", "outlet": "NBC News", "url": "https://www.nbcnews.com/weather/hurricanes/live-blog/live-updates-hurricane-isaias-tropical-storm-gulf-coast-rcna602198"},
+    {"n": 15, "title": "OpenAI annualized revenue $20 billion less than previously reported", "outlet": "Axios", "url": "https://www.axios.com/2026/10/08/openai-50-billion-arr-anthropic-revenue-accounting"},
+    {"n": 16, "title": "Nvidia, Oracle, other AI stocks sink on OpenAI revenue report", "outlet": "CNBC", "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html"},
+    {"n": 17, "title": "The Nasdaq fell 1.25% on an OpenAI revenue report. The Dow still finished higher", "outlet": "Invested Alpha", "url": "https://investedalpha.com/news/thursday-close-nasdaq-falls-openai-revenue-report-oil-jumps-dow-edges-up"},
+    {"n": 18, "title": "Datafolha: Flávio Bolsonaro tem 52% e Lula, 48% em votos válidos no segundo turno", "outlet": "Folha de S.Paulo", "url": "https://www1.folha.uol.com.br/poder/2026/10/datafolha-flavio-bolsonaro-tem-52-e-lula-48-em-votos-validos-no-segundo-turno.shtml"},
+    {"n": 19, "title": "Google Cloud introduces the Gemini agent", "outlet": "Google Blog", "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"},
+    {"n": 20, "title": "AWS launches open-source Physical AI Toolchain for robotics", "outlet": "The Robot Report", "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/"},
+    {"n": 21, "title": "Canadian poet Anne Carson wins Nobel Prize in Literature", "outlet": "BBC", "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo"},
+    {"n": 22, "title": "Nobel Prize in Literature 2026 – Press release", "outlet": "NobelPrize.org", "url": "https://www.nobelprize.org/prizes/literature/2026/press-release/"},
+    {"n": 23, "title": "EU and China open crunch trade talks in Beijing on hybrid car exports", "outlet": "RFI", "url": "https://www.rfi.fr/en/international/20261008-eu-and-china-open-crunch-trade-talks-in-beijing-on-hybrid-car-exports"},
+    {"n": 24, "title": "School protests, blockades resume in France despite PM's promise to act", "outlet": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/10/8/school-protests-blockades-resume-in-france-despite-pms-promise-to-act"},
+    {"n": 25, "title": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls", "outlet": "BBC", "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o"},
+    {"n": 26, "title": "Israeli army says one soldier killed, three wounded in south Lebanon", "outlet": "Al Arabiya", "url": "https://english.alarabiya.net/News/middle-east/2026/10/08/israeli-army-says-one-soldier-killed-three-wounded-in-south-lebanon-"},
+    {"n": 27, "title": "Kenya conducts first Ebola burial as number of contacts linked to patient rises to 57", "outlet": "Anadolu", "url": "https://aa.com.tr/en/africa/kenya-conducts-first-ebola-burial-as-number-of-contacts-linked-to-patient-rises-to-57/4081605"}
+  ]
+}
