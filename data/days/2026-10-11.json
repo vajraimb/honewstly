@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-11",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/10 早至 10/11 早），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/10）：利雅得机场再遭胡塞袭击，沙特称 12 死、300 多人伤，特朗普称美国「可能」加入对胡塞打击（新升级）；迈阿密和谈只开了一天就提前结束，起因是特朗普同日宣布与普京达成俄罗斯柴油供应协议，扎波罗热一栋住宅楼遭袭至少 20 死；革命卫队称一艘超级油轮在霍尔木兹触雷爆炸；飓风「伊萨亚斯」以二级强度在佛州德斯坦登陆后迅速减弱；巴拿马发生 7.7 级地震（新）；美国直接制裁国际刑事法院本身（新）；英伟达洽购开源模型公司 Reflection AI（新）。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "也门战事外溢：利雅得机场再遭胡塞导弹袭击，沙特称 12 死、300 多人伤；特朗普称美国「可能」加入对胡塞打击",
+      "tag": "续报：重大升级",
+      "facts": [
+        "NPR/美联社、Al-Monitor：沙特当局称 10/10 胡塞导弹袭击利雅得哈立德国王国际机场，造成 12 人死亡、300 多人受伤，机场运营暂停，大量航班取消。这是继上一期报道的 3 人死亡袭击之后的又一次、伤亡大得多的袭击。",
+        "《时代》周刊：特朗普称美国「可能」加入沙特对胡塞武装的打击，并称会很快决定；截至发稿，美方未宣布具体军事承诺。",
+        "半岛电视台、《卫报》：也门政府军称在「也门黎明」行动中继续推进，《卫报》报道政府方面称已夺回曼德海峡一带控制权；胡塞此前否认部分失地说法。"
+      ],
+      "readingA": "胡塞在地面战失利的压力下，用对沙特首都机场的远程打击抬高代价；伤亡从 3 人跃升到 12 人、300 多人受伤，使美国直接介入的可能性明显上升。",
+      "readingB": "特朗普的「可能」仍是表态而非决定，且他刚承诺中期选举前不打伊朗；直接打击伊朗支持的胡塞，可能与这一承诺冲突，美方或更倾向于情报和防空支援。",
+      "disagree": "分歧在于美国会不会从顾问和情报支援升级为直接空袭，以及这会不会把也门战事与美伊对峙连在一起。",
+      "synthesis": "利雅得机场两次遇袭让也门战事实质上变成对沙特本土的持续威胁。接下来几天的关键是华盛顿的决定，以及沙特民航能否恢复。",
+      "unknown": "伤亡数字是否还会变化；袭击使用的武器类型；美国最终是否参战；政府军对曼德海峡的控制能否得到独立核实。",
+      "confidence": "中高（伤亡数字来自沙特官方，经多家通讯社转述；美方意图仍不确定）",
+      "sources": [
+        {
+          "label": "NPR：利雅得机场遇袭 12 死 300 多伤",
+          "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say"
+        },
+        {
+          "label": "《时代》：特朗普称可能加入打击",
+          "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/"
+        },
+        {
+          "label": "《卫报》：政府军称夺回曼德海峡",
+          "url": "https://www.theguardian.com/world/2026/oct/10/yemen-government-allied-forces-recapture-bab-al-mandab-strait-houthis-taiz"
+        },
+        {
+          "label": "半岛电视台：政府军称继续推进",
+          "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "俄乌：迈阿密和谈一天就提前结束，特朗普同日宣布与普京的柴油协议；普京称三方会谈近期难以恢复；扎波罗热住宅楼遇袭至少 20 死",
+      "tag": "续报：有新进展",
+      "facts": [
+        "Kyiv Post、Kyiv Independent：10/9 美、乌、英法德、欧盟委员会和北约代表在迈阿密会谈约六小时，特使威特科夫称讨论「建设性」，涉及能源韧性、粮食出口、安全保障、战后重建和入盟，但未宣布任何协议；原定第二天会谈没有举行，乌代表团 10/10 启程回国。",
+        "英国《金融时报》援引乌方官员称，会谈因特朗普宣布与普京的柴油协议而中断；泽连斯基办公室发言人则称「不是取消，只是第一天更长、味道有些不同」。",
+        "BBC、CNBC：特朗普宣布临时豁免，允许俄罗斯柴油出口至 4 月 7 日，普京承诺立即供应 30 万吨、11 月再供 50 万吨；泽连斯基称这是「送给普京的礼物」，欧盟外交负责人卡拉斯称会给莫斯科带来更多战争收入，欧盟正准备新一轮制裁。",
+        "半岛电视台：普京在与特朗普通话中称，乌方在俄议会选举当天袭击莫斯科，使三方谈判「无法立即恢复」。",
+        "多家媒体：俄军打击扎波罗热一栋五层住宅楼，至少 20 人死亡，其中包括 3 名儿童。TASS 转述 Axios 称，美方曾表示若乌方拒绝让步可能限制对乌情报共享（未经独立证实）。"
+      ],
+      "readingA": "美国在和谈当天放松对俄柴油制裁，等于在不要求俄方让步的情况下送出筹码；乌欧被晾在一边，和谈框架因此受损。",
+      "readingB": "华盛顿可能把柴油协议视为压低全球油价（霍尔木兹危机、飓风致海湾停产）的经济措施，与和谈分开处理；迈阿密会谈仍为下一轮对俄接触整理了议题。",
+      "disagree": "分歧在于柴油协议是对莫斯科的单方面让步，还是在能源危机下的务实安排。",
+      "synthesis": "眼下美俄、美乌两条线在背离：美俄在能源上走近，俄方却以选举日袭击为由推迟谈判，战场上平民伤亡继续上升。泽连斯基 10/10–12 与欧洲领导人的会谈值得关注。",
+      "unknown": "柴油豁免的具体法律形式与国会反应；美方是否真的威胁限制情报；下一轮对俄接触的时间。",
+      "confidence": "中高（会谈与柴油协议多源确认；会谈中断原因、情报威胁说法属单方或匿名来源）",
+      "sources": [
+        {
+          "label": "Kyiv Post：柴油协议盖过和谈",
+          "url": "https://www.kyivpost.com/post/86654"
+        },
+        {
+          "label": "Kyiv Independent：迈阿密会谈内容",
+          "url": "https://kyivindependent.com/us-ukrainian-european-officials-discuss-ending-russias-war-at-miami-meeting/"
+        },
+        {
+          "label": "BBC：泽连斯基称是送给普京的礼物",
+          "url": "https://www.bbc.com/news/articles/cm1dwgr666wno"
+        },
+        {
+          "label": "半岛电视台：普京称谈判难以立即恢复",
+          "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks"
+        },
+        {
+          "label": "TribLive/美联社：俄军打击致 20 死",
+          "url": "https://triblive.com/news/world/russian-attacks-kill-20-in-ukraine-after-trump-strikes-diesel-deal-with-putin/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "霍尔木兹：革命卫队称一艘超级油轮触雷爆炸；英国海上贸易行动办公室报告另一油轮出海峡时被不明弹药击中起火",
+      "tag": "续报：有新进展",
+      "facts": [
+        "TASS、阿纳多卢援引伊朗学生通讯社：革命卫队 10/10 称一艘满载原油的超级油轮在关闭定位和导航系统后在海峡触雷爆炸，并警告「违反安全要求的油轮都将面临大火」。",
+        "伊朗国际电视台：英国海上贸易行动办公室（UKMTO）10/10 称，一艘驶离海峡的油轮左舷被不明弹药击中起火，船长报告船员安全，损伤和环境影响不明，正在调查。",
+        "航运安全博客 Regulas 整理：革命卫队海军此前把 10/9 被击中的液化石油气船点名为 NV Sunshine，但追踪机构报道的同日阿联酋外海遇袭船只是另一艘，两者尚未对上。"
+      ],
+      "readingA": "在美军宣布扫雷开放航道的次日就出现「触雷」说法，伊方是在告诉航运业：美方的安全保证不可靠，只有按伊方航道走才安全。",
+      "readingB": "「触雷」与「被弹药击中」两种说法可能指同一事件，也可能是两起；伊方叙述带有明显威慑目的，具体情况需等船东和第三方确认。",
+      "disagree": "分歧在于这是新布雷、旧雷遗留，还是伊方以「触雷」为名掩盖直接攻击。",
+      "synthesis": "不论哪种说法，10 月几乎每天一起的袭船节奏仍在延续，航运和保险风险没有因美方扫雷声明而下降。",
+      "unknown": "油轮名称、船籍和是否为同一事件；是否有人员伤亡或漏油；美方回应。",
+      "confidence": "中低（主要依据伊方声明与 UKMTO 简报，细节不全）",
+      "sources": [
+        {
+          "label": "TASS：革命卫队称超级油轮触雷",
+          "url": "https://tass.com/world/2200371"
+        },
+        {
+          "label": "伊朗国际：UKMTO 报告油轮被击起火",
+          "url": "https://www.iranintl.com/en/202610108606"
+        },
+        {
+          "label": "Regulas：NV Sunshine 船名核对",
+          "url": "https://regulasshipping.com/blog/irgc-names-nv-sunshine-and-says-it-will-pursue-ships-beyond-hormuz/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "飓风「伊萨亚斯」以二级强度在佛州德斯坦登陆后迅速减弱，至少 2 人死亡，佛州约 45 万户停电；太平洋飓风「西蒙」增强至四级逼近墨西哥",
+      "tag": "续报：有新进展",
+      "facts": [
+        "佛州应急管理部门：「伊萨亚斯」于美东时间 10/9 晚约 9:30 在德斯坦附近登陆，最大持续风速 105 英里/小时（二级），圣罗莎湾阵风 116 英里/小时；10/10 清晨减弱为后热带气旋。截至 10/10 早 7 点，全州约 44.8 万用户停电，27 个县处于紧急状态。",
+        "CBS：风暴登陆前一度短暂增强为三级；《迈阿密先驱报》称至少 2 人因树木砸中房屋死亡。",
+        "GMA：这是 2024 年 10 月 9 日飓风「米尔顿」以来首个登陆美国的飓风，2025 年美国无飓风登陆。",
+        "News as Facts 汇总美联社报道：太平洋飓风「西蒙」增强为四级，风速约 150 英里/小时，正逼近墨西哥海岸。"
+      ],
+      "readingA": "登陆强度低于预报的三级，减弱也快，佛州人员损失相对有限，最大影响是停电和洪水。",
+      "readingB": "上一期提到约 63% 的墨西哥湾原油产量因风暴关停，复产速度才是对能源市场更重要的变量，叠加霍尔木兹局势，油价压力仍在。",
+      "disagree": "分歧不大，主要在于关注本地灾损还是海湾能源供应。",
+      "synthesis": "「伊萨亚斯」本身已基本过去，接下来看海湾油气平台复产进度和「西蒙」在墨西哥的登陆情况。",
+      "unknown": "海湾油气产量恢复时间；最终死亡人数；「西蒙」登陆地点与强度。",
+      "confidence": "高（官方与多家主流媒体一致）",
+      "sources": [
+        {
+          "label": "佛州应急管理部门：登陆与停电数据",
+          "url": "https://www.floridadisaster.org/news-media/news/20261010-icymi-governor-ron-desantis-issues-updates-on-state-response-and-recovery-efforts-for-hurricane-isaias/"
+        },
+        {
+          "label": "CBS：伊萨亚斯登陆实时报道",
+          "url": "https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/"
+        },
+        {
+          "label": "《迈阿密先驱报》：灾损与死亡",
+          "url": "https://www.miamiherald.com/news/weather/hurricane/article317568999.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "巴拿马南部发生 7.7 级地震，至少 27 人受伤、暂无死亡报告，政府宣布进入紧急状态",
+      "tag": "新",
+      "facts": [
+        "欧洲—地中海地震中心、法新社：10/9 巴拿马埃雷拉省皮塔洛萨阿里巴附近约 10 公里处发生 7.7 级地震。",
+        "法新社：至少 27 人受伤，暂无死亡报告；房屋、道路、教堂、学校和酒店受损。",
+        "美联社（经 WRAL）：已发生 100 多次余震，其中数次超过 5 级，巴拿马宣布紧急状态，部分居民露宿街头。"
+      ],
+      "readingA": "对 7.7 级的浅源强震而言，暂无死亡是相对幸运的结果，说明震中位于人口较少的地区。",
+      "readingB": "受灾地区偏远，伤亡和损失统计可能滞后，余震仍可能造成进一步破坏。",
+      "disagree": "分歧主要在于初期统计是否完整。",
+      "synthesis": "目前看人员伤亡有限，但需关注余震和道路中断对救援的影响；巴拿马运河是否受影响尚无报道。",
+      "unknown": "最终伤亡与经济损失；对巴拿马运河运营是否有影响。",
+      "confidence": "中高（多家通讯社一致，统计仍在更新）",
+      "sources": [
+        {
+          "label": "法新社：巴拿马强震 27 人受伤",
+          "url": "https://www.afp.com/en/major-earthquake-hits-panama-injures-least-27"
+        },
+        {
+          "label": "WRAL/美联社：紧急状态与余震",
+          "url": "https://www.wral.com/news/ap/8217f-unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/"
+        },
+        {
+          "label": "BBC：7.7 级地震损毁建筑",
+          "url": "https://www.bbc.com/news/articles/c620r39zdp9wo"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "美国直接制裁国际刑事法院本身，冻结其在美管辖范围内资产；国际刑事法院称这是「对法治的攻击」",
+      "tag": "新",
+      "facts": [
+        "美国国务院：10/9 依据第 14203 号行政令将国际刑事法院本身列入制裁，冻结其受美国管辖的资产，原则上禁止美国人与其交易。",
+        "美国财政部海外资产控制办公室同时发布临时许可，允许必要运营、IT/云服务、养老金支付和与被羁押人相关的服务，主要运营许可有效期 180 天，至 2027 年 4 月 7 日。",
+        "BBC：国际刑事法院谴责此举为「对法治的攻击」。"
+      ],
+      "readingA": "从制裁个别法官、检察官升级到制裁机构本身，是美国对国际刑事法院施压的重大升级，可能影响其日常运作和与欧洲盟友的关系。",
+      "readingB": "临时许可保留了云服务、薪酬等核心运营，美方实际是在设定 180 天的施压窗口，而非立即让法院瘫痪。",
+      "disagree": "分歧在于这是要让法院停摆，还是以期限换取其在相关案件上让步。",
+      "synthesis": "180 天的许可期是关键时间表，可关注欧盟是否启动阻断法规、法院成员国如何回应。",
+      "unknown": "欧盟和主要成员国的正式回应；对具体在审案件的影响。",
+      "confidence": "高（官方文件）",
+      "sources": [
+        {
+          "label": "美国国务院：制裁国际刑事法院",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
+        },
+        {
+          "label": "美国财政部：相关制裁与许可",
+          "url": "https://ofac.treasury.gov/sanctions-programs-and-country-information/international-criminal-court-related-sanctions"
+        },
+        {
+          "label": "BBC：法院称是对法治的攻击",
+          "url": "https://www.bbc.com/news/articles/cj20vkkx3rdvo"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "AI：英伟达洽谈收购或加码投资开源模型公司 Reflection AI；英伟达推出硬件级 AI 智能体安全平台，与 Anthropic 合作",
+      "tag": "新",
+      "facts": [
+        "英国《金融时报》10/10：英伟达正与美国开源权重模型公司 Reflection AI 洽谈收购或加大投资，特朗普政府希望该公司能与廉价的中国开源模型竞争；CNA 等转述称方案可能包括全资收购、人才收购或扩大股权，谈判未定。runtimewire 称英伟达此前已投资 8 亿美元。",
+        "AI 简报网站 David & Goliath：英伟达发布「开放智能体安全平台」，由主机端开源访问控制与追踪层 OpenShell 和运行在 BlueField-4 DPU 上的带外执行组件 Sentry 组成，可在毫秒级隔离失控的智能体；称首发有 100 多家机构参与，Anthropic 将把相关保护引入 Claude Managed Agents。",
+        "彭博（经 Techmeme）：Anthropic 通过云合作伙伴的销售按总额计收入，OpenAI 只计净分成，两家的「年化收入」口径不同，延续上一期关于 OpenAI 收入数字的讨论。"
+      ],
+      "readingA": "英伟达从卖芯片延伸到直接拥有美国开源模型，可锁定模型对其硬件栈的依赖，也契合政府对抗中国开源模型的产业政策。",
+      "readingB": "芯片供应商收购模型公司，可能引发客户（其他模型实验室）对中立性的担忧和反垄断审查；Reflection 的模型竞争力尚未经大规模验证。",
+      "disagree": "分歧在于这是战略补位，还是会让英伟达与自家大客户形成竞争。",
+      "synthesis": "上一期 Anthropic 披露 Claude 越权操作真实网站之后，智能体安全正在变成基础设施层的产品；英伟达同时押注开源模型和智能体安全，两条线都值得跟踪。",
+      "unknown": "Reflection 交易结构与估值；安全平台的实际部署效果；监管是否介入。",
+      "confidence": "中（收购为 FT 独家匿名信源；安全平台信息来自二手汇总）",
+      "sources": [
+        {
+          "label": "《金融时报》：英伟达洽购 Reflection AI",
+          "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+        },
+        {
+          "label": "CNA：交易可能形式",
+          "url": "https://www.channelnewsasia.com/business/nvidia-in-talks-invest-further-in-reflection-ai-or-buy-it-ft-reports-6449691"
+        },
+        {
+          "label": "David & Goliath：英伟达智能体安全平台",
+          "url": "https://davidandgoliath.ai/daily-ai-briefing/nvidia-open-agent-safety-platform-infrastructure-enforcement"
+        },
+        {
+          "label": "Techmeme/彭博：两家收入口径差异",
+          "url": "https://www.techmeme.com/261010/p8"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say"
+    },
+    {
+      "n": 2,
+      "title": "Trump Says U.S. May Join Saudi Strikes on Houthis After Riyadh Airport Attacks",
+      "outlet": "TIME",
+      "url": "https://time.com/article/2026/10/10/trump-says-u-s-may-join-saudi-strikes-on-houthis-after-riyadh-airport-attacks/"
+    },
+    {
+      "n": 3,
+      "title": "Houthi attack on Saudi airport kills 12, over 300 wounded",
+      "outlet": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/10/houthi-attack-saudi-airport-kills-12-over-300-wounded-authorities-say"
+    },
+    {
+      "n": 4,
+      "title": "Has Yemen returned to 'full-scale war'?",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/has-yemen-returned-to-full-scale-war"
+    },
+    {
+      "n": 5,
+      "title": "Iran Update, October 10, 2026",
+      "outlet": "ISW",
+      "url": "https://understandingwar.org/research/middle-east/iran-update-october-10-2026/"
+    },
+    {
+      "n": 6,
+      "title": "Miami Ukraine Peace Talks Overshadowed by Trump-Putin Diesel Deal",
+      "outlet": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/86654"
+    },
+    {
+      "n": 7,
+      "title": "Zelenskyy's office commented on the curtailment of the talks in Miami",
+      "outlet": "LIGA.net",
+      "url": "https://news.liga.net/en/war/news/zelenskyys-office-commented-on-the-curtailment-of-the-talks-in-miami"
+    },
+    {
+      "n": 8,
+      "title": "Trump-Putin diesel deal contradicts Russia sanctions law, critics say",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html"
+    },
+    {
+      "n": 9,
+      "title": "Putin tells Trump peace talks are unlikely, cites Ukraine drone attacks",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/putin-tells-trump-peace-talks-are-unlikely-cites-ukraine-drone-attacks"
+    },
+    {
+      "n": 10,
+      "title": "Russia kills 20 in Ukraine as US hosts 'productive' talks to end war",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/us-hosts-productive-trilateral-talks-to-end-russia-ukraine-war"
+    },
+    {
+      "n": 11,
+      "title": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
+      "outlet": "TASS",
+      "url": "https://tass.com/world/2200371"
+    },
+    {
+      "n": 12,
+      "title": "Tanker struck by projectile in Strait of Hormuz, fire breaks out - UKMTO",
+      "outlet": "Iran International",
+      "url": "https://www.iranintl.com/en/202610108606"
+    },
+    {
+      "n": 13,
+      "title": "Isaias lashes Southeast after making landfall in the U.S.",
+      "outlet": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/isaias-southeastern-u-s-gulf-coast/"
+    },
+    {
+      "n": 14,
+      "title": "Governor DeSantis issues updates on response to Hurricane Isaias",
+      "outlet": "Florida Division of Emergency Management",
+      "url": "https://www.floridadisaster.org/news-media/news/20261010-icymi-governor-ron-desantis-issues-updates-on-state-response-and-recovery-efforts-for-hurricane-isaias/"
+    },
+    {
+      "n": 15,
+      "title": "Major earthquake hits Panama, injures at least 27",
+      "outlet": "AFP",
+      "url": "https://www.afp.com/en/major-earthquake-hits-panama-injures-least-27"
+    },
+    {
+      "n": 16,
+      "title": "Panama declares a state of emergency as powerful quake aftershocks rattle communities",
+      "outlet": "AP via WRAL",
+      "url": "https://www.wral.com/news/ap/8217f-unnerved-panamanians-sleep-in-streets-as-aftershocks-rattle-quake-hit-towns/"
+    },
+    {
+      "n": 17,
+      "title": "Imposing Sanctions on the International Criminal Court",
+      "outlet": "US State Department",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
+    },
+    {
+      "n": 18,
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj20vkkx3rdvo"
+    },
+    {
+      "n": 19,
+      "title": "Nvidia in talks to acquire US 'open' model start-up Reflection AI",
+      "outlet": "Financial Times",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+    },
+    {
+      "n": 20,
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "outlet": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html"
+    },
+    {
+      "n": 21,
+      "title": "India's 'Cockroach' leaders detained; New Delhi in lockdown（新德里封锁阻止「蟑螂人民党」集会，要求首席选举专员辞职，数千人被拘）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown"
+    },
+    {
+      "n": 22,
+      "title": "A US-brokered ceasefire was supposed to end the war in Gaza. A year later, progress has stalled（加沙停火一周年：人质全部获释，但重建、哈马斯解除武装和过渡治理几乎无进展）",
+      "outlet": "Washington Post",
+      "url": "https://www.washingtonpost.com/national/2026/10/10/israel-palestinians-hamas-war-gaza-ceasefire-explainer/dcff0b64-c46a-11f1-8170-681419af1cc9_story.html"
+    },
+    {
+      "n": 23,
+      "title": "World news for October 10, 2026 (Saturday)（含太平洋飓风「西蒙」增强为四级逼近墨西哥）",
+      "outlet": "News as Facts",
+      "url": "https://newsasfacts.com/2026-10-10"
+    }
+  ]
+}
