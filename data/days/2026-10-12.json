@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-12",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/11 早至 10/12 早，周日为主），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/11）：利雅得机场周日再次被击中，死亡人数升至 13 人，胡塞首次公开认领并警告民众远离沙特机场；特朗普突然宣布俄乌「能源停火」，但俄方未确认，乌方称宣布后基辅、哈尔科夫电厂仍遭袭；伊朗称美方对其七项条件的回复「不够」、暂停回应，并威胁攻击地区数据中心和海缆；巴基斯坦对伊姆兰·汗政党执政的开伯尔-普赫图赫瓦省实施紧急状态（新）；四级飓风「西蒙」逼近墨西哥巴亚尔塔港；科技方面，数据中心正在成为战争目标，Cloudflare 收购 Deno（新）。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "利雅得机场连续第二天被击中，死亡升至 13 人；胡塞公开认领并警告远离沙特机场，沙特联军誓言「坚决回应」",
+      "tag": "续报：继续升级",
+      "facts": [
+        "美联社（PBS 转载）：10/11 周日，一枚弹体击中利雅得哈立德国王国际机场供国内航班使用的 3、4 号航站楼，造成人员受伤；机场周日仍关闭。美联社称胡塞自周三起每天都在打击这座没有军事设施的机场。",
+        "路透（Al-Monitor 转载）：胡塞军方发言人萨雷亚在电视讲话中认领周六的袭击，并称还打击了东部省达曼机场和两处沙特阿美设施（未经独立证实）。印度驻利雅得使馆称一名受伤的印度公民不治，死亡人数由 12 人升至 13 人；沙特民航局此前公布伤者 309 人。",
+        "《卫报》、德国之声：沙特联军发言人马利基称联军「将坚决回应」，称袭击为「彻头彻尾的战争罪」；胡塞外交部称「除非沙特停止侵略，更糟的还在后面」，并称沙特 24 小时内在也门空袭 124 次。",
+        "美联社：胡塞控制的卫生部称萨那一处民宅遭疑似沙特空袭，一名儿童死亡；白宫周日未就是否加入打击置评。",
+        "《商业时报》（彭博）：周一亚洲早盘布伦特原油接近每桶 105 美元、WTI 约 92 美元，机场与油轮遇袭推高供应担忧。"
+      ],
+      "readingA": "胡塞把沙特首都机场当作每日目标，并公开认领、发出「远离机场」警告，说明他们在用持续施压迫使沙特停止对也门政府军的空中支援；沙特防空连续两天未能拦截，暴露出明显漏洞。",
+      "readingB": "联军在地面战场（曼德海峡一带）占据主动，胡塞的远程打击更像是失地后的报复和心理战；只要美方不直接参战、沙特维持防空补强，局势仍可能停留在相互消耗而不是全面失控。",
+      "disagree": "分歧在于这是胡塞实力的体现还是绝望之举，以及沙特的报复会不会把美国拖进来。",
+      "synthesis": "两天两次击中同一航站楼，让利雅得机场能否复航、沙特如何报复成为本周最直接的风险点；油价已经在反映这一点。特朗普是否宣布参战仍是最大的变量。",
+      "unknown": "周日袭击的伤亡数字；胡塞对达曼机场和阿美设施的说法是否属实；沙特报复的方式和规模；利雅得机场何时恢复运营。",
+      "confidence": "中高（伤亡与机场遇袭来自沙特官方，经美联社和路透转述；胡塞关于其他目标的说法未经证实）",
+      "sources": [
+        {
+          "label": "PBS/美联社：利雅得机场次日再遭弹体击中",
+          "url": "https://www.pbs.org/newshour/world/riyadh-airport-hit-by-projectile-a-day-after-deadly-missile-strike"
+        },
+        {
+          "label": "Al-Monitor/路透：新袭击致伤，死亡升至 13 人",
+          "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-reports-injuries-new-attack-riyadh-airport-day-after-strike-kills-13"
+        },
+        {
+          "label": "《卫报》：沙特联军誓言报复",
+          "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport"
+        },
+        {
+          "label": "德国之声：利雅得机场第二次被击中",
+          "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306"
+        },
+        {
+          "label": "《商业时报》：油价因袭击走高",
+          "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-rises-saudi-airport-and-tanker-attacks-stoke-supply-fears"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "俄乌：特朗普宣布「能源停火」立即生效，莫斯科未确认，乌方称宣布后基辅、哈尔科夫电厂仍遭袭；泽连斯基称若停火 60 天就举行选举",
+      "tag": "续报：重要新进展",
+      "facts": [
+        "美联社、路透：特朗普 10/11 在社交媒体发文称「即刻起，俄乌战争实行能源停火，双方都已同意，不要破坏它！」，但没有给出任何细节；莫斯科截至发稿未置评。",
+        "美联社、自由欧洲电台：泽连斯基称欢迎这一「好消息」，但称宣布之后俄军仍用无人机打击基辅一座电厂导致多区停电，晚间哈尔科夫第五热电厂也遭袭；一名乌官员向路透证实哈尔科夫袭击发生在宣布之后。",
+        "半岛电视台、路透：泽连斯基此前表示，只要俄方停止打击乌能源设施，乌方愿停止袭击俄炼油厂；针对特朗普要求乌举行选举，他在 ABC 采访中说「给我们 60 天全面停火，我们就组织选举」。",
+        "美联社：乌方无人机周日打击弗拉基米尔市一座 Yandex 数据中心，为四天内第三次袭击该公司设施；扎波罗热周六住宅楼遇袭的死亡人数升至 23 人，其中 4 名儿童。",
+        "CNA：冯德莱恩、马克龙和德国外长表态支持泽连斯基，马克龙称俄方「仍在拒绝」真正的能源停火。"
+      ],
+      "readingA": "特朗普在柴油协议之后急于压低能源价格，「能源停火」更像是单方面宣布、给双方施压的政治动作；俄方沉默、袭击继续，说明它并不存在于现实中。",
+      "readingB": "即便没有书面协议，一份由美国总统公开背书的能源停火也给双方设了一条红线；乌方已表态愿意对等停手，如果俄方在未来几天减少对电网的打击，它就可能事实上成形。",
+      "disagree": "分歧在于这是一次真正谈成的安排，还是一个尚无对方确认的公开表态。",
+      "synthesis": "目前能够确认的只有特朗普的宣布和乌方的有条件接受。判断它是否成真，要看克里姆林宫是否表态，以及未来 48 小时双方对电网和炼油厂的打击是否明显减少。",
+      "unknown": "俄方是否真的同意；停火的范围（电网、炼油厂、港口）和监督方式；特朗普所说「双方同意」的依据。",
+      "confidence": "中（宣布本身确定；是否存在双方协议无法核实，俄方未确认）",
+      "sources": [
+        {
+          "label": "PBS/美联社：特朗普称双方同意能源停火，基辅称袭击继续",
+          "url": "https://www.pbs.org/newshour/world/trump-claims-russia-and-ukraine-agree-to-energy-ceasefire-despite-continued-attacks"
+        },
+        {
+          "label": "自由欧洲电台：泽连斯基称袭击仍在继续，莫斯科沉默",
+          "url": "https://www.rferl.org/a/zelenskyy-energy-ceasefire-trump-ukraine-russia/33874639.html"
+        },
+        {
+          "label": "半岛电视台：泽连斯基提出 60 天停火换选举",
+          "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2"
+        },
+        {
+          "label": "CNA：宣布后俄军仍打击乌电厂",
+          "url": "https://www.channelnewsasia.com/world/russia-hits-ukraine-power-plants-despite-trump-energy-ceasefire-claim-6450451"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "美伊：伊朗称美方对其七项条件的回复「不够」、暂停回应，并威胁攻击地区数据中心和海缆；美军击瘫一艘闯封锁货轮，阿曼外海又一油轮遇袭",
+      "tag": "续报：有新进展",
+      "facts": [
+        "阿拉比亚、PBS：伊朗最高国家安全委员会秘书礼萨伊 10/11 称，美方经卡塔尔转交的回复接受了伊方七项条件中的一部分，但其余「不清楚」，整体「不够」；伊朗「不再回应美国人」，条件满足前海峡不会对美国开放、也不会谈判。",
+        "PBS/美联社：伊方同时威胁，如激烈战斗重启，将打击地区内的「海缆、数据中心、AI 设施」等目标；革命卫队海军称关闭导航和识别系统的船只将被视为「敌对」。",
+        "半岛电视台：美国中央司令部称 10/10 一架战机用精确弹药击中巴拿马籍货轮 Ocean Molica 船尾，使其失去动力，称该船驶离伊朗港口后无视警告试图突破封锁；中央司令部称 7 月 14 日恢复封锁以来已击瘫 4 艘商船、令 135 艘掉头。",
+        "《商业时报》（彭博）：英国海上贸易行动办公室称 10/11 一艘油轮在阿曼苏哈尔锚地附近被无人机击中，位置在海峡之外；布伦特年内涨幅已超过 70%。"
+      ],
+      "readingA": "伊朗把谈判和航运安全捆绑在一起，并把威胁扩大到数据中心和海缆，意在用对全球经济的杠杆逼美方在中期选举前让步。",
+      "readingB": "伊方承认美方已接受部分条件，说明双方仍在接触；「暂停回应」可能是讨价还价的姿态，而非关闭谈判大门。",
+      "disagree": "分歧在于这是谈判破裂的信号，还是选举前的施压表演。",
+      "synthesis": "外交渠道没有断，但海上事件在增加、受袭范围扩大到海峡以外。伊方点名数据中心和海缆，意味着冲突的潜在目标正在向数字基础设施延伸（见第 6 条）。",
+      "unknown": "七项条件的完整内容以及美方接受了哪些；阿曼外海油轮袭击的责任方；美伊下一轮间接接触的时间。",
+      "confidence": "中高（伊方表态来自官方媒体，经多家转述；部分船只袭击责任未明）",
+      "sources": [
+        {
+          "label": "阿拉比亚：伊朗称美方回复「不够」",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/10/11/iran-says-us-response-to-its-proposal-to-reopen-strait-of-hormuz-was-insufficient-"
+        },
+        {
+          "label": "PBS：伊朗威胁数据中心与海缆",
+          "url": "https://www.pbs.org/newshour/world/iran-calls-latest-u-s-proposal-to-end-war-insufficient-as-netanyahus-corruption-trial-resumes"
+        },
+        {
+          "label": "半岛电视台：美军击瘫闯封锁货轮",
+          "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman"
+        },
+        {
+          "label": "半岛电视台：霍尔木兹袭击增多、和谈停滞",
+          "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "巴基斯坦对伊姆兰·汗政党执政的开伯尔-普赫图赫瓦省实施紧急状态和总督直接管治，首席部长被捕",
+      "tag": "新",
+      "facts": [
+        "半岛电视台/路透：10/11 总理谢里夫主持内阁会议后，总统扎尔达里批准依据宪法安全条款在开普省实施紧急状态，实际上中止了正义运动党（PTI）的省政府；总理办公室称原因是省政府「蓄意脱离反恐斗争」。",
+        "法律部长塔拉尔称，由省总督和一个咨询委员会接管，初定六个月；巴基斯坦国家广播称咨询委员会有 11 名成员。",
+        "PTI 议员称，首席部长索海勒·阿夫里迪和该党省主席已被捕；PTI 发言人布哈里称这是「披着紧急状态外衣的政变」。",
+        "背景：PTI 一直在筹备向伊斯兰堡进军、要求释放已入狱三年多的伊姆兰·汗，政府已用集装箱封堵首都入口。萨马电视台等称，紧急状态须在 10 天内获议会两院批准。"
+      ],
+      "readingA": "政府以反恐为名，在 PTI 最强的省份拿掉其政权并逮捕首席部长，实质上是在大游行之前清除反对派的组织基地。",
+      "readingB": "开普省近年武装袭击激增，联邦政府认为省政府配合不力，接管安全事务有其现实理由，宪法也为此留有程序。",
+      "disagree": "分歧在于这是一项安全措施，还是针对反对党的政治行动。",
+      "synthesis": "无论动机如何，此举很可能激化 PTI 支持者与政府的对抗，短期内开普省和首都的街头局势值得关注；议会能否在规定期限内批准是下一个节点。",
+      "unknown": "被捕人员的具体指控；PTI 进军计划是否继续；军方部署规模；法院是否介入。",
+      "confidence": "高（多家主流媒体与官方渠道确认）",
+      "sources": [
+        {
+          "label": "半岛电视台：巴基斯坦在开普省实施紧急统治",
+          "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa"
+        },
+        {
+          "label": "《黎明报》：总统批准紧急状态和总督管治",
+          "url": "https://www.dawn.com/news/2036352"
+        },
+        {
+          "label": "巴基斯坦国家广播：11 人咨询委员会接管",
+          "url": "https://www.radio.gov.pk/11-10-2026/11-member-advisory-council-formed-to-run-kps-affairs-azam"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "四级飓风「西蒙」贴着墨西哥太平洋沿岸北上，逼近巴亚尔塔港，四州民众被要求就地避险",
+      "tag": "续报：有新进展",
+      "facts": [
+        "美联社（PBS 转载）：10/11 周日，「西蒙」以四级强度沿墨西哥太平洋沿岸移动，风眼仍在近海，持续风速约每小时 220 公里；预计最强风雨于当地午夜至周一上午影响巴亚尔塔港一带。美国国家飓风中心称不确定是否会正式登陆。",
+        "美国国家飓风中心专家称，卡沃科连特斯最可能遭到直接冲击，沿岸可能出现「灾难性」大风和危及生命的风暴潮；米却肯、科利马、哈利斯科部分地区雨量可能达 76 厘米，有洪水和泥石流风险。",
+        "哈利斯科州 22 个沿海市停课并疏散高风险地区居民；总统辛鲍姆呼吁哈利斯科、科利马、纳亚里特、米却肯四州民众留在避难处。"
+      ],
+      "readingA": "风眼贴岸滑行且可能不登陆，意味着强度衰减慢、影响时间长，沿岸山区的暴雨和泥石流可能比风更致命。",
+      "readingB": "如果风眼保持在海上，最强风区可能擦过人口密集区，实际损失有望低于最坏预测。",
+      "disagree": "分歧在于路径细微偏移会带来多大差别，目前预报本身就不确定。",
+      "synthesis": "北京时间今天白天是影响巴亚尔塔港的关键时段，伤亡与损失要等周一当地天亮后才清楚。",
+      "unknown": "是否登陆及登陆地点；伤亡与停电规模；旅游区受损情况。",
+      "confidence": "中高（官方预报与美联社现场报道；结果仍待观察）",
+      "sources": [
+        {
+          "label": "PBS/美联社：飓风西蒙冲击墨西哥太平洋沿岸",
+          "url": "https://www.pbs.org/newshour/world/hurricane-simon-hits-mexicos-pacific-coast"
+        },
+        {
+          "label": "美国国家飓风中心：西蒙公告",
+          "url": "https://www.nhc.noaa.gov/text/MIATCPEP5.shtml"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "科技：数据中心成为战争目标，乌克兰四天内三次打击 Yandex 数据中心，伊朗点名威胁海湾数据中心和 AI 设施；Cloudflare 收购 Deno",
+      "tag": "新（科技）",
+      "facts": [
+        "美联社：乌方无人机 10/11 打击弗拉基米尔市一座 Yandex 数据中心并使其停运，是四天内第三次打击该公司设施；俄独立媒体 Astra 称，俄罗斯数十个城市以及哈萨克斯坦、白俄罗斯、亚美尼亚的用户一度无法叫车或使用银行服务。",
+        "PBS/美联社：伊朗官员称，如激烈战斗重启，将打击地区内的「海缆、数据中心、AI 设施」等目标。",
+        "TechCrunch、Cloudflare 博客：Cloudflare 10/10 宣布收购 Deno（Node.js 创始人瑞安·达尔参与创办的公司），用于改进 Workers 编程模型和自托管能力；交易金额未披露，Deno 此前共融资 2600 万美元。",
+        "Deno 官方博客：独立的 Deno 运行时将获得一年维护和安全更新后停止开发，Deno Deploy 运营六个月后关闭，JSR 包仓库在 Cloudflare 下继续运营。"
+      ],
+      "readingA": "云服务和 AI 算力集中在少数大型数据中心，使其成为高价值军事目标；Yandex 遇袭造成跨国服务中断，说明数字基础设施的战时脆弱性已从理论变成现实，海湾各国正在建设的 AI 数据中心也面临同样风险。",
+      "readingB": "打击数据中心造成的多是暂时性中断，冗余和备份可以较快恢复；伊朗的威胁更像谈判筹码，未必会真正执行。",
+      "disagree": "分歧在于数据中心遇袭的长期代价有多大，以及是否会改变 AI 基础设施的选址与投资。",
+      "synthesis": "本周的新变化是数据中心被当成了公开宣示的目标，它不再只是战争的附带损失。Cloudflare 收购 Deno 则是开发者生态的整合：短期对 Deno 用户的影响是需要在一年内规划迁移。",
+      "unknown": "Yandex 服务完全恢复所需时间；海湾国家和云厂商是否调整防护；Deno 收购金额。",
+      "confidence": "中高（遇袭与收购均有可靠来源；伊方威胁能否兑现未知）",
+      "sources": [
+        {
+          "label": "PBS/美联社：Yandex 数据中心第三次遇袭",
+          "url": "https://www.pbs.org/newshour/world/trump-claims-russia-and-ukraine-agree-to-energy-ceasefire-despite-continued-attacks"
+        },
+        {
+          "label": "PBS：伊朗威胁数据中心与 AI 设施",
+          "url": "https://www.pbs.org/newshour/world/iran-calls-latest-u-s-proposal-to-end-war-insufficient-as-netanyahus-corruption-trial-resumes"
+        },
+        {
+          "label": "TechCrunch：Cloudflare 收购 Deno",
+          "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+        },
+        {
+          "label": "Deno 博客：加入 Cloudflare",
+          "url": "https://deno.com/blog/cloudflare"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Riyadh airport hit by projectile a day after deadly missile strike",
+      "outlet": "PBS/AP",
+      "url": "https://www.pbs.org/newshour/world/riyadh-airport-hit-by-projectile-a-day-after-deadly-missile-strike"
+    },
+    {
+      "n": 2,
+      "title": "Saudi Arabia reports injuries in new attack at Riyadh airport, day after strike kills 13",
+      "outlet": "Al-Monitor/Reuters",
+      "url": "https://www.al-monitor.com/originals/2026/10/saudi-arabia-reports-injuries-new-attack-riyadh-airport-day-after-strike-kills-13"
+    },
+    {
+      "n": 3,
+      "title": "Saudi coalition vows retaliation after deadly Houthi attack on Riyadh airport",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/11/saudi-coalition-retaliation-houthi-attack-riyadh-airport"
+    },
+    {
+      "n": 4,
+      "title": "Yemen fighting expands as Houthis attack Saudi airport again: What to know",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know"
+    },
+    {
+      "n": 5,
+      "title": "Saudi Arabia: second strike on Riyadh airport",
+      "outlet": "DW",
+      "url": "https://www.dw.com/en/saudi-arabia-second-strike-on-riyadh-airport/a-79632306"
+    },
+    {
+      "n": 6,
+      "title": "Trump says Ukraine, Russia agree to 'energy ceasefire'",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2"
+    },
+    {
+      "n": 7,
+      "title": "Trump claims Russia and Ukraine agree to 'energy ceasefire' despite continued attacks",
+      "outlet": "PBS/AP",
+      "url": "https://www.pbs.org/newshour/world/trump-claims-russia-and-ukraine-agree-to-energy-ceasefire-despite-continued-attacks"
+    },
+    {
+      "n": 8,
+      "title": "Zelenskyy Says Russian Strikes Continue Amid Trump Cease-Fire Call; Moscow Mum",
+      "outlet": "RFE/RL",
+      "url": "https://www.rferl.org/a/zelenskyy-energy-ceasefire-trump-ukraine-russia/33874639.html"
+    },
+    {
+      "n": 9,
+      "title": "Russia hits Ukraine power plants despite Trump energy ceasefire claim",
+      "outlet": "CNA",
+      "url": "https://www.channelnewsasia.com/world/russia-hits-ukraine-power-plants-despite-trump-energy-ceasefire-claim-6450451"
+    },
+    {
+      "n": 10,
+      "title": "Iran says US response to its proposal to reopen Strait of Hormuz was 'insufficient'",
+      "outlet": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/10/11/iran-says-us-response-to-its-proposal-to-reopen-strait-of-hormuz-was-insufficient-"
+    },
+    {
+      "n": 11,
+      "title": "Iran calls latest U.S. proposal to end war 'insufficient' as Netanyahu's corruption trial resumes",
+      "outlet": "PBS/AP",
+      "url": "https://www.pbs.org/newshour/world/iran-calls-latest-u-s-proposal-to-end-war-insufficient-as-netanyahus-corruption-trial-resumes"
+    },
+    {
+      "n": 12,
+      "title": "US forces disable ship 'attempting to run' Iran blockade in Gulf of Oman",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman"
+    },
+    {
+      "n": 13,
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall"
+    },
+    {
+      "n": 14,
+      "title": "Oil rises as Saudi airport and tanker attacks stoke supply fears",
+      "outlet": "The Business Times/Bloomberg",
+      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/oil-rises-saudi-airport-and-tanker-attacks-stoke-supply-fears"
+    },
+    {
+      "n": 15,
+      "title": "Pakistan imposes emergency rule in province governed by Imran Khan's party",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa"
+    },
+    {
+      "n": 16,
+      "title": "Emergency, governor's rule imposed in KP as president approves cabinet decision",
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2036352"
+    },
+    {
+      "n": 17,
+      "title": "Hurricane Simon hits Mexico's Pacific coast with damaging winds and rain",
+      "outlet": "PBS/AP",
+      "url": "https://www.pbs.org/newshour/world/hurricane-simon-hits-mexicos-pacific-coast"
+    },
+    {
+      "n": 18,
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/"
+    },
+    {
+      "n": 19,
+      "title": "Landslide-dam breach may have triggered Budhi Gandaki flash flood (Nepal, ~45 houses destroyed, 5 missing)",
+      "outlet": "ICIMOD",
+      "url": "https://www.icimod.org/press-releases/landslide-dam-breach-may-have-triggered-budhi-gandaki-flash-flood/"
+    },
+    {
+      "n": 20,
+      "title": "China macro: NDRC counter-cyclical push, 150bn yuan capital bond tranche, logistics PMI 51.5",
+      "outlet": "NightIndex",
+      "url": "https://chase-dream.cn/en/digests/cn_macro-20261011-am/"
+    },
+    {
+      "n": 21,
+      "title": "Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs",
+      "outlet": "InfoQ",
+      "url": "https://www.infoq.com/news/2026/10/context-language-models/"
+    },
+    {
+      "n": 22,
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "outlet": "The Decoder",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/"
+    },
+    {
+      "n": 23,
+      "title": "Tour bus crash near Akhisar, Turkey kills 11, injures 27 (X 汇总，未经主流媒体核实)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2109270721633628383"
+    },
+    {
+      "n": 24,
+      "title": "Albertans vote Oct 19 on separation question; polls ~70% favor staying (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2109429814906253692"
+    }
+  ]
+}
