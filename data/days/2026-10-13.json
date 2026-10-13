@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-13",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/12 早至 10/13 早，周一为主），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/12）：克里姆林宫首次就「能源停火」表态——佩斯科夫称「暂无可说、接触仍在」，并拒绝泽连斯基 60 天停火换选举；乌方称已暂停打俄能源设施，俄方继续打乌电网；胡塞周一再向利雅得与海米斯穆谢特发射弹道导弹，沙特称拦截三枚，同时调查周末为何防空失守；伊朗外长主动致电沙特外长愿斡旋；霍尔木兹再报油轮触雷/遇袭，布伦特突破每桶 107 美元；科技方面，微软宣布 Maia 300 并将自研芯片作为推理主力，Meta 发布首个 frontier 模型 Muse Wonder（新）。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "俄乌：克宫称「能源停火」暂无可说、接触仍在，拒绝 60 天停火换选举；泽连斯基称乌方已暂停打俄能源，俄方周一继续打乌电网",
+      "tag": "续报：重要新进展",
+      "facts": [
+        "基辅独立报、塔斯社：克宫发言人佩斯科夫 10/12 称，关于特朗普宣布的「能源停火」「目前无可奉告」，「接触仍在进行，一旦有话可说会告知」；他同时拒绝泽连斯基提出的 60 天全面停火以举行选举，称俄方要「持久和平而非停火」，并称普京可在「选举日当天」下令不打击乌克兰，但「60 天是用来重整、疗伤、继续打仗」。",
+        "基辅独立报：俄外长拉夫罗夫 10/12 称不认为泽连斯基「配得上休息」；乌外长西比哈回称其为「战争罪犯」。",
+        "美联社、基辅邮报：泽连斯基周一在华沙安全论坛和福克斯新闻称，乌方愿停止打击俄能源设施，前提是俄方停止打乌电网；他称特朗普宣布后乌方已暂停过夜打击，但俄军继续打击哈尔科夫电厂及多地能源设施。",
+        "基辅邮报转述 Axios：一名白宫官员称所谓停火「仅覆盖炼油厂」；特朗普周一继续为与俄柴油协议辩护，此前周末美方曾就乌打击俄炼油厂向基辅施压并威胁情报与武器通道（多家欧乌官员描述，白宫未公开确认已执行）。"
+      ],
+      "readingA": "克宫的「无可奉告」加上继续打电网，等于否认特朗普所说「双方已同意」；美方若只谈炼油厂停火，对乌方毫无对等意义，更像是为柴油价格服务的单边施压。",
+      "readingB": "佩斯科夫承认「接触仍在」，说明渠道没断；如果未来几天俄方减少对电网的打击，可能出现事实上的部分停火，即便没有书面协议。",
+      "disagree": "分歧在于克宫是在拖延交易，还是根本无意接受任何「能源停火」。",
+      "synthesis": "能确认的是：特朗普的宣布仍未获莫斯科公开背书，乌方称已单方面暂停、俄方袭击继续，60 天停火被明确拒绝。接下来 48 小时看俄方是否减少对电网打击，以及美方是否把「仅炼油厂」说清楚。",
+      "unknown": "「接触」具体谈了什么；白宫所称「仅炼油厂」是否为正式立场；美方是否已实际限制对乌情报或武器。",
+      "confidence": "中高（克宫与泽连斯基表态有多家转述；美方施压细节部分依赖未具名官员）",
+      "sources": [
+        {
+          "label": "基辅独立报：克宫暂无可说、拒绝 60 天停火",
+          "url": "https://kyivindependent.com/kremlin-has-nothing-to-say-on-trumps-energy-ceasefire-rejects-zelenskys-truce-proposal-2/"
+        },
+        {
+          "label": "塔斯社：佩斯科夫简报要点",
+          "url": "https://tass.com/politics/2200911"
+        },
+        {
+          "label": "美联社：泽连斯基称俄方仍打击能源设施",
+          "url": "https://apnews.com/article/russia-ukraine-energy-strikes-trump-ceasefire-6fdef6ff4d033b379c74e1d62183d078"
+        },
+        {
+          "label": "POLITICO：克宫拒绝 60 天停火、可选举日停火",
+          "url": "https://www.politico.com/news/2026/10/12/peskov-rebuffs-zelenskyy-s-60-day-truce-after-trump-s-energy-ceasefire-post"
+        },
+        {
+          "label": "基辅邮报：特朗普辩护柴油协议、乌方称已暂停",
+          "url": "https://www.kyivpost.com/post/86846"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "也门—沙特：周一胡塞再射三枚弹道导弹（利雅得、海米斯穆谢特），沙特称全部拦截；机场继续停运并再遭弹体；沙特调查周末防空为何失守；伊朗外长致电愿斡旋",
+      "tag": "续报：继续升级",
+      "facts": [
+        "阿拉比亚、中东日报：联军发言人马利基 10/12 称，防空拦截并摧毁一枚射向利雅得的弹道导弹，以及两枚射向西南部海米斯穆谢特的弹道导弹；两地民防曾发紧急警报后解除。",
+        "中东日报：马利基称同日一枚弹体击中利雅得哈立德国王国际机场 4 号航站楼，另一枚巡航导弹在机场附近被拦截；民航局延长机场停运以核查设施安全。",
+        "美联社：两名匿名地区官员称沙特已启动调查，初步显示胡塞先用多架无人机打开通道，再混用巡航与弹道导弹打击机场，造成至少 13 死、300 余人伤。",
+        "半岛电视台、中东之眼：伊朗外长阿拉格希周日致电沙特外长费萨尔亲王，称「坚持军事手段、忽视政治解决只会更复杂」，并称伊朗愿协助开启沙特与也门方面对话；伊朗外交部发言人周一重申不希望沙特—胡塞敌对持续。"
+      ],
+      "readingA": "周一拦截成功说明防空并非全面失灵，但机场同日再被弹体击中、周末失守调查启动，说明胡塞仍能在首都制造持续压力；伊朗主动斡旋更像是在为自己留退路、同时约束代理人升级。",
+      "readingB": "伊朗斡旋与特朗普「可能加入」打击形成对照：沙特若接受伊方调停，可能缓和油价与防空压力；若拒绝并强化报复，冲突可能继续外溢到石油设施。",
+      "disagree": "分歧在于伊朗是认真要降温，还是用斡旋掩护胡塞继续打机场。",
+      "synthesis": "周末「打穿」与周一「拦下」并存，利雅得机场何时复航、沙特报复规模、是否接受伊方斡旋，是本周三条并行线索；油价已在定价这些不确定性。",
+      "unknown": "周一击中 4 号航站楼的伤亡；防空失守调查结论；沙特是否回应伊朗斡旋；特朗普是否决定直接参战。",
+      "confidence": "中高（拦截与机场声明来自沙特官方媒体；防空失守细节来自匿名官员）",
+      "sources": [
+        {
+          "label": "阿拉比亚：联军拦截射向利雅得与海米斯穆谢特导弹",
+          "url": "https://english.alarabiya.net/News/saudi-arabia/2026/10/12/saudiled-coalition-says-ballistic-missile-fired-by-houthis-intercepted"
+        },
+        {
+          "label": "中东日报：三枚弹道导弹被摧毁、机场再遭弹体",
+          "url": "https://english.aawsat.com/gulf/5328568-3-ballistic-missiles-fired-riyadh-khamis-mushait-are-destroyed"
+        },
+        {
+          "label": "美联社：沙特调查机场遇袭中防空为何失败",
+          "url": "https://apnews.com/article/saudi-yemen-houthis-riyadh-airport-40c6ab822df376688ce1a0955a044488"
+        },
+        {
+          "label": "半岛电视台：伊朗外长致电沙特愿促对话",
+          "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart"
+        },
+        {
+          "label": "中东之眼：伊朗称「没有军事解决办法」",
+          "url": "https://www.middleeasteye.net/news/no-military-solutions-iran-offers-mediate-saudi-houthi-conflict-escalates"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "霍尔木兹：伊朗称两日内第三艘油轮在「禁航线」触雷起火；布伦特突破每桶 107 美元，盖过俄柴油协议利好",
+      "tag": "续报：有新进展",
+      "facts": [
+        "阿纳多卢通讯社/论坛报：革命卫队海军称，一艘大型油轮关闭导航系统、无视警告走「禁止航线」后触雷，机舱爆炸起火，为周六以来第三起同类事件；伊方重申关闭导航系统的船只将被视为「敌对」。",
+        "《海事行政》：英国海上贸易行动办公室（UKMTO）报告海峡内再有出港油轮遇袭，船员安全；革命卫队另发布未经验证视频，画面似显示阿联酋相关油轮 Al Maqam 船尾。",
+        "Rig & Refinery（彭博行情转述）：10/12 布伦特收盘突破每桶 107 美元、日内涨逾 2%，为 9/29 以来最高；WTI 约 93.7 美元。高盛将 12 月布伦特预测从 85 上调至 90，估地缘溢价略超 20 美元/桶。",
+        "背景：特朗普 10/9 宣布的俄柴油供应协议未能抵消沙特机场遇袭与霍尔木兹航运风险对油价的推升。"
+      ],
+      "readingA": "伊方把「关导航=敌对」当作开火理由，实际上把海峡变成选择性封锁；油价走势说明市场更信霍尔木兹风险，而不信短期的俄柴油放行。",
+      "readingB": "部分袭击责任与船名仍依赖伊方声明和未验证视频，实际通航量下降可能被夸大；若美方扫雷与护航加强，溢价可能回落。",
+      "disagree": "分歧在于这是系统性关闭海峡，还是对「穿梭运油」的定点施压。",
+      "synthesis": "能源停火与柴油协议都还没改变价格：只要机场和油轮新闻不断，布伦特就会继续给地缘风险定价。",
+      "unknown": "第三艘船的船名、船旗与货量；UKMTO 与伊方所述是否为同一事件；海峡实际日通行量变化。",
+      "confidence": "中（油价有行情数据；具体袭击细节大量来自伊方单方声明，独立核实不足）",
+      "sources": [
+        {
+          "label": "论坛报/阿纳多卢：革命卫队称油轮触雷",
+          "url": "https://tribune.com.pk/story/2634380/irans-revolutionary-guard-navy-says-oil-tanker-struck-mine-in-strait-of-hormuz"
+        },
+        {
+          "label": "《海事行政》：UKMTO 报告再有油轮遇袭",
+          "url": "https://maritime-executive.com/article/ukmto-reports-third-strike-in-a-day-on-a-tanker-in-the-mideast"
+        },
+        {
+          "label": "Rig & Refinery：布伦特破 107 美元",
+          "url": "https://rigandrefinery.com/articles/brent-hits-107-bbl-as-hormuz-attacks-overrun-diesel-deal-5cf5b976"
+        },
+        {
+          "label": "半岛电视台：能源停火与俄油关系解读",
+          "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "微软发布 Maia 300：自研 AI 芯片将成推理主力，单机架 token 吞吐最高约 7 倍，2027 年投产并瞄准多吉瓦部署",
+      "tag": "新（科技）",
+      "facts": [
+        "CNBC：微软 10/12 公布第三代自研加速器 Maia 300，称推理将「主要」依赖自有硅片；Maia 300 2027 年开始生产，每机架装 96 颗（Maia 200 的两倍），号称每机架 token 吞吐最高约 7 倍，每兆瓦 token 数比 GPU 方案高约 40%。",
+        "CNBC：EVP Scott Guthrie 博文称目标是 Maia 系列多吉瓦级部署；总经理 Alistair Speirs 称训练仍与英伟达、AMD 合作，Maia 暂不可对外按小时租用。",
+        "State of AI 等转述：纳德拉称这是「迄今对自有硅片最大的赌注」；Evercore ISI 估计到 2027 年一季度 Maia 约占微软 AI 芯片开支的 10%。"
+      ],
+      "readingA": "云厂商把推理迁到自研芯片，是在用功耗和毛利对抗英伟达溢价；微软先服务自家 Copilot/365，说明短期目标是降本，不是另开一条对外芯片生意。",
+      "readingB": "训练仍绑英伟达，Maia 又不可外租，对芯片市场格局冲击有限；真正变量是 2027 产能与软件栈成熟度。",
+      "disagree": "分歧在于这是英伟达叙事的转折点，还是一次渐进的内部降本。",
+      "synthesis": "与同日 Meta 发布 frontier 模型一起，说明大厂在「模型」和「瓦特」两条线上同时加码；对投资者，电力与自研硅片正变成和参数量同等重要的指标。",
+      "unknown": "多吉瓦部署时间表；与台积电的实际产能锁定；对英伟达采购量的具体影响。",
+      "confidence": "高（微软官方与 CNBC 直接报道）",
+      "sources": [
+        {
+          "label": "CNBC：微软将主要用 Maia 做推理",
+          "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+        },
+        {
+          "label": "State of AI：以瓦特衡量的军备竞赛",
+          "url": "https://www.thestateofai.com/news/microsoft-maia-chips-ai-power-race"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Meta 发布首个 frontier 模型家族 Muse Wonder / Wonder Full，强调长期「主动记忆」，API 定价约每百万 token 输入 4 美元、输出 20 美元",
+      "tag": "新（科技）",
+      "facts": [
+        "TechCrunch、Meta 博客：超智能实验室 10/12 发布 Muse Wonder 与 Muse Wonder Full，为公司首个 frontier 级模型；官方称基准表现可比 Fable 5.1 与 GPT-6 Astra，尤其强调面向个人助手的长期记忆（MemoryBench）。",
+        "TechCrunch：Wonder 经 Meta Model API 提供，定价约每百万输入 token 4 美元、输出 20 美元；Wonder Full 仅向 Muse Code 订阅用户开放、不走 API；两者都将用于驱动 Muse 智能体。",
+        "TechCrunch：模型在俄亥俄州 Prometheus 数据中心训练；这是 Alexandr Wang 重组 Meta AI 以来首次真正的 frontier 发布（此前有轻量 Muse Spark）。"
+      ],
+      "readingA": "Meta 用闭源付费 frontier 模型换收入和助手黏性，意味着「开放权重」路线让位于商业化；记忆能力被当成差异化卖点，针对的是 Copilot/ChatGPT 的长期使用场景。",
+      "readingB": "基准来自自家评测，外部复现前不宜过度解读；Wonder Full 不开放 API，生态影响力可能不如定价相近的竞品。",
+      "disagree": "分歧在于这是 Meta 重回第一梯队的标志，还是一次营销意味更浓的追赶发布。",
+      "synthesis": "同一天微软赌瓦特、Meta 赌记忆与助手，AI 竞争从「谁参数更大」进一步拆成基础设施与产品形态两场比赛。",
+      "unknown": "独立基准复现结果；对 Muse 用户的实际开放时间表；训练算力与成本。",
+      "confidence": "高（公司博客与 TechCrunch 一致；基准待第三方验证）",
+      "sources": [
+        {
+          "label": "TechCrunch：Meta 发布 Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+        },
+        {
+          "label": "Meta：Introducing Muse Wonder",
+          "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "飓风「西蒙」贴岸北上未登陆：格雷罗州一人死亡，预报或周三夜以一级强度接近马萨特兰",
+      "tag": "续报：有新进展",
+      "facts": [
+        "法新社：墨西哥当局称「西蒙」周一仍为强飓风，沿太平洋沿岸缓行，已造成财产损失；格雷罗州奇尔潘辛戈一名 71 岁男子因挡土墙倒塌死亡。",
+        "美国国家飓风中心（周一下午公告）：中心位于卡沃科连特斯以西约 115 公里，向西西北缓移，持续风速约每小时 155 公里；预计今夜至周二靠近玛丽亚斯群岛，之后可能转向东北。",
+        "法新社转述民防官员：最新官方评估认为可能于周三夜以一级飓风强度影响锡那罗亚州马萨特兰一带。"
+      ],
+      "readingA": "风眼一直不登陆，反而拉长了暴雨窗口，山区洪水和泥石流风险可能高于风本身。",
+      "readingB": "强度已从四级回落到约二级/一级区间，若路径继续偏海，马萨特兰实际损失可能可控。",
+      "disagree": "分歧在于后半周转向登陆的概率，以及旅游城市的设施损失规模。",
+      "synthesis": "上一期最担心的巴亚尔塔港正面登陆并未发生；接下来看周三前后马萨特兰是否真正接风。",
+      "unknown": "最终登陆点与强度；港口/机场复航时间；更完整的伤亡与损失统计。",
+      "confidence": "中高（NHC 与法新社；路径仍有变数）",
+      "sources": [
+        {
+          "label": "牙买加观察家报/法新社：西蒙致一人死亡",
+          "url": "https://www.jamaicaobserver.com/2026/10/12/hurricane-simon-leaves-one-dead-causes-damage-mexicos-pacific-coast/"
+        },
+        {
+          "label": "美国国家飓风中心：西蒙公告",
+          "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/122051.shtml"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Kremlin has nothing to say on Trump's energy ceasefire, rejects Zelensky's truce proposal",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/kremlin-has-nothing-to-say-on-trumps-energy-ceasefire-rejects-zelenskys-truce-proposal-2/"
+    },
+    {
+      "n": 2,
+      "title": "IN BRIEF: Kremlin remarks on 'energy truce,' US negotiators’ efforts",
+      "outlet": "TASS",
+      "url": "https://tass.com/politics/2200911"
+    },
+    {
+      "n": 3,
+      "title": "Zelenskyy says Russia strikes energy facilities despite Trump claim of an energy ceasefire",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/russia-ukraine-energy-strikes-trump-ceasefire-6fdef6ff4d033b379c74e1d62183d078"
+    },
+    {
+      "n": 4,
+      "title": "Kremlin rebuffs Zelenskyy’s 60-day truce after Trump's energy ceasefire announcement",
+      "outlet": "POLITICO",
+      "url": "https://www.politico.com/news/2026/10/12/peskov-rebuffs-zelenskyy-s-60-day-truce-after-trump-s-energy-ceasefire-post"
+    },
+    {
+      "n": 5,
+      "title": "Trump Defends Russia Diesel Arrangement as Zelensky Reiterates Moscow Ignores Truce",
+      "outlet": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/86846"
+    },
+    {
+      "n": 6,
+      "title": "Saudi-led coalition intercepts 3 Houthi missiles targeting Riyadh, Khamis Mushait",
+      "outlet": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/saudi-arabia/2026/10/12/saudiled-coalition-says-ballistic-missile-fired-by-houthis-intercepted"
+    },
+    {
+      "n": 7,
+      "title": "3 Ballistic Missiles Fired at Riyadh, Khamis Mushait Are Destroyed",
+      "outlet": "Asharq Al-Awsat",
+      "url": "https://english.aawsat.com/gulf/5328568-3-ballistic-missiles-fired-riyadh-khamis-mushait-are-destroyed"
+    },
+    {
+      "n": 8,
+      "title": "Saudis probe how defense systems failed to stop deadly Houthi attack on Riyadh airport",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/saudi-yemen-houthis-riyadh-airport-40c6ab822df376688ce1a0955a044488"
+    },
+    {
+      "n": 9,
+      "title": "Iran’s FM urges diplomacy in call with Saudi counterpart",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/irans-fm-urges-diplomacy-in-call-with-saudi-counterpart"
+    },
+    {
+      "n": 10,
+      "title": "'No military solutions': Iran offers to mediate as Saudi-Houthi conflict escalates",
+      "outlet": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/no-military-solutions-iran-offers-mediate-saudi-houthi-conflict-escalates"
+    },
+    {
+      "n": 11,
+      "title": "Iran’s Revolutionary Guard Navy says oil tanker struck mine in Strait of Hormuz",
+      "outlet": "Tribune/Anadolu",
+      "url": "https://tribune.com.pk/story/2634380/irans-revolutionary-guard-navy-says-oil-tanker-struck-mine-in-strait-of-hormuz"
+    },
+    {
+      "n": 12,
+      "title": "UKMTO Reports Third Strike in a Day on a Tanker in the Mideast",
+      "outlet": "Maritime Executive",
+      "url": "https://maritime-executive.com/article/ukmto-reports-third-strike-in-a-day-on-a-tanker-in-the-mideast"
+    },
+    {
+      "n": 13,
+      "title": "Brent Hits $107/bbl as Hormuz Attacks Overrun Diesel Deal",
+      "outlet": "Rig & Refinery",
+      "url": "https://rigandrefinery.com/articles/brent-hits-107-bbl-as-hormuz-attacks-overrun-diesel-deal-5cf5b976"
+    },
+    {
+      "n": 14,
+      "title": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil"
+    },
+    {
+      "n": 15,
+      "title": "Microsoft will mainly use its Maia chips for AI inference",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+    },
+    {
+      "n": 16,
+      "title": "The New AI Arms Race Is Measured in Watts",
+      "outlet": "State of AI",
+      "url": "https://www.thestateofai.com/news/microsoft-maia-chips-ai-power-race"
+    },
+    {
+      "n": 17,
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+    },
+    {
+      "n": 18,
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "outlet": "Meta",
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/"
+    },
+    {
+      "n": 19,
+      "title": "Hurricane Simon leaves one dead, causes damage on Mexico's Pacific coast",
+      "outlet": "AFP/Jamaica Observer",
+      "url": "https://www.jamaicaobserver.com/2026/10/12/hurricane-simon-leaves-one-dead-causes-damage-mexicos-pacific-coast/"
+    },
+    {
+      "n": 20,
+      "title": "Hurricane Simon Public Advisory (NHC)",
+      "outlet": "NHC",
+      "url": "https://www.nhc.noaa.gov/mobile/text/refresh/MIATCPEP5+html/122051.shtml"
+    },
+    {
+      "n": 21,
+      "title": "Nvidia in early talks on Reflection AI (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2108996191451308306"
+    },
+    {
+      "n": 22,
+      "title": "Amazon in talks to buy Decart for ~$7B (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2109394351285805517"
+    },
+    {
+      "n": 23,
+      "title": "Broadcom CEO compares AI investors to casino gamblers (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2109627229424750952"
+    },
+    {
+      "n": 24,
+      "title": "Gemini 4 Argon nears public launch (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2109608106015539311"
+    }
+  ]
+}
