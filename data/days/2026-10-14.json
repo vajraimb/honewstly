@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-14",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/13 早至 10/14 早，周二为主），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/13）：联军空袭萨那燃料站后，胡塞导弹击中达兰沙特阿美行政楼（沙特称火情有限、无伤亡），利雅得机场停运延至 10/17；俄方 10/13 白天首次未打能源，但当晚导弹击中基辅第四热电厂，泽连斯基称伙伴未预警，美方被曝以情报与军援施压保护俄炼厂；霍尔木兹 10/11 单日 6 船中弹创纪录，布伦特回落至约 105 美元；科技方面，谷歌 Gemini 4 Argon 全面开放（续），路透曝 OpenAI 与 Anthropic 曾寻求控制外部安全评估发布内容（新）；美股芯片股续跌、摩根大通利润不及预期（新）。飓风「西蒙」仍在海上，降为索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "也门—沙特：联军空袭萨那燃料站后，胡塞导弹击中达兰沙特阿美行政楼引发火情；利雅得上空再拦截 4 枚导弹 2 架无人机，机场停运延至 10/17",
+      "tag": "续报：明显升级",
+      "facts": [
+        "BBC、半岛电视台：沙特领导的联军 10/13 先发布撤离令，随后空袭胡塞控制的萨那也门石油公司萨巴哈（al-Sabaha）设施；胡塞方面称该处「没有成品油库存」。胡塞发言人萨雷亚随即警告将对利雅得机场、利雅得的阿美炼厂和阿美总部进行「严厉而痛苦」的报复，并要求附近人员撤离。",
+        "路透（经 Al-Monitor 刊发）：一名阿美公司消息人士称，10/13 晚一枚弹道导弹击中东部达兰的沙特阿美总部园区一栋办公楼，顶部三层受损起火。沙特 Sabq 援引能源部官方消息称，达兰一栋阿美行政楼「被瞄准」，火情有限、无人员伤亡；阿美公司本身尚未发表声明。",
+        "BBC：联军发言人马利基称，空袭后在利雅得附近拦截 4 枚导弹和 2 架无人机；另有报道称联军拦截射向达兰和哈拉德的两枚弹道导弹，拦截碎片落入达兰居民区。",
+        "CNBC TV18（援引航行通告）：利雅得哈立德国王国际机场将关闭至格林尼治时间 10/17 21:00；汉莎集团取消飞利雅得航班至 10/16，法荷航暂停至月底。沙特内阁（王储主持）10/13 称胡塞将为袭击承担「后果」。美联社统计近期袭击已致至少 14 人死亡。"
+      ],
+      "readingA": "冲突已从机场扩展到沙特经济命脉：阿美总部即使只受轻微损失，象征意义也很大，说明联军「打萨那—胡塞报复」的循环正在加速，沙特防空难以覆盖所有目标（美联社分析了其防空困境）。",
+      "readingB": "沙特官方强调「有限火情、无伤亡」，且同晚多数来袭弹体被拦截；胡塞的「报复」可能更多是威慑和宣传，实际破坏有限，石油生产未见受损报道。",
+      "disagree": "分歧在于损害规模：路透消息人士说顶部三层受损起火，能源部说只是有限火情；以及这是否意味着胡塞已能稳定打击东部油区核心。",
+      "synthesis": "能确认的是：联军首次公开打击萨那油料设施，胡塞当晚即对阿美设施实施了至少一次命中，利雅得机场整周停运。接下来看沙特承诺的「后果」是什么形式、美国是否直接介入，以及是否有产油设施受损。",
+      "unknown": "达兰受损的实际程度；萨巴哈设施空袭的伤亡；阿美生产或出口是否受影响；美方下一步。",
+      "confidence": "中（命中阿美行政楼有沙特官方与路透消息人士两方面确认，但损害描述不一致；拦截数字来自联军单方）",
+      "sources": [
+        {
+          "label": "BBC：联军打萨那燃料站后利雅得附近拦截导弹",
+          "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o"
+        },
+        {
+          "label": "半岛电视台：胡塞威胁阿美设施与机场",
+          "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
+        },
+        {
+          "label": "Al-Monitor（路透）：导弹击中阿美总部",
+          "url": "https://www.al-monitor.com/originals/2026/10/missile-hits-headquarters-saudi-aramco-source-says-houthi-conflict-escalates"
+        },
+        {
+          "label": "Sabq：能源部称达兰阿美行政楼有限火情、无伤亡",
+          "url": "https://sabq.org/en/article/form0ax"
+        },
+        {
+          "label": "CNBC TV18：利雅得机场停运至本周六",
+          "url": "https://www.cnbctv18.com/world/saudi-houthi-conflict-riyadhs-airport-to-remain-shut-this-week-as-airlines-cancel-services-20010399.htm"
+        },
+        {
+          "label": "美联社：沙特为何难以防御胡塞袭击",
+          "url": "https://apnews.com/article/saudi-houthi-yemen-iran-d5c0345968e682ac551e9cb99ecfeec6"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "俄乌：10/13 白天俄方首次未打能源目标，但当晚弹道导弹击中基辅第四热电厂与住宅楼；泽连斯基称伙伴未提供预警，美方被曝以情报和军援施压保护俄炼厂",
+      "tag": "续报：重要新进展",
+      "facts": [
+        "路透（经海峡时报、法国24）：俄国防部 10/13 的夜间打击通报首次未提及乌克兰能源设施，俄军仍以弹道导弹和无人机打击城市交通与物流，哈尔科夫至少 4 人死亡；一枚导弹落在距利沃夫一座供热电厂仅约 1 公里处。泽连斯基称乌方已两天未打俄炼厂，而俄方 10/12 仍打击了 6 处乌能源设施。",
+        "BBC、基辅邮报：10/13 深夜俄弹道导弹击中基辅第四热电厂（CHP-4）和一栋九层住宅楼，1 人死亡；基辅邮报称 13 人受伤，基辅独立报称 21 人受伤（统计不一）。美联社：泽连斯基称两轮打击基辅（含此前 5 枚弹道导弹）都没有收到伙伴的提前预警。",
+        "基辅独立报（援引消息人士）：美方曾威胁若乌方继续打俄炼厂，将暂停情报共享和 PURL 军购通道；但乌外长西比哈和特朗普均称情报共享仍在继续，特朗普否认已停止。基辅独立报还报道特朗普称双方同意能源停火是「因为我说他们同意了」。",
+        "阿纳多卢社：佩斯科夫 10/13 称与美方就能源停火的「接触仍在进行」，并称俄美柴油协议与俄方对乌立场「没有直接关联」，克宫对美停止对乌情报共享的报道以及《华盛顿邮报》所报美欧和平方案「不知情」。",
+        "半岛电视台：保加利亚总理拉德夫称 10/13 凌晨保加利亚近海两艘商船遭无人机袭击，乌资马耳他籍船 Chelsea 3 中三架无人机受损、15 名船员获救；拉德夫称尚无证据显示谁所为但「结果有利于俄罗斯」，将召见俄大使；冯德莱恩谴责。基辅独立报称此类袭击中有 11 名船员在海上失踪。"
+      ],
+      "readingA": "俄方白天「放过」能源、晚上又打基辅热电厂，说明所谓能源停火根本没有落地；美方却在向乌方施压保护俄炼厂，等于对一方单向约束，乌方面临被迫让步的风险。",
+      "readingB": "俄国防部通报首次不提能源目标，可能是试探性降级的信号；乌方暂停打炼厂、美俄接触仍在，若双方各退一步，冬季前的部分停火仍有可能。",
+      "disagree": "分歧在于 10/13 白天的「未打能源」是有意降级还是偶然，以及美国施压是在促成停火还是在偏袒俄方。",
+      "synthesis": "现状是：乌方单方面暂停打炼厂约两天，俄方能源打击时断时续、当晚再打基辅热电厂；美国施压细节来自匿名消息人士，官方否认已切断情报。黑海商船遇袭让冲突外溢到北约成员国近海，是新的风险点。",
+      "unknown": "俄方是否有任何书面或口头停火承诺；美欧和平方案的具体内容；黑海袭击的发动方；基辅受伤人数的准确数字。",
+      "confidence": "中（打击与伤亡有多家媒体报道；美方施压和和平方案依赖匿名消息）",
+      "sources": [
+        {
+          "label": "海峡时报（路透）：俄方首次未打能源目标",
+          "url": "https://www.straitstimes.com/world/europe/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce"
+        },
+        {
+          "label": "BBC：俄军打击基辅关键电厂",
+          "url": "https://www.bbc.com/news/articles/ck20r9qpw505o"
+        },
+        {
+          "label": "基辅邮报：基辅 CHP-4 遇袭 1 死 13 伤",
+          "url": "https://www.kyivpost.com/post/86971"
+        },
+        {
+          "label": "美联社：泽连斯基称未获伙伴预警",
+          "url": "https://apnews.com/article/russia-ukraine-war-zelenkyy-no-warning-missile-strike-10c54e55f31aded2db95242fdb4fd153"
+        },
+        {
+          "label": "基辅独立报：美方威胁切断情报与军购保护俄炼厂",
+          "url": "https://kyivindependent.com/us-threatens-to-cut-intel-sharing-with-ukraine-in-push-to-protect-russian-oil-refineries-sources-confirm/"
+        },
+        {
+          "label": "阿纳多卢社：克宫称接触仍在",
+          "url": "https://www.aa.com.tr/en/russia-ukraine-war/russia-continuing-contacts-with-us-on-potential-energy-ceasefire-with-ukraine-kremlin/4087308"
+        },
+        {
+          "label": "半岛电视台：保加利亚近海商船遇无人机袭击",
+          "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "霍尔木兹：UKMTO 称 10/11 单日 6 艘船中弹、为开战以来最多；ISW 称伊朗针对船对船转运；布伦特 10/13 回落约 1.3% 至约 105 美元",
+      "tag": "续报：有新进展",
+      "facts": [
+        "Al-Monitor：英国海上贸易行动办公室（UKMTO）报告，10/11 至少 6 艘船在海峡内外中弹（2 艘原油轮、1 艘货船、3 艘成品油轮），为美伊二月开战以来单日最多；印度外交部称其中一起事件有 2 名印度船员失踪。此前一架美军战机击瘫了一艘被指试图突破美方封锁的涉伊油轮。伊朗革命卫队称其中一艘超大型油轮属于阿联酋 ADNOC，ADNOC 未确认。",
+        "美联社：美国战争研究所（ISW）10/13 称，伊朗似乎在针对霍尔木兹附近进行船对船石油转运的商船，以削弱能源运输能力。",
+        "financefeeds（援引 Trading Economics、美联社）：布伦特 10/13 约报每桶 105.2 美元，下跌约 1.3%，结束三连涨；伊朗所称两日内第三艘「违规」超级油轮遇袭未获独立证实。",
+        "海湾新闻：国际货币基金组织将中东和中亚 2026 年增长预测下调至收缩 0.3%；伊朗否认英方所称针对英国费尔福德空军基地的阴谋。"
+      ],
+      "readingA": "单日 6 船中弹说明伊朗正在把「封锁对封锁」升级为对一切试图绕行船只的系统性打击，航运保险和运费成本会持续抬升油价底部。",
+      "readingB": "油价反而回落，说明市场认为原油仍在流动（美方称海峡开放），袭击推高的是运输成本而非实际断供；俄柴油供应和即将公布的美国 CPI 也在压制油价。",
+      "disagree": "分歧在于霍尔木兹是在「实质性断流」还是「高成本通行」。",
+      "synthesis": "袭击频率创新高，但价格未同步上冲；判断关键是有无确认的油轮损失、主要船东是否停航，以及美伊谈判是否重启。",
+      "unknown": "6 艘船的具体损失与伤亡；ADNOC 油轮是否确实中弹；实际通过量的最新数字。",
+      "confidence": "中（UKMTO 事件数较可靠；伊朗方面说法多未经证实）",
+      "sources": [
+        {
+          "label": "Al-Monitor：美军打击涉伊油轮后霍尔木兹袭击激增",
+          "url": "https://www.al-monitor.com/originals/2026/10/hormuz-attacks-spike-after-us-airstrike-iran-linked-tanker"
+        },
+        {
+          "label": "美联社：伊朗加大对霍尔木兹航运威胁",
+          "url": "https://apnews.com/article/saudi-arabia-yemen-houthis-october-13-2026-3e6e5f152048c035081eac369f62ed4f"
+        },
+        {
+          "label": "The National：霍尔木兹袭击激增",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/10/13/strait-of-hormuz-attacks-surge-as-iran-steps-up-campaign-against-us-backed-oil-shipping/"
+        },
+        {
+          "label": "financefeeds：布伦特 105 美元的多空情景",
+          "url": "https://financefeeds.com/brent-crude-oil-price-105-irgc-third-supertanker-hormuz-cpi-bull-114-bear-97/"
+        },
+        {
+          "label": "海湾新闻：IMF 下调中东增长等",
+          "url": "https://gulfnews.com/world/mena/us-iran-war-yemen-says-950-houthis-killed-iran-denies-raf-fairford-plot-irgc-warns-foreign-powers-off-strait-of-hormuz-1.500708295"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "谷歌 Gemini 4 Argon 全面开放：API、Gemini 应用和搜索 AI 模式上线，100 万 token 上下文，限时价每百万 token 输入 2 美元、输出 10 美元",
+      "tag": "续报（科技）：正式全面上线",
+      "facts": [
+        "谷歌官方博客 10/13：Gemini 4 Argon 面向开发者和企业通过 AI Studio 与 Gemini API 全球上线，Google AI Ultra 订阅用户可在 Antigravity 中使用，Ultra 和 Pro 订阅用户可在 Gemini 应用及搜索 AI 模式中使用。",
+        "谷歌称该模型面向复杂科研、编程和智能体任务，Gemini API 提供 100 万 token 的统一输入输出上限，并引入新的「续写协议」。",
+        "定价：推广价每百万输入 token 2 美元、输出 10 美元（缓存输入 95% 折扣）；推广期 2026 年 11 月 30 日结束后为输入 4 美元、输出 20 美元。谷歌称这只是 Gemini 4 家族的开端。",
+        "本栏 10/10 曾报道 Argon 的受限发布，此次为全面开放。"
+      ],
+      "readingA": "推广价比上周 Meta Muse Wonder 公布的 API 价（输入 4、输出 20 美元）低一半，且之后恢复到同一价位，说明头部模型正进入以价格和分发（搜索、应用、开发工具）争夺开发者的阶段。",
+      "readingB": "官方材料主要是能力描述，缺少可独立核验的基准对比；推广价只维持约七周，长期成本与对手持平，真正的差异要看实际任务表现。",
+      "disagree": "分歧在于这是一次能力跃升，还是主要靠价格和分发渠道的竞争。",
+      "synthesis": "能确认的是上线范围和价格；性能高下需等待第三方评测。对开发者而言，11 月底前是低成本试用窗口。",
+      "unknown": "第三方基准表现；Gemini 4 家族其他型号的时间表；免费用户何时可用。",
+      "confidence": "高（上线与价格来自谷歌官方）",
+      "sources": [
+        {
+          "label": "谷歌博客：Gemini 4 Argon 面向所有人上线",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        },
+        {
+          "label": "谷歌博客：开发者可用 Gemini 4 Argon",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "路透独家：OpenAI 与 Anthropic 曾寻求对外部安全评估方发布内容的较大控制权，与公开承诺的「编辑独立」形成张力",
+      "tag": "新（科技）",
+      "facts": [
+        "路透（经 CNA 刊发）：两名知情人士称，Anthropic 和 OpenAI 担心嵌入式评估人员带走商业机密，曾寻求对评估方可发布内容的较大控制；截至 10/5 两家仍在争取严格的编辑控制，到 10/8 Anthropic 与部分评估方的谈判出现变化。",
+        "背景：Anthropic CEO 阿莫代上月称外部评估方应能「不受编辑控制」地发布关键发现，OpenAI 数日后表示评估方应有「编辑独立」。独立评估也是特朗普与 AI 企业高管上月签署的《白宫超级智能协议》四项安全措施之一，但协议未规定如何执行。",
+        "Anthropic 回应称上述描述不能准确反映其全部讨论：对合作过的评估方，方法、标准、结论和发布内容由评估方控制；对新评估公司，它保留评论和批准报告的权利。OpenAI 称不寻求批准报告全文，标准做法是删去机密信息，评估方可披露是否有重大删改。",
+        "路透称，METR 和 Redwood Research 关于 Hugging Face 事件的报告曾被 OpenAI 删去非公开信息；两家机构称结论未受影响，但承认在起草和删改时考虑过不吓退开发者引入外部评估的风险。"
+      ],
+      "readingA": "公开承诺「独立」与私下谈判控制之间的落差，说明在缺乏法定标准时，评估方的访问权本身就是筹码，所谓独立评估容易被企业左右。",
+      "readingB": "保护商业机密是合理诉求，两家公司都给出了具体边界（对老合作方放权、只删机密），谈判也在向更开放方向演变，不宜简单视为「掩盖」。",
+      "disagree": "分歧在于企业保留的权限是正常的保密安排，还是实质上的审稿权。",
+      "synthesis": "这条新闻的关键不在谁对谁错，而在于目前没有统一规则：谁选评估方、能看什么、能发什么，都由谈判决定。后续值得看监管或行业标准是否会把这些写成规则。",
+      "unknown": "最终协议条款；其他头部实验室的做法；被删改内容是否涉及风险判断。",
+      "confidence": "中高（路透独家依赖匿名人士，但两家公司均作出回应）",
+      "sources": [
+        {
+          "label": "CNA（路透独家）：AI 独立评估背后的发布权之争",
+          "url": "https://www.channelnewsasia.com/business/exclusive-behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-6455551"
+        },
+        {
+          "label": "The Verge：OpenAI 与 Anthropic 曾想控制评估方发布内容",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1010444/openai-and-anthropic-reportedly-wanted-control-over-what-safety-reviewers-can-publish"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "美股：芯片股续跌，长鑫存储服务器内存进展拖累美光跌约 5%，应用材料跌约 7%；摩根大通每股收益不及预期、高盛超预期，三大指数涨跌互现",
+      "tag": "新（市场/科技）",
+      "facts": [
+        "CNBC：10/13 标普 500 微跌 0.02% 收于 7805.45 点，纳指跌 0.15% 至 27204.38 点，道指跌 180.45 点（0.35%）至 51670.10 点。",
+        "路透（经 Investing.com）、24/7 Wall St.：中国长鑫存储（CXMT）公布更高密度服务器内存技术进展，引发对内存价格竞争的担忧，美光跌约 5%，SanDisk 跌约 4%；应用材料跌约 7%，原因是其未给出晶圆厂设备支出展望，加上年内涨幅约 80% 后的获利了结，泛林、科磊跌约 4%。",
+        "摩根大通 8-K：第三季度净利润 153 亿美元、每股 5.57 美元，低于约 5.90 美元的市场预期；剔除 6.58 亿美元证券损失后为每股 5.75 美元，营收 509 亿美元、同比增 8%。高盛第三季度营收 186.8 亿美元、每股收益 17.01 美元，股票交易收入增 72% 至 64.4 亿美元，超出预期。"
+      ],
+      "readingA": "中国在存储领域的追赶已足以影响美国芯片股定价，叠加 AI 硬件估值偏高，芯片板块的回调可能还会延续。",
+      "readingB": "这更像是大涨一年后的获利了结：应用材料的下跌主因是缺少展望而非业绩恶化，指数整体基本持平，市场广度并不差。",
+      "disagree": "分歧在于这是基本面风险（中国竞争、AI 资本开支见顶）还是情绪性回调。",
+      "synthesis": "本周看点是美国 CPI（周三）和更多财报；芯片股的方向取决于 AI 资本开支信号能否压过对中国竞争的担忧。",
+      "unknown": "长鑫新技术的量产时间与良率；美光等公司的回应。",
+      "confidence": "中高（指数与财报数字来自 CNBC 与 SEC 文件；下跌原因属市场解读）",
+      "sources": [
+        {
+          "label": "CNBC：10/13 美股行情",
+          "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "Investing.com（路透）：中国内存报道与 AI 支出担忧拖累芯片股",
+          "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-extend-slide-as-china-memory-report-ai-spending-jitters-hit-sector-4947160"
+        },
+        {
+          "label": "Investing.com：应用材料为何跌 7%",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-applied-materials-stock-down-7-today-93CH-4947309"
+        },
+        {
+          "label": "SEC：摩根大通第三季度 8-K",
+          "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026065582/jpm-20261013.htm"
+        },
+        {
+          "label": "6ix：高盛第三季度业绩",
+          "url": "https://6ix.com/news/goldman-sachs-2026-third-quarter-earnings-results"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Russia continuing contacts with US on potential energy ceasefire with Ukraine: Kremlin",
+      "outlet": "Anadolu",
+      "url": "https://www.aa.com.tr/en/russia-ukraine-war/russia-continuing-contacts-with-us-on-potential-energy-ceasefire-with-ukraine-kremlin/4087308"
+    },
+    {
+      "n": 2,
+      "title": "Russia hits no energy targets in Ukraine for first time since Trump's 'truce'",
+      "outlet": "Straits Times (Reuters)",
+      "url": "https://www.straitstimes.com/world/europe/russia-hits-no-energy-targets-in-ukraine-for-first-time-since-trumps-truce"
+    },
+    {
+      "n": 3,
+      "title": "Russia pounds Ukrainian cities, spares energy targets for first time since Trump 'ceasefire'",
+      "outlet": "France 24",
+      "url": "https://www.france24.com/en/europe/20261013-russia-pounds-ukrainian-cities-spares-energy-targets-for-first-time-since-trump-ceasefire"
+    },
+    {
+      "n": 4,
+      "title": "Kyiv stopped attacking Russia's oil refineries, Moscow continues pounding Ukraine's energy grid, Zelensky says",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/kyiv-stopped-attacking-russias-oil-refineries-moscow-continues-pounding-ukraines-energy-grid-zelensky-says/"
+    },
+    {
+      "n": 5,
+      "title": "Zelenskyy says Ukraine received no intelligence from partners about missiles headed to Kyiv",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/russia-ukraine-war-zelenkyy-no-warning-missile-strike-10c54e55f31aded2db95242fdb4fd153"
+    },
+    {
+      "n": 6,
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/ck20r9qpw505o"
+    },
+    {
+      "n": 7,
+      "title": "Russian missile strike on Kyiv residential building kills 1, injures 21",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/kyiv-residential-building-struck-by-russia-as-ukraine-says-intelligence-sharing-from-partners-interrupted/"
+    },
+    {
+      "n": 8,
+      "title": "US threatens to cut intel sharing, arms shipments to Ukraine to protect Russian oil refineries, sources confirm",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/us-threatens-to-cut-intel-sharing-with-ukraine-in-push-to-protect-russian-oil-refineries-sources-confirm/"
+    },
+    {
+      "n": 9,
+      "title": "Trump Denies US Has Stopped Sharing Intelligence With Ukraine",
+      "outlet": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/86964"
+    },
+    {
+      "n": 10,
+      "title": "Ukraine war latest: Russian missiles slam central Kyiv before air raid alert sounds（含法国海军登检俄影子舰队油轮）",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-russian-missiles-slam-central-kyiv-before-air-raid-alert-sounds/"
+    },
+    {
+      "n": 11,
+      "title": "Drone attack sinks ship off Bulgaria's Black Sea coast, PM says",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says"
+    },
+    {
+      "n": 12,
+      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o"
+    },
+    {
+      "n": 13,
+      "title": "Houthis threaten Saudi Aramco facilities, airports amid escalating conflict",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/13/houthis-threaten-saudi-arabias-aramco-facilities-and-airports"
+    },
+    {
+      "n": 14,
+      "title": "Missile hits headquarters of Saudi Aramco, source says",
+      "outlet": "Al-Monitor (Reuters)",
+      "url": "https://www.al-monitor.com/originals/2026/10/missile-hits-headquarters-saudi-aramco-source-says-houthi-conflict-escalates"
+    },
+    {
+      "n": 15,
+      "title": "Ministry of Energy: Aramco administrative building in Dhahran targeted, limited fire, no injuries",
+      "outlet": "Sabq",
+      "url": "https://sabq.org/en/article/form0ax"
+    },
+    {
+      "n": 16,
+      "title": "Riyadh's airport to remain shut this week as airlines cancel services",
+      "outlet": "CNBC TV18",
+      "url": "https://www.cnbctv18.com/world/saudi-houthi-conflict-riyadhs-airport-to-remain-shut-this-week-as-airlines-cancel-services-20010399.htm"
+    },
+    {
+      "n": 17,
+      "title": "Why Saudi Arabia has struggled to defend itself against the Houthis' recent attacks",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/saudi-houthi-yemen-iran-d5c0345968e682ac551e9cb99ecfeec6"
+    },
+    {
+      "n": 18,
+      "title": "Hormuz attacks spike after US airstrike on Iran-linked tanker",
+      "outlet": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/10/hormuz-attacks-spike-after-us-airstrike-iran-linked-tanker"
+    },
+    {
+      "n": 19,
+      "title": "Strait of Hormuz attacks surge as Iran steps up campaign against US-backed oil shipping",
+      "outlet": "The National",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/13/strait-of-hormuz-attacks-surge-as-iran-steps-up-campaign-against-us-backed-oil-shipping/"
+    },
+    {
+      "n": 20,
+      "title": "Iran increases threat to Strait of Hormuz shipping, and other Middle East developments",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/saudi-arabia-yemen-houthis-october-13-2026-3e6e5f152048c035081eac369f62ed4f"
+    },
+    {
+      "n": 21,
+      "title": "Yemen says 950 Houthis killed; Iran denies RAF Fairford plot; IMF cuts Middle East outlook",
+      "outlet": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/us-iran-war-yemen-says-950-houthis-killed-iran-denies-raf-fairford-plot-irgc-warns-foreign-powers-off-strait-of-hormuz-1.500708295"
+    },
+    {
+      "n": 22,
+      "title": "Gemini 4 Argon is now available for everyone",
+      "outlet": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+    },
+    {
+      "n": 23,
+      "title": "Exclusive: Behind AI industry's call for independent reviews, a fight over what gets made public",
+      "outlet": "CNA (Reuters)",
+      "url": "https://www.channelnewsasia.com/business/exclusive-behind-ai-industrys-call-independent-reviews-fight-over-what-gets-made-public-6455551"
+    },
+    {
+      "n": 24,
+      "title": "US chip stocks extend slide as China memory report, AI spending jitters hit sector",
+      "outlet": "Investing.com (Reuters)",
+      "url": "https://www.investing.com/news/stock-market-news/us-chip-stocks-extend-slide-as-china-memory-report-ai-spending-jitters-hit-sector-4947160"
+    },
+    {
+      "n": 25,
+      "title": "Stock market news for Oct. 13, 2026",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 26,
+      "title": "Bank earnings October 2026: JPMorgan, Goldman, Wells Fargo, Citigroup",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html"
+    },
+    {
+      "n": 27,
+      "title": "NVIDIA Run:ai is now open source as part of NVIDIA DSX AI Factory Platform",
+      "outlet": "NVIDIA",
+      "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
+    },
+    {
+      "n": 28,
+      "title": "Global PC app ecosystem ready for NVIDIA RTX Spark（10/16 上市，Nemotron 3.5 Bolt 10/15 发布）",
+      "outlet": "NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
+    },
+    {
+      "n": 29,
+      "title": "Europe's alternative to Trump's China trade war（欧中混动车配额细节：年 35 万辆，最早 12 月起）",
+      "outlet": "Axios",
+      "url": "https://www.axios.com/2026/10/13/europes-alternative-to-trumps-china-trade-war"
+    },
+    {
+      "n": 30,
+      "title": "Hurricane Simon advisory 24A（仍在海上，墨西哥本土警报已解除）",
+      "outlet": "storms.report (NHC)",
+      "url": "https://storms.report/storm/ep202026/advisory/24A"
+    },
+    {
+      "n": 31,
+      "title": "UN adopts pandemic preparedness declaration 153-3 amid US opposition (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2109778053010251941"
+    },
+    {
+      "n": 32,
+      "title": "Helen Branswell, infectious disease reporter, dies at 69 (X 汇总)",
+      "outlet": "X",
+      "url": "https://x.com/i/trending/2110082407856484448"
+    }
+  ]
+}
