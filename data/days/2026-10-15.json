@@ -1,0 +1,503 @@
+{
+  "date": "2026-10-15",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/14 早至 10/15 早，周三为主），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/14）：乌方称星链被限速至 160 公里/小时、马斯克把责任推给美国政府，美乌裂痕加深（新）；俄军 10/13—14 夜大规模打能源致约 60 万人断电，「能源停火」名存实亡（续）；霍尔木兹两艘集装箱船沉没、袭击频率创新高（续，升级）；路透称阿美总部受损远超官方说法（续）；美国 9 月 CPI 3.7% 超预期、纳指跌 1.88%（新）；教宗良十四世肺腺癌手术（新）；Character.AI 破产、OpenAI 偷录案（新）。Gemini 4 Argon、AI 安全评估控制权争议等已报内容不再重复。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "美乌裂痕加深：乌方称 SpaceX 一夜之间把星链终端限速至 160 公里/小时，拦截与打击无人机任务受阻；马斯克称星盾限制由美军和总统决定，美官员否认插手；泽连斯基称感到被特朗普「背叛」",
+      "tag": "新：重大",
+      "facts": [
+        "BBC、NBC：泽连斯基国防科技顾问别斯克列斯特诺夫 10/14 在 Telegram 称，SpaceX 10/13 夜间未经通知对星链终端设置了 160 公里/小时（100 英里/小时）的速度上限，超速即断连，「已导致多项任务失败」，并称此举「不可能是巧合，与当前政治局势有关」。乌国防部消息人士称，受影响的主要是拦截无人机和中程打击无人机，前线后勤、侦察和信号中继能力也被削弱；乌方是向客服投诉后才得知限制。",
+        "BBC、Axios：马斯克在 X 上称，军用版「星盾」（Starshield）归美国政府所有和控制，「任何速度或使用限制都由美军、最终由美国总统决定」；民用星链只能用于民用或防御用途，不能用于进攻性军事行动。Axios 援引一名美国高级官员称，特朗普政府与星链限制「毫无关系」。SpaceX 未正式置评。",
+        "海峡时报（路透）、Axios：泽连斯基接受英国主持人皮尔斯·摩根采访时说「希望这是个错误，也许是重大技术问题」，请求恢复服务。前国防部长费多罗夫随后称 160 公里/小时以下的服务正在恢复；但乌国防部称限速仍在，远低于正常水平。NBC 援引泽连斯基发言人称，限制在 10/14 深夜仍未解除。",
+        "卫报、CNN：泽连斯基称因俄柴油协议、星链限制等感到被特朗普「背叛」。乌克兰真理报：泽连斯基 10/13 称已向华盛顿提交新一轮谈判提议，愿在未来几天与美方特使威特科夫、库什纳会面。美联社：乌方同时称连续两晚未收到西方伙伴对俄弹道导弹的预警（上期已报），特朗普坚称情报共享仍在继续。"
+      ],
+      "readingA": "时间点与美方要求乌方停打俄炼厂、柴油协议争端高度重合，加上上期曝出的「以情报和军援施压」，乌方有理由把限速看成华盛顿的施压工具；星链是乌军无人机体系的通信骨干，限速直接削弱其防空拦截。",
+      "readingB": "马斯克把责任推给美国政府、美官员又否认，目前没有任何文件或官方说法证明这是政治决定；也可能是 SpaceX 落实「不用于进攻」的既有政策或技术调整，且服务已部分恢复。",
+      "disagree": "核心分歧是：限速是谁决定的（SpaceX、美军还是白宫），以及目的究竟是政治施压还是政策合规。",
+      "synthesis": "可以确认的是：限速确实发生、乌方事先不知情、作战受到影响、部分服务已恢复。责任归属目前只有相互矛盾的说法。接下来看 SpaceX 或五角大楼是否正式解释，以及乌方的新谈判提议是否换来美方缓和。",
+      "unknown": "限速的决策者与法律依据；是否会恢复到原有速度；美国情报共享是否真的有中断；乌方新提议的内容。",
+      "confidence": "中（限速及影响有乌方官员和多家媒体证实；决策者归属仅有马斯克与匿名美官员的相反说法）",
+      "sources": [
+        {
+          "label": "BBC：星链限速影响乌前线行动",
+          "url": "https://www.bbc.com/news/articles/cm2d6e62p49do"
+        },
+        {
+          "label": "BBC：马斯克称限制由美国政府决定",
+          "url": "https://www.bbc.com/news/articles/c8wy9veedgygo"
+        },
+        {
+          "label": "Axios：星链限制引发对马斯克、特朗普报复的怀疑",
+          "url": "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump"
+        },
+        {
+          "label": "NBC：乌称星链新限制扰乱军事行动",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412"
+        },
+        {
+          "label": "卫报：泽连斯基称感到被背叛",
+          "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
+        },
+        {
+          "label": "乌克兰真理报：泽连斯基提议与威特科夫、库什纳新会谈",
+          "url": "https://www.pravda.com.ua/eng/news/2026/10/13/8057863/"
+        },
+        {
+          "label": "海峡时报：While You Were Sleeping 10/15",
+          "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-oct-15-2026"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "俄乌「能源停火」名存实亡：俄军 10/13—14 夜间大规模打击，泽连斯基称 26 处电力设施和 4 处油气设施受损、约 60 万人断电；俄方指乌方打击两座炼厂，乌方称「假消息」；克宫称停火范围「尚未确定」",
+      "tag": "续报：明显升级",
+      "facts": [
+        "CNBC、Politico：泽连斯基 10/14 称，俄军夜间至上午的打击造成「电力系统 26 处设施和油气领域 4 处设施严重受损」，基辅和哈尔科夫地区至少 60 万人断电，并称这是对美国「前所未有的公然不尊重」。Politico 指出，自特朗普 10/11（周日）宣布能源停火以来，乌方未再打击俄能源设施。",
+        "联合国新闻（援引乌方）：基辅至少 3 人死亡，哈尔科夫遭 39 枚弹道导弹和 120 多架无人机等袭击。基辅独立报统计过去一天全国至少 10 人死亡、91 人受伤，基辅至少 4 死 25 伤（各方死亡统计不一）。BBC/路透：俄国防部称打击目标是基辅和哈尔科夫地区「供乌军使用的」通信与能源设施。",
+        "欧洲新闻台：俄副总理诺瓦克称乌方 10/14 袭击了萨拉托夫州和梁赞州两座炼油厂，「乌方没有表现出走向能源停火的意愿」；泽连斯基顾问利特温称这是「假消息」，称其他目标被打但炼厂没有。",
+        "路透（经 Devdiscourse）：克宫 10/14 表示，俄乌能源停火的范围尚未确定。"
+      ],
+      "readingA": "俄方在停火宣布后反而发动更大规模的能源打击，并抢先指责乌方违约，说明莫斯科把「停火」当作约束乌方打炼厂、同时保留自身打击自由的工具。",
+      "readingB": "俄方从未正式确认停火，克宫一直说范围未定；在没有书面协议的情况下，双方各自按军事需要行动，「违约」之说本身缺乏基础。",
+      "disagree": "分歧在于是否存在一个双方都接受的停火，以及谁在先破坏它；炼厂是否被打，双方说法完全相反。",
+      "synthesis": "事实层面：俄方继续大规模打能源，乌方声称已停打俄能源但被俄方指控打了两座炼厂，克宫不承认有确定的停火范围。所谓能源停火目前没有可核查的条款，也没有执行机制。",
+      "unknown": "萨拉托夫、梁赞炼厂是否遇袭；断电恢复时间；美方对俄此轮打击的反应。",
+      "confidence": "中高（打击规模与断电有多家媒体和联合国援引；伤亡统计和炼厂说法存在分歧）",
+      "sources": [
+        {
+          "label": "CNBC：俄军猛击乌能源设施致 60 万人断电",
+          "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html"
+        },
+        {
+          "label": "Politico：泽连斯基的能源打击两难",
+          "url": "https://www.politico.com/newsletters/national-security-daily/2026/10/14/zelenskyys-dilemma-on-energy-strikes-01118562"
+        },
+        {
+          "label": "联合国新闻 10/14",
+          "url": "https://news.un.org/en/audio/2026/10/1168593"
+        },
+        {
+          "label": "基辅独立报：过去一天至少 10 死 91 伤",
+          "url": "https://kyivindependent.com/russian-attacks-kill-at-least-10-injure-91-across-ukraine-over-past-day-as-ballistic-missiles-strike-kyiv-for-second-straight-night/"
+        },
+        {
+          "label": "欧洲新闻台：俄乌就能源停火互相指责",
+          "url": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv"
+        },
+        {
+          "label": "Devdiscourse（路透）：克宫称停火范围未定",
+          "url": "https://www.devdiscourse.com/article/international/3992240-kremlin-says-scope-of-russia-ukraine-energy-ceasefire-has-not-been-determined"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "霍尔木兹：两艘集装箱船沉没，伊朗称一艘「触雷」、UKMTO 称遭不明射弹击中；10/11 以来至少 10 艘船遇袭创开战以来新高；伊朗官员称新战术意在影响美国中期选举",
+      "tag": "续报：明显升级",
+      "facts": [
+        "BBC、卫报：新加坡籍集装箱船 GFS Pride 10/13 遇袭起火后于 10/14 沉没，21 名船员全部撤离、无人受伤（新加坡方面）。数小时后，安提瓜和巴布达籍 Cape Dao 也在海峡附近沉没，据国际海事组织数据该船 9/23 曾被射弹击中。",
+        "卫报、美联社：伊朗革命卫队称一艘载有 2500 个集装箱的货船在「非法且危险的航线」上触雷沉没，这是开战以来伊方首次报告船只触雷沉没；英国海上贸易行动办公室（UKMTO）则称两船均为不明射弹击中。",
+        "海峡时报（援引 Vanguard、IMO、UKMTO）：10/11 以来至少 10 艘船在海峡内外遇袭（10/11 六艘、10/13 四艘），为开战以来最高；2 名海员失踪。卫报援引英国《金融时报》分析：截至 10/11 的两周内有 24 艘船中弹。",
+        "路透（经卫报、Just Security）：两名伊朗官员称，伊朗约 10 天前开始对「违规」船只采用新战术，目标之一是影响美国 11/3 中期选举、阻挠美国压低油价；一名美军官员证实伊朗在雷达被毁后改用小船上的非武装观察员指引目标，美军上周摧毁过一艘这样的独桅帆船。CNBC：伊朗革命卫队海军司令称「迫不及待」要击沉进入海峡的美国军舰。雅虎财经：布伦特约 106.3 美元、WTI 约 94.8 美元，各涨约 0.6%—0.7%。"
+      ],
+      "readingA": "沉船是质的升级：伊朗不再只是骚扰，而是用能让大型商船沉没的手段配合选举时间表，试图让海峡实际关闭，美方护航航线并不安全。",
+      "readingB": "伊朗官员的「新战术」说法本身可能是心理战；美军仍在引导船只沿阿曼一侧通行，油价只小幅上涨，市场并未定价海峡完全关闭。",
+      "disagree": "分歧在于沉船原因（触雷还是导弹/射弹）、伊朗是否有能力真正封锁海峡，以及油价为何反应温和。",
+      "synthesis": "可以确认：两船沉没、近几日袭击频率创新高、伊朗高层公开把航运打击与美国选举挂钩。距中期选举不到三周，接下来看主要船东和保险商是否全面停航、美军是否扩大护航或对伊动武。",
+      "unknown": "两艘沉船的确切武器；失踪海员下落；海峡实际通过量的最新数字；美方回应方案。",
+      "confidence": "中高（沉船有新加坡方面、IMO 和多家媒体确认；武器类型与伊朗战略意图依赖单方或匿名说法）",
+      "sources": [
+        {
+          "label": "BBC：集装箱船在霍尔木兹遭射弹击中后沉没",
+          "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o"
+        },
+        {
+          "label": "卫报：两艘集装箱船沉没，伊朗袭击激增",
+          "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections"
+        },
+        {
+          "label": "美联社：伊朗称一船触雷沉没",
+          "url": "https://apnews.com/article/mideast-israel-palestinians-iran-october-14-2026-7e2c57a29fd5c3afc7ffe0cf63954bf3"
+        },
+        {
+          "label": "CNBC：伊朗称等待攻击美舰",
+          "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html"
+        },
+        {
+          "label": "雅虎财经：伊朗新战术推升油价",
+          "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-traders-weigh-012735546.html"
+        },
+        {
+          "label": "Just Security：Early Edition 10/14",
+          "url": "https://www.justsecurity.org/160738/early-edition-october-14-2026/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "也门—沙特：路透三名知情人称沙特阿美达兰总部「严重受损」，火势蔓延多层、CEO 所在顶层天花板塌陷，部分员工居家办公；沙特能源部仍称「有限火情」；联军再打萨那、荷台达燃料设施，利雅得拦截碎片致 4 伤",
+      "tag": "续报：有新进展",
+      "facts": [
+        "路透（经 Al-Monitor）：三名直接知情人士称，阿美达兰总部 10/13 晚遇袭后严重受损，火从南翼九楼起，蔓延至六至十楼；另一人称 CEO 纳赛尔办公室所在的顶部三层严重损毁，部分天花板塌陷、门窗被炸飞，火一直烧到 10/14 凌晨。园区运营正常，但部分员工被要求居家，部分职能转移到海外办公室。该园区设有监控陆上和海上油井、炼厂、出口码头和管道的运营中心。阿美未回应。",
+        "《华尔街日报》：该楼还设有阿美的石油供应计划与调度部门。沙特能源部的说法仍是行政楼「被瞄准」、火情有限、无人伤亡。美联社援引两名地区官员称，袭击损及 CEO 及其他高管的办公室。",
+        "The National、德国之声：联军称已打击胡塞控制区能源设施，包括萨那萨巴哈站和红海荷台达港的装油码头；沙特民防称拦截两枚导弹的碎片在利雅得致 2 名女性、1 名男子和 1 名儿童受伤，15 栋房屋受损。胡塞发言人萨雷亚称再次「精准命中」利雅得机场和一座阿美炼厂，沙特方面未证实。美联社：胡塞媒体 10/14 晚称萨那再遭空袭，联军未置评。",
+        "The National：阿美大楼遇袭消息传出后，10/14 油价上涨。"
+      ],
+      "readingA": "多名消息人士描述的损毁程度远超官方「有限火情」，胡塞已能打中沙特石油体系的指挥中枢；双方都在打对方能源设施，循环在加速。",
+      "readingB": "即便楼体受损，运营正常、无人伤亡、产量未受影响；沙特官方淡化有稳定市场的考虑，但实际经济冲击目前有限。",
+      "disagree": "分歧集中在损害程度（官方 vs 路透、华尔街日报消息人士），以及胡塞的「命中利雅得机场、阿美炼厂」说法是否属实。",
+      "synthesis": "上期报道的「是否命中」已基本确认，新信息是损害远比官方说的重、阿美已启动部分业务转移。生产与出口暂无受影响的报道；利雅得机场仍按航行通告关闭至 10/17。",
+      "unknown": "阿美产量和出口是否受影响；萨那、荷台达空袭伤亡；胡塞最新声称的命中是否属实。",
+      "confidence": "中（损毁细节来自多家媒体的匿名消息人士，官方说法不同；伤亡数字来自沙特民防）",
+      "sources": [
+        {
+          "label": "Al-Monitor（路透）：阿美总部严重受损",
+          "url": "https://www.al-monitor.com/originals/2026/10/saudi-aramco-headquarters-suffered-extensive-damage-houthi-attack-sources-say"
+        },
+        {
+          "label": "华尔街日报：胡塞袭击击中阿美总部大楼",
+          "url": "https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59"
+        },
+        {
+          "label": "美联社：胡塞袭击阿美总部",
+          "url": "https://apnews.com/article/saudi-arabia-yemen-strikes-mideast-conflict-riyadh-c81a91347c00b17097c8fafde7e4eeec"
+        },
+        {
+          "label": "The National：联军打击胡塞燃料设施",
+          "url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/"
+        },
+        {
+          "label": "德国之声直播：胡塞再发导弹",
+          "url": "https://www.dw.com/en/saudi-arabia-houthis-yemen-war-missile-strikes-aramco-riyadh/live-79655805"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "美国 9 月 CPI 同比 3.7%、核心 2.6%，均高于预期，汽油单月涨 9.1%；10 月加息概率升至约 54%，纳指跌 1.88%，甲骨文、CoreWeave 等 AI 股重挫；IMF 将今年全球增长预测略上调至 3.1%",
+      "tag": "新（经济/市场）",
+      "facts": [
+        "CNBC（援引美国劳工统计局）：9 月 CPI 环比上涨 0.6%、同比 3.7%（8 月 3.4%），预期为 0.6% 和 3.6%；核心 CPI 环比 0.3%、同比 2.6%，预期 0.2% 和 2.5%。能源指数涨 5.2%，汽油涨 9.1%、约占总涨幅一半；过去一年汽油涨 34.2%、取暖油涨 74.2%。住房、二手车和服装价格也在上涨。",
+        "CNBC（援引芝商所 FedWatch）：期货市场对 10/27—28 美联储会议加息的概率升至约 54%，年底前加息概率超过 96%。美联储 9 月已加息 25 个基点至 3.75%—4%。这是中期选举前最后一份 CPI 报告。",
+        "美联社、海峡时报（路透）：10/14 道指跌 0.09% 至 51,621.48，标普 500 跌 1.11% 至 7,718.94，纳指跌 1.88% 至 26,692.87，为 7 月以来最差一天。甲骨文跌 8.8%，CoreWeave 跌 15%，Nebius 跌 10%；巴克莱下调评级后，戴尔跌 11.4%、HPE 跌 8.2%。",
+        "IMF 10/13《世界经济展望》：预计 2026 年全球增长 3.1%（2025 年 3.5%）、2027 年 3.4%，较 7 月略上调；AI 投资和财政支持抵消了伊朗战争带来的能源冲击，但韧性正在收窄。路透报道称该预测假设霍尔木兹海峡 2027 年 3 月重开、今年油价均价 96 美元，战争延长可能使 2027 年增长少 0.5 个百分点。"
+      ],
+      "readingA": "核心通胀也超预期，说明能源冲击正在向更广的价格扩散，美联储可能被迫连续加息；高估值、依赖借贷的 AI 基础设施股首当其冲。",
+      "readingB": "超预期幅度只有 0.1 个百分点，主要仍由汽油驱动，供给冲击通常是暂时的；多位美联储官员表示不急于再加息，市场可能反应过度。",
+      "disagree": "分歧在于通胀是「能源暂时性冲击」还是「已在扩散」，以及美联储 10 月是否会加息。",
+      "synthesis": "数据确实偏热，市场已大幅提高加息预期，AI 板块的估值压力随利率上升显现。IMF 的上调建立在海峡明年初重开的假设上，而当前霍尔木兹局势正朝相反方向发展。",
+      "unknown": "10/15 公布的 PPI；美联储官员的最新表态；油价能否回落。",
+      "confidence": "高（CPI 为官方数据，指数收盘为市场数据；加息概率为期货隐含值，会变动）",
+      "sources": [
+        {
+          "label": "CNBC：9 月 CPI 同比 3.7%",
+          "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+        },
+        {
+          "label": "美联社：美股创 7 月以来最差单日",
+          "url": "https://apnews.com/article/stock-markets-earnings-bonds-artificial-intelligence-704d3190f0fba2908df07c85f26346ec"
+        },
+        {
+          "label": "Investing.com（路透）：通胀数据致纳指大跌",
+          "url": "https://www.investing.com/news/economy-news/sp-500-dow-futures-rise-ahead-of-big-bank-results-cpi-data-4948567"
+        },
+        {
+          "label": "IMF：2026 年 10 月《世界经济展望》执行摘要",
+          "url": "https://www.imf.org/-/media/files/publications/weo/2026/october/english/execsum.pdf"
+        },
+        {
+          "label": "Investing.com（路透）：IMF 称 AI 投资支撑全球增长",
+          "url": "https://www.investing.com/news/economy-news/imf-says-ai-investment-propping-up-global-growth-but-war-and-debt-threaten-outlook-4945312"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "教宗良十四世确诊肺腺癌，10/13 在罗马杰梅利医院接受右肺下叶切除术，梵蒂冈称手术成功、术后恢复良好",
+      "tag": "新",
+      "facts": [
+        "梵蒂冈新闻（援引圣座新闻室医生声明）：教宗 10/13 下午按计划接受胸腔手术，以电视胸腔镜技术切除右肺下叶以确保「根治性切除」；术中病理确认为术前怀疑的肺腺癌。手术约 90 分钟，在手术室约三小时，无并发症。",
+        "梵蒂冈新闻：术后数日将对切除组织进一步检查；此前公布的住院时间约一周不变。术后当晚教宗要求进食，与秘书和工作人员共度晚间。",
+        "美联社、梵蒂冈新闻后续通报：教宗术后恢复良好，已能进食和行走，进行了血液检查、胸片和呼吸理疗。",
+        "《24 小时太阳报》：后续组织学和淋巴结结果将决定分期以及是否需要进一步治疗。"
+      ],
+      "readingA": "手术顺利、恢复快，早期肺腺癌根治性切除的预后通常较好，教宗可能在短期内恢复公开活动。",
+      "readingB": "分期尚未公布，若淋巴结受累可能需要辅助治疗，教宗今后的出访和日程可能受影响。",
+      "disagree": "分歧在于这是一次可控的早期手术，还是会长期影响教宗履职的开端，关键取决于病理分期。",
+      "synthesis": "目前确认的只有诊断、术式和术后状况良好；预后判断要等病理分期结果。",
+      "unknown": "肿瘤分期与淋巴结情况；是否需要化疗或其他治疗；出院时间和后续日程调整。",
+      "confidence": "高（来自圣座新闻室官方声明）",
+      "sources": [
+        {
+          "label": "梵蒂冈新闻：教宗肺部手术成功",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-surgery-gemelli-hospital-successful.html"
+        },
+        {
+          "label": "梵蒂冈新闻：术后恢复良好",
+          "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leos-postoperative-recovery-positively-progressing.html"
+        },
+        {
+          "label": "美联社：教宗术后能进食和行走",
+          "url": "https://apnews.com/article/vatican-pope-leo-surgery-lung-cancer-08a4aca4e5a6002a1cb9a4ca1ba372cc"
+        },
+        {
+          "label": "圣座新闻室公报 10/13",
+          "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2026/10/13/261013b.html"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "AI 行业风波：Character.AI 申请破产保护、迪士尼以 2000 万美元托底竞购部分资产；一名 OpenAI 工程师因在高管会议室偷装录音设备被捕；爱达荷州起诉 OpenAI",
+      "tag": "新（科技）",
+      "facts": [
+        "CNBC、NBC、法院文件：AI 陪伴应用 Character.AI 于 10/12 在特拉华州申请第 11 章破产，拟出售几乎全部资产；迪士尼作为「假马竞标人」，以 2000 万美元现金购买部分知识产权和技术的永久、全球、非独家许可，并已雇用其大部分员工；拍卖设 70 万美元分手费，出售听证定于 11/24。",
+        "美国司法部、美联社：35 岁沙特籍 OpenAI 工程师阿卜杜拉赫曼·阿尔福赞 10/9 被捕，被控使用或试图使用设备截听口头通讯；检方称他约 9/28 在一间高管会议室藏了一个用卫生纸包裹的加密录音设备，后来又留下装有类似设备的包。OpenAI 已将其解雇，并称没有迹象显示他获取了模型权重、源代码或客户数据（据二手汇总）。",
+        "爱达荷州总检察长办公室 10/14：总检察长拉布拉多以违反《爱达荷州消费者保护法》为由起诉 OpenAI，指其误导家长、ChatGPT 对儿童等弱势用户有害；声明称已有多个州提起类似诉讼。",
+        "谷歌研究博客 10/14：Deep Review（由此前的论文助手 PAT 演进而来）公开发布，可对技术文档进行有依据的审查核验；此前曾在 STOC、ICML、NeurIPS、ICLR 等会议为 1.6 万多篇投稿提供预审反馈。"
+      ],
+      "readingA": "头部陪伴应用破产、仅以 2000 万美元托底，说明独立 AI 应用在算力成本和诉讼压力下难以为继；州级诉讼和内部安全事件都在加大对 AI 公司的监管与治理压力。",
+      "readingB": "这些是彼此独立的个案：Character.AI 核心团队早已被大公司吸纳，破产更多是收尾；偷录案是个人刑事案件，OpenAI 称无核心资产外泄；州诉讼仍处起诉阶段，尚未有法院认定。",
+      "disagree": "分歧在于这些事件是否反映 AI 行业系统性的商业与治理风险，还是各自孤立的事件。",
+      "synthesis": "可以确认的是：Character.AI 进入破产出售程序、迪士尼出价为底价；OpenAI 偷录案已进入联邦刑事程序；爱达荷州加入起诉 OpenAI 的州行列。是否有更高竞价、案件动机为何，都还不清楚。",
+      "unknown": "阿尔福赞的动机及是否有他人指使；Character.AI 拍卖是否有其他买家；爱达荷诉讼的具体诉求金额。",
+      "confidence": "中高（破产、逮捕、诉讼均有法院或官方文件；OpenAI 关于无数据外泄的说法为二手转述）",
+      "sources": [
+        {
+          "label": "CNBC：Character.AI 申请破产，迪士尼出价",
+          "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
+        },
+        {
+          "label": "NBC：Character.AI 破产，2000 万美元出售部分资产",
+          "url": "https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174"
+        },
+        {
+          "label": "美国司法部：沙特籍男子在 OpenAI 偷装录音设备被捕",
+          "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+        },
+        {
+          "label": "美联社：FBI 逮捕涉嫌窃听会议室的 OpenAI 员工",
+          "url": "https://apnews.com/article/ai-fbi-justice-department-7f512b2552ffcbbf8f1ebbb18f81a9ba"
+        },
+        {
+          "label": "爱达荷州总检察长：起诉 OpenAI",
+          "url": "https://www.ag.idaho.gov/newsroom/ag-labrador-announces-lawsuit-against-openai-for-deceiving-idaho-parents-about-the-safety-of-chatgpt/"
+        },
+        {
+          "label": "谷歌研究：Deep Review 公开发布",
+          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+        },
+        {
+          "label": "The AI Rankings：10/14 AI 日报（二手汇总）",
+          "url": "https://theairankings.com/daily/2026-10-14/"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm2d6e62p49do"
+    },
+    {
+      "n": 2,
+      "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/c8wy9veedgygo"
+    },
+    {
+      "n": 3,
+      "title": "Ukraine's Starlink restrictions raise suspicions of Musk, Trump retaliation",
+      "outlet": "Axios",
+      "url": "https://www.axios.com/2026/10/14/ukraine-starlink-zelensky-spacex-musk-trump"
+    },
+    {
+      "n": 4,
+      "title": "Ukraine says new Starlink restrictions disrupt military amid intel gaps, Trump clash",
+      "outlet": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-starlink-restrictions-military-intel-trump-zelenskyy-russia-rcna603412"
+    },
+    {
+      "n": 5,
+      "title": "Volodymyr Zelenskyy feels 'betrayed' by Donald Trump over Starlink access",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/volodymyr-zelenskyy-feels-betrayed-by-donald-trump-over-starlink-access"
+    },
+    {
+      "n": 6,
+      "title": "Zelenskyy: Ukraine proposes new talks with Witkoff and Kushner",
+      "outlet": "Ukrainska Pravda",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/13/8057863/"
+    },
+    {
+      "n": 7,
+      "title": "Russia pounds Ukraine's energy infrastructure, leaving 600,000 without power",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/russia-ukraine-energy-ceasefire-power-outages.html"
+    },
+    {
+      "n": 8,
+      "title": "Russia and Ukraine trade blame over Trump's 'energy ceasefire' after deadly Kyiv strike",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/14/one-person-killed-and-20-others-injured-in-overnight-russian-attacks-on-kyiv"
+    },
+    {
+      "n": 9,
+      "title": "Russian attacks kill at least 10, injure 91 across Ukraine over past day",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-attacks-kill-at-least-10-injure-91-across-ukraine-over-past-day-as-ballistic-missiles-strike-kyiv-for-second-straight-night/"
+    },
+    {
+      "n": 10,
+      "title": "Kremlin says scope of Russia-Ukraine energy ceasefire has not been determined",
+      "outlet": "Devdiscourse (Reuters)",
+      "url": "https://www.devdiscourse.com/article/international/3992240-kremlin-says-scope-of-russia-ukraine-energy-ceasefire-has-not-been-determined"
+    },
+    {
+      "n": 11,
+      "title": "Two container ships sink near strait of Hormuz amid surge in Iranian attacks",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections"
+    },
+    {
+      "n": 12,
+      "title": "Container ship sinks in Strait of Hormuz after being hit by projectile, Singapore says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o"
+    },
+    {
+      "n": 13,
+      "title": "Iran says a ship sank after striking a mine in Strait of Hormuz, and other Middle East developments",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/mideast-israel-palestinians-iran-october-14-2026-7e2c57a29fd5c3afc7ffe0cf63954bf3"
+    },
+    {
+      "n": 14,
+      "title": "Iran 'counting the moments' until it can attack American warships",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html"
+    },
+    {
+      "n": 15,
+      "title": "Oil prices climb as Iran deploys new tactics to target ships transiting Hormuz",
+      "outlet": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-traders-weigh-012735546.html"
+    },
+    {
+      "n": 16,
+      "title": "Saudi Aramco headquarters suffered extensive damage in Houthi attack, sources say",
+      "outlet": "Al-Monitor (Reuters)",
+      "url": "https://www.al-monitor.com/originals/2026/10/saudi-aramco-headquarters-suffered-extensive-damage-houthi-attack-sources-say"
+    },
+    {
+      "n": 17,
+      "title": "Houthi Strike Hits Building at Saudi Aramco Headquarters",
+      "outlet": "WSJ",
+      "url": "https://www.wsj.com/world/middle-east/houthi-strike-hits-building-at-saudi-aramco-headquarters-a436de59"
+    },
+    {
+      "n": 18,
+      "title": "Aramco building attacked after Saudi-led coalition hits Houthi site",
+      "outlet": "The National",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/10/14/aramco-building-on-fire-after-saudi-led-coalition-hits-houthi-site/"
+    },
+    {
+      "n": 19,
+      "title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+      "outlet": "DW",
+      "url": "https://www.dw.com/en/saudi-arabia-houthis-yemen-war-missile-strikes-aramco-riyadh/live-79655805"
+    },
+    {
+      "n": 20,
+      "title": "Consumer prices rose 3.7% annually in September as gas prices skyrocket",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+    },
+    {
+      "n": 21,
+      "title": "US stocks drop to their worst day since July as inflation worsens",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/stock-markets-earnings-bonds-artificial-intelligence-704d3190f0fba2908df07c85f26346ec"
+    },
+    {
+      "n": 22,
+      "title": "World Economic Outlook, October 2026: Resilience Under Strain, Urgent Choices",
+      "outlet": "IMF",
+      "url": "https://www.imf.org/-/media/files/publications/weo/2026/october/english/execsum.pdf"
+    },
+    {
+      "n": 23,
+      "title": "Pope Leo XIV undergoes successful lung surgery",
+      "outlet": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-surgery-gemelli-hospital-successful.html"
+    },
+    {
+      "n": 24,
+      "title": "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+      "outlet": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/characterai-files-bankruptcy-sell-assets-disney-20-million-rcna603174"
+    },
+    {
+      "n": 25,
+      "title": "Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI",
+      "outlet": "US DOJ",
+      "url": "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
+    },
+    {
+      "n": 26,
+      "title": "AG Labrador Announces Lawsuit Against OpenAI",
+      "outlet": "Idaho AG",
+      "url": "https://www.ag.idaho.gov/newsroom/ag-labrador-announces-lawsuit-against-openai-for-deceiving-idaho-parents-about-the-safety-of-chatgpt/"
+    },
+    {
+      "n": 27,
+      "title": "Analyzing technical documents with Deep Review",
+      "outlet": "Google Research",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/"
+    },
+    {
+      "n": 28,
+      "title": "Putting Earth AI to work: Geospatial agents（地理空间推理智能体扩大试用）",
+      "outlet": "Google Research",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/"
+    },
+    {
+      "n": 29,
+      "title": "Accelerating health data science research with Muse models（Meta：医学研究者用 Muse 四周完成研究）",
+      "outlet": "Meta AI",
+      "url": "https://research.meta.ai/blog/accelerating-scientific-research-in-health-data-science-with-muse-models"
+    },
+    {
+      "n": 30,
+      "title": "North Korea says it tested cruise missiles designed to be fired from submarines（10/14 东部海域，两型）",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/north-korea-missiles-south-korea-submarines-a9c469a236ade7921e7dee2456542740"
+    },
+    {
+      "n": 31,
+      "title": "Riots erupt in Albania's capital as protesting students join Flamingo anti-government movement（教育部大楼和两家银行被纵火，35 人被拘）",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/albania-protests-students-flamingo-edi-rama-0d94664379a2b470a1f7d95429c4e446"
+    },
+    {
+      "n": 32,
+      "title": "France is facing crisis after crisis（学生抗议、巴黎火灾、超市遭黑客）",
+      "outlet": "Axios",
+      "url": "https://www.axios.com/world/2026/10/14"
+    },
+    {
+      "n": 33,
+      "title": "Trump's new press secretary faces scrutiny over credentials",
+      "outlet": "Straits Times",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-oct-15-2026"
+    }
+  ]
+}
