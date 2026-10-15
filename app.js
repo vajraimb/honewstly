@@ -96,33 +96,98 @@
     return `${y}-${m}-${d}`;
   }
 
+  function selectDate(d) {
+    if (state.currentDate === d) return;
+    state.currentDate = d;
+    state.expanded.clear();
+    render();
+  }
+
   function renderDateBar() {
     const bar = $("#date-bar");
-    const label = bar.querySelector(".date-bar-label");
     bar.innerHTML = "";
-    if (label) bar.appendChild(label);
-    else {
-      const span = document.createElement("span");
-      span.className = "date-bar-label";
-      span.textContent = "日期";
-      bar.appendChild(span);
-    }
-
-    state.data.briefs.forEach((b) => {
+    const span = document.createElement("span");
+    span.className = "date-bar-label";
+    span.textContent = "日期";
+    bar.appendChild(span);
+    const briefs = state.data.briefs;
+    const recent = briefs.slice(0, 3);
+    const makeChip = (d, text, active) => {
       const btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "date-chip" + (b.date === state.currentDate ? " active" : "");
-      btn.textContent = formatDateLabel(b.date);
+      btn.className = "date-chip" + (active ? " active" : "");
+      btn.textContent = text;
+      btn.setAttribute("aria-pressed", active ? "true" : "false");
+      return btn;
+    };
+    recent.forEach((b) => {
+      const btn = makeChip(b.date, formatDateLabel(b.date).slice(5), b.date === state.currentDate);
       btn.dataset.date = b.date;
-      btn.setAttribute("aria-pressed", b.date === state.currentDate ? "true" : "false");
-      btn.addEventListener("click", () => {
-        if (state.currentDate === b.date) return;
-        state.currentDate = b.date;
-        state.expanded.clear();
-        render();
-      });
+      btn.title = b.date;
+      btn.addEventListener("click", () => selectDate(b.date));
       bar.appendChild(btn);
     });
+    if (briefs.length > 3) {
+      const older = !recent.some((b) => b.date === state.currentDate);
+      const cal = makeChip(null, older ? "📅 " + state.currentDate.slice(5) : "📅 更早", older);
+      cal.classList.add("date-cal-btn");
+      cal.setAttribute("aria-haspopup", "dialog");
+      cal.addEventListener("click", (e) => { e.stopPropagation(); toggleCalendar(cal); });
+      bar.appendChild(cal);
+    }
+  }
+
+  let calMonth = null; // "YYYY-MM"
+  function closeCalendar() {
+    const p = $("#date-cal");
+    if (p) p.remove();
+    document.removeEventListener("click", onDocClick);
+  }
+  function onDocClick(e) {
+    const p = $("#date-cal");
+    if (p && !p.contains(e.target)) closeCalendar();
+  }
+  function toggleCalendar(anchor) {
+    if ($("#date-cal")) { closeCalendar(); return; }
+    calMonth = state.currentDate.slice(0, 7);
+    const p = document.createElement("div");
+    p.id = "date-cal";
+    p.className = "date-cal";
+    p.setAttribute("role", "dialog");
+    p.setAttribute("aria-label", "选择日期");
+    $("#date-bar").appendChild(p);
+    drawCalendar();
+    setTimeout(() => document.addEventListener("click", onDocClick), 0);
+  }
+  function drawCalendar() {
+    const p = $("#date-cal");
+    if (!p) return;
+    const have = new Set(state.data.briefs.map((b) => b.date));
+    const months = Array.from(new Set(state.data.briefs.map((b) => b.date.slice(0, 7)))).sort();
+    const minM = months[0], maxM = months[months.length - 1];
+    const [y, m] = calMonth.split("-").map(Number);
+    const first = new Date(y, m - 1, 1).getDay();
+    const days = new Date(y, m, 0).getDate();
+    const pad = (n) => String(n).padStart(2, "0");
+    let html = `<div class="cal-head"><button type="button" class="cal-nav" data-nav="-1" ${calMonth <= minM ? "disabled" : ""} aria-label="上个月">‹</button><span>${y} 年 ${m} 月</span><button type="button" class="cal-nav" data-nav="1" ${calMonth >= maxM ? "disabled" : ""} aria-label="下个月">›</button></div><div class="cal-grid">`;
+    html += "日一二三四五六".split("").map((w) => `<span class="cal-wd">${w}</span>`).join("");
+    for (let i = 0; i < first; i++) html += "<span></span>";
+    for (let d = 1; d <= days; d++) {
+      const iso = `${y}-${pad(m)}-${pad(d)}`;
+      const cls = "cal-day" + (iso === state.currentDate ? " active" : "");
+      html += have.has(iso) ? `<button type="button" class="${cls}" data-date="${iso}">${d}</button>` : `<span class="cal-day off">${d}</span>`;
+    }
+    p.innerHTML = html + "</div>";
+    p.querySelectorAll(".cal-nav").forEach((b) => b.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const dt = new Date(y, m - 1 + Number(b.dataset.nav), 1);
+      calMonth = `${dt.getFullYear()}-${pad(dt.getMonth() + 1)}`;
+      drawCalendar();
+    }));
+    p.querySelectorAll("button.cal-day").forEach((b) => b.addEventListener("click", () => {
+      closeCalendar();
+      selectDate(b.dataset.date);
+    }));
   }
 
   function currentBrief() {
