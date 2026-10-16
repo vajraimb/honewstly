@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-16",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/15 早至 10/16 早），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/15）：星链责任归属从「美官员否认」升级到路透「白宫内部下令」，且 Axios 称星链/星盾已恢复满负荷；泽连斯基宣布结束对美方炼厂打击禁令（「我们受够了」）并已再打炼厂；胡塞导弹袭击亚丁总统府（BBC：5 死 16 伤）；苹果—Meta 合作本地运行 Muse Spark Open；OpenAI—苹果商业秘密案双向升级（OpenAI 让步交取证镜像，同时反控泄密）。霍尔木兹沉船、CPI、教宗、Character.AI、OpenAI 偷录案、爱达荷州诉讼、Deep Review/Earth AI、NK 导弹、阿尔巴尼亚骚乱等已报内容不再重复。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "星链/星盾续报：路透独家称限制星盾的命令来自白宫内部，美官员否认总统下令；Axios称星链与星盾已恢复满负荷；泽连斯基称「不是技术问题，是意志」",
+      "tag": "续报：重大",
+      "facts": [
+        "路透（经 Devdiscourse，约 10/16 04:31 IST 更新）：两名美国官员及一名知情西方官员称，限制乌克兰用于战场通信与无人机的卫星系统（星盾 Starshield）的命令来自白宫内部；五角大楼领导层收到「需放慢对乌军用星盾服务」的信息。官员未指明白宫内具体是谁决定或执行。路透问及后，一名美国高级官员称：「总统从未提出过此类要求。」白宫未回应是否有其他行政官员提出过该要求。五角大楼是星盾最大客户；SpaceX、国防部及乌驻美使馆均未向路透置评。",
+        "Axios 10/15：一名乌克兰官员称，星链与星盾服务已恢复至满负荷。该官员同时称，乌方在服务恢复后当晚打击了一座俄炼油厂，违背特朗普停打炼厂的要求。Axios 称，特朗普政府内外许多人仍不清楚限速是否由特朗普本人下令。",
+        "德国之声、CNBC（援引《金融时报》采访）：泽连斯基称星链限速「不是技术问题，是意志」（DW：「it was the will」）。马斯克此前在 X 称星盾归美国政府所有与控制，速度或使用限制由美军或总统决定。",
+        "路透：乌方官员称在限速后曾向白宫、国务院和五角大楼高层求证，被告知「是白宫的决定」。限速发生之际，特朗普正施压基辅停打俄炼厂，并将高油价部分归咎于炼厂打击（专家则多指向美以对伊朗战争及霍尔木兹冲击）。"
+      ],
+      "readingA": "匿名美官员与乌方求证口径都指向白宫，与马斯克「政府决定」说法吻合；限速与施压停打炼厂时间重叠，更像政治工具而非技术故障。",
+      "readingB": "高级官员明确否认「总统下令」，白宫未证实其他官员介入；目前没有公开文件或具名官员承认，也可能是五角大楼/SpaceX 内部执行或误传，随后又恢复满负荷。",
+      "disagree": "核心仍是：谁下的令（总统、白宫其他官员、还是美军/承包商），以及动机是施压停火还是安全合规。",
+      "synthesis": "相对上一期「美官员否认插手」，本期新增路透「白宫内部下令」独家与乌方「已被告知是白宫决定」；同时 Axios 确认服务已满负荷恢复。责任归属仍是匿名vs否认的对峙。欧洲方面，空客、莱昂纳多、泰雷兹的卫星合资「Project Bromo」仍在与欧委会谈救济措施，被视作降低对星链依赖的长期选项，但正式申报与审批结果未定。",
+      "unknown": "白宫内具体决策者；限速是否有书面命令；恢复满负荷是否附加条件；欧委会对 Bromo 的最终审查时间表。",
+      "confidence": "中（限速、恢复与泽连斯基表态有多家核实；「白宫下令」依赖匿名官员，与公开否认并存）",
+      "sources": [
+        {
+          "label": "Devdiscourse（路透独家）：限制星盾命令来自白宫内部",
+          "url": "https://www.devdiscourse.com/article/international/3993306-exclusive-order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say"
+        },
+        {
+          "label": "Axios：星链/星盾已恢复满负荷，乌方再打炼厂",
+          "url": "https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk"
+        },
+        {
+          "label": "CNBC：泽连斯基称将恢复打击俄能源",
+          "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html"
+        },
+        {
+          "label": "德国之声：泽连斯基称「我们受够了」",
+          "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-were-done/a-79667757"
+        },
+        {
+          "label": "ABC（澳）：泽连斯基称能源停火结束",
+          "url": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922"
+        },
+        {
+          "label": "金融时报采访（付费）",
+          "url": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "「能源停火」实质瓦解：泽连斯基称应美方请求停打炼厂三天后「禁令取消，我们受够了」；Axios称乌方已再打俄炼厂；克宫指乌行动与美方和谈努力冲突",
+      "tag": "续报：重大",
+      "facts": [
+        "CNBC、德国之声（援引《金融时报》）：泽连斯基周四称「对炼厂的打击禁令取消了。我们受够了」（「The block [on attacking refineries] is out. We're done.」）。乌方此前应华盛顿请求暂停打击能源目标约三天；泽连斯基称俄方未遵守、反而继续大规模打乌能源（含约 40 枚弹道导弹等），并称自己曾警告美方俄会违约。",
+        "Axios：乌克兰官员确认，在星链/星盾恢复后，乌方当夜打击了一座俄罗斯炼油厂。DW/路透：俄方此前曾报告梁赞（起火）与萨拉托夫炼厂遇袭。",
+        "德国之声：克宫发言人佩斯科夫周四称赞美方「积极推动和谈」，同时称乌方恢复打击「与美国及美方谈判代表的和平努力严重冲突」。克宫此前称停火范围「尚未确定」。",
+        "德国之声：泽连斯基称愿再次停打，但条件是美方提供足以拦截俄弹道导弹与无人机的爱国者系统。他批评本周美方情报预警「危险」缺失，以及星链限速。卫报直播等报道泽连斯基在布鲁塞尔寻求欧盟/北约防空支援。"
+      ],
+      "readingA": "乌方认为单方面停火换来的是俄方继续打电网、情报与星链被卡，继续遵守只会单方面缴械；恢复打炼厂是对美方施压链条的反击。",
+      "readingB": "特朗普本意是压油价、促谈判；乌方再打炼厂可能进一步激怒白宫，换来更多军援/情报限制，克宫则借机把违约帽子扣给基辅。",
+      "disagree": "分歧在于「停火」是否曾对双方有约束力，以及乌方恢复打击是正当自卫还是破坏和谈。",
+      "synthesis": "可确认：乌方曾暂停约三天、泽连斯基公开宣布结束禁令、乌官员称已再打炼厂、克宫指责乌方破坏美方努力。所谓能源停火没有可核查条款与执行机制，目前已实质瓦解。",
+      "unknown": "被打炼厂的具体位置、损毁与产量影响；美方是否会再次限制军援/情报/星盾；布鲁塞尔之行能否落实防空援助。",
+      "confidence": "中高（泽连斯基表态与 Axios 乌官员说法有多家转述；具体炼厂损毁仍依赖当事方）",
+      "sources": [
+        {
+          "label": "CNBC：乌克兰将恢复打击俄炼厂",
+          "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html"
+        },
+        {
+          "label": "德国之声：泽连斯基称「我们受够了」",
+          "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-were-done/a-79667757"
+        },
+        {
+          "label": "Axios：恢复服务后乌方再打炼厂",
+          "url": "https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk"
+        },
+        {
+          "label": "ABC（澳）：泽连斯基结束能源停火",
+          "url": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922"
+        },
+        {
+          "label": "卫报直播：乌俄战况与星链等",
+          "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+        },
+        {
+          "label": "独立报直播",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-musk-starlink-b3067112.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "胡塞导弹袭击亚丁总统府：也门信息部长称五枚弹道导弹命中马阿希克宫，5 死 16 伤；总理等未受伤；胡塞称打击「沙特敌军在亚丁的军事行动总部」",
+      "tag": "续报：也门—沙特 新进展",
+      "facts": [
+        "BBC（更新）：信息部长穆阿迈尔·埃里亚尼称，五枚弹道导弹命中亚丁马阿希克宫（al-Maashiq Palace）；总理与其他部长未受伤。卫生部长卡西姆·布海贝称伤亡包括警卫与文职雇员。BBC 报道死亡 5 人、受伤 16 人。总理沙亚·津达尼谴责袭击为「怯懦」，称政府继续履职、前线行动不受动摇。",
+        "BBC：胡塞军事发言人叶海亚·萨雷亚称打击了「沙特敌军在亚丁的军事行动总部」。沙特主导的联军支持国际承认的也门政府，并为政府军对胡塞攻势提供空中支援。",
+        "BBC：联军称周四在麦地那地区拦截一枚巡航导弹；胡塞否认周四袭击沙特。沙特副外长指责伊朗鼓励胡塞升级；伊朗方面此前否认供武、称仅政治支持。",
+        "说明：较早美联社等报道曾称安保人员死亡约 2 人；本期以 BBC 更新后的 5 死 16 伤为准，数字仍可能继续修订。The National 等指出，这是战斗在约四年相对平静后于上月重启以来，对亚丁的首次此类袭击之一。"
+      ],
+      "readingA": "胡塞把战火打到政府驻地亚丁，意在展示可同时打击沙特本土与「合法政府」心脏，配合红海/巴布延曼德前线争夺。",
+      "readingB": "政府高层未伤亡、总理强调继续作战，袭击的政治冲击可能小于象征意义；联军已在沙特本土拦截导弹，双方仍在相互报复循环中。",
+      "disagree": "伤亡最终数字、胡塞所称「军事行动总部」是否属实，以及伊朗在多大程度上直接驱动本轮升级。",
+      "synthesis": "可确认亚丁总统府遭多枚导弹打击并有人员伤亡、政府高层未伤、胡塞公开承认。相对上周利雅得机场与阿美总部袭击，战线已扩及亚丁政府驻地。",
+      "unknown": "最终伤亡核定；宫殿损毁程度；联军是否报复打击；伊朗角色的可核实证据。",
+      "confidence": "中高（BBC 援引部长与胡塞发言人；早期媒体伤亡数字存在出入）",
+      "sources": [
+        {
+          "label": "BBC：胡塞导弹袭击亚丁总统府致 5 死",
+          "url": "https://www.bbc.com/news/articles/cm62y6lp73zdo"
+        },
+        {
+          "label": "美联社：也门—沙特—胡塞相关爆炸",
+          "url": "https://apnews.com/article/saudia-arabia-yemen-houthi-rebels-explosions-ed4dcdad5cfd4b08033b1af5cf81dca5"
+        },
+        {
+          "label": "The National：胡塞打击亚丁总统府",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/15/yemens-houthi-rebels-hit-presidential-palace-in-aden/"
+        },
+        {
+          "label": "半岛电视台：胡塞导弹瞄准亚丁总统府",
+          "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "苹果与 Meta 合作：在 2–4 台 Mac Studio（M5 Ultra）上本地运行 Muse Spark Open（8160 亿参数 MoE 开源权重，有限商用）；扎克伯格与 Ternus 发帖，Mac Studio 256GB 起价约 10799 美元",
+      "tag": "新：科技/AI",
+      "facts": [
+        "CNBC 10/15：苹果与 Meta 公布合作，使开发者可在高端 Mac 上较便捷地本地运行 Meta 的 Muse Spark Open——据 Meta 称，这是目前在允许有限商用的许可下发布的最强开源权重模型之一，约 8160 亿参数、混合专家（MoE）架构，权重可下载。",
+        "CNBC：用户可将 2 至 4 台 Mac Studio 组网运行该模型，用于编程、视频分析或其他智能体任务；模型在本地而非云端运行。扎克伯格在 X 发帖称「Muse Spark Open——权重今日发布——多亏与 @johnternus 和苹果的合作，在新 Mac Studio 上跑得很好」；苹果新任 CEO 约翰·特努斯回应称 Mac Studio 继续推动端侧 AI 边界。",
+        "CNBC：Meta AI 负责人王嘉兴（Alexandr Wang）称许多强开源模型对多数个人电脑过大，而 Mac Studio 的内存使运行 Muse Spark Open 变得可行；模型已针对苹果芯片调优，苹果公布了芯片基准与 MLX 框架跨多机切分开源模型的技术文档。配置 M5 Ultra、256GB 内存的 Mac Studio 起价至少 10799 美元；512GB 版本将于本月晚些时候上市，且通常需多台机器。",
+        "CNBC：双方代表未说明此次合作是否意味着更深联盟；苹果此前已分别与 OpenAI（Siri/ChatGPT）、谷歌（Gemini/Apple Intelligence）合作，并与 OpenAI 存在商业秘密诉讼。"
+      ],
+      "readingA": "昔日隐私对头公开联手推本地大模型，说明端侧 AI 硬件成为新战场，也对依赖云端的 OpenAI/Anthropic 形成差异化压力。",
+      "readingB": "门槛极高（多台近万美元工作站），更像开发者/企业演示与芯片营销，短期难改大众 AI 仍走云端的格局；双方也未承诺更深产品整合。",
+      "disagree": "这是苹果 AI 战略转折的信号，还是一次有限的开源生态联名营销。",
+      "synthesis": "可确认：权重发布、Mac Studio 多机本地运行、双方高管公开站台与价格门槛。是否走向系统级合作仍未知。",
+      "unknown": "实际性能与竞品对比；商用许可边界；是否还有未公布的联合产品路线图。",
+      "confidence": "高（来自 CNBC 对两家公司公告与高管公开表态的报道）",
+      "sources": [
+        {
+          "label": "CNBC：苹果与 Meta 合作让 Muse 在 Mac 上运行",
+          "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+        },
+        {
+          "label": "TechCrunch：Anthropic 向 METR 开放员工级访问（同日科技）",
+          "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "OpenAI—苹果商业秘密案升级：OpenAI 同意不使用被指从苹果带走的商业秘密，并交出 14 名「叛逃」员工硬盘取证镜像；同时指控离职赴苹果的员工带走 100 余份未发布产品文件",
+      "tag": "新：科技",
+      "facts": [
+        "The Verge 10/15（援引彭博）：在美国联邦法官爱德华·达维拉表示「极有可能」批准苹果禁令申请后不久，OpenAI 自愿作出让步——同意在诉讼其余部分进行期间，不将苹果专有信息用于产品开发，并将交出 14 名从苹果跳槽员工的硬盘取证镜像。",
+        "《印度教徒报》（路透）：OpenAI 在圣何塞联邦法院新文件中称，一名离职赴苹果的员工把 100 余份关于未发布产品的文件发到个人账户，并随后向苹果高层做了相关演示；OpenAI 称演示发生在数月前，并点名本周发布的苹果 HomeView，称担心商业秘密在苹果内部流传。苹果称有制度防止新员工使用前雇主机密，且未发现支持指控的证据。",
+        "《印度教徒报》：该案由苹果今年早些时候提起，指控其前员工将机密带至 OpenAI 硬件部门，OpenAI 否认。本周达维拉法官部分批准苹果提前获取 OpenAI 数字文件，并安排包括两名被告——前高级系统电气工程师 Chang Liu、前 iPhone/Apple Watch 产品设计副总裁 Tang Yew Tan——在内的加速取证。案件预计约 2027 年 10 月开庭（OpenAI 称最早可 2027 年 6 月就绪）。"
+      ],
+      "readingA": "双方互相指控「挖人带密」，说明大模型硬件竞赛已进入高强度人才与知识产权战；OpenAI 在禁令前景下先让步，显示法院初步态度对苹果有利。",
+      "readingB": "OpenAI 的让步可能是诉讼策略（避免正式禁令措辞、换取程序空间），其对苹果的反指控同样未经证实；距离庭审还有约一年，事实尚未裁决。",
+      "disagree": "谁先盗用了谁的商业秘密，以及这些材料是否真正进入了对方产品研发。",
+      "synthesis": "可确认：苹果诉 OpenAI 的禁令博弈中，OpenAI 同意限制使用并交出 14 人取证镜像；OpenAI 同步指控反向泄密并涉及 HomeView。实体责任仍待审理。",
+      "unknown": "取证镜像将揭示什么；HomeView 是否使用了争议材料；是否还会有临时禁令或和解。",
+      "confidence": "中高（程序进展有法院与多家媒体报道；实体侵权主张仍是各方诉状说法）",
+      "sources": [
+        {
+          "label": "The Verge：OpenAI 同意不使用被指取自苹果的商业秘密",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011771/openai-agrees-not-to-use-trade-secrets-it-allegedly-took-from-apple"
+        },
+        {
+          "label": "印度教徒报（路透）：OpenAI 称离职员工带走未发布产品文件",
+          "url": "https://www.thehindu.com/sci-tech/technology/openai-employee-who-left-for-apple-took-files-about-unreleased-device-openai-alleges/article71586620.ece"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "EXCLUSIVE-Order to limit Starshield for Ukraine came from inside White House, sources say",
+      "outlet": "Devdiscourse (Reuters)",
+      "url": "https://www.devdiscourse.com/article/international/3993306-exclusive-order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say"
+    },
+    {
+      "n": 2,
+      "title": "Ukraine hits Russian refinery as Starlink satellite services are restored",
+      "outlet": "Axios",
+      "url": "https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk"
+    },
+    {
+      "n": 3,
+      "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html"
+    },
+    {
+      "n": 4,
+      "title": "Zelenskyy on Trump 'energy ceasefire': 'We're done'",
+      "outlet": "DW",
+      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-were-done/a-79667757"
+    },
+    {
+      "n": 5,
+      "title": "Zelenskyy says Ukraine is done with US energy ceasefire",
+      "outlet": "ABC Australia",
+      "url": "https://www.abc.net.au/news/2026-10-16/zelenskyy-done-with-energy-ceasefire/107272922"
+    },
+    {
+      "n": 6,
+      "title": "Ukraine-Russia war live: Starlink, Zelenskyy, Musk, Trump",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/15/ukraine-russia-war-starlink-zelenskyy-putin-elon-musk-trump-europe-latest-news"
+    },
+    {
+      "n": 7,
+      "title": "Ukraine-Russia war live: Trump, Putin, Zelensky, Musk, Starlink",
+      "outlet": "The Independent",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-musk-starlink-b3067112.html"
+    },
+    {
+      "n": 8,
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm62y6lp73zdo"
+    },
+    {
+      "n": 9,
+      "title": "Yemen's Houthi rebels hit presidential palace in Aden",
+      "outlet": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/15/yemens-houthi-rebels-hit-presidential-palace-in-aden/"
+    },
+    {
+      "n": 10,
+      "title": "Houthis target Yemen's presidential palace in Aden with missiles",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/15/houthis-target-yemens-presidential-palace-in-aden-with-missiles"
+    },
+    {
+      "n": 11,
+      "title": "Saudi Arabia, Yemen, Houthi rebels explosions",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/saudia-arabia-yemen-houthi-rebels-explosions-ed4dcdad5cfd4b08033b1af5cf81dca5"
+    },
+    {
+      "n": 12,
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+    },
+    {
+      "n": 13,
+      "title": "OpenAI agrees not to use trade secrets it allegedly took from Apple",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011771/openai-agrees-not-to-use-trade-secrets-it-allegedly-took-from-apple"
+    },
+    {
+      "n": 14,
+      "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
+      "outlet": "The Hindu (Reuters)",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-employee-who-left-for-apple-took-files-about-unreleased-device-openai-alleges/article71586620.ece"
+    },
+    {
+      "n": 15,
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+    },
+    {
+      "n": 16,
+      "title": "Amazon's Bee launches two new personal AI devices, starting at $75",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+    },
+    {
+      "n": 17,
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/"
+    },
+    {
+      "n": 18,
+      "title": "Anthropic taps METR and SecureBio to help assess risks and safety",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/anthropic-metr-securebio-ai-safety-evaluators.html"
+    },
+    {
+      "n": 19,
+      "title": "Von der Leyen backs space mega-deal despite looming EU antitrust probe（Project Bromo / Airbus-Thales-Leonardo）",
+      "outlet": "POLITICO",
+      "url": "https://www.politico.eu/article/ursula-von-der-leyen-endorses-european-space-deal-that-is-under-competition-review/"
+    },
+    {
+      "n": 20,
+      "title": "Germany's OHB to consider legal action if EU clears Airbus, Thales, Leonardo satellite merger",
+      "outlet": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/germanys-ohb-consider-legal-action-if-eu-clears-airbus-thales-leonardo-satellite-2026-05-07/"
+    },
+    {
+      "n": 21,
+      "title": "FT interview with Zelenskyy (energy ceasefire / Starlink)",
+      "outlet": "Financial Times",
+      "url": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75"
+    },
+    {
+      "n": 22,
+      "title": "FT related Zelenskyy coverage",
+      "outlet": "Financial Times",
+      "url": "https://www.ft.com/content/3d6d81b7-6a53-4306-ab89-0e4892ba7054"
+    }
+  ]
+}
