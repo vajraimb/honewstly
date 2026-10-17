@@ -1,0 +1,381 @@
+{
+  "date": "2026-10-17",
+  "title": "早间简报",
+  "windowNote": "以过去约 24 小时为主（北京时间 10/16 早至 10/17 早），重点为上一期之后的新进展。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/16）：美乌矛盾从「停火瓦解」升级为领导人公开互相指责，欧盟峰会力挺基辅并面对 700 亿欧元新缺口；霍尔木兹袭船创纪录、布伦特升至五个月高位、IEA 加速释储；新增中国拟管制 23 项 AI 技术出口、AI 债务担忧引发美股芯片股大跌、俄勒冈小学枪击、白沙瓦学校坍塌。星链白宫下令之争、亚丁总统府袭击、苹果—Meta、OpenAI—苹果诉讼、八州诉 OpenAI 等已报或较早内容不再展开；也门（利雅得机场累计伤亡）、苏丹尼亚拉市场无人机袭击、约旦河西岸定居者袭击等见索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "美乌裂痕公开化：特朗普称乌方打俄炼厂是「耻辱」、泽连斯基「比普京更难打交道」；欧盟峰会力挺基辅，泽连斯基要求明年再拨 700 亿欧元",
+      "tag": "续报：重大",
+      "facts": [
+        "BBC：特朗普周四接受 Newsmax 采访称，乌克兰恢复打击俄炼油厂是「耻辱」（disgrace），称泽连斯基「比普京更难打交道」、「不想达成和解」，并说「他所做的只是推高世界油价……还有很多目标可以打」。BBC 指出，特朗普不满的部分原因是炼厂遇袭会影响俄方履行美俄柴油协议（30 万吨柴油输往「美国和全球市场」）。Euronews 称特朗普同时再次要求乌克兰举行新选举。",
+        "BBC、路透：泽连斯基周五在布鲁塞尔欧盟峰会回应称「我只捍卫乌克兰和乌克兰人民的利益……我们有权自卫」，称柴油协议「把更多钱直接送进普京口袋」，并称俄方立场是和谈的「拙劣模仿」。他表示星链/星盾已改善但速度「仍未完全恢复」（与上一期 Axios 援引乌官员「已满负荷」说法不同）。",
+        "Euronews、BBC：泽连斯基称明年战争开支约 1550 亿欧元，至少需欧盟提供 700 亿欧元用于防务与武器；这打乱了欧盟此前以 900 亿欧元贷款覆盖 2026–2027 年的计划，峰会责成欧委会拿出方案。领导人承诺只要俄继续全面入侵就维持制裁，并谴责美俄柴油协议（保加利亚总理例外表示支持）。峰会在长期预算上未达成协议。",
+        "战况：AP 称俄方周五袭击乌克兰 9 个地区，至少 15 人受伤、数十万户断电；联合国人权监测团报告 9 月至少 328 名平民死亡、2105 人受伤，比去年同期高 85%。BBC：俄方称一夜在 26 个地区拦截 644 架无人机，莫斯科空域关闭数小时；路透援引两名业内人士称梁赞炼厂一套主要常减压装置停运。"
+      ],
+      "readingA": "美方把油价与中期选举压力转嫁给基辅：要求停打炼厂、限速星链、为俄柴油出口让路，实质上削弱了乌方唯一有效的反制手段；欧盟集体站台说明盟友认为乌方自卫是正当的。",
+      "readingB": "华盛顿的逻辑是先压油价、再推停火：乌方单方面宣布恢复打击、公开批评美总统，可能招致情报与军援进一步收缩；欧盟口头支持容易，但 700 亿欧元缺口和爱国者拦截弹短缺都没有落实方案。",
+      "disagree": "分歧在于：打俄炼厂是推高全球油价的主因之一，还是乌方合法的战略施压；美国在和谈中是调停者还是施压一方。",
+      "synthesis": "相对上一期（能源停火瓦解），本期新增的是美乌领导人公开互相指责、欧盟峰会集体站在基辅一边，以及乌方提出的具体资金缺口。油价方面，有分析指乌方袭击确实压低了俄柴油出口，但美国柴油价格上涨更早、更多与伊朗战争有关——两种因素都在，不宜单一归因。",
+      "unknown": "美方是否会实际削减情报共享或军援；欧委会如何填补 700 亿欧元；星链/星盾何时完全恢复；梁赞炼厂停运时长。",
+      "confidence": "中高（特朗普与泽连斯基表态、峰会结果有多家一致报道；炼厂停运依赖匿名业内人士）",
+      "sources": [
+        {
+          "label": "BBC：特朗普称乌打炼厂「耻辱」，泽连斯基回应",
+          "url": "https://www.bbc.com/news/articles/c58jz174w89ro"
+        },
+        {
+          "label": "Euronews：欧盟峰会五大要点",
+          "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
+        },
+        {
+          "label": "路透（Investing.com）：泽连斯基抨击美俄柴油协议",
+          "url": "https://www.investing.com/news/commodities-news/ukraines-zelenskiy-blasts-usrussian-diesel-deal-welcomes-bigger-european-role-in-peace-process-4954777"
+        },
+        {
+          "label": "卫报直播：欧盟峰会与泽连斯基",
+          "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates"
+        },
+        {
+          "label": "AP：俄袭乌 9 个地区，平民伤亡激增",
+          "url": "https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-power-grid-025bdb5cebc0be727a6197ce37f2c365"
+        },
+        {
+          "label": "联合国新闻：乌平民伤亡率为数年来最高之一",
+          "url": "https://news.un.org/en/story/2026/10/1168614"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "霍尔木兹袭船创纪录、布伦特收于五个月高位 109.86 美元；IEA 加速释放剩余约 1 亿桶储备；美方备有对伊「炸弹之母」打击选项",
+      "tag": "续报：伊朗—霍尔木兹",
+      "facts": [
+        "BBC Verify（基于英国海事贸易行动办公室 UKMTO 数据）：10 月 5–11 日有 12 艘船报告遭袭，为美以对伊战争开始以来单周最高；10 月 11 日单日 6 起。劳氏日报：10 月上半月至少 26 起袭击或安全事件，已创战争以来月度新高，目标从穿梭油轮扩大到集装箱船、散货船和气体运输船。",
+        "The National：印度港口航运部长称，载有 15 名印度船员的原油轮 MT ST 3 周五在海峡被射弹击中，船员无恙。伊朗海军称在海峡以东「禁区」发现另一艘起火的「违规」油轮（新华社）。",
+        "Kpler 数据（BBC、首尔经济日报转述）：10 月 13 日约 1260 万桶/日通过海峡，低于 9 月底的 1500 万桶和战前约 1700 万桶；10 月 8–14 日均值约 940 万桶/日。布伦特 12 月合约周五收于 109.86 美元，涨 3.72%，为 5 月 19 日以来最高收盘，盘中一度破 110 美元；WTI 收于 101.41 美元，七连涨。",
+        "IEA 理事会 10 月 15 日声明：3 月集体行动已释放约 3.3 亿桶，同意加速释放剩余约 1 亿桶，其中逾 2000 万桶柴油「尽快」投放，总量将超过原定 4 亿桶。CNN、CBS 援引消息人士称，美方已准备包括 GBU-43「炸弹之母」在内的对伊核设施与能源设施打击方案；特朗普对 Newsmax 称这是非核武器，并排除地面部队。伊朗总统佩泽希齐扬周五称伊朗不寻求核武、愿在无压力下对话。"
+      ],
+      "readingA": "伊朗在美军护航增加后转向「广撒网」袭船，意在让穿梭运输体系难以为继、以油价向美国施压；美方打击选项与 IEA 释储说明西方准备长期对峙。",
+      "readingB": "袭击增多但美军护航航次同步大增，CENTCOM 称商业通行仍在继续；油价飙升也有乌俄炼厂互袭、墨西哥湾飓风减产等因素；伊朗总统的对话信号和特朗普「很快结束」的说法显示双方都留有降级空间。",
+      "disagree": "分歧在于：油价主要由霍尔木兹驱动还是多重供给冲击叠加；美方打击选项是威慑筹码还是即将付诸行动。",
+      "synthesis": "可确认的是袭船数量创新高、海峡流量回落、油价升至五个月高位、IEA 加速释储。「炸弹之母」方案来自匿名消息人士，特朗普未确认会使用；伊朗对话表态与其海上行动同时存在。上一期已报的 GFS Pride 沉船不再重复。",
+      "unknown": "美方是否、何时下令打击；伊朗是否会在中期选举前收敛；剩余 1 亿桶释储的实际到货节奏；MT ST 3 受损情况。",
+      "confidence": "中高（袭船统计、油价、IEA 声明为可核查数据；打击方案依赖匿名消息人士）",
+      "sources": [
+        {
+          "label": "BBC Verify：霍尔木兹袭船报告创新高",
+          "url": "https://www.bbc.com/news/articles/cmde8dpg8g0no"
+        },
+        {
+          "label": "劳氏日报：袭船创纪录，伊朗扩大打击范围",
+          "url": "https://www.lloydslist.com/LL1158715/Hormuz-ship-attacks-hit-record-as-Iran-broadens-campaign-against-commercial-shipping"
+        },
+        {
+          "label": "The National：印度船员所在油轮在海峡被击中",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/16/india-hormuz-strait-tanker-attack/"
+        },
+        {
+          "label": "IEA 理事会声明",
+          "url": "https://www.iea.org/news/iea-governing-board-statement-on-energy-markets-and-security"
+        },
+        {
+          "label": "CNN：美方考虑对伊使用「炸弹之母」",
+          "url": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran"
+        },
+        {
+          "label": "首尔经济日报：芯片指数大跌、布伦特创五个月新高",
+          "url": "https://en.sedaily.com/international/2026/10/17/nasdaq-falls-2-percent-on-ai-debt-fears-as-brent-hits-five"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "中国拟将 23 项 AI 技术列入出口禁限目录：训练算力≥10²⁶ 次运算、参数≥2 万亿或全球前十的大模型核心技术受限，API/SaaS 访问不在管制范围；台湾拟将未经许可对华出口 AI 芯片入刑",
+      "tag": "新：科技/AI",
+      "facts": [
+        "商务部、科技部公告 2026 年第 48 号（10 月 16 日）：拟修订《中国禁止出口限制出口技术目录》，增列人工智能、生物医药、光伏三领域共 40 项技术，其中 AI 领域 23 项，涉及大模型、智能体、算力集群和信息处理；已通过开源、发表论文等方式进入公共领域的技术不纳入管理。征求意见至 11 月 15 日，并即日起对相关技术实施出口前临时登记（含已开始未完成的出口）。",
+        "CTOL 解读附件 1：「大模型核心技术」指权重、关键检查点、源代码、架构及训练/推理方法，满足任一条件即受限——训练算力≥10²⁶ 次浮点运算、参数≥2 万亿，或出口时在公开评测中位列全球前十；API、应用、SaaS 和端侧访问不在规则之内；另有条目涉及 14 纳米芯片设计和超过 1 万张加速卡的集群。商务部发言人称 40 项中 14 项拟禁止、26 项拟限制。",
+        "AP、华尔街日报：报道将此举置于中美科技竞争加剧的背景下，官方以国家安全为由。",
+        "海峡时报、彭博法律：台湾经济部长龚明鑫称，作为美台对等贸易协议的一部分，台湾计划将 AI 服务器和先进半导体列入管制清单，届时未经许可向中国大陆出口将依《贸易法》构成刑事犯罪；具体门槛与实施日期尚未公布。"
+      ],
+      "readingA": "中国在大模型能力接近前沿后开始像美国一样保护核心「家底」：管住权重和训练方法，同时放开 API 与开源，既防技术外流又不妨碍商业输出。",
+      "readingB": "这也是对美国芯片管制的对等回应和谈判筹码；与台湾新规一起，意味着 AI 供应链加速「双向筑墙」，跨境合作、海外部署和并购的合规成本都会上升。",
+      "disagree": "分歧在于此举主要是防御性的技术安全措施，还是中美科技博弈中的对等反制；对开源生态的实际影响是有限还是深远。",
+      "synthesis": "可确认：草案、门槛、征求意见期与即日起的登记要求都有官方文本或多家报道。值得关注的是开源与 API 豁免——它让中国开源模型继续外溢，但闭源权重与训练方法的跨境转移将需登记乃至许可。台湾方面目前只是政策宣示。",
+      "unknown": "10²⁶ 与 2 万亿参数门槛是否在终稿保留；「全球前十」如何认定；登记审批时长；台湾新规的门槛与生效时间。",
+      "confidence": "高（中国部分有官方公告；台湾部分为部长表态，细则未出）",
+      "sources": [
+        {
+          "label": "商务部 科技部公告 2026 年第 48 号",
+          "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_05e2643a8ca04eb9adf9dd0542991fe4.html"
+        },
+        {
+          "label": "AP：中国拟限制 AI、芯片与光伏技术出口",
+          "url": "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b"
+        },
+        {
+          "label": "华尔街日报：中国拟对 AI 技术实施出口管制",
+          "url": "https://www.wsj.com/economy/trade/china-proposes-export-controls-on-ai-technologies-75ac2030"
+        },
+        {
+          "label": "CTOL：草案管模型文件与芯片设计，不管 API",
+          "url": "https://www.ctol.digital/news/china-draft-technology-export-catalogue-ai-model-weights-chip-design/"
+        },
+        {
+          "label": "海峡时报：台湾将管制对华 AI 芯片出口",
+          "url": "https://www.straitstimes.com/asia/east-asia/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "AI 债务担忧拖累美股：CoreWeave 五年期 CDS 创纪录、隐含违约概率逾六成；纳指周五跌 2.15%，费城半导体指数八连跌创 2008 年以来最长",
+      "tag": "新：市场/AI",
+      "facts": [
+        "首尔经济日报（收盘数据）：10 月 16 日道指收 52002.41 点（-0.34%），标普 500 收 7659.44 点（-1.09%），纳指收 26140.03 点（-2.15%）；费城半导体指数跌 3.83%，连跌八个交易日，为 2008 年金融危机以来最长。AMD -5.95%、美光 -5.63%、博通 -4.52%、Meta -3.72%、英伟达 -1.43%；苹果 +0.43%。",
+        "路透、CNBC：CoreWeave 五年期信用违约互换 10 月 15 日升至约 1195 个基点的纪录，隐含五年内违约概率约 64%；其债券交易价约 79 美分，2031 年到期债收益率一度超过 16%。",
+        "首尔经济日报：周五 CoreWeave 盘中最多跌 11.91%，Nebius 跌 12.18%、IREN 跌 11.19%、甲骨文跌 4.64%。高利率被认为加重 AI 基础设施的债务负担；油价升至五个月高位也压制股市。",
+        "X 上广泛转述的 Gartner 报告称，到 2030 年多数「新云」（neocloud）公司可能无法独立运营——该报告原文本期未能核实。"
+      ],
+      "readingA": "AI 基建大量依赖债务融资，高利率与客户集中风险叠加，信用市场已在为部分「新云」公司定价违约；这是泡沫开始挤出的信号。",
+      "readingB": "压力集中在高杠杆的租赁型数据中心公司，大型科技公司现金流充裕、AI 需求仍在增长；油价、利率和期权到期也放大了单日波动，未必代表 AI 周期见顶。",
+      "disagree": "分歧在于：信用利差飙升是 AI 投资周期见顶的前兆，还是局限于少数高杠杆公司的个别风险。",
+      "synthesis": "可确认的是股市大跌、芯片指数罕见连跌和 CoreWeave 信用指标恶化。风险传导路径目前主要在「新云」与其债权人（含私募信贷），是否外溢到云巨头的资本开支计划仍需观察。",
+      "unknown": "CoreWeave 是否会再融资或重组；大客户合同的稳定性；私募信贷敞口规模；下周大型科技公司财报对资本开支的指引。",
+      "confidence": "中高（收盘与 CDS 数据有多家报道；Gartner 报告未核实原文）",
+      "sources": [
+        {
+          "label": "首尔经济日报：纳指跌 2%、布伦特创五个月新高",
+          "url": "https://en.sedaily.com/international/2026/10/17/nasdaq-falls-2-percent-on-ai-debt-fears-as-brent-hits-five"
+        },
+        {
+          "label": "CNBC：CoreWeave CDS 升至困境水平",
+          "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+        },
+        {
+          "label": "路透（Investing.com）：AI 信用担忧推高违约保险",
+          "url": "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-sharply-4950549"
+        },
+        {
+          "label": "CNBC：新云股抛售背后",
+          "url": "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
+        },
+        {
+          "label": "AP：美股主要指数周五表现",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c27809783ae3230b44c26e5ee4bea056"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "美国俄勒冈州本德市小学枪击：16 岁前学生致 3 名儿童和 1 名教师死亡，被一名持合法手枪追入校内的家长击毙",
+      "tag": "新：美国",
+      "facts": [
+        "本德—拉派恩学区及警方通报：10 月 15 日 12:59（当地时间），调度中心先接到一名车内人员报警称被持长枪者多次射击，随后数十通电话报告枪手进入 Silver Rail 小学；警察 1:02 到场，随即报告嫌犯已被击毙、「可能是旁观者所为」。",
+        "官方通报：现场 5 人死亡（含嫌犯），死者为 5 岁、8 岁、11 岁三名儿童和一名 25 岁教师；一名 7 岁儿童和一名 54 岁教师重伤送医。",
+        "AP、NBC：嫌犯为 16 岁前学生，用一把 Maverick 88 霰弹枪射穿上锁的校门进入，进入一间特殊需求教室；一名教师向他扔手机并与其搏斗，随后一名有两个孩子在该校就读的父亲持合法手枪追入并将其击毙。OPB：警察局长称枪手先翻越校园围栏。",
+        "动机及枪支来源仍在调查中。"
+      ],
+      "readingA": "这是又一起暴露未成年人获取枪支、校园物理防护不足的悲剧；需要追问枪从哪来、为何能翻栏并射穿门锁。",
+      "readingB": "持合法武器的家长在警察赶到前终止袭击，会被拥枪方视作「好人持枪」的例证；但也有人会指出这依赖偶然，不能替代预防。",
+      "disagree": "分歧集中在枪支管控与校园安保/自卫持枪哪个更能减少伤亡。",
+      "synthesis": "可确认的时间线、伤亡和制止过程来自官方与多家媒体。政策争论会随之而来，但动机、枪支获取渠道等关键事实尚未公布，现在下结论为时过早。",
+      "unknown": "作案动机；枪支如何取得；伤者情况；是否有事前预警信号。",
+      "confidence": "高（警方与学区官方通报、AP 等多家一致）",
+      "sources": [
+        {
+          "label": "本德—拉派恩学区信息中心（含警方通报）",
+          "url": "https://www.blschools.org/news/silver-rail-community-information-hub"
+        },
+        {
+          "label": "AP：少年枪手在俄勒冈小学杀害 4 人",
+          "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-b0642ec5cd3da0db24227a2798e2c6ce"
+        },
+        {
+          "label": "AP：制止枪手的父亲",
+          "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-989180ae6e9aa2ed6a4239c8e3423085"
+        },
+        {
+          "label": "OPB 直播：枪手如何进入学校",
+          "url": "https://www.opb.org/article/2026/10/16/oregon-school-shooting-bend-silver-rail/"
+        },
+        {
+          "label": "NBC：时间线与已知信息",
+          "url": "https://www.nbcnews.com/news/us-news/oregon-school-shooting-elementary-bend-victims-shooter-death-what-know-rcna603793"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "巴基斯坦白沙瓦私立学校屋顶坍塌：34 名儿童和 1 名教师遇难，至少 45 名儿童受伤；政府下令调查",
+      "tag": "新：南亚",
+      "facts": [
+        "AP、卫报：10 月 15 日，开伯尔-普什图赫瓦省白沙瓦一所私立学校（Al-Khair Education Centre）屋顶坍塌，34 名儿童和 1 名教师死亡，至少 45 名儿童受伤。",
+        "Arab News：巴基斯坦已下令调查事故。新华社此前报道的死亡人数为 33 人，此后上升；《论坛快报》有报道称死者为 35 名儿童和 2 名女教师，各方数字仍有出入。",
+        "坍塌原因（建筑质量、违规建造或其他）目前未见官方结论。"
+      ],
+      "readingA": "大量低收费私立学校在监管空白中运营，校舍安全长期无人核查，这类事故是制度性问题。",
+      "readingB": "在调查结论出来前，原因可能涉及天气、施工或维护等多种因素，需避免过早归责。",
+      "disagree": "责任在学校经营者、地方监管部门，还是更广泛的建筑标准执行问题。",
+      "synthesis": "伤亡规模已由多家媒体核实，原因未明。这是本期窗口内伤亡最重的单一事故之一。",
+      "unknown": "坍塌原因；最终伤亡数字；是否有人被追责。",
+      "confidence": "中高（死亡人数各家略有出入）",
+      "sources": [
+        {
+          "label": "AP：白沙瓦私立学校屋顶坍塌",
+          "url": "https://apnews.com/article/pakistan-school-roof-collapse-peshawar-c0be44527f22b43ea16a1f10d4b43e54"
+        },
+        {
+          "label": "卫报：巴基斯坦学校屋顶坍塌",
+          "url": "https://www.theguardian.com/world/2026/oct/15/pakistan-peshawar-school-roof-collapse-leaves-students-dead"
+        },
+        {
+          "label": "Arab News：巴基斯坦下令调查",
+          "url": "https://www.arabnews.pk/pakistan/pakistan-orders-probe-into-school-roof-collapse-in-northwest-that-killed-35-3004276"
+        },
+        {
+          "label": "论坛快报：教室变成死亡陷阱",
+          "url": "https://tribune.com.pk/story/2635118/classroom-turns-into-a-death-trap"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/c58jz174w89ro"
+    },
+    {
+      "n": 2,
+      "title": "Budget, Ukraine, migration: Five takeaways from the EU leaders' summit",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit"
+    },
+    {
+      "n": 3,
+      "title": "Ukraine's Zelenskiy blasts US-Russian diesel deal, welcomes bigger European role",
+      "outlet": "Reuters (Investing.com)",
+      "url": "https://www.investing.com/news/commodities-news/ukraines-zelenskiy-blasts-usrussian-diesel-deal-welcomes-bigger-european-role-in-peace-process-4954777"
+    },
+    {
+      "n": 4,
+      "title": "Russia strikes 9 Ukrainian regions as a new report shows a spike in civilian casualties",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/russia-ukraine-war-trump-zelenskyy-power-grid-025bdb5cebc0be727a6197ce37f2c365"
+    },
+    {
+      "n": 5,
+      "title": "Ukraine: Civilian casualty rates among 'deadliest' in years",
+      "outlet": "UN News",
+      "url": "https://news.un.org/en/story/2026/10/1168614"
+    },
+    {
+      "n": 6,
+      "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+      "outlet": "BBC Verify",
+      "url": "https://www.bbc.com/news/articles/cmde8dpg8g0no"
+    },
+    {
+      "n": 7,
+      "title": "Hormuz ship attacks hit record as Iran broadens campaign",
+      "outlet": "Lloyd's List",
+      "url": "https://www.lloydslist.com/LL1158715/Hormuz-ship-attacks-hit-record-as-Iran-broadens-campaign-against-commercial-shipping"
+    },
+    {
+      "n": 8,
+      "title": "Oil tanker struck in Strait of Hormuz, says Indian ports minister",
+      "outlet": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/16/india-hormuz-strait-tanker-attack/"
+    },
+    {
+      "n": 9,
+      "title": "IEA Governing Board statement on energy markets and security",
+      "outlet": "IEA",
+      "url": "https://www.iea.org/news/iea-governing-board-statement-on-energy-markets-and-security"
+    },
+    {
+      "n": 10,
+      "title": "US considering using 'Mother of All Bombs' against Iran, sources say",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran"
+    },
+    {
+      "n": 11,
+      "title": "商务部 科技部公告2026年第48号（技术出口目录征求意见）",
+      "outlet": "商务部",
+      "url": "https://www.mofcom.gov.cn/zcfb/blgg/gg/2026/art/2026/art_05e2643a8ca04eb9adf9dd0542991fe4.html"
+    },
+    {
+      "n": 12,
+      "title": "China moves to curb tech exports including for AI and solar",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/china-export-restrictions-ai-chips-solar-us-5ac381c0c6d6628bbea2e0da7d855a5b"
+    },
+    {
+      "n": 13,
+      "title": "Taiwan to curb AI chip exports to China as part of US trade deal",
+      "outlet": "The Straits Times",
+      "url": "https://www.straitstimes.com/asia/east-asia/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal"
+    },
+    {
+      "n": 14,
+      "title": "Chip Index Sinks 3.8% on AI Debt Fears; Brent Hits Five-Month High",
+      "outlet": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/international/2026/10/17/nasdaq-falls-2-percent-on-ai-debt-fears-as-brent-hits-five"
+    },
+    {
+      "n": 15,
+      "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+    },
+    {
+      "n": 16,
+      "title": "Teen shooter kills 4 at Bend, Oregon, elementary school, police say",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/oregon-school-shooting-silver-rail-elementary-b0642ec5cd3da0db24227a2798e2c6ce"
+    },
+    {
+      "n": 17,
+      "title": "Roof collapse at Peshawar private school kills 34 children and a teacher",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/pakistan-school-roof-collapse-peshawar-c0be44527f22b43ea16a1f10d4b43e54"
+    },
+    {
+      "n": 18,
+      "title": "RSF says Sudan army strike kills 30 at Nyala livestock market",
+      "outlet": "The Sudan Times",
+      "url": "https://thesudantimes.com/sudan/rsf-says-sudan-army-strike-kills-30-at-nyala-livestock-market/"
+    },
+    {
+      "n": 19,
+      "title": "Daily World Briefing, Oct. 16 (Riyadh airport: 17 killed, 330+ injured in 20 attacks since Oct. 1; Istanbul floods)",
+      "outlet": "Xinhua",
+      "url": "https://english.news.cn/20261016/fbffb1f1c00746cda325372b9cb3744a/c.html"
+    },
+    {
+      "n": 20,
+      "title": "Xinhua world news summary at 1530 GMT, Oct. 16 (Carney Alberta referendum rally; Gambia migrant boat)",
+      "outlet": "Xinhua",
+      "url": "https://english.news.cn/20261016/959356a533c142839abf9d2ea64f03fd/c.html"
+    },
+    {
+      "n": 21,
+      "title": "Israeli settlers attack Palestinians harvesting olives, and other Middle East developments",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/mideast-israel-palestinians-houthis-october-16-2026-5da500114e070ccaa27d36837b095de5"
+    },
+    {
+      "n": 22,
+      "title": "Everything That Happened in AI Today (Oct 16): Muse Spark Open, Nemotron 3.5 Super VL, MAI-Base-2, GPT-Live-1.1",
+      "outlet": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-october-16-2026/"
+    }
+  ]
+}
