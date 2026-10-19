@@ -1,0 +1,366 @@
+{
+  "date": "2026-10-19",
+  "title": "早间简报",
+  "windowNote": "以北京时间 10/18 早至 10/19 早为主（欧美周六晚至周日）。周末科技/AI 新闻较少，AI 条目选用 10/16–17 发布、此前未报道的内容。",
+  "thinDay": false,
+  "thinDayNote": "",
+  "vsYesterday": "相对上一期（10/18）：法国抗议升级为多年来最严重骚乱，逮捕数翻倍、多座市政厅被冲击，马克龙发表全国讲话；美乌线上，白宫称对俄制裁豁免「尚未最终决定、评估 60 天」，乌方一夜逾千架无人机打到圣彼得堡；新增加拿大军事基地火灾、西岸定居者袭击欧洲外交官、Anthropic 自拟 AI 安全法案、中美开源模型新发布。霍尔木兹（伊朗称七天方案仍有效）、也门曼德海峡交火、阿尔巴尼亚抗议、教宗康复、日本高市支持率跌破五成等见索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "法国抗议演变为多年来最严重骚乱：内政部称近 2400 人被捕、近千名警察宪兵受伤，利摩日百年市政厅被焚毁；马克龙电视讲话授权必要时禁止集会",
+      "tag": "续报：欧洲",
+      "facts": [
+        "规模：Euronews 援引内政部，10 月 17 日（周六）全国约 55 万人参加抗议，其中巴黎约 11 万人。卫报援引内政部：周六近 2400 人被捕，近 1000 名警察和宪兵受伤（7 人重伤）；巴黎警方称当地逮捕 855 人，创纪录。新华社援引内政部长努涅斯周日早些时候的说法为「逾 2000 人被捕、600 多名警察宪兵和消防员受伤」（临时数据，口径不一）。",
+        "破坏：利摩日 1883 年启用的市政厅被蒙面人闯入纵火，屋顶和钟楼坍塌，省长巴拉特称建筑「大部分被毁」「遗产灾难」（RFI、Euronews）。卫报：马赛市政厅和一处警察局遭冲击，里尔市政厅被闯入，里昂历史旅游局被烧；商户工会称逾 1500 家店铺被洗劫，损失达数千万欧元。",
+        "伤亡：路透称一名示威者死亡。卫报：圣艾蒂安一名 17 岁男孩右手被防暴手榴弹炸断，米卢斯一名 17 岁女孩失去一只眼睛，警方已立案调查。",
+        "政治回应：马克龙周日电视讲话称「没有任何理由」为暴力开脱，区分为生活成本和教育诉求和平示威的人与「打砸抢者」，归咎「极左派系团体及众多罪犯」，并授权各省长与市长保护公共建筑，必要时禁止集会（AP、卫报）。左右翼政客要求内政部长努涅斯辞职；利摩日市长称市警当天下午「弹药耗尽」，是「国家的巨大失败」；梅朗雄指责政府组织失误「为混乱打开大门」，总理勒科尔尼称把暴力责任推给警方是「危险而犬儒的颠倒」。周日巴黎共和国广场再度发生冲突；西班牙、意大利、葡萄牙也出现抗议。"
+      ],
+      "readingA": "有组织的暴力团伙借合法抗议之机冲击市政厅、警局等共和国象征并大规模洗劫，已超出社会诉求范畴。政府必须追究肇事者、保护公共建筑，否则受损的恰恰是和平示威者的诉求和公众对国家的信任。",
+      "readingB": "骚乱建立在四周学校抗议和长期生活成本压力未获回应的基础上；警方情报与部署失误、对青少年使用致残性武器同样需要问责。把问题主要归为「极左」可能掩盖政策和警务上的失败，而禁止集会也可能伤及合法抗议。",
+      "disagree": "分歧在于：暴力主要源自有组织的激进团体和犯罪分子，还是长期诉求被忽视与警务失当共同酿成；回应应以禁令和惩处为主，还是同时需要政治让步和警务问责。",
+      "synthesis": "可确认的是抗议规模、多地公共建筑被毁和逮捕人数大幅上升。相对上一期（10/18：约 55 万人上街、总理称 1200 人被捕），实质新进展是逮捕数翻倍、多座市政厅被冲击、总统发表全国讲话并授权禁止集会，以及围绕内政部长和警务的问责之争。卫报此前指出，法国面临抗议者要求增加公共支出与市场要求财政紧缩之间的两难，这使政府很难在短期内给出实质让步。",
+      "unknown": "死者身份与死因；伤亡和逮捕的最终统计；各地是否将实际发布集会禁令；内政部长去留；政府会否在教育和生活成本上让步；暴力团体组织程度的具体证据。",
+      "confidence": "高（抗议规模、破坏和总统讲话有多家报道）；中（伤亡与逮捕数字为临时数据，各机构口径不一）",
+      "sources": [
+        {
+          "label": "AP：马克龙称将追究「企图推翻共和国」者",
+          "url": "https://apnews.com/article/france-protests-violence-looting-f5ce07c2ef46ad0c02c6ff7018532a59"
+        },
+        {
+          "label": "卫报：近 2400 人被捕，政府召开危机会议",
+          "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron"
+        },
+        {
+          "label": "Euronews：利摩日市政厅尖塔坍塌",
+          "url": "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france"
+        },
+        {
+          "label": "RFI/法新社：利摩日市政厅「大部分被毁」",
+          "url": "https://www.rfi.fr/en/international-news/20261017-fire-rages-at-town-hall-in-france-s-limoges-after-protests-authorities"
+        },
+        {
+          "label": "新华社国际新闻摘要（10/18）",
+          "url": "https://english.news.cn/20261018/05b08200341840dd9b86a8be30f9a6f6/c.html"
+        },
+        {
+          "label": "路透国际新闻摘要（经 Devdiscourse）",
+          "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "乌克兰一夜逾千架无人机袭俄，圣彼得堡石油码头和油库起火、VK 数据中心受损；白宫称对俄制裁豁免「尚未最终决定」，将用最多 60 天评估",
+      "tag": "续报：重大",
+      "facts": [
+        "俄国防部称 10 月 17 日至 18 日夜间击落 1015 架乌克兰无人机（路透）；AP 称这是战争以来规模最大的空袭之一。圣彼得堡州长别格洛夫称，圣彼得堡石油码头、Ruchyi 油库和工业仓库起火，12 栋公寓楼和 2 栋民宅受损，普尔科沃机场一度关闭；地方当局称圣彼得堡及列宁格勒州共 1 死 15 伤（路透；BBC 早先报道为至少 5 伤）。",
+        "电商 Ozon 称其圣彼得堡物流中心起火、无人受伤；VK 称其列宁格勒州数据中心遭无人机袭击但服务「照常」，州长称变压器设备和仓库受损；乌克兰无人机制造商 Fire Point 称乌军击中了 VK 数据中心。BBC 发稿时基辅官方尚未评论。BBC：泽连斯基周六称，自特朗普上周宣布「能源停火」以来，俄方已 76 次打击乌能源设施；乌方暂停打击俄炼厂三天后恢复。",
+        "华盛顿：路透报道，特朗普周六称「你们很多人还不知道我的决定」；国务卿鲁比奥称总统将用最多 60 天评估实施对俄制裁和关税对全球及美国经济的影响，并点名仍高度依赖俄油的印度。周五的行政令本身未写明期限。鲁比奥为美俄柴油协议辩护：「这些柴油总会卖出去，区别只是美国能拿到多少」；特朗普称俄方初期将供应逾 30 万吨柴油。共和党参议员达琳·格雷厄姆称「我不信任普京」，主张继续施压。",
+        "外交渠道：BBC 称泽连斯基周日表示已与特朗普的谈判代表威特科夫和库什纳通话，双方团队保持沟通、准备下一步外交步骤；他还将赴布鲁塞尔与欧盟会面。"
+      ],
+      "readingA": "在美方松绑制裁之际，打击俄能源出口和经济基础设施是乌方剩下的主要施压手段；白宫「60 天评估」实际上为柴油协议和中期选举争取时间，进一步削弱了国会两党设计的对俄杠杆。",
+      "readingB": "美方的首要考量是油价和全球经济冲击，对印度等伙伴加征关税代价巨大，审慎评估合乎情理；乌方在美方推动能源停火期间扩大打击，并波及数据中心和物流设施，可能推高能源价格、使战事升级，让谈判更难推进。",
+      "disagree": "分歧在于：打击俄能源设施是缩短战争的必要杠杆，还是推高油价、妨碍谈判的升级；60 天评估是审慎的政策审查，还是变相放弃制裁。",
+      "synthesis": "相对上一期（10/18：特朗普签令豁免制裁），实质新进展有两点：白宫把豁免定性为「尚未最终决定、评估最多 60 天」，但并未撤回；乌方则以一夜逾千架无人机、远程打击圣彼得堡作出回应。与此同时，乌美谈判渠道仍在运转，美乌之间是公开交恶与幕后沟通并存。",
+      "unknown": "圣彼得堡石油码头受损程度及对俄成品油出口的影响；60 天后制裁是否恢复；泽连斯基与欧盟会晤结果；俄方报复性打击的规模。",
+      "confidence": "中高（俄方击落数字和伤亡未经独立核实，不同报道数字有差异；美方表态有路透原文）",
+      "sources": [
+        {
+          "label": "路透：圣彼得堡及列宁格勒州遇袭 1 死 15 伤",
+          "url": "https://www.streetinsider.com/Reuters/One+killed%2C+15+injured+in+Ukrainian+drone+attack+on+St+Petersburg+and+Leningrad+region/27199321.html"
+        },
+        {
+          "label": "BBC：圣彼得堡油设施夜间遇袭",
+          "url": "https://www.bbc.com/news/articles/c3eweygrjzd7o"
+        },
+        {
+          "label": "AP：乌方发射逾千架无人机，俄油设施起火",
+          "url": "https://apnews.com/article/russia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d"
+        },
+        {
+          "label": "路透（经 ThePrint）：鲁比奥称特朗普将用最多 60 天评估对俄制裁",
+          "url": "https://theprint.in/world/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions/3075005/"
+        },
+        {
+          "label": "俄新社：VK 数据中心设施受损",
+          "url": "https://ria.ru/20261018/tsod-2125235078.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "加拿大阿尔伯塔省温赖特军事基地实弹训练中突发火灾：4 名军人遇难、39 人住院（至少 19 人危重）；卡尼称是和平时期加军在本土最严重的悲剧之一",
+      "tag": "新：北美",
+      "facts": [
+        "BBC、AP：火灾于当地时间 10 月 17 日约 16:00 在加拿大军队温赖特基地（埃德蒙顿以东约 210 公里）发生，现已控制。阿省省长史密斯称 39 人住院，至少 19 人情况危重。遇难者为 Morgan Wong 中士及 Shaun Farrell、Aidan Goulding、Hayden Lykkemark 三名列兵，均属帕特里夏公主加拿大轻步兵团第 3 营（Global News）。",
+        "鲁特兰少将称，部队当时在进行高强度实弹战斗训练，为担任全球快速反应部队及明年 4–5 月赴拉脱维亚增援做准备；约 1 公里外的草地起火，原因正在调查，「异常强烈的大风」使火势迅速蔓延并转向靶场管理区。Global News：加拿大环境部当天对阿省发布大风警告，阵风达每小时 100 公里。",
+        "军方称目前「没有迹象表明与恐怖活动有关」，也不认为与油气设施或外部干预有关。卡尼总理称「全国都在哀悼」，下令联邦建筑降半旗。"
+      ],
+      "readingA": "这首先是极端天气下的突发事故：实弹训练本身风险较高，而当时风力变化之快连指挥官都称前所未见。应等待调查结论，避免在家属悲痛之际过早问责。",
+      "readingB": "在当天已有大风预警的情况下仍进行大规模实弹训练，说明火险评估和应急撤离规程可能存在缺陷；伤亡集中在训练区，需要独立、公开的调查和问责，才能防止重演。",
+      "disagree": "分歧在于：这是难以预见的天气意外，还是本可通过更严格的火险规程避免的安全失误。",
+      "synthesis": "可确认的是伤亡数字、训练性质和官方对风势的描述。起火原因（是否与训练弹药有关）以及是否按照大风预警调整训练，是判断责任的关键，目前都尚无结论。",
+      "unknown": "起火的具体原因；当天的天气是否已超出训练安全标准；调查由谁主导、是否公开；危重伤员的后续情况。",
+      "confidence": "高（伤亡与官方说法有多家报道及总理办公室声明）；起火原因未知",
+      "sources": [
+        {
+          "label": "BBC：加拿大军事基地大火 4 死数十伤",
+          "url": "https://www.bbc.com/news/articles/cxj0ly1m3q81o"
+        },
+        {
+          "label": "AP：火灾致 4 死、39 人住院",
+          "url": "https://apnews.com/article/canada-alberta-military-base-fire-wainwright-1a41899da5b6e797b000061fa4da9c6a"
+        },
+        {
+          "label": "Global News：遇难军人身份公布",
+          "url": "https://globalnews.ca/news/12107164/cfb-wainwright-fire-victims/"
+        },
+        {
+          "label": "加拿大总理办公室：卡尼讲话",
+          "url": "https://www.pm.gc.ca/en/news/speeches/2026/10/18/prime-minister-carney-delivers-remarks-following-tragedy-cfb-wainwright"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "约旦河西岸蒙面定居者袭击参加橄榄采收的法、比、波外交官，法国市长被打倒；鲁比奥罕见公开要求以色列「严厉打击」定居者暴力",
+      "tag": "新：中东",
+      "facts": [
+        "卫报：10 月 17 日在基督教城镇塔伊贝，7 名蒙面定居者（部分持棍）袭击了参加橄榄采收的法国驻耶路撒冷总领事一行及比利时、波兰领事，佩戴市长绶带的法国北部小城市长博杜被打倒在地，比利时使团一辆装甲车车窗被砸碎；康布雷大主教也遭威胁。此前该团伙袭击巴勒斯坦农民，一名 70 多岁女子被踢打，一名男子头部缝了 6 针。",
+        "卫报：前一天，《华盛顿邮报》摄影记者海迪·莱文在阿布法拉报道采收时遭袭重伤，已接受手术。以色列人权组织 Yesh Din 称，9 月 27 日以来定居者发动 170 多起袭击；巴方称至少 4 人死亡、100 多人受伤。",
+        "回应：比利时外长普雷沃谴责暴力，称将继续推动欧盟制裁定居者。以色列外长萨尔谴责袭击、称警方已立案，并表示外交官未经军方协调进入西岸有遭袭风险；一名西方外交消息人士称，要求提前通报行程违反外交惯例。路透：鲁比奥周六称「我们对这些画面非常不安……已经并将继续要求以方严厉打击」。以色列反对派人士艾森科特称之为「政府庇护下的犹太恐怖主义」；以色列将于本月晚些时候举行大选。"
+      ],
+      "readingA": "连外交官、神职人员和记者在场都无法阻止袭击，说明定居者暴力长期处于近乎有罪不罚的状态，这与以色列的定居点政策和执法缺位直接相关；需要欧美通过制裁和外交压力推动问责。",
+      "readingB": "以色列政府已公开谴责并立案，袭击者是少数极端分子，不应等同于国家政策；安全协调要求的初衷是保护外国人员，国际压力更应聚焦于追究具体肇事者，而非在大选前把事件政治化。",
+      "disagree": "分歧在于：这是体制性纵容的结果，需要对定居点政策施压；还是少数极端分子的犯罪，应通过以色列自身执法解决。",
+      "synthesis": "可确认的是袭击经过、多方谴责以及鲁比奥的表态。实质新意在于：袭击对象扩大到欧洲外交官，美国国务卿也公开施压。接下来能否抓捕和起诉肇事者，以及欧盟能否就定居者制裁达成一致，是检验各方表态的关键。",
+      "unknown": "肇事者是否被逮捕、起诉；欧盟是否通过新的定居者制裁；美方是否采取具体措施；以色列大选对此议题的影响。",
+      "confidence": "高（卫报记者在现场，多方表态有原话）",
+      "sources": [
+        {
+          "label": "卫报：以色列定居者袭击欧洲外交官",
+          "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+        },
+        {
+          "label": "NBC：蒙面定居者袭击欧洲外交官",
+          "url": "https://www.nbcnews.com/world/israel/masked-settlers-attack-european-diplomats-occupied-west-bank-rcna604110"
+        },
+        {
+          "label": "以色列今日报：鲁比奥敦促以色列打击暴力定居者",
+          "url": "https://www.israelhayom.com/2026/10/18/disturbed-by-the-images-rubio-urges-israel-to-crack-down-on-violent-settlers/"
+        },
+        {
+          "label": "AP：欧洲外交官在西岸遭定居者袭击",
+          "url": "https://apnews.com/article/west-bank-israel-european-diplomats-settlers-89ebd068167669db357ad1fa4f3a8758"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Anthropic 向国会私下推介自拟前沿 AI 安全法案：仅当模型构成「迫在眉睫」的超 10 亿美元损失或超 50 人伤亡风险时，才可由商务部申请、法院下令叫停",
+      "tag": "新：AI 政策",
+      "facts": [
+        "Politico 10 月 16 日援引三位知情人报道，Anthropic 代表向国会议员推介一份前沿 AI 安全与安保法案草案（路透、CNA 转述）。草案规定，只有当模型构成「可预见、迫在眉睫」的风险——损失超过 10 亿美元，或造成 50 人以上死亡或重伤——且风险源于制造或释放生物武器、模型逃脱开发者控制或网络攻击时，政府才能阻止其发布或使用。",
+        "机制：在商务部注册的独立评估机构定期评估实验室及其前沿模型，实验室可付费，但付费不得与评估结果挂钩；评估机构发现上述风险须在 72 小时内报告商务部。只有商务部可以申请、由哥伦比亚特区联邦地区法院下令暂停模型，草案明确禁止其他政府部门暂停模型的开发、部署或内部使用。",
+        "Anthropic 发言人对路透称，草案体现了公司今年早些时候发布的「先进 AI 框架」，要求开发者测试前沿模型、公开发现并接受独立评估，同时赋予政府「阻止或遏制最强模型危险部署的能力」。商务部未立即回应。",
+        "政策追踪网站 aipolicy.tech 整理称（第三方整理，非官方文本）：草案落款 9 月 29 日，工作名称包括 AEGIS 法案；覆盖训练算力超过 10²⁵ 次运算的模型，并对 AI 收入超 5 亿美元或开发支出超 10 亿美元的大型开发商提出安全框架、风险报告等额外义务；在信息披露、第三方评估和事故报告方面优先于州法；目前没有国会提案人。"
+      ],
+      "readingA": "这是一套可执行的联邦框架：强制测试、透明和独立评估，再加上由法院把关的叫停机制，比各州碎片化的规则更清晰，也给了政府在真正危险时出手的法律工具。",
+      "readingB": "由被监管企业起草监管规则本身就有利益冲突：极高的干预门槛和「只能由商务部经法院」的单一路径大幅限制了政府干预空间，优先于州法则会削弱加州等地已有的规则，可能更符合大型实验室的利益。",
+      "disagree": "分歧在于：这是负责任企业推动的务实安全立法，还是以「安全」为名设定有利于自身的高门槛、并借联邦优先压制州监管。",
+      "synthesis": "可确认的是 Politico 报道的核心条款和 Anthropic 对草案存在的确认。草案目前没有议员接手，离立法还很远；但它把讨论焦点从「要不要监管」推向「什么门槛、谁来叫停、州法还能管多少」，这些将是各方博弈的具体条款。",
+      "unknown": "是否有议员提出该法案；白宫和商务部的态度；OpenAI、谷歌等其他实验室和州议员的反应；官方全文何时公开。",
+      "confidence": "中高（核心条款来自 Politico 单一信源并经 Anthropic 部分确认；细节条款来自第三方整理）",
+      "sources": [
+        {
+          "label": "Politico：Anthropic 私下推介自拟 AI 安全法案",
+          "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
+        },
+        {
+          "label": "CNA/路透：Anthropic 向议员推介法案",
+          "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581"
+        },
+        {
+          "label": "AI Policy Landscape：草案条款整理",
+          "url": "https://aipolicy.tech/proposals/anthropic-draft"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "中美开源模型竞速：DeepSeek 以 MIT 许可开源 V4.1-Flash-1017 并开放自研搜索 API；美国初创公司 Reflection 以 Apache 2.0 发布 5010 亿参数 Beam，主打「更少 token 完成任务」",
+      "tag": "新：科技/AI",
+      "facts": [
+        "The Decoder：DeepSeek 10 月 17 日发布 V4.1-Flash-1017，网站、App 和 API 同步上线，权重在 Hugging Face 和 ModelScope 以 MIT 许可公开。公司自报：DeepSWE 编程基准得分 77.0%（前代 74.2%），单任务平均成本不到 0.20 美元（前代约 0.50 美元），并称在多项编程和智能体测试中超过更大的竞品；独立基准尚未发布。",
+        "DeepSeek 同时向开发者开放自研搜索引擎的 Search 和 Fetch API，每千次调用 0.75 美元；在 10 月 31 日前可通过 DeepSeek Harness、Claude Code、Codex 中的服务器端工具免费使用（The Decoder）。",
+        "VentureBeat：Reflection AI 10 月 16 日发布首个开源权重模型 Beam，总参数 5010 亿、每个 token 激活 230 亿，Apache 2.0 许可，主打编程和智能体任务。公司称其推理表现与智谱 GLM-5.2 相当，但推理算力少 3–4 倍；VentureBeat 指出这是公司估算，未计入读取提示词的算力。在 Reflection 自己的表格中，Terminal-Bench 2.1 上 Beam 得分 80.1%，DeepSeek V4.1 Flash 为 90.6%。8 位和 4 位版本可在单台 8 卡 GPU 服务器运行。",
+        "Reflection CTO 安东诺格鲁称，企业使用中国模型面临监管、来源和「特定场景下触发隐藏行为」等风险，但「这并不是说中国模型不好」。VentureBeat 9 月调查中，32 名运行开源模型的受访者里 56% 无法确定其模型来源。"
+      ],
+      "readingA": "开源模型的价格和效率竞争正在快速压低智能体工作的成本，可自托管、可修改的权重对企业和研究者都是利好；中国实验室仍领跑开源性能，美国公司加码开源是健康的竞争。",
+      "readingB": "开源前沿模型带来来源、潜在后门和出口管制等安全与供应链问题，企业往往不清楚自己用的是谁的模型；而且两家公司的性能和成本数据都是自报，在独立评测出来之前不宜据此做采购决策。",
+      "disagree": "分歧在于：开源权重竞赛主要是降低成本、扩大可及性的好事，还是带来需要管控的安全和地缘风险；以及自报基准能在多大程度上反映真实表现。",
+      "synthesis": "可确认的是两款模型的发布、许可证和公司自报指标。竞争焦点正从「每 token 价格」转向「完成一项任务的总成本」。上一期已报道中国拟限制排名前十大模型的技术出口，这可能影响 DeepSeek 等后续的开源节奏；VentureBeat 表示正在测试几款模型的真实单任务成本。",
+      "unknown": "独立基准和实际单任务成本；中国的开源和出口新规是否适用于 DeepSeek 后续版本；企业的实际采用情况。",
+      "confidence": "中（性能和成本数据均为公司自报，独立评测待出）",
+      "sources": [
+        {
+          "label": "The Decoder：DeepSeek V4.1 Flash 1017 发布",
+          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+        },
+        {
+          "label": "Hugging Face：DeepSeek-V4.1-Flash-1017 模型页",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+        },
+        {
+          "label": "VentureBeat：Reflection Beam 以更少 token 挑战中国开源模型",
+          "url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens"
+        },
+        {
+          "label": "Reflection：Beam 发布博客",
+          "url": "https://www.reflection.ai/blog/introducing-beam"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Macron condemns those who 'sought to bring down the Republic' after rioting mars nationwide protests",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/france-protests-violence-looting-f5ce07c2ef46ad0c02c6ff7018532a59"
+    },
+    {
+      "n": 2,
+      "title": "Macron criticises 'unbridled violence' after days of unrest and 2,400 arrests across France",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron"
+    },
+    {
+      "n": 3,
+      "title": "Spire collapses at historic Limoges town hall amid violent protests across France",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/18/spire-collapses-at-historic-limoges-town-hall-amid-violent-protests-across-france"
+    },
+    {
+      "n": 4,
+      "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
+      "outlet": "Reuters",
+      "url": "https://www.streetinsider.com/Reuters/One+killed%2C+15+injured+in+Ukrainian+drone+attack+on+St+Petersburg+and+Leningrad+region/27199321.html"
+    },
+    {
+      "n": 5,
+      "title": "Russian oil sites ablaze as Ukraine launches more than 1,000 drones",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/russia-ukraine-war-energy-diesel-trump-f813d3725b8b5f23958a68a95729fd0d"
+    },
+    {
+      "n": 6,
+      "title": "Rubio says Trump to take up to 60 days to weigh Russia sanctions",
+      "outlet": "Reuters",
+      "url": "https://theprint.in/world/rubio-says-trump-to-take-up-to-60-days-to-weigh-russia-sanctions/3075005/"
+    },
+    {
+      "n": 7,
+      "title": "Four killed, dozens injured in major fire at Canada military base",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cxj0ly1m3q81o"
+    },
+    {
+      "n": 8,
+      "title": "Israeli settlers attack European diplomats in West Bank",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
+    },
+    {
+      "n": 9,
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+      "outlet": "Politico",
+      "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
+    },
+    {
+      "n": 10,
+      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
+      "outlet": "The Decoder",
+      "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/"
+    },
+    {
+      "n": 11,
+      "title": "Reflection's Beam aims to undercut Chinese open models with fewer tokens, not cheaper tokens",
+      "outlet": "VentureBeat",
+      "url": "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens"
+    },
+    {
+      "n": 12,
+      "title": "Iran urges US to accept proposal to reopen Strait of Hormuz（阿拉格齐称七天开放海峡方案「仍在桌上」）",
+      "outlet": "Reuters / Xinhua",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 13,
+      "title": "Fierce fighting near Yemen's Bab al-Mandab Strait as government forces launch offensive against Houthis（政府军消息人士）",
+      "outlet": "Xinhua",
+      "url": "https://english.news.cn/20261018/05b08200341840dd9b86a8be30f9a6f6/c.html"
+    },
+    {
+      "n": 14,
+      "title": "Festival crush in Indian city of Kolkata kills at least 17, local media say",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 15,
+      "title": "Truck mows down devotees near temple in Gwalior, Madhya Pradesh: nearly a dozen dead, about 30 injured",
+      "outlet": "Xinhua",
+      "url": "https://english.news.cn/20261018/05b08200341840dd9b86a8be30f9a6f6/c.html"
+    },
+    {
+      "n": 16,
+      "title": "Pope Leo pledges gradual return to duties in first event since cancer surgery",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 17,
+      "title": "Lithuania tells residents to go to shelters after detecting suspected drone",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 18,
+      "title": "Japan PM Takaichi's support rate falls below 50% (49.1%), lowest since taking office — Kyodo",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 19,
+      "title": "Two killed, including 6-year-old, when truck drives through Kansas youth soccer game",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 20,
+      "title": "Trump faults aides as Republican midterm prospects dim",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 21,
+      "title": "Vietnam signs free-trade pact with Norway, Switzerland, Iceland and Liechtenstein (EFTA)",
+      "outlet": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/3994361-reuters-world-news-summary"
+    },
+    {
+      "n": 22,
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "n": 23,
+      "title": "Anthropic signs long-term lease for first Canadian data centre in Nova Scotia; OpenCode discloses API-key breach; San Francisco pauses new data centres for 45 days",
+      "outlet": "AI News Online（汇总）",
+      "url": "https://ai-news-online.com/briefing/2026-10-18/"
+    }
+  ]
+}
