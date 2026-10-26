@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-26",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 10/25 约 08:10）至本期（10/26 约 08:10），约 24 小时，覆盖欧美周日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。周日美股休市，没有新的收盘数据。巴西决选在北京时间今晨仍在计票，本期数字截至巴西时间 10/25 21:03（约 91.5% 计票），不是最终官方结果。",
+  "thinDay": false,
+  "thinDayNote": "周日选举日，新闻并不薄：巴西、塞尔维亚两场选举都出了结果，以色列明天大选。科技板块没有大的发布，只收录 AI 企业价格战一条。",
+  "vsYesterday": "相对上一期（10/25）：巴西决选卢拉反超，Datafolha 预测其连任；塞尔维亚武契奇认输；以色列大选前夜爆出总参谋长抵制总理涉伊朗军事指令的报道；马查多回到委内瑞拉；泽连斯基确认 11 月三方技术会谈并划出红线。伊朗—霍尔木兹、沙特—胡塞只写新增部分。上一期的欧洲抗议（勒科尔尼与学生周一会谈尚未举行）、约旦教堂袭击、金正恩访丹东、OpenAI 断网训练本期无实质新进展；勒庞在奥尔良启动总统竞选、北欧风暴见索引。Anthropic S-1 按传闻可能于 10/26 公开，但截至发稿 SEC EDGAR 上没有公开文件。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "巴西决选：卢拉在计票中反超弗拉维奥·博索纳罗，Datafolha 预测其赢得史无前例的第四个任期；投票被最高法院大法官临时延长两小时，博索纳罗阵营暗示可能据此挑战结果",
+      "tag": "续报：美洲",
+      "facts": [
+        "计票：据《卫报》转引高等选举法院（TSE）数据，截至巴西时间 10/25 21:03、约 91.5% 选区计票，卢拉 51.62%（58,424,776 票），弗拉维奥 48.38%（54,752,948 票）。计票早段两人交替领先（约 14% 计票时弗拉维奥以 50.02% 对 49.98% 短暂领先）（《卫报》、路透）。",
+        "预测：《圣保罗页报》报道，Datafolha 在 76.98% 计票时（卢拉 51.17%）判定弗拉维奥已无法追上，预测卢拉连任；若确认，这是 1985 年民主化以来首轮落后者首次在决选翻盘。首轮弗拉维奥 47.03%、卢拉 45.16%（《圣保罗页报》、TSE）。",
+        "投票延长：最高法院大法官扎宁（曾任卢拉律师）应卢拉阵营请求，以多地公共交通受限为由，在原定 17:00 截止前后裁定未关闭的投票站延长两小时至 19:00；已关闭的站点不再重开，TSE 因此暂停公布结果约两小时（路透、《卫报》）。",
+        "双方表态：卢拉称这次发生了「可憎的事」，指控有人限制公交阻止其选民投票；弗拉维奥竞选主管马里尼奥称裁定是「干预」，众议员尼古拉斯·费雷拉称延长「只帮落后者」，并发帖「要么我们赢，要么我们赢」（《卫报》）。",
+        "其他：早段数据显示弃权率约 19.4%，低于首轮的 21.08%；卢拉 10/27 满 81 岁；当选人 2027 年 1 月 5 日就职（《卫报》、Bloomberg Línea）。"
+      ],
+      "readingA": "卢拉靠决选动员（降低弃权、学生与粉丝群体动员）完成历史性逆转，延长投票是针对真实的公交受限问题的补救，最终差距约 3 个百分点、数百万票，足以消除程序争议。",
+      "readingB": "由前卢拉律师作出的临门一脚延长裁定、计票暂停和部分站点不能重开，给结果留下了程序瑕疵；博索纳罗阵营已在铺垫不认输，加上 Meta 偏袒指控，巴西可能进入 2022 年之后的又一轮选举合法性争斗。",
+      "disagree": "分歧在于延长投票是保障投票权还是改变规则，以及延长时段的选票是否足以影响结果。",
+      "synthesis": "可以确认的是：在九成以上计票时卢拉领先约 370 万票，主要民调机构已预测其胜选。尚未确认的是最终官方结果和弗拉维奥是否认输；延长投票的法律争议是接下来最可能的冲突点。",
+      "unknown": "TSE 最终结果；弗拉维奥是否承认败选或提起诉讼；延长时段投下的票数有多少；市场周一反应。",
+      "confidence": "高（计票数字）；中（最终胜负尚待官方确认）；低（是否引发法律挑战）",
+      "sources": [
+        {
+          "label": "《卫报》：巴西决选实时计票结果",
+          "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
+        },
+        {
+          "label": "《卫报》直播：延长投票两小时后恢复计票",
+          "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+        },
+        {
+          "label": "《圣保罗页报》：Datafolha 预测卢拉连任",
+          "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-vira-bate-flavio-bolsonaro-e-se-reelege-para-inedito-4o-mandato-projeta-datafolha.shtml"
+        },
+        {
+          "label": "路透（UOL）：卢拉反超，投票延长",
+          "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2026/10/25/tse-divulga-primeira-parcial-de-resultados-apesar-de-extensao-de-horario-de-votacao.htm"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "塞尔维亚提前议会选举：学生运动的「学生名单」得票约 52%，武契奇承认「我们输了」；贝尔格莱德和诺维萨德街头彻夜庆祝",
+      "tag": "新：欧洲",
+      "facts": [
+        "结果：益普索/CeSID 基于样本的预测显示，学生名单约 52%–52.7%、约 139 席（共 250 席），武契奇的「团结塞尔维亚」约 39%、约 104 席，少数民族名单约 7 席；选举委员会早期部分站点计数一度显示执政方领先，两者差异较大（RTS、Srpske Novine）。",
+        "认输：武契奇在执政党前进党总部说「我们还没有最终结果……但很清楚，我们输掉了这次选举」；投票率创纪录，益普索/CeSID 估计约 69.7%（BBC、Mondo）。",
+        "背景：武契奇已任两届总统、不能连任，此次带队竞选意在回任总理；选举是在 2024 年诺维萨德火车站雨棚坍塌致 16 人死亡引发的两年抗议之后提前举行（BBC）。",
+        "学生名单：没有明显领袖，候选人来自医生、演员、学者、运动员等，纲领包括清查镇压抗议的违规官员、不让党派亲信掌管国企、让公共广播摆脱政治控制；首位候选人斯尔达诺维奇称「这将是一个自由的国家」（BBC）。",
+        "外部：《卫报》直播标题引述称新政府被告知「欧盟的大门是敞开的」。武契奇政府支持入盟，但拒绝因乌克兰战争制裁俄罗斯（《卫报》、BBC）。"
+      ],
+      "readingA": "这是一次和平的政权更替：长期执政者通过选票下台并当晚认输，反腐抗议运动转化为议会多数，塞尔维亚的法治和入盟进程可能重启。",
+      "readingB": "学生名单缺乏执政经验和明确领导层，组阁、与旧官僚体系和安全机构的关系都是未知数；武契奇的政党仍有约四成选票，在总统府、地方和媒体仍有影响力，过渡可能并不平稳。",
+      "disagree": "分歧在于：这是塞尔维亚政治体系的根本转变，还是一次反建制投票，新多数能否在治理中维持团结。",
+      "synthesis": "确定的事实是执政方认输、学生名单在预测中过半。真正的考验在后面：官方结果、组阁人选、对俄与对欧政策是否调整。",
+      "unknown": "选举委员会最终席位；学生名单提名谁任总理；武契奇本人下一步角色；俄方和欧盟的正式反应。",
+      "confidence": "高（认输与预测结果）；中（席位细节）",
+      "sources": [
+        {
+          "label": "BBC：武契奇向学生主导的抗议运动认输",
+          "url": "https://www.bbc.com/news/articles/cw5yn3xlprpmo"
+        },
+        {
+          "label": "美联社：武契奇认输，政坛巨变",
+          "url": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775"
+        },
+        {
+          "label": "Euronews：学生名单赢得塞尔维亚选举",
+          "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won"
+        },
+        {
+          "label": "RTS：益普索与 CeSID 预测 52.7% 对 38.9%",
+          "url": "https://www.rts.rs/vesti/izbori-2026/6069517/ipsos-i-cesid-studentska-lista-527-odsto-ujedinjena-srbija-389-odsto-proslava-pobede-u-sedistu-sl-i-sirom-srbije.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "以色列明天大选：第 12 频道称总参谋长扎米尔抵制内塔尼亚胡一项「可能引发与伊朗冲突」的军事指令，内塔尼亚胡称「胡说」；民调两大阵营都不过半，约旦河西岸选举日封锁",
+      "tag": "续报：中东",
+      "facts": [
+        "军政冲突报道：第 12 频道援引匿名人士称，总参谋长扎米尔近日抵制总理一项未公开细节的军事行动指令，要求进一步讨论并要求总理签署法律授权文件；军方人士担心政治层「利用伊朗问题谋取政治利益」。内塔尼亚胡在第 14 频道称报道是「胡说」、两人「没有争执」，同时称近期曾「指示以军和摩萨德推翻（伊朗）政权」（《以色列时报》）。",
+        "反对派：艾森科特称不会让以军成为内塔尼亚胡「求生竞选」的工具；利伯曼称这「等同于叛国」；拉皮德称内塔尼亚胡想借与伊朗冲突推迟选举（《以色列时报》）。",
+        "内塔尼亚胡的警告：他在帕勒马希姆基地箭式导弹阵地前称有情报显示伊朗及其代理人可能发动袭击以干扰选举，警告「别试探我们」；此前他发布一张 AI 生成的核弹在特拉维夫爆炸的图片。Axios 记者拉维德称白宫官员对此感到担忧（《以色列时报》）。",
+        "民调：《以色列时报》姊妹网站最后一次民调显示亲、反内塔尼亚胡的两个犹太政党阵营各 51 席，远低于组阁所需的 61 席，阿拉伯政党合计约 14 席；艾森科特的 Yashar 23 席、利库德 21 席。若无人组阁，2027 年初重选，内塔尼亚胡继续看守（《以色列时报》）。",
+        "西岸：以军宣布选举日关闭所有约旦河西岸陆路口岸、禁止巴勒斯坦工人进入；巴民族权力机构称希伯伦行动已致 2670 人流离失所（BBC、《以色列时报》）。"
+      ],
+      "readingA": "总参谋长坚持程序和法律授权，正是民主制度下文官控制与专业军队之间的正常制衡；在投票前两天被曝光，说明安全体系担心总理把对伊行动当作选举工具。",
+      "readingB": "报道来源匿名、细节受审查，总理公开否认；伊朗确有袭击和暗杀图谋的情报（见第 4 条），在选前保持威慑和戒备可以是合理的安全判断，而把一切都解读为选举操纵也是政治化的。",
+      "disagree": "分歧在于：这到底是一次被阻止的选前冒险，还是被选战放大的正常军政讨论。",
+      "synthesis": "能确认的是：选前两天出现了关于军政高层就涉伊行动发生分歧的高调报道和总理否认，民调显示僵局。周二投票结果和之后组阁能否成功，将决定这一争议是否延续。",
+      "unknown": "所涉军事行动的具体内容；扎米尔或国防部是否公开回应；投票当天是否有安全事件；最终席位。",
+      "confidence": "中（报道内容属实与否只有匿名来源）；高（民调与西岸封锁）",
+      "sources": [
+        {
+          "label": "《以色列时报》：总参谋长据称抵制涉伊朗军事指令",
+          "url": "https://www.timesofisrael.com/in-unprecedented-confrontation-idf-chief-said-resisting-military-action-tied-to-iran-ordered-by-pm/"
+        },
+        {
+          "label": "《以色列时报》：选前最后民调两大阵营持平",
+          "url": "https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/"
+        },
+        {
+          "label": "BBC：以色列选举日将关闭西岸口岸",
+          "url": "https://www.bbc.com/news/articles/c6y93ylpl5p2o"
+        },
+        {
+          "label": "Iran International：以军总参谋长抵制内塔尼亚胡对伊指令",
+          "url": "https://www.iranintl.com/en/202610257335"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "伊朗—霍尔木兹：特朗普称要在「谈判还是了结」之间做决定、又称周日不会打击；阿拉格齐称战与不战政策不变，卡塔尔调解人据报在德黑兰；联合海事信息中心称约 492 艘船在海峡外等待；沙特空袭萨那 11 死",
+      "tag": "续报：中东",
+      "facts": [
+        "美方：特朗普对福克斯称「我是和他们达成协议，还是了结他们？这是唯一的问题」，并称「我们现在控制霍尔木兹海峡」；《以色列时报》援引 Axios 记者称，特朗普随后表示周日不会打击伊朗（《以色列时报》）。",
+        "伊方：外长阿拉格齐称「无论有没有战争，我们的政策都一样」，并称霍尔木兹的航线和管理「再也不会一样」，地区应走向「外国军队完全撤出」；有消息称卡塔尔调解人周日在德黑兰（《以色列时报》）。《纽约时报》引述两名伊朗官员称德黑兰在准备针对美国外交官和人员（《以色列时报》转引，未独立核实）。",
+        "航运：联合海事信息中心（JMIC）把海峡威胁定为「严重」，10/22–24 仅 101 次美方协助的通行（历史基线约每天 138 次），估计约 492 艘船在海峡外等待；10/22 一艘液化石油气船在阿曼利马附近被不明弹体击中、无人伤亡（Gulf News、Iran International）。伊朗法尔斯社援引开源账号称海峡发生爆炸，疑为反舰巡航导弹发射，未获独立确认（Dawn）。",
+        "美军：中央司令部称司令库珀 10/25 飞越海峡，美军协助海湾伙伴今夏以来出口逾 15 亿桶原油、六个月内逾 3000 艘船通过，主航道无水雷（CENTCOM 新闻稿）。",
+        "沙特—胡塞：胡塞媒体称沙特空袭萨那致 11 人死亡（含 6 名妇女和 1 名儿童）；沙特联军称拦截两枚射向塔伊夫和延布的弹道导弹（南华早报、日经亚洲）。"
+      ],
+      "readingA": "美方在海峡占据主动：护航出口持续、主航道无雷，特朗普的强硬话语加上卡塔尔渠道，是在以压促谈；伊方「战不战都一样」的表态显示其谈判空间有限。",
+      "readingB": "实际通航仍远低于战前，近 500 艘船滞留，袭船持续；美方关于打击的说法反复，加上以色列选前的紧张，误判风险在升高，沙特—胡塞战线也在扩大伤亡。",
+      "disagree": "分歧在于：海峡局势是「美方可控的僵持」，还是在多方选举压力下逼近再次开战。",
+      "synthesis": "本期新增的是：特朗普把选择明确为「谈或打」，伊方表示立场不随战争改变，卡塔尔调解在进行，航运数据仍显示严重受阻。短期看，以色列周二大选前后是风险最高的时段。",
+      "unknown": "卡塔尔调解的内容；美方是否设定期限；周一油价；伊朗针对美国人员的图谋是否属实。",
+      "confidence": "高（官方表态、航运统计）；低（伤亡和爆炸等单方说法）",
+      "sources": [
+        {
+          "label": "《以色列时报》：特朗普「谈还是了结」，阿拉格齐回应",
+          "url": "https://www.timesofisrael.com/in-unprecedented-confrontation-idf-chief-said-resisting-military-action-tied-to-iran-ordered-by-pm/"
+        },
+        {
+          "label": "Gulf News：近 500 艘船在霍尔木兹受阻",
+          "url": "https://gulfnews.com/world/mena/strait-of-hormuz-crisis-nearly-500-vessels-face-disruption-amid-new-tanker-attack-1.500723273"
+        },
+        {
+          "label": "CENTCOM：司令视察霍尔木兹海峡",
+          "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4633061/centcom-commander-visits-strait-of-hormuz-during-milestone-week/"
+        },
+        {
+          "label": "南华早报：沙特空袭也门致 11 死",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities"
+        },
+        {
+          "label": "Iran International：英国海事报告警告革命卫队持续袭击",
+          "url": "https://www.iranintl.com/en/202610252328"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "委内瑞拉反对派领袖马查多流亡 10 个月后回国：在拉腊州教堂露面后车队驶向加拉加斯；鲁比奥称这是美国支持的和解谈判的结果，特朗普称「不知情」",
+      "tag": "新：美洲",
+      "facts": [
+        "回国：马查多 10/25 在 X 上写「我在这里，和你们在一起」，先在拉腊州一座教堂参加弥撒，随后在支持者车队陪同下前往首都，途经亚拉奎、卡拉沃沃、阿拉瓜等州（BBC、美联社、CNN 西语）。",
+        "背景：她 2025 年 12 月乘快艇离开委内瑞拉赴奥斯陆领取诺贝尔和平奖；2026 年 1 月美军抓获马杜罗，美方随后支持其副手德尔西·罗德里格斯任临时总统，罗德里格斯签署了对美方很有利的石油协议。马杜罗在纽约受审，否认指控（BBC）。",
+        "此前受阻：其顾问 9 月称她数周内七次尝试回国均被拒，有报道称美方曾参与拖延，美方否认（BBC）。",
+        "各方表态：鲁比奥称她能安全回国是「美国支持的和解谈判的直接结果」，谈判已促成数百名政治犯获释；特朗普称「我对此一无所知」，希望她安全。冈萨雷斯称将很快回国与她会合（BBC）。"
+      ],
+      "readingA": "马查多回国标志着委内瑞拉向民主过渡迈出实质一步，和解谈判已释放政治犯，反对派领袖重返国内为可信的总统选举创造条件。",
+      "readingB": "她的回国取决于华盛顿的批准，临时政府由美方扶植并已签下有利于美方的石油协议；在选举时间表不明的情况下，这更像是外部主导的权力安排，而不是委内瑞拉人自己决定的过渡。",
+      "disagree": "分歧在于：美方主导的进程是委内瑞拉恢复民主的最佳机会，还是以主权和资源为代价的外部安排。",
+      "synthesis": "事实层面：马查多已回国、受到大批支持者欢迎，美方公开为和解进程背书。关键看点是总统选举的日期、规则以及罗德里格斯临时政府如何对待她。",
+      "unknown": "选举时间表；临时政府的正式反应；马查多是否宣布参选；她的人身安全安排。",
+      "confidence": "高（回国事实）；中（政治前景）",
+      "sources": [
+        {
+          "label": "BBC：马查多结束流亡回到委内瑞拉",
+          "url": "https://www.bbc.com/news/articles/cq8ez592pp0eo"
+        },
+        {
+          "label": "美联社：马查多回国，民主前景存疑",
+          "url": "https://apnews.com/article/venezuela-maria-corina-machado-return-democracy-maduro-e6eff0c2ff962fd9b0f87270b24ef567"
+        },
+        {
+          "label": "CNN 西语：马查多回国直播",
+          "url": "https://cnnespanol.cnn.com/2026/10/25/venezuela/live-news/maria-corina-machado-regresa-en-vivo-orix"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "俄乌：泽连斯基确认 11 月三方技术级会谈，称领土问题只能在领导人层面谈、中立和限军「不在讨论范围」；提出能源停火、黑海粮食和换俘三项；称过去一周俄方发射约 1600 枚制导炸弹、48 枚导弹、近 2300 架无人机",
+      "tag": "续报：欧洲",
+      "facts": [
+        "会谈：泽连斯基在 10/25 接受 TSN 采访称，乌、美、俄谈判团队将在 11 月初举行技术会谈，此前报道地点为阿布扎比；领导人会晤须在技术会谈之后（基辅独立报、Euronews、半岛电视台）。",
+        "红线：他说「安全保障不能由俄方决定」「限制我们的军队和乌克兰中立不在讨论范围」；领土是只能由领导人讨论的红线，「我们不拿任何东西换任何东西」；若不能加入北约，希望美欧把第五条式保障延伸到乌克兰，资金允许时保持 80 万人军队（基辅独立报）。",
+        "可谈事项：能源停火、新的黑海粮食运输协议、换俘——「能源、粮食和人」；他称 11 月很快能看出普京是真想谈还是在美国中期选举前做姿态。他警告谈判前放松对俄制裁会削弱乌方筹码（基辅独立报）。",
+        "奥列什基：原定 10/27 的局部停火需持续数天并需俄方配合，才能让被占城镇居民撤离（基辅独立报）。",
+        "战事：泽连斯基称过去一周俄方发射约 1600 枚制导航空炸弹、48 枚导弹和近 2300 架攻击无人机；乌方称周日袭击致 4 死 28 伤（Euronews）。"
+      ],
+      "readingA": "会谈机制和具体议题（能源、粮食、换俘）正在成形，泽连斯基把可交易与不可交易事项划得很清楚，可检验俄方诚意，是务实的推进。",
+      "readingB": "俄方每周仍在大规模轰炸，乌方在领土、中立、军队规模上的红线与俄方过去的要求正面冲突；技术会谈很可能只产出有限的人道安排，而美国放松对俄石油制裁已在削弱乌方筹码。",
+      "disagree": "分歧在于：11 月会谈是迈向停火的真实一步，还是双方在美国中期选举前的姿态。",
+      "synthesis": "新事实是乌方公开了会谈议程和红线。可期待的成果集中在能源停火、粮食走廊和换俘；领土问题仍要等领导人会晤，而轰炸强度没有下降。",
+      "unknown": "会谈确切日期和地点；俄方对议程的回应；奥列什基停火能否如期执行。",
+      "confidence": "高（表态内容）；中（会谈成果）",
+      "sources": [
+        {
+          "label": "基辅独立报：泽连斯基详谈对三方会谈的期待",
+          "url": "https://kyivindependent.com/zelensky-details-expectations-for-upcoming-trilateral-peace-talks-with-russia-us/"
+        },
+        {
+          "label": "Euronews：泽连斯基确认 11 月三方会谈",
+          "url": "https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november"
+        },
+        {
+          "label": "半岛电视台：俄乌称 11 月在阿联酋会谈",
+          "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "AI 企业市场价格战：The Information 报道 OpenAI 以 30% 以上折扣拿下 Replit 每年逾 1 亿美元合同，Rippling 编码工作量中 OpenAI 份额从 16% 升至 52%、Anthropic 从 57% 跌至 18%；Anthropic 的 S-1 截至发稿未公开",
+      "tag": "新：科技/AI",
+      "facts": [
+        "Replit：据 The Information 10/24 报道，Anthropic 拒绝在 Replit 不提高承诺消费的情况下续延原有批量折扣，OpenAI 随即给出 30% 以上折扣，签下每年逾 1 亿美元的合同，成为 Replit Agent 的主要模型供应商；Replit 文档仍列有 7 个 Claude 模型（AI Chat Daily、The Decoder 转引）。",
+        "其他客户：Rippling CEO 康拉德称其编码工作中 OpenAI 份额从 5 月的 16% 升至 52%，Anthropic 从 57% 降至 18%；DataCamp CEO 称 OpenAI 定价让其成本降低 80%–90%；一家资产逾 70 亿美元的美国银行的 ChatGPT 席位免费翻倍至 500 个、每人每月不到 7 美元（The Decoder 转引 The Information）。",
+        "背景：报道称 Anthropic 二季度到三季度增长放缓（引述投资者备忘录），两家都面临 DeepSeek、Kimi 等中国低价模型的压力。报道中没有 Anthropic 的回应（The Decoder、AI Chat Daily）。",
+        "上市：此前有报道称 Anthropic 可能在 10/26 公开 S-1、11 月中旬上市；截至发稿，SEC EDGAR 公司搜索没有 Anthropic 的公开 S-1，公司官网只披露了 6 月的保密提交（SEC EDGAR、Anthropic）。"
+      ],
+      "readingA": "模型成本下降正被传导给客户，价格战让企业用户受益，也说明 OpenAI 在推理效率上取得了真实进展，市场竞争在发挥作用。",
+      "readingB": "这是用融资补贴换市场份额：OpenAI 刚完成巨额融资，Anthropic 即将上市，大客户流失和增长放缓的报道恰在 IPO 前夕出现，对估值和整个行业的利润率都是压力信号。",
+      "disagree": "分歧在于：降价是效率提升的结果还是烧钱补贴，以及 Anthropic 失去的客户是暂时的还是结构性的。",
+      "synthesis": "数据来自单一媒体的匿名与具名信源，尚无 Anthropic 回应。可以确定的是大型编码客户在两家之间按价格迁移，模型供应正在商品化；若 Anthropic 本周公开 S-1，营收和客户集中度数据将是检验这些报道的直接依据。",
+      "unknown": "Anthropic 的回应和真实营收增速；S-1 公开日期；OpenAI 折扣能持续多久。",
+      "confidence": "中（单一来源报道，部分有 CEO 具名引述）；高（EDGAR 暂无公开 S-1）",
+      "sources": [
+        {
+          "label": "The Decoder：OpenAI 以最高九折优惠争夺 Anthropic 大客户",
+          "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+        },
+        {
+          "label": "AI Chat Daily：OpenAI 以三成以上折扣赢得 Replit",
+          "url": "https://www.aichatdaily.com/ai-business/openai-used-30-plus-discounts-win-replit-s"
+        },
+        {
+          "label": "SEC EDGAR：Anthropic S-1 搜索",
+          "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=anthropic&type=S-1"
+        },
+        {
+          "label": "Anthropic：保密提交 S-1 草案",
+          "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Brazil election 2026: Live second round results",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results"
+    },
+    {
+      "n": 2,
+      "title": "Lula vira, bate Flávio Bolsonaro e se reelege para inédito 4º mandato, projeta Datafolha",
+      "outlet": "Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/lula-vira-bate-flavio-bolsonaro-e-se-reelege-para-inedito-4o-mandato-projeta-datafolha.shtml"
+    },
+    {
+      "n": 3,
+      "title": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula"
+    },
+    {
+      "n": 4,
+      "title": "Bolsonaro overtakes Lula in Brazil's presidential runoff vote",
+      "outlet": "Reuters (Financial Newsletter)",
+      "url": "https://financialnewsletter.com/bolsonaro-overtakes-lula-in-brazils/"
+    },
+    {
+      "n": 5,
+      "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cw5yn3xlprpmo"
+    },
+    {
+      "n": 6,
+      "title": "Serbia's Aleksandar Vucic concedes defeat to student-led movement in seismic political shift",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/serbia-election-students-vucic-fdf5def8a20aebc8ae139fd719478775"
+    },
+    {
+      "n": 7,
+      "title": "Ipsos i CeSID: Studentska lista 52,7 odsto, Ujedinjena Srbija 38,9 odsto",
+      "outlet": "RTS",
+      "url": "https://www.rts.rs/vesti/izbori-2026/6069517/ipsos-i-cesid-studentska-lista-527-odsto-ujedinjena-srbija-389-odsto-proslava-pobede-u-sedistu-sl-i-sirom-srbije.html"
+    },
+    {
+      "n": 8,
+      "title": "In 'unprecedented confrontation,' IDF chief said resisting Netanyahu's order for military action tied to Iran",
+      "outlet": "Times of Israel",
+      "url": "https://www.timesofisrael.com/in-unprecedented-confrontation-idf-chief-said-resisting-military-action-tied-to-iran-ordered-by-pm/"
+    },
+    {
+      "n": 9,
+      "title": "Netanyahu and Eisenkot in dead heat five days before election, final ToI poll shows",
+      "outlet": "Times of Israel",
+      "url": "https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/"
+    },
+    {
+      "n": 10,
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/c6y93ylpl5p2o"
+    },
+    {
+      "n": 11,
+      "title": "Strait of Hormuz crisis: Nearly 500 vessels face disruption amid new tanker attack",
+      "outlet": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/strait-of-hormuz-crisis-nearly-500-vessels-face-disruption-amid-new-tanker-attack-1.500723273"
+    },
+    {
+      "n": 12,
+      "title": "CENTCOM Commander Visits Strait of Hormuz during Milestone Week",
+      "outlet": "CENTCOM",
+      "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4633061/centcom-commander-visits-strait-of-hormuz-during-milestone-week/"
+    },
+    {
+      "n": 13,
+      "title": "Explosion reported in Strait of Hormuz: Iranian media",
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2039738/explosion-reported-in-strait-of-hormuz-iranian-media"
+    },
+    {
+      "n": 14,
+      "title": "Saudi strikes kill 11 in Yemen as Houthi missiles target Saudi cities",
+      "outlet": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3372035/saudi-strikes-kill-11-yemen-houthi-missiles-target-saudi-cities"
+    },
+    {
+      "n": 15,
+      "title": "Opposition leader María Machado returns to Venezuela",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq8ez592pp0eo"
+    },
+    {
+      "n": 16,
+      "title": "Opposition leader Machado returns to Venezuela from exile, as doubts over democracy deepen",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/venezuela-maria-corina-machado-return-democracy-maduro-e6eff0c2ff962fd9b0f87270b24ef567"
+    },
+    {
+      "n": 17,
+      "title": "Zelensky details expectations for upcoming trilateral peace talks with Russia, US",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-details-expectations-for-upcoming-trilateral-peace-talks-with-russia-us/"
+    },
+    {
+      "n": 18,
+      "title": "Ukraine's Zelenskyy confirms trilateral talks with Russia and US to take place in November",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/25/ukraines-zelenskyy-confirms-trilateral-talks-with-russia-and-us-to-take-place-in-november"
+    },
+    {
+      "n": 19,
+      "title": "Marine Le Pen launches presidential campaign with vow to restore 'rule of law'",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/25/marine-le-pen-launches-presidential-campaign-with-vow-to-restore-rule-of-law"
+    },
+    {
+      "n": 20,
+      "title": "Marine Le Pen vows French 'renaissance' as far right eyes seat of power",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power"
+    },
+    {
+      "n": 21,
+      "title": "News 25 October 2026 (storms Austen and Boelo cut power to 150,000+ homes; Lisbon/Porto housing protest camps cleared)",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/25"
+    },
+    {
+      "n": 22,
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic's biggest customers",
+      "outlet": "The Decoder",
+      "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/"
+    },
+    {
+      "n": 23,
+      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+      "outlet": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html"
+    },
+    {
+      "n": 24,
+      "title": "North Korean leader Kim Jong Un visits China",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/south-korea-north-kim-jong-un-china-2459fe49f876ceb0c1c17296c70627f7"
+    }
+  ]
+}
