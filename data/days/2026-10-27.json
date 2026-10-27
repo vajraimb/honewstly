@@ -1,0 +1,422 @@
+{
+  "date": "2026-10-27",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 10/26 约 08:10）至本期（10/27 约 08:10），约 24 小时，覆盖欧美周一（默认规格为 6 小时，沿用近几期的 24 小时窗口）。以色列大选今天举行：北京时间 13:00 开票站开放、28 日 04:00 关闭并公布出口民调，本期发稿时尚未投票。奥列什基局部停火已于北京时间今天 09:00（基辅时间 03:00）生效前后，执行情况待下一期。",
+  "thinDay": false,
+  "thinDayNote": "新闻并不薄：巴西出了官方最终结果，Anthropic 正式公开 S-1，OpenAI 宣布三项数学/计算机/物理「发现」，中东外交密集。本期 7 条中 5 条为已简报话题的续报。",
+  "vsYesterday": "相对上一期（10/26）：巴西 TSE 公布 100% 计票结果，弗拉维奥拒绝认输、所在政党自由党承认结果；Anthropic 的 S-1 已在 SEC 公开（上一期发稿时尚无）；OpenAI 宣布 AI 推翻指数时间假设等三项结果并发布 GPT-6.1 Terra；伊朗—霍尔木兹新增沙特、巴基斯坦、土耳其高层赴德黑兰会谈及伊方七天分阶段复航方案；以色列进入投票日；法国政府向学生让步但学生称继续抗议；奥列什基停火启动、克宫称不会放慢攻势。塞尔维亚、委内瑞拉马查多无实质新进展；中共二十届五中全会开幕、乌干达教堂坍塌等见索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "巴西最终结果：TSE 100% 计票卢拉 51.79% 对 48.21%、领先约 440 万票，成为首位四度当选的巴西总统；弗拉维奥称「不可能承认」并将申请宣布选举无效，但其所在的自由党周一承认结果；圣保罗股市开盘暴跌",
+      "tag": "续报：美洲",
+      "facts": [
+        "官方结果：据《环球报》整理的高等选举法院（TSE）100% 计票数据，卢拉获 51.79% 有效票（64,256,232 票），弗拉维奥·博索纳罗 48.21%（59,826,041 票）；无效票 2,723,305、空白票 1,430,496、弃权 30,509,005（《环球报》）。TSE 在巴西时间 10/25 21:54、99.96% 计票时宣布卢拉在数学上已当选（BBC 巴西）。",
+        "历史性：BBC 称卢拉是 1985 年恢复文官统治以来首位在首轮落后后逆转当选的总统，也是巴西史上首位四度当选者；两轮之间弃权降幅为 1989 年以来最大。新任期 1 月 5 日开始、至 2030 年（BBC）。",
+        "延长投票争议：BBC 报道，双方阵营当天其实都申请过延长投票（卢拉方称圣保罗、巴伊亚缺公交，博索纳罗方称南部和圣保罗暴雨）；由博索纳罗任命的 TSE 院长努内斯·马克斯确认结果，称延长并未改变结果。G1 统计巴西时间 17:00 之后登记的选票为 35,521 张（BBC、G1）。",
+        "败选方：弗拉维奥称「不可能承认这个结果」，将通过法律途径申请宣布选举无效；但自由党主席瓦尔德马尔·科斯塔·内托周一发表声明「承认 TSE 宣布的总统选举结果」，同时要求「澄清」相关质疑。弗拉维奥周一在 Instagram 视频中称警方要求他交出护照、禁止其出境（G1、BBC，后者为其本人说法）。",
+        "反应：特朗普称「我没选边，但看起来又是一场被操纵的选举」，未提供证据；墨西哥、智利、厄瓜多尔、秘鲁、加拿大、欧盟委员会、法国、西班牙、南非等领导人祝贺卢拉。BBC 称圣保罗交易所开盘下跌 15% 并一度暂停交易，随后小幅回升，利率期货上涨（BBC）。"
+      ],
+      "readingA": "440 万票的差距、由博索纳罗任命的 TSE 院长背书、以及弗拉维奥本党承认结果，意味着选举结果实际上已无法推翻；延长投票是双方都申请过的，17:00 后的票数只有约 3.5 万张，远不足以影响结果。",
+      "readingB": "候选人本人拒绝认输、特朗普公开称「被操纵」、又出现限制其出境的说法，巴西可能重演 2022 年后的合法性对抗；市场暴跌显示投资者对卢拉第四任期的财政路线高度担忧，加上国会由博索纳罗盟友主导，治理难度很大。",
+      "disagree": "两种读法在结果本身上没有分歧，分歧在后果：一方认为程序争议已基本了结，另一方认为政治和市场层面的对抗才刚开始。",
+      "synthesis": "官方结果已经确定，法律挑战成功的可能性很低（差距大、自由党已承认）。接下来值得关注的是弗拉维奥的法律动作和出境限制的真相、美巴关系，以及市场对卢拉财政计划的定价。",
+      "unknown": "弗拉维奥是否真的提起无效诉讼以及法院如何处理；警方限制其出境的依据；市场跌幅的收盘数字；卢拉的内阁和财政班底。",
+      "confidence": "高（官方计票与各方表态）；中（市场跌幅细节，仅单一来源）；低（出境限制，仅当事人说法）",
+      "sources": [
+        {
+          "label": "《环球报》：TSE 第二轮最终计票结果",
+          "url": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/resultado-das-eleicoes-2026-no-2o-turno-veja-a-apuracao-final-do-tse-para-presidente.ghtml"
+        },
+        {
+          "label": "BBC：卢拉戏剧性逆转赢得第四个任期",
+          "url": "https://www.bbc.com/news/articles/ckm23y3mg1yyo"
+        },
+        {
+          "label": "G1：自由党承认选举结果但要求澄清",
+          "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml"
+        },
+        {
+          "label": "BBC 巴西：TSE 宣布卢拉在数学上当选",
+          "url": "https://www.bbc.com/portuguese/articles/cmj47lgljwj0o"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Anthropic 正式公开 S-1：拟以「ANT」在纳斯达克上市，2026 年上半年营收 163 亿美元（去年同期 12 亿），经营亏损 6.93 亿美元，净亏损 807 亿美元主要来自可转债非现金调整；七位联合创始人通过「创始人 LLC」掌握 50.1% 投票权",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "申报：Anthropic 10/26 宣布向 SEC 提交 S-1，计划在纳斯达克全球精选市场以代码「ANT」上市；发行股数和价格区间尚未确定，主承销商包括高盛和摩根士丹利（Anthropic 公告、SEC EDGAR）。《华尔街日报》称估值和发行规模可能要两周左右后的更新文件才会披露。",
+        "财务：据 TechCrunch 和 SEC 文件，营收 2023 年 4100 万美元、2024 年 3.86 亿、2025 年 45.85 亿，2026 年上半年 162.86 亿（去年同期 12 亿）；上半年经营亏损 6.93 亿（去年同期 21 亿）；净亏损 807 亿美元，主要由与可转换债务相关的非现金会计调整造成。公司称「可能无法实现或维持盈利」（TechCrunch、SEC EDGAR）。",
+        "客户：截至 9 月底，年支出 10 万美元以上的客户逾 11,900 家，100 万美元以上约 1,900 家，1000 万美元以上约 250 家（TechCrunch）。",
+        "治理：S-1 显示多类股结构——A 类每股一票；F 类仅一股，由七位联合创始人组成的「创始人 LLC」持有，享有 50.1% 投票权、无经济权利；T 类由长期利益信托持有，可选任董事会多数席位；员工获无经济权利的 E 类股。批评者称公众股东对一家自称技术可能带来「灾难性或生存性风险」的公司几乎没有实际控制权（SEC EDGAR、TechCrunch）。",
+        "市场：美联社称这份 335 页文件显示其今年早些时候私募估值 9650 亿美元，报道称上市估值可能升至 1.5 万亿甚至 2 万亿美元（未确定）。CNBC 称周一芯片股因此上涨，SOXX 涨近 3%、英伟达涨 2.4%，标普 500 收涨 0.7% 至 7,676.77 点（美联社、CNBC）。"
+      ],
+      "readingA": "营收一年半内增长十几倍、经营亏损在收窄、大客户数量可观，说明企业级 AI 需求是真实的；独特的治理结构是把安全使命写进公司章程，是对公众股东透明的承诺。",
+      "readingB": "巨额净亏损和「可能无法盈利」的风险提示、上一期报道的大客户被 OpenAI 降价挖走，都说明增长依赖激烈价格战；创始人以零经济权益掌握过半投票权，公众投资者买到的是几乎没有话语权的股票，而估值动辄万亿美元。",
+      "disagree": "分歧在于：这是一家增长兑现、治理有意为之的公司，还是一家在补贴竞争中、把控制权与经济利益彻底分离的高风险标的。",
+      "synthesis": "S-1 首次给出官方数据：营收规模和大客户数确实惊人，经营层面接近盈亏平衡，但净亏损和治理结构是投资者必须消化的两大问题。真正的估值检验要等价格区间公布。",
+      "unknown": "发行规模、价格区间和估值；三季度营收与增速是否放缓（上期 The Information 的报道）；客户集中度和云算力合同承诺细节；上市日期。",
+      "confidence": "高（文件与公告内容）；中（估值传闻）",
+      "sources": [
+        {
+          "label": "Anthropic：提交 S-1 公告",
+          "url": "https://www.anthropic.com/news/s1-sec"
+        },
+        {
+          "label": "SEC EDGAR：Anthropic, PBC S-1",
+          "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+        },
+        {
+          "label": "TechCrunch：Anthropic 正式申请上市",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+        },
+        {
+          "label": "美联社：可能是史上最大 IPO",
+          "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c"
+        },
+        {
+          "label": "CNBC：10/26 股市收盘",
+          "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "OpenAI 宣称其内部模型推翻「指数时间假设」、证明所有维度的局部光滑猜想（从而解决挂谷猜想），并给出四维量子色动力学和纯杨—米尔斯理论的存在性证明；ETH 提出者本人牵头独立审查并强调「不构成背书」；同日发布更便宜的 GPT-6.1 Terra",
+      "tag": "新：科技/AI",
+      "facts": [
+        "三项结果：OpenAI 10/26 博文称，其模型 10/16 找到指数时间假设（ETH）的自然语言反证、10/17 完成 Lean 形式化；10/18 得到所有维度局部光滑猜想（Sogge 1991 年提出）的证明，由此推出挂谷猜想和 Stein 限制猜想；物理方面，模型 9/9 给出纯杨—米尔斯存在性证明、9/18 给出 QCD 证明，10/16 完成杨—米尔斯部分的 Lean 形式化。杨—米尔斯存在性是克雷千禧年难题的一部分（OpenAI）。",
+        "发布方式：数学和计算机结果的自然语言稿与 Lean 证明已公开在 GitHub；物理组决定暂不公开 AI 产物、自行撰写。OpenAI 称不寻求学术署名，审查小组成员无偿、不签保密协议（OpenAI、The Next Web）。",
+        "审查者：ETH 小组由 ETH 最初提出者 Impagliazzo、Paturi（UC 圣地亚哥）和 MIT 的 Ryan Williams 牵头，他们在公开信中写道「我们的参与不应被视为对该主张的认证，这种重要性的结果需要仔细、独立的审查」；物理组由诺奖得主 David Gross 牵头，成员包括 Jaffe、Douglas、Klebanov、Nekrasov（The Next Web、OpenAI）。",
+        "背景：ETH 被数百篇论文用作条件性困难结果的前提；OpenAI 还为西蒙斯基金会捐 500 万美元支持研究 AI 产出的结果，并应 ETH 小组要求公开全部原始数据、资助一次会议（OpenAI）。",
+        "新模型：OpenAI 同日发布 GPT-6.1 Terra，API 价格为每百万输入 token 1 美元、输出 5 美元，较 GPT-5.6 Terra 低 50%；公司称其在 Terminal-Bench 4.0 最高推理下解决 50.3% 任务（前代 21.5%），并在其准备度框架下达到网络安全「Critical」门槛（OpenAI）。"
+      ],
+      "readingA": "Lean 形式化意味着证明经过机器检查，若形式化陈述正确，结论就很难出错；这标志着 AI 开始在基础数学、理论计算机和数学物理上产出前沿成果，OpenAI 的开放审查和不要署名也是负责任的做法。",
+      "readingB": "这些仍是公司自己的宣布：形式化陈述是否准确对应原问题、证明是否依赖未验证的假设，都需要领域专家长期审查；物理材料尚未公开；在 Anthropic 上市当天发布如此重大的宣称，也难免有争夺注意力的商业考量。",
+      "disagree": "分歧在于：Lean 验证是否足以让学界当下就接受这些结论，以及发布时机与方式是科学开放还是商业宣传。",
+      "synthesis": "目前可确定的是：OpenAI 公开了 ETH 和局部光滑的证明材料，顶尖专家同意组织审查但明确不背书。如果 ETH 反证成立，将重塑理论计算机科学一大块；但在独立审查出结论前，应把它们视为「待验证的重大主张」。",
+      "unknown": "Lean 形式化的定理陈述是否被专家认可；ETH 反证给出的算法是否有实际意义；物理证明何时公开；克雷研究所如何回应。",
+      "confidence": "高（OpenAI 发布了这些主张、审查者表态）；低（结论本身是否正确，尚无独立验证）",
+      "sources": [
+        {
+          "label": "OpenAI：与学术界合作构建科学理解",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+        },
+        {
+          "label": "The Next Web：OpenAI 称推翻指数时间假设",
+          "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills"
+        },
+        {
+          "label": "The Verge：OpenAI 宣布三项科学发现",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+        },
+        {
+          "label": "GitHub：ETH 反证预印本",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf"
+        },
+        {
+          "label": "OpenAI：GPT-6.1 Terra 发布",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "伊朗—霍尔木兹：沙特防长、巴基斯坦陆军参谋长、土耳其情报首长赴德黑兰与佩泽希齐扬、雷扎伊会谈，四国同意继续对话；伊方重提七天分阶段复航方案但以 240 亿美元外汇解冻为前提；特朗普称很快决定「谈还是了结」；英国海事称一艘油轮在海峡被击瘫；布伦特收 115.81 美元",
+      "tag": "续报：中东",
+      "facts": [
+        "德黑兰会谈：10/26 沙特防长哈立德·本·萨勒曼、巴基斯坦陆军参谋长穆尼尔、土耳其情报首长卡林——即 8 月签署《麦加联合防御协定》的三国——会见伊朗总统佩泽希齐扬，并与最高国家安全委员会秘书雷扎伊会谈；联合声明称同意继续对话，未定下次时间地点。美联社援引地区官员称讨论了也门和胡塞袭击沙特（Arab News 巴基斯坦版、半岛电视台）。",
+        "伊方方案：伊朗官方媒体称，在多哈技术谈判后伊方重新提交七天内分阶段恢复海峡航运的方案，外交部发言人巴盖伊称正研究美方关于解除封锁程序的反提案；但伊方坚持 240 亿美元外汇完全可用、阿巴斯港集装箱清关限制解除后七天窗口才开始。总参谋长阿卜杜拉希称革命卫队「完全控制」海峡（Iran International）。",
+        "美方：CNBC 称特朗普表示即将决定是「达成协议」还是「了结他们」，并再称美国控制海峡、原油流量已恢复到战前水平。另据 Axios、NBC，国家情报总监克莱顿 10/23 备忘录称伊朗针对美国人员的致命图谋已达「高级阶段」，国务院已削减约旦、黎巴嫩、卡塔尔、阿联酋使馆人员（CNBC、Axios、美联社）。",
+        "航运：英国海事贸易行动办公室（UKMTO）10/26 称收到经核实的迟报——一艘油轮 10/23 出海峡时被不明弹体击中瘫痪，船员安全；另有船只在伊拉克法奥东南约 63 海里起火，原因不明。联合海事信息中心称 3 月以来地区确认海事安全事件 156 起（gCaptain）。",
+        "沙特—胡塞与油价：胡塞武装称 10/26 用弹道导弹攻击利雅得哈立德国王机场、用无人机攻击东西输油管道泵站，沙方称拦截导弹，未确认管道受损；埃及议会批准塞西向沙特提供军事支持的请求（Dawn、Arab News）。布伦特周一收跌 0.78% 至 115.81 美元，月内涨约 11.9%（道琼斯/Morningstar）。"
+      ],
+      "readingA": "沙特—巴基斯坦—土耳其联合赴德黑兰、伊方拿出具体的分阶段复航方案、美方在审议反提案，外交通道比上周更实；油价回落说明市场在为降温定价。",
+      "readingB": "伊方的前提条件（240 亿美元解冻、港口清关）正是美方迄今拒绝的内容，特朗普仍把选项表述为「谈或打」，伊朗针对美方人员的图谋警报和持续的袭船、胡塞袭沙都在升级；分析人士普遍认为调解方缺乏改变德黑兰战略计算的筹码。",
+      "disagree": "分歧在于：密集外交是在中期选举（11/3）前避免开战的真实窗口，还是在双方核心条件不变下的「最后一刻」姿态。",
+      "synthesis": "新增事实是区域大国直接进场斡旋、伊方方案有了具体时间表和价码。决定性变量仍是华盛顿对解冻资金和解除封锁的态度；以色列今天大选和美国中期选举前后是风险最高的两周。",
+      "unknown": "美方反提案内容；特朗普是否设定期限；胡塞是否命中东西管道；被击瘫油轮身份；油价能否维持回落。",
+      "confidence": "高（会谈、官方声明、油价）；中（伊方方案细节来自官方媒体转述）；低（胡塞战果说法）",
+      "sources": [
+        {
+          "label": "Arab News 巴基斯坦版：四国同意继续对话",
+          "url": "https://www.arabnews.pk/pakistan/iran-pakistan-saudi-arabia-t%C3%BCrkiye-agree-to-continue-talks-amid-fears-of-wider-war-3005329"
+        },
+        {
+          "label": "半岛电视台：麦加防御协定成员赴德黑兰",
+          "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions"
+        },
+        {
+          "label": "Iran International：伊朗称革命卫队完全控制海峡",
+          "url": "https://www.iranintl.com/en/202610262183"
+        },
+        {
+          "label": "gCaptain：油轮在霍尔木兹遇袭瘫痪",
+          "url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/"
+        },
+        {
+          "label": "CNBC：特朗普权衡协议或打击",
+          "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html"
+        },
+        {
+          "label": "Morningstar/道琼斯：布伦特收 115.81 美元",
+          "url": "https://www.morningstar.com/news/dow-jones/202610266927/front-month-ice-brent-crude-fell-078-to-settle-at-11581-data-talk"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "以色列今天大选：最后一批民调显示「变革阵营」52–56 席、内塔尼亚胡阵营约 50 席，均不到 61 席，阿拉伯政党 14–16 席；预计投票率最高可达 87%，阿拉伯选民投票率或从约 50% 升至 70%，约 8 万海外以色列人回国投票",
+      "tag": "续报：中东",
+      "facts": [
+        "时间：投票站当地时间 7:00–22:00 开放（北京时间今天 13:00 至 28 日 04:00），关闭时公布电视台出口民调；约 733 万合格选民（《以色列时报》、ynet、CNBC）。",
+        "最后民调：第 13 频道——变革阵营 54、执政联盟 50、阿拉伯政党 16（Yashar 22、利库德 19、贝内特的 B'Yachad 14、民主党 10）；第 12 频道——56、50、14（Yashar 23、利库德 21）；Kan——52、50、14，另有亨德尔的预备役党 4 席（未表态站队）（《以色列时报》）。十家机构平均为执政联盟 51.2、变革阵营 51.4（World Israel News）。",
+        "阿拉伯政党：The National 援引政治人士称阿拉伯选民投票率可能从约 50% 升至 70%；拉姆党阿巴斯表示愿加入变革阵营联合政府，但阵营内若干政党拒绝与其同组政府；反对派高层称可能出现获阿拉伯政党默许支持的少数派政府（《以色列时报》、The National）。",
+        "投票率：CNBC 称 2022 年投票率略高于 70%，民调机构认为此次可能高达 87%；以色列不设海外投票，组织方估计最多约 8 万海外公民回国投票（CNBC）。",
+        "背景：上一期报道的总参谋长扎米尔抵制涉伊军事指令一事，截至发稿未见新的官方说明；内塔尼亚胡称有情报显示伊朗或其代理人可能在选前发动袭击（Arab News）。"
+      ],
+      "readingA": "多家民调都显示变革阵营领先、艾森科特的 Yashar 成为第一大党，加上高投票率和阿拉伯选民动员，内塔尼亚胡时代可能迎来终结或至少失去组阁主动权。",
+      "readingB": "两大阵营都不过半，阿拉伯政党能否被接纳仍是变革阵营内部的禁区；民调平均几乎打平，以色列民调过去多次失准，最可能的结果是长时间组阁僵局甚至再次选举，内塔尼亚胡继续看守。",
+      "disagree": "分歧在于：这是一次政治更替的选举，还是又一轮无法组阁的僵局。",
+      "synthesis": "出口民调将在北京时间 28 日 04:00 揭晓，正式结果要更晚。关键看三点：Yashar 与利库德谁是第一大党、门槛附近的小党是否入会、阿拉伯政党席位与变革阵营能否合作。",
+      "unknown": "实际投票率；投票日是否发生安全事件；小党能否过门槛；总统会先授权谁组阁。",
+      "confidence": "高（民调与程序）；低（结果预测）",
+      "sources": [
+        {
+          "label": "《以色列时报》：最后民调两大阵营都不过半",
+          "url": "https://www.timesofisrael.com/liveblog_entry/final-polls-before-election-show-both-blocs-short-of-majority-small-parties-out-of-knesset/"
+        },
+        {
+          "label": "World Israel News：民调平均两阵营打平",
+          "url": "https://worldisraelnews.com/israel-heads-into-knesset-election-with-blocs-virtually-tied-and-pollsters-sharply-divided/"
+        },
+        {
+          "label": "The National：阿拉伯选民投票率可能大增",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/26/astronomical-arab-turnout-could-reshape-israeli-politics-in-key-election/"
+        },
+        {
+          "label": "CNBC：数万以色列人回国投票",
+          "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "法国：总理勒科尔尼会见学生代表并宣布让步——2028 年前取代 Parcoursup 招生平台、限制部分高中班级人数、40 亿欧元校舍翻修贷款、增加 1.5 万个高校名额、助学金随通胀上调；学生代表称「诉求没有全部满足」将继续抗议，11 月 5 日全国行动日；内政部称周六逮捕 1,435 人",
+      "tag": "续报：欧洲",
+      "facts": [
+        "让步方案：勒科尔尼 10/26 与高中和大学学生代表在马提尼翁府会面，教育部长热弗雷、高教部长巴蒂斯特在场；措施包括 2028 年前替换被学生认为不公平的 Parcoursup、高二班级上限 28 人、40 亿欧元校舍翻修贷款、10 亿欧元大学校园投资、新增 1.5 万个高等教育名额、助学金与通胀挂钩；政府未给出总成本（法国高教部、France 24）。",
+        "学生回应：高中生代表勒图布隆称「不是所有诉求都被满足，我们会坚持下去」；学生团体计划 10/31 和 11/5 继续示威（France 24、Politico）。",
+        "治安：内政部长努涅斯称周六（10/24）全国示威中 1,435 人被捕（上一期报道约 1,000 人），并称在尼斯、蒙彼利埃等地出现有组织的极右团体对抗极左活动人士的新现象。马克龙在马赛视察时称本周末可能还会有骚乱，将维持安全措施（France 24）。",
+        "政治与经济：法国国债接近 GDP 的 120%；穆迪上周五未下调法国评级，法债抛售周一暂停；周日民调显示勒庞支持率 32%–33.5%，远领先梅朗雄的 17%；商会称许多商店自 10/17 暴力事件后关门，销售大跌（France 24、路透）。"
+      ],
+      "readingA": "政府拿出了针对招生公平、班级规模、校舍的具体结构性措施，回应了运动最初的教育诉求；把政策对话制度化，有助于把抗议与暴力分开。",
+      "readingB": "方案多为远期承诺（2028 年）且无总成本，在财政紧张下可信度存疑；运动已扩展到工会和黄背心，诉求超出教育，让步难以平息；极右团体上街和勒庞民调上升显示政治极化在加深。",
+      "disagree": "分歧在于：这套让步是平息运动的转折点，还是对已经政治化、扩大化的抗议来得太晚、太小。",
+      "synthesis": "政府第一次给出了成体系的回应，但学生明确不收兵，接下来 10/31 和 11/5 两个节点的规模和暴力程度将检验让步效果；财政空间和勒庞的上升是更长期的背景。",
+      "unknown": "让步的资金来源和立法时间表；工会是否加入 11/5 行动；极右—极左冲突是否升级；2027 年预算谈判进展。",
+      "confidence": "高（政府措施与官方数字）；中（抗议走势）",
+      "sources": [
+        {
+          "label": "法国高教部：政府对青年的承诺",
+          "url": "https://www.enseignementsup-recherche.gouv.fr/fr/remplacement-de-la-plateforme-parcoursup-plafonnement-du-nombre-d-eleves-par-classe-etat-des-104451"
+        },
+        {
+          "label": "France 24：学生誓言继续抗议",
+          "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest"
+        },
+        {
+          "label": "Politico：政府让步未能说服学生",
+          "url": "https://www.politico.eu/article/government-concessions-fail-to-convince-french-students-to-stop-protests/"
+        },
+        {
+          "label": "美联社：法国承诺取代大学招生系统",
+          "url": "https://apnews.com/article/france-high-schools-protests-macron-66403512e943e3aee4cdca64ecccfe33"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "俄乌：奥列什基人道停火于基辅时间 10/27 03:00 起执行，由梅拉尼娅·特朗普斡旋，用于送援和准备平民撤离；克宫称愿意更多「人道」局部停火，但三方会谈「不意味着限制作战」；俄沃罗涅日遭无人机袭击 2 死 17 伤",
+      "tag": "续报：欧洲",
+      "facts": [
+        "停火：乌军总参谋部称自基辅时间 10/27 03:00（北京时间 09:00）起在指定区域停火，专用于向被占的赫尔松州奥列什基送援、准备平民自由离开；呼吁民众不要传播路线、时间等未经证实的信息。白宫称双方同意暂停该地所有敌对行动并通过约定安全走廊撤离（乌克兰国家通讯社）。另有报道称人道行动计划于 10/29 进行，俄方负责排雷（乌克兰国家通讯社，细节待确认）。",
+        "当地情况：NPR 报道，奥列什基 2022 年被占、周边布雷，约 2,000 名居民被困，缺粮缺电，居民称有人被告知周二早上将被大巴送到一处关闭的儿童营地，之后去向不明（NPR）。",
+        "克宫：佩斯科夫称出于人道目的「绝对」愿意考虑更多局部停火，但「恢复三方会谈的决定并不意味着对作战行动的任何限制」，俄军继续大规模打击乌军工综合体（RTÉ 转引路透/法新社）。莫斯科时报称俄方指责乌方在停火前炮击奥列什基（莫斯科时报）。",
+        "战事：俄沃罗涅日州长称无人机袭击致 2 死 17 伤，防空击落 113 架；俄国防部称打击了哈尔科夫和赫梅利尼茨基的电站及切尔诺莫斯克港设施。美方敦促乌方暂停打击俄炼油厂，泽连斯基称前提是俄方停止打击电力设施，或美方允许在俄境上空使用 Starshield、提供爱国者导弹（RTÉ）。"
+      ],
+      "readingA": "奥列什基停火是双方首次就具体人道事项落地执行，若平民能安全撤出，可为 11 月技术会谈的能源停火、换俘等议题建立信任。",
+      "readingB": "停火范围极小，克宫明确不放慢攻势，双方仍在互袭能源设施；居民被转运到俄控营地后的去向不明，人道行动可能被用作宣传或强制转移。",
+      "disagree": "分歧在于：这是走向更大范围停火的第一块基石，还是在战事不减情况下的孤立人道姿态。",
+      "synthesis": "可以确认的是停火已按计划启动、双方都在公开配合；能否真正撤出平民、是否出现违约指控，是未来几天检验俄方诚意和 11 月会谈氛围的最直接指标。",
+      "unknown": "停火实际执行情况；撤离人数和去向；三方会谈的确切日期地点；美方是否同意 Starshield 或爱国者要求。",
+      "confidence": "高（停火启动时间与官方表态）；中（撤离安排细节）",
+      "sources": [
+        {
+          "label": "乌克兰国家通讯社：奥列什基 10/27 起停火",
+          "url": "https://www.ukrinform.net/rubric-ato/4178428-ukraine-to-implement-ceasefire-in-oleshky-area-from-midnight-on-october-27.html"
+        },
+        {
+          "label": "NPR：俄方称将开放奥列什基人道走廊",
+          "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town"
+        },
+        {
+          "label": "RTÉ：俄方愿局部停火但不停止攻势",
+          "url": "https://www.rte.ie/news/2026/1026/1596836-ukraine-russia/"
+        },
+        {
+          "label": "莫斯科时报：俄指责乌方停火前打击奥列什基",
+          "url": "https://www.themoscowtimes.com/2026/10/26/russia-accuses-ukraine-of-launching-strikes-against-oleshky-ahead-of-ceasefire-a94086"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Resultado das eleições 2026 no 2º turno: veja a apuração final do TSE para presidente",
+      "outlet": "O Globo",
+      "url": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/resultado-das-eleicoes-2026-no-2o-turno-veja-a-apuracao-final-do-tse-para-presidente.ghtml"
+    },
+    {
+      "n": 2,
+      "title": "Brazil election: Lula wins fourth term in dramatic comeback over Bolsonaro",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckm23y3mg1yyo"
+    },
+    {
+      "n": 3,
+      "title": "PL, partido de Flávio Bolsonaro, reconhece resultado da eleição, mas cobra esclarecimentos",
+      "outlet": "G1",
+      "url": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml"
+    },
+    {
+      "n": 4,
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "outlet": "Anthropic",
+      "url": "https://www.anthropic.com/news/s1-sec"
+    },
+    {
+      "n": 5,
+      "title": "Anthropic officially files for its public debut",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+    },
+    {
+      "n": 6,
+      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c"
+    },
+    {
+      "n": 7,
+      "title": "Working with academic communities to build scientific understanding",
+      "outlet": "OpenAI",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    },
+    {
+      "n": 8,
+      "title": "OpenAI says its AI model has disproved the Exponential Time Hypothesis",
+      "outlet": "The Next Web",
+      "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills"
+    },
+    {
+      "n": 9,
+      "title": "Introducing GPT-6.1 Terra",
+      "outlet": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra"
+    },
+    {
+      "n": 10,
+      "title": "Iran, Pakistan, Saudi Arabia, Türkiye agree to continue talks amid fears of wider war",
+      "outlet": "Arab News Pakistan",
+      "url": "https://www.arabnews.pk/pakistan/iran-pakistan-saudi-arabia-t%C3%BCrkiye-agree-to-continue-talks-amid-fears-of-wider-war-3005329"
+    },
+    {
+      "n": 11,
+      "title": "Iran's military chief claims IRGC has full control of Strait of Hormuz",
+      "outlet": "Iran International",
+      "url": "https://www.iranintl.com/en/202610262183"
+    },
+    {
+      "n": 12,
+      "title": "Tanker Disabled in Strait of Hormuz Attack, Another Vessel Reported on Fire in Persian Gulf",
+      "outlet": "gCaptain",
+      "url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/"
+    },
+    {
+      "n": 13,
+      "title": "Iranian threats lead US to reduce staffing at some Mideast embassies",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/iran-war-houthis-embassies-staffing-rubio-9635852ea973064907ed0b7c0fca4799"
+    },
+    {
+      "n": 14,
+      "title": "Houthis claim they attacked East-West oil pumping stations; no Saudi confirmation",
+      "outlet": "Dawn",
+      "url": "https://www.dawn.com/news/2039921"
+    },
+    {
+      "n": 15,
+      "title": "Front Month ICE Brent Crude Fell 0.78% to Settle at $115.81",
+      "outlet": "Dow Jones / Morningstar",
+      "url": "https://www.morningstar.com/news/dow-jones/202610266927/front-month-ice-brent-crude-fell-078-to-settle-at-11581-data-talk"
+    },
+    {
+      "n": 16,
+      "title": "Stock market news for Oct. 26, 2026 (S&P 500 +0.7% on chip rally after Anthropic filing)",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 17,
+      "title": "Final polls before election show both blocs short of majority, small parties out of Knesset",
+      "outlet": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/final-polls-before-election-show-both-blocs-short-of-majority-small-parties-out-of-knesset/"
+    },
+    {
+      "n": 18,
+      "title": "'Astronomical' Arab turnout could reshape Israeli politics in key election",
+      "outlet": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/26/astronomical-arab-turnout-could-reshape-israeli-politics-in-key-election/"
+    },
+    {
+      "n": 19,
+      "title": "French students vow to continue protests despite concessions from Macron govt",
+      "outlet": "France 24",
+      "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest"
+    },
+    {
+      "n": 20,
+      "title": "Ukraine to implement ceasefire in Oleshky area from midnight on October 27",
+      "outlet": "Ukrinform",
+      "url": "https://www.ukrinform.net/rubric-ato/4178428-ukraine-to-implement-ceasefire-in-oleshky-area-from-midnight-on-october-27.html"
+    },
+    {
+      "n": 21,
+      "title": "Russia open to local truces but will not stop offensive",
+      "outlet": "RTÉ",
+      "url": "https://www.rte.ie/news/2026/1026/1596836-ukraine-russia/"
+    },
+    {
+      "n": 22,
+      "title": "20th CPC Central Committee starts fifth plenary session (Oct 26–29, draft decision on full and rigorous Party self-governance)",
+      "outlet": "Xinhua",
+      "url": "https://english.news.cn/20261026/b60f1e831c4b48cda2f26ed186d7cbc5/c.html"
+    },
+    {
+      "n": 23,
+      "title": "22 rescued after Entebbe church building collapse – police say",
+      "outlet": "Daily Monitor (Uganda)",
+      "url": "https://www.monitor.co.ug/uganda/news/national/22-rescued-after-entebbe-church-building-collapse-police-say-5646876"
+    },
+    {
+      "n": 24,
+      "title": "Kyodo News Digest: Oct. 26, 2026 (former PM Yasuo Fukuda dies at 90)",
+      "outlet": "Kyodo",
+      "url": "https://english.kyodonews.net/articles/-/89394"
+    }
+  ]
+}
