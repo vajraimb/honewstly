@@ -1,0 +1,412 @@
+{
+ "date": "2026-10-28",
+ "title": "早间简报",
+ "windowNote": "窗口：自上一期（北京时间 10/27 约 08:10）至本期（10/28 约 08:05），约 24 小时，覆盖欧美周二（默认规格为 6 小时，沿用近几期的 24 小时窗口）。以色列于北京时间 04:00 关票，本期依据的是出口民调和极早期计票，官方结果预计 10/29 前后。Meta 融资和微软离职方案发布于美东 10/26，略早于窗口起点但此前未简报，一并收录。",
+ "thinDay": false,
+ "thinDayNote": "新闻并不薄：以色列大选出口民调是今天的头条，中东、俄乌、AI 领域都有实质进展。本期 7 条中 5 条为已简报话题的续报，2 条为新话题（AI 资本开支、埃博拉）。",
+ "vsYesterday": "相对上一期（10/27）：以色列从「投票日」变为出口民调结果——双方阵营均不足 61 席、阿拉伯政党 18 席、投票率 77.7%；伊朗—霍尔木兹新增伊方称油轮触雷、哈梅内伊称要结束「不战不和」、中国将派特使、埃及授权军援沙特；奥列什基停火首日维持并扩至赫尔松全州，但基辅遭大规模弹道导弹袭击；Anthropic 跟进发布 ETH 反驳，学界组织审查；巴西弗拉维奥从「宣布无效」转向申请撤销卢拉当选资格。新话题：Meta 950 亿美元融资与微软 6 万人自愿离职方案、刚果（金）埃博拉破万。塞尔维亚、法国学生抗议、Anthropic S-1 无实质新进展；中共二十届五中全会仍在进行（至 10/29），约旦空袭叙利亚、美国中期选举提前投票等见索引。",
+ "stories": [
+  {
+   "id": "1",
+   "title": "以色列大选出口民调：利库德仍是第一大党（24–27 席），但反内塔尼亚胡的犹太政党阵营 51–52 席、内塔尼亚胡阵营 50–51 席，双方都不到 61 席；阿拉伯政党预计创纪录拿下 18 席，投票率 77.7% 为 1999 年以来最高；艾森科特宣布胜利并要求内塔尼亚胡下台",
+   "tag": "续报：中东",
+   "facts": [
+    "投票率：中央选举委员会称，截至当地时间 10/27 22:00 关票，投票率 77.7%（5,695,682 人），2022 年同一时点为 70.6%，为 1999/2001 年以来最高（Ynet、《每日电讯报》、《以色列时报》）。",
+    "三大台出口民调（以色列时报、Ynet）：首轮 Kan 11、12 台、13 台均给内塔尼亚胡阵营 50 席、反对阵营 52–53 席；更新后 12 台为 52 对 50，Kan 11（凌晨 1:43）与 13 台更新为 51 对 51，阿拉伯政党（联合名单 + 拉阿姆）18 席。利库德 24–27 席、艾森科特的 Yashar! 21–22 席、贝内特的 B'Yachad 12–13 席。",
+    "亲政府频道：14 台出口民调给内塔尼亚胡阵营 60 席、反对阵营 43 席、阿拉伯政党 17 席；i24 为 55、49、16（以色列时报、i24）。早期官方计票（仅约 0.7% 选票）利库德领先，但样本极小，不具代表性（israelielection.org）。",
+    "表态：艾森科特称公众「投票要求变革」，呼吁内塔尼亚胡「接受人民的不信任投票」并退出政坛，承诺组建致力于「普遍兵役」的「犹太复国主义政府」，并提醒安全部门「只为国家服务」；贝内特称「内塔尼亚胡输了」，拉皮德称「以色列救了自己」；斯莫特里赫称「不会让你们庆祝」。截至以色列时报更新时内塔尼亚胡尚未讲话（以色列时报、《耶路撒冷邮报》）。",
+    "组阁难题：反对阵营中利伯曼此前拒绝依赖阿拉伯政党；拉阿姆二号人物称希望入阁。双信封选票（约 65 万张）预计 10/28–29 计票，中选会预计 10/29 中午前后公布实际结果，法定公报截止 11/4（以色列时报、Map the General）。"
+   ],
+   "readingA": "内塔尼亚胡阵营从 68 席跌到约 50 席、投票率创新高，这是对「10·7 政府」的明确否定；加上阿拉伯政党，反内塔尼亚胡的席位约 70，艾森科特有理由要求首先获得组阁授权。",
+   "readingB": "利库德仍是第一大党、出口民调之间分歧达数席（亲政府台给其阵营 55–60 席），而反对阵营若不依靠阿拉伯政党就凑不够 61 席；僵局可能导致再次选举，期间内塔尼亚胡继续作为看守总理掌权。",
+   "disagree": "双方对「谁赢了」的定义不同：一方看阵营席位和反内塔尼亚胡总票数，另一方看第一大党和组阁可行性；最终取决于官方计票和利伯曼等人是否改变对阿拉伯政党的立场。",
+   "synthesis": "可以确定的是：没有一方拿到 61 席，阿拉伯政党成为潜在关键少数，投票率历史性高。最终席位要等双信封票计完（约 10/29），其后总统赫尔佐格征询各党推荐人选。出口民调历来每党可能偏差一两席，门槛附近的小党可能改变全局。",
+   "unknown": "官方最终席位；内塔尼亚胡的公开回应；利伯曼是否接受阿拉伯政党外部支持；赫尔佐格授权顺序；是否会有选举舞弊指控（以色列时报报道利库德已准备「选举被偷」说法）。",
+   "confidence": "高（投票率、各台出口民调数字）；中（席位最终分布，出口民调可能偏差）；低（组阁走向）",
+   "sources": [
+    {
+     "label": "以色列时报：出口民调显示无明确赢家，阿拉伯政党获历史性得票",
+     "url": "https://www.timesofisrael.com/liveblog_entry/exit-polls-show-no-clear-victor-or-path-to-government-as-arab-parties-get-historic-vote/"
+    },
+    {
+     "label": "Ynet：投票率 77.7%，出口民调收敛于 52 对 50",
+     "url": "https://www.ynetnews.com/article/bknat9r3ge"
+    },
+    {
+     "label": "以色列时报直播：艾森科特要求内塔尼亚胡接受失败",
+     "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"
+    },
+    {
+     "label": "耶路撒冷邮报：艾森科特宣布胜利",
+     "url": "https://www.jpost.com/israel-election-2026/article-913070"
+    },
+    {
+     "label": "i24：亲政府出口民调 55-49-16",
+     "url": "https://www.i24news.tv/en/news/israeli-elections/artc-i24news-exit-poll-likud-wins-27-seats-yashar-20-coalition-bloc-reaches-55-seats-opposition-49-and-arab-parties-16"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "title": "伊朗—霍尔木兹：伊朗海军称一艘关闭追踪系统的油轮在海峡以东「禁区」触雷起火，重申海峡对未协调船只「关闭」；最高领袖穆杰塔巴·哈梅内伊称「不战不和」状态需要结束；中国宣布将派特使赴地区；埃及议会授权塞西在沙特请求时提供军事支持，胡塞武装称这是「宣战」；布伦特收跌 1.7% 至 113.88 美元",
+   "tag": "续报：中东",
+   "facts": [
+    "触雷：伊朗海军经官方通讯社 IRNA 称，一艘「违规」油轮关闭追踪系统、试图穿越海峡以东「禁止且不安全的区域」时撞上水雷，受损起火；未公布船名、船旗、船员或伤亡，也未说明水雷由谁布设。海军称海峡对未经协调的船只「不安全且关闭」（阿纳多卢、伊朗国际、CBS）。美方则敦促航运走伊朗视为非法的南部航线（CBS）。",
+    "伊方立场：CNBC 引述最高领袖英文社媒称，穆杰塔巴·哈梅内伊与国家安全官员雷扎伊讨论结束战争的条件，称「不战不和」需要结束，并谈到「保持对霍尔木兹海峡的控制」。半岛电视台称德黑兰坚持解除制裁、解冻资产、解除美军对伊港口封锁并保证不再袭击，作为恢复通航的条件（CNBC、半岛）。",
+    "斡旋：半岛电视台报道，中国周二宣布将「很快」派特使前往地区相关国家，以避免新一轮升级；伊朗外交部发言人巴盖伊称周一与沙特、巴基斯坦、土耳其的德黑兰会谈是迈向地区安全合作的一步（半岛、CNBC 引述塔斯尼姆）。",
+    "埃及—沙特—胡塞：埃及议会 10/27 授权总统塞西在沙特提出请求时提供军事支持，以保卫沙特领土和圣地免受胡塞袭击；目前未宣布部署或正式请求。胡塞官员称此举等同「宣战」；沙特称拦截了针对利雅得等地的导弹和无人机（欧洲新闻台、美联社、半岛、CNA）。",
+    "油价：布伦特 10/27 收 113.88 美元（-1.7%），WTI 99.90 美元（-1.8%），连跌两日；瑞银预计年底前布伦特维持在 110 美元附近，称全球库存自 2 月以来下降约 5 亿桶（CNBC）。"
+   ],
+   "readingA": "沙特—巴—土—伊会谈、中国派特使、哈梅内伊称要结束「不战不和」，加上油价连跌，说明外交窗口正在打开，各方都在争取美国中期选举前避免新一轮打击。",
+   "readingB": "伊朗一边谈判一边以水雷和「协调通行」强化对海峡的实际控制，条件清单未松动；埃及介入使胡塞—沙特冲突有扩大为多国对抗的风险，美方「谈还是了结」的决定仍悬而未决。",
+   "disagree": "分歧在于伊朗的外交姿态是否代表实质让步：一方看到降温信号，另一方看到伊朗在以海峡控制换取最大筹码，而地区冲突正在横向扩散。",
+   "synthesis": "伊朗的触雷说法无法独立核实（未公布船只身份），但它清楚传达了「未经伊方协调不得通行」的立场。中国特使和沙特同盟的斡旋是新变量；埃及授权目前只是法律准备，是否真的出兵要看沙特是否请求。",
+   "unknown": "触雷油轮身份与伤亡；中国特使人选与行程；特朗普的决定时点；埃及是否实际部署；以色列选举结果对伊朗议题的影响。",
+   "confidence": "高（油价、埃及议会授权）；中（伊朗官方触雷说法，单方面且无细节）；中（伊方谈判条件的报道）",
+   "sources": [
+    {
+     "label": "阿纳多卢：伊朗称油轮在霍尔木兹以东触雷起火",
+     "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560"
+    },
+    {
+     "label": "CNBC：伊朗最高领袖讨论结束战争条件后油价下跌",
+     "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html"
+    },
+    {
+     "label": "半岛电视台：美国升级在即，伊朗的盘算",
+     "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz"
+    },
+    {
+     "label": "美联社：埃及授权对沙特提供军事支持",
+     "url": "https://apnews.com/article/egypt-saudi-arabia-military-support-parliament-houthis-0122d6201f904496a080e60e0f983697"
+    },
+    {
+     "label": "以色列时报：胡塞称埃及决定是宣战",
+     "url": "https://www.timesofisrael.com/houthis-egypts-decision-to-give-military-support-to-saudi-arabia-is-declaration-of-war/"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "title": "俄乌：奥列什基停火首日双方遵守，乌方称范围已扩至整个赫尔松州，持续到 11/1 基辅时间 22:59；排雷已开始，撤离预计 10/30 启动；停火生效前数小时，俄方以弹道导弹和约 280 架无人机袭击基辅，击中南桥和大学校园，1 死 15 伤",
+   "tag": "续报：欧洲",
+   "facts": [
+    "执行情况：乌克兰议会人权专员卢比涅茨称截至 10/27 17:30 停火「完全得到遵守」；俄国防部确认已在赫尔松方向停火；克宫发言人佩斯科夫称截至基辅时间 11:00 无违约报告（基辅独立报、基辅邮报）。",
+    "范围与期限：梅拉尼娅·特朗普在社媒称停火已在赫尔松州内「扩大」，人权专员办公室发言人称已覆盖整个赫尔松州；停火持续至 11/1 基辅时间 22:59（阿拉哈米亚、卢比涅茨）（基辅独立报、基辅邮报）。",
+    "撤离安排：人权专员办公室告诉居民排雷已开始、撤离 10/30 开始；俄方任命的萨尔多称人道任务 10/29 开始，居民可选择留在俄罗斯或前往乌控区。BBC 称撤离计划在周五进行，基辅估计奥列什基及周边仍有最多 6,000 人（含 200 名儿童），城内约 1,700 人，许多人靠煮野草充饥（基辅独立报、BBC）。",
+    "基辅遇袭：乌空军称俄军从布良斯克州发射 S-400/伊斯坎德尔弹道导弹及 280 架无人机（69 架喷气式），拦截或压制 2 枚导弹和 255 架无人机；南桥受损、地铁中断，大学校园、医疗中心被击中，基辅 1 死 15 伤；过去一天全国至少 4 死 55 伤（基辅独立报）。"
+   ],
+   "readingA": "停火首日双方均公开确认遵守，范围还扩大到整个州，说明美方斡旋下的具体人道安排是可行的，可为 11 月初阿布扎比三方会谈积累信任。",
+   "readingB": "停火生效前夜就对基辅发动大规模弹道导弹袭击，说明俄方把局部人道停火与整体攻势完全切割；撤离日期双方说法不一（10/29、10/30、周五），去向由俄方安排，执行风险仍大。",
+   "disagree": "分歧在于奥列什基是信任建设的起点，还是一个不影响大局的孤立例外。",
+   "synthesis": "目前可以确认的只是「停火在持续」；真正的检验是本周后半段排雷与撤离能否安全完成、撤离者能否自由选择去向。基辅袭击表明全国范围的停火仍然遥远。",
+   "unknown": "撤离的实际日期与人数；扩大到全州的具体条款（俄方未确认扩大）；撤离者去向是否自愿；三方会谈日期。",
+   "confidence": "高（停火持续、基辅袭击数据）；中（范围扩大，主要为乌方与美方说法）；中（撤离日程，各方说法不一）",
+   "sources": [
+    {
+     "label": "基辅独立报：梅拉尼娅称停火在赫尔松州内扩大",
+     "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/"
+    },
+    {
+     "label": "基辅邮报：停火持续到 11 月 1 日",
+     "url": "https://www.kyivpost.com/post/88324"
+    },
+    {
+     "label": "BBC：居民靠吃野草生存的奥列什基开始停火",
+     "url": "https://www.bbc.com/news/articles/ck20wjnv3w0jo"
+    },
+    {
+     "label": "基辅独立报：基辅遭弹道导弹袭击",
+     "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-four-injure-55-over-past-day-as-kyiv-comes-under-ballistic-missile-assault/"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "title": "AI 与「指数时间假设」：OpenAI 公布推翻 ETH 数小时后，Anthropic 也发布了自家 Claude 模型的 ETH 反驳及 Lean 4 形式化；ETH 提出者与 MIT 的瑞安·威廉姆斯组织学界审查，称其中有「两三处看起来很陌生的部分」；谷歌 DeepMind 发布世界模型 Genie 4 研究预览",
+   "tag": "续报：科技/AI",
+   "facts": [
+    "Anthropic 跟进：TechCrunch 报道，Anthropic 数学家莱文特·阿尔波格暗示 OpenAI 的解法基于已有工作，数小时后 Anthropic 发布自己的 ETH 反驳。据 Anthropic 公开材料的第三方整理，其声称内部 Claude 模型找到了 2^o(n) 时间的确定性 3-SAT 算法，并发布了论文和 Lean 4 形式化（TechCrunch、Papex 整理）。",
+    "学界审查：MIT 教授瑞安·威廉姆斯牵头计算机界的回应，和 1999 年提出 ETH 的拉塞尔·因帕利亚佐、拉马莫汉·帕图里一起协助解读；他们发布公开信征集反馈，并要求 OpenAI 资助一场会议讨论。威廉姆斯称部分步骤「算是常规」，但「有两三处看起来很陌生」，并称「不认为 OpenAI 的算法会是最好的算法」（TechCrunch）。",
+    "影响与安全：威廉姆斯称过去十年大量论文以 ETH 为前提，需要重新审视；他问 OpenAI 是否影响密码系统，对方称已检查、「相当有信心」不会导致任何破解。第三方解读提醒：Lean 只检查形式化命题本身，不保证与论文宣称的命题一致；成立也不等于解决 P 对 NP（TechCrunch、Papex、AI News Online）。",
+    "Genie 4：DeepMind 10/27 发布世界模型 Genie 4 研究预览，可生成更逼真的可交互世界和实时音频（音乐、环境声、对话），支持模拟中途用文字修改场景，场景一致性可维持约 2 分钟（前代的两倍）；Gemini 担任「导演」规划步骤。目前仅限受信任测试者，数周内向 Google AI Ultra 订阅者和部分 API 合作方开放；团队承认长时间运行会出现细节漂移（TechCrunch）。"
+   ],
+   "readingA": "两家前沿实验室几乎同时独立得到同一方向的结果，且都附 Lean 形式化，加上 ETH 提出者亲自参与审查，说明这很可能是真实的理论突破，AI 已能在核心理论问题上提出人类未发现的思路。",
+   "readingB": "两家都是有 IPO/融资叙事的商业公司，「抢发」本身就有营销动机；形式化证明可能只检查了较弱的命题（此前 Navier-Stokes 案例已有此担忧），在同行评审前不应视为已证实。",
+   "disagree": "分歧不在于是否有新算法，而在于它是否严格证明了 ETH 不成立，以及两家公司的发布方式是否合适。",
+   "synthesis": "最稳妥的说法是：两家公司声称反驳 ETH，形式化材料已公开，权威学者正在审查但明确不构成背书。接下来数周应关注审查小组的初步结论，以及两家结果是否等价。",
+   "unknown": "Anthropic 与 OpenAI 的算法是否相同或互相依赖；形式化命题是否与论文主张一致；会议何时召开；Genie 4 的开放时间和定价。",
+   "confidence": "高（两家都已发布声明）；低（结论是否成立，尚无同行评审）；高（Genie 4 发布事实）",
+   "sources": [
+    {
+     "label": "TechCrunch：前沿 AI 实验室称推翻指数时间假设意味着什么",
+     "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+    },
+    {
+     "label": "Papex：OpenAI 的挂谷、ETH 和杨—米尔斯主张哪些仍未定",
+     "url": "https://papex.org/blog/claimed-verified-explained"
+    },
+    {
+     "label": "AI News Online：10/27 AI 日报",
+     "url": "https://ai-news-online.com/briefing/2026-10-27/"
+    },
+    {
+     "label": "TechCrunch：谷歌 Genie 4 加入音频与实时操控",
+     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+    },
+    {
+     "label": "Google DeepMind：Genie 4",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "title": "AI 军备竞赛的账单：Meta 宣布最多 950 亿美元股权融资（先发 350 亿美元，另 600 亿美元按市价发行），英伟达、AMD、博通有意认购最多 50 亿美元；微软向约 6 万名员工（约占 27%）提供自愿离职方案，以平衡 AI 基建开支",
+   "tag": "新：科技/AI",
+   "facts": [
+    "Meta：公司称计划共融资 950 亿美元支持 AI 基础设施与「超级智能」投资，先进行 350 亿美元承销公开股权发行，之后通过「按市价发行」计划再募 600 亿美元；英伟达、AMD、博通有意购买最多 50 亿美元股份。消息公布当天早盘股价跌 1.6%（CNBC，美东 10/26）。",
+    "Meta 背景：上周三季度营收同比增 26% 至 646 亿美元，但自由现金流为负，全年资本开支指引上调至 1,350–1,450 亿美元；正在建四个超过 1 吉瓦的「超级集群」（CNBC）。高盛估计 2026–2031 年 AI 相关资本开支约 7.6 万亿美元（CNBC 引述）。",
+    "微软：向美国、加拿大、印度和英国职级 70 及以下的员工提供「自愿离职方案」，知情人士称约 6 万人符合条件，约占员工总数 22.3 万的 27%；须在 12 月初决定、12/31 离职；部分营销、销售和工程团队不参加。微软称 9 月季度资本开支将超过 500 亿美元（上年同期 349 亿美元）；7 月已宣布裁员 4,800 人（CNBC、微软官方博客）。",
+    "时间说明：两条消息均在美东 10/26 发布，早于本期窗口起点但此前未简报；微软将于美东周三（北京时间 10/29 清晨）发布季报。"
+   ],
+   "readingA": "这是 AI 基建进入「超大规模融资期」的明确信号：连现金流最强的公司也要发股、削减人力成本来支撑算力投入，说明它们判断需求是真实且持续的。",
+   "readingB": "发行股票稀释股东、负自由现金流、以「自愿」形式大规模缩减人员，显示 AI 投资回报与支出之间的缺口在扩大；芯片商参与认购还形成了供应商与客户之间的循环融资。",
+   "disagree": "分歧在于这些资本动作反映的是对需求的信心，还是投资回报压力的早期迹象。",
+   "synthesis": "可以确定的是：前沿 AI 的资本开支已大到需要股权市场和人力成本同时配合。微软季报、Meta 增发定价以及 Anthropic IPO 定价将是检验市场承受力的近期节点。",
+   "unknown": "Meta 增发最终定价与需求；微软有多少人接受方案；600 亿美元按市价发行的节奏；芯片商认购的具体条款。",
+   "confidence": "高（公司公告数字）；中（微软 6 万人来自知情人士）",
+   "sources": [
+    {
+     "label": "CNBC：Meta 宣布 950 亿美元股票发行",
+     "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+    },
+    {
+     "label": "Meta 投资者关系：发行公告",
+     "url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Announces-Launch-of-Offering-of-Depositary-Shares-Representing-Series-A-Mandatory-Convertible-Preferred-Stock-and-Offering-of-Class-A-Common-Stock-in-Connection-with-Forward-Sale-Agreements/default.aspx"
+    },
+    {
+     "label": "CNBC：微软向 6 万名员工提供自愿买断",
+     "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+    },
+    {
+     "label": "微软官方博客：推出自愿离职方案",
+     "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "title": "刚果（金）埃博拉确诊病例突破 1 万：10,060 例确诊、4,887 人死亡，为该国史上增长最快、最致命的一次疫情，全球规模仅次于 2014–2016 年西非疫情；约 80% 新病例来自未被追踪的传播链，已波及肯尼亚、尼日利亚、乌干达",
+   "tag": "新：非洲/卫生",
+   "facts": [
+    "数字：刚果（金）卫生部 10/27 数据显示确诊 10,060 例、死亡 4,887 例，接近一半确诊者死亡（半岛电视台、美联社、新华社）。",
+    "病毒与疫苗：疫情 5 月 15 日宣布，由罕见的本迪布焦型埃博拉病毒引起，尚无获批疫苗或疗法；世卫组织上周五宣布首个疫苗临床试验启动（半岛）。",
+    "失控迹象：约 80% 新病例不在已监测的传播链中，非洲疾控中心称需 95% 来自已知接触者才算受控；疫情已波及 8 省 66 个卫生区，至少一半死者从未入院治疗；一名护士周六在处置疑似病例时遇袭身亡（半岛引述世卫）。",
+    "跨境：肯尼亚累计 9 例确诊、2 例死亡；一名瑞士外交官配偶在乌干达感染、在尼日利亚确诊后转运瑞士；乌干达要求从刚果（金）返回的公民自费隔离 21 天（半岛）。"
+   ],
+   "readingA": "疫苗试验已开始、国际组织持续投入，跨境病例数量仍有限，若能补上资金和人手缺口，疫情有可能逐步受控。",
+   "readingB": "80% 新病例来自未知传播链、医护遭袭、工资拖欠导致罢工，说明疫情已失去控制，跨国扩散风险在上升，且没有获批疫苗。",
+   "disagree": "分歧在于现有应对能否追上疫情速度。",
+   "synthesis": "按现有数据，这是一次仍在加速、已跨国的重大公共卫生事件，在其他热点新闻下关注度偏低。关键指标是已知接触者比例能否回升，以及疫苗试验的进展。",
+   "unknown": "真实病例规模（检测不足）；疫苗试验结果和时间表；国际资金缺口；邻国是否出现社区传播。",
+   "confidence": "高（官方数据）；中（跨境病例细节）",
+   "sources": [
+    {
+     "label": "半岛电视台：刚果（金）埃博拉病例突破 1 万",
+     "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+    },
+    {
+     "label": "美联社：刚果埃博拉确诊病例超过 1 万",
+     "url": "https://apnews.com/article/ebola-disease-outbreak-congo-africa-10000-75d315254e5b7f85a706059de6f5024c"
+    },
+    {
+     "label": "新华社：刚果（金）埃博拉病例破万",
+     "url": "https://english.news.cn/africa/20261027/c953588378734634be89fdade6eeebb9/c.html"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "title": "巴西：弗拉维奥放弃「宣布选举无效」，改称将向 TSE 申请以滥用政治和经济权力为由撤销卢拉—阿尔克明的当选资格；BBC 巴西统计 17:00 后登记的总统票仅 33,866 张；警方依莫拉埃斯大法官命令要求其交出护照",
+   "tag": "续报：美洲",
+   "facts": [
+    "转向：弗拉维奥 10/26 在社媒视频中称卢拉在竞选中「滥用」权力，未提供证据称卢拉「注入近半万亿雷亚尔公共资金」买票，并以延长投票为由，将申请撤销卢拉—阿尔克明组合（BBC 巴西、UOL）。",
+    "法律可行性：BBC 巴西统计 17:00 后登记的总统票为 33,866 张，占第二轮 128,236,074 票的 0.026%；选举律师罗洛称「没有损害就没有无效」。此类选举司法调查（AIJE）通常需一到两年；2017 年 TSE 曾以证据不足驳回对罗塞夫—特梅尔组合的类似诉讼（BBC 巴西）。Brasil 247 称弗拉维奥身边人士认为胜诉机会「为零」（Brasil 247）。",
+    "护照：弗拉维奥称联邦警察要求他交出护照、禁止出境；BBC 巴西称这是莫拉埃斯大法官周日作出的决定，限 24 小时内交出。弗拉维奥在最高法院涉及两项调查，他否认违法，并称「从没想过离开巴西」（BBC 巴西）。"
+   ],
+   "readingA": "放弃「无效」诉求、转向漫长的司法程序，实际上等于默认结果不可推翻；自由党已承认结果，政治对抗将转入议会和司法常规渠道。",
+   "readingB": "新诉讼让「选举不公」叙事长期延续，加上护照被扣，博索纳罗阵营可能把司法程序塑造成政治迫害，持续削弱卢拉第四任期的合法性。",
+   "disagree": "分歧在于这是体面撤退还是持久战的开始。",
+   "synthesis": "官方结果不会因为这项诉讼而在近期改变；值得关注的是诉讼是否真的提交、最高法院对弗拉维奥的调查走向，以及他能否把自己确立为反对派领袖。",
+   "unknown": "诉状何时提交、具体内容；扣护照所依据的调查细节；市场后续表现。",
+   "confidence": "高（BBC 统计与表态）；中（护照命令细节）",
+   "sources": [
+    {
+     "label": "BBC 巴西：弗拉维奥改口称将申请撤销卢拉—阿尔克明当选",
+     "url": "https://www.bbc.com/portuguese/articles/cr9dzne66j1go"
+    },
+    {
+     "label": "UOL：弗拉维奥改变说法",
+     "url": "https://noticias.uol.com.br/eleicoes/2026/10/26/flavio-muda-discurso-e-diz-que-pedira-cassacao-de-chapa-lula-alckmin.ghtm"
+    },
+    {
+     "label": "Brasil 247：弗拉维奥身边人士认为胜诉机会为零",
+     "url": "https://www.brasil247.com/brasil/entorno-de-flavio-bolsonaro-ve-chance-zero-de-vitoria-em-acao-para-cassar-chapa-lula-alckmin-no-tse/"
+    }
+   ]
+  }
+ ],
+ "index": [
+  {
+   "n": 1,
+   "title": "Exit polls show no clear victor, or path to government, as Arab parties get historic vote",
+   "outlet": "Times of Israel",
+   "url": "https://www.timesofisrael.com/liveblog_entry/exit-polls-show-no-clear-victor-or-path-to-government-as-arab-parties-get-historic-vote/"
+  },
+  {
+   "n": 2,
+   "title": "Israel election turnout hits 77.7%, highest in 25 years, as exit polls show 52-50 split",
+   "outlet": "Ynet",
+   "url": "https://www.ynetnews.com/article/bknat9r3ge"
+  },
+  {
+   "n": 3,
+   "title": "Eisenkot calls on Netanyahu to accept defeat and step down, says public 'voted for change'",
+   "outlet": "Times of Israel",
+   "url": "https://www.timesofisrael.com/liveblog-october-27-2026/"
+  },
+  {
+   "n": 4,
+   "title": "Gadi Eisenkot declares victory as bloc takes lead over Netanyahu's, despite deadlock",
+   "outlet": "Jerusalem Post",
+   "url": "https://www.jpost.com/israel-election-2026/article-913070"
+  },
+  {
+   "n": 5,
+   "title": "i24NEWS Exit Poll: Likud 27, Yashar 20; coalition bloc 55, opposition 49, Arab parties 16",
+   "outlet": "i24NEWS",
+   "url": "https://www.i24news.tv/en/news/israeli-elections/artc-i24news-exit-poll-likud-wins-27-seats-yashar-20-coalition-bloc-reaches-55-seats-opposition-49-and-arab-parties-16"
+  },
+  {
+   "n": 6,
+   "title": "Israel election latest: Netanyahu's bloc trails rivals despite Likud taking most seats",
+   "outlet": "The Telegraph",
+   "url": "https://www.telegraph.co.uk/world-news/2026/10/27/netanyahu-seeks-extend-polling-hours-amid-record-voters/"
+  },
+  {
+   "n": 7,
+   "title": "Iran says oil tanker catches fire after hitting naval mine east of Strait of Hormuz",
+   "outlet": "Anadolu",
+   "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-catches-fire-after-hitting-naval-mine-east-of-strait-of-hormuz/4102560"
+  },
+  {
+   "n": 8,
+   "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html"
+  },
+  {
+   "n": 9,
+   "title": "Iran's calculations as US escalation looms: Trust, midterms, Hormuz (China to send envoy)",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz"
+  },
+  {
+   "n": 10,
+   "title": "Egypt's parliament approves military support for Saudi Arabia amid Houthi attacks",
+   "outlet": "Euronews",
+   "url": "https://www.euronews.com/2026/10/27/egypts-parliament-approves-military-support-for-saudi-arabia-amid-houthi-attacks"
+  },
+  {
+   "n": 11,
+   "title": "Houthis: Egypt's decision to give military support to Saudi Arabia is declaration of war",
+   "outlet": "Times of Israel",
+   "url": "https://www.timesofisrael.com/houthis-egypts-decision-to-give-military-support-to-saudi-arabia-is-declaration-of-war/"
+  },
+  {
+   "n": 12,
+   "title": "Oleshky ceasefire 'expanded within Kherson Oblast,' Melania Trump says",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/local-ceasefire-in-besieged-oleshky-begins-ukrainian-russian-officials-say/"
+  },
+  {
+   "n": 13,
+   "title": "Oleshky ceasefire begins in Ukraine city where residents ate weeds to survive",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/ck20wjnv3w0jo"
+  },
+  {
+   "n": 14,
+   "title": "Russian attacks across Ukraine kill four, injure 57 over past day, as Kyiv comes under ballistic missile assault",
+   "outlet": "Kyiv Independent",
+   "url": "https://kyivindependent.com/russian-attacks-across-ukraine-kill-four-injure-55-over-past-day-as-kyiv-comes-under-ballistic-missile-assault/"
+  },
+  {
+   "n": 15,
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+  },
+  {
+   "n": 16,
+   "title": "Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+  },
+  {
+   "n": 17,
+   "title": "Meta announces $95 billion stock offering to fund AI expansion",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html"
+  },
+  {
+   "n": 18,
+   "title": "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html"
+  },
+  {
+   "n": 19,
+   "title": "Siri remembers: iOS 27.2 adds conversational memory; 163 security fixes, some credited to Anthropic and OpenAI",
+   "outlet": "DailyAI",
+   "url": "https://dailyai.com/2026/10/dailyai-briefing-ai-breaks-a-computing-rule-plus-4-more/"
+  },
+  {
+   "n": 20,
+   "title": "Ebola cases in DR Congo surpass 10,000 in fastest-growing outbreak",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/27/ebola-cases-in-dr-congo-surpass-10000-in-fastest-growing-outbreak"
+  },
+  {
+   "n": 21,
+   "title": "Flávio muda a rota e agora diz que vai pedir ao TSE cassação da chapa Lula-Alckmin",
+   "outlet": "BBC News Brasil",
+   "url": "https://www.bbc.com/portuguese/articles/cr9dzne66j1go"
+  },
+  {
+   "n": 22,
+   "title": "Jordan acknowledges Syrian civilian deaths in strikes it says killed IS extremists",
+   "outlet": "AP",
+   "url": "https://apnews.com/article/syria-jordan-strikes-karak-daraa-is-5c278be71a23176a092779ef8484c213"
+  },
+  {
+   "n": 23,
+   "title": "How major US stock indexes fared Tuesday 10/27/2026 (S&P 500 +0.6% to 7,722.60; Nasdaq +1.2%)",
+   "outlet": "AP",
+   "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-eae2932c0c253be1039e1545909656a8"
+  },
+  {
+   "n": 24,
+   "title": "Midterm early voting surges amid legal fights over ballots",
+   "outlet": "Spectrum News",
+   "url": "https://spectrumlocalnews.com/us/snplus/politics/2026/10/27/midterm-election-roundup-california-washington-ballots-counting-early-voting"
+  },
+  {
+   "n": 25,
+   "title": "中国共产党第二十届中央委员会第五次全体会议在北京开始举行（会期至 10/29）",
+   "outlet": "中国政府网",
+   "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084265.htm"
+  }
+ ]
+}
