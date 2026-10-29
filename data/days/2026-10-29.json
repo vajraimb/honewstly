@@ -1,0 +1,425 @@
+{
+  "date": "2026-10-29",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 10/28 约 08:05）至本期（10/29 约 08:30），约 24 小时，覆盖欧美周三（默认规格为 6 小时，沿用近几期的 24 小时窗口）。以色列双信封选票预计以色列时间周四晚计完，本期席位为计票约 88.6% 时的数据。胡塞袭击拉斯坦努拉、北欧领导人致电普京、乌克兰「韦莱斯」行动发生于 10/27，略早于窗口起点但此前未简报，前者收入第 5 条，后两者见索引。",
+  "thinDay": false,
+  "thinDayNote": "新闻并不薄：以色列计票结果、西班牙致命高铁事故、美联储决议和两大科技公司财报同日出现。本期 7 条中 4 条为续报（以色列、AI 资本开支、伊朗—海湾、巴西），3 条为新话题（西班牙事故、美联储、前沿模型发布）。",
+  "vsYesterday": "相对上一期（10/28）：以色列从出口民调变为计票过九成——内塔尼亚胡阵营 53、反对阵营 48、阿拉伯政党 19，比出口民调更利于内塔尼亚胡，但双方仍不过半，内塔尼亚胡拒绝依靠阿拉伯政党，赫尔佐格呼吁避免再选；AI 资本开支话题从 Meta 融资和微软买断推进到财报——微软超预期、Alphabet 自由现金流转负、股价跌逾 10%；伊朗—海湾新增卡塔尔七天草案（伊方高级官员称「不可接受」）和胡塞袭击拉斯坦努拉，布伦特回升至 115 美元以上；巴西弗拉维奥从申请撤销卢拉当选资格到出逃迈阿密。新话题：西班牙托莱多高铁事故 68 死、美联储维持利率（两票主张加息）、Gemini 4 Carbon 与 GPT-6.1 Terra。奥列什基停火持续（撤离定于 10/30）、ETH 反驳审查、埃博拉、塞尔维亚、法国抗议、Anthropic S-1 无重大新进展；中共二十届五中全会今天闭幕，公报尚未发布；欧盟—加拿大峰会、普京称赞马斯克、埃及关闭 Mada Masr 等见索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "以色列大选计票过九成：内塔尼亚胡阵营 53 席、艾森科特领衔的反对阵营 48 席、阿拉伯政党创纪录 19 席，双方都远不到 61 席；利库德 26 席仍居第一。内塔尼亚胡要求组建「强大的右翼政府」，拒绝依靠阿拉伯政党；赫尔佐格呼吁各党避免再次选举",
+      "tag": "续报：中东",
+      "facts": [
+        "计票：中央选举委员会（CEC）称，计入约 88.6% 的选票（5,047,241 票）后各阵营席位不变：内塔尼亚胡阵营（利库德、沙斯、圣经犹太教联盟、犹太力量、宗教锡安主义）53 席，反对阵营（Yashar!、B'Yachad、民主党、以色列我们的家园）48 席，阿拉伯政党（联合名单 12 + 拉阿姆 7）19 席，此前最高纪录为 15 席（Ynet、以色列时报）。",
+        "各党：利库德 26、Yashar! 21、联合名单 12、贝内特的 B'Yachad 12、民主党 8，圣经犹太教联盟、以色列我们的家园、沙斯、犹太力量、拉阿姆各 7，宗教锡安主义 6。亨德尔与泽莱哈的「预备役—经济」名单得票 2.63%，距 3.25% 门槛还差 30,910 票，若跨线将改变席位分布（以色列时报、Ynet）。",
+        "未计票：约 43–48 万张「双信封」选票（军人、囚犯、外交人员等）尚未计入，CEC 发言人称预计以色列时间周四晚完成；官方最终结果预计 11/4 公布（卫报、以色列时报）。这与上一期出口民调（反对阵营 51–52 对内塔尼亚胡阵营 50–51）相比，内塔尼亚胡阵营实际多出约 2–3 席。",
+        "内塔尼亚胡：在利库德总部讲话称利库德「毫无疑问」是第一大党，右翼阵营在「犹太公众」中拥有「决定性多数」，组建依靠「反锡安主义阿拉伯政党」的政府是「被禁止的」，并称要与特朗普一起「一劳永逸」消除伊朗威胁（以色列时报全文）。他已先后与斯莫特里赫、本格维尔通话，随后将与极端正统派政党会谈；沙斯党称德里不会离开该阵营（Ynet）。",
+        "反对阵营与总统：民主党主席戈兰周四将分别会见艾森科特和拉皮德；反对派考虑在 11/10 新议会宣誓时借阿拉伯政党的票撤换议长奥哈纳，圣经犹太教联盟考虑弃权（Ynet）。总统赫尔佐格称下周从最高法院大法官索尔伯格手中接到正式结果后与各党团磋商，呼吁「以开放心态」避免再次选举；他授权的人选不一定是第一大党领袖（Ynet、以色列时报）。"
+      ],
+      "readingA": "内塔尼亚胡阵营从 68 席跌到 53 席，阿拉伯政党与反对阵营合计 67 席，说明多数选民不支持现政府；撤换议长等议会操作可能先于组阁，逐步孤立内塔尼亚胡。",
+      "readingB": "按犹太政党计算，内塔尼亚胡阵营 53 对 48 领先，利库德仍是第一大党；反对阵营除民主党外都排除与阿拉伯政党合作，在 61 席门槛下更可能出现僵局或再次选举，而内塔尼亚胡在此期间继续作为看守总理执政。",
+      "disagree": "分歧在于以「全部 120 席」还是「犹太政党席位」来衡量民意，以及反对阵营能否接受阿拉伯政党的外部支持。",
+      "synthesis": "计票结果已基本确定：任何一方都需要跨越阵营或依靠阿拉伯政党才能过半。接下来的关键节点是：周四晚双信封票计完（门槛附近的小党可能改变席位）、11/4 官方结果、赫尔佐格的授权顺序和 11/10 新议会的议长投票。",
+      "unknown": "双信封票会否让「预备役—经济」跨过门槛；赫尔佐格首先授权谁；反对派是否真的借阿拉伯政党撤换议长；伊朗议题是否影响组阁谈判。",
+      "confidence": "高（CEC 计票数据、各方表态）；中（双信封票对席位的影响）；低（组阁走向）",
+      "sources": [
+        {
+          "label": "以色列时报：计票 85% 时内塔尼亚胡阵营 53 席、艾森科特阵营 48 席、阿拉伯政党 19 席",
+          "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+        },
+        {
+          "label": "Ynet：计票 88.6%，各阵营席位不变",
+          "url": "https://www.ynetnews.com/article/l41x9or7g"
+        },
+        {
+          "label": "以色列时报：内塔尼亚胡讲话全文",
+          "url": "https://www.timesofisrael.com/netanyahu-we-must-form-strong-national-right-wing-government-remove-existential-threat-from-iran/"
+        },
+        {
+          "label": "Ynet：内塔尼亚胡启动组阁接触，反对派考虑撤换议长",
+          "url": "https://www.ynetnews.com/article/hkre9ay6me"
+        },
+        {
+          "label": "Ynet：赫尔佐格呼吁避免再次选举",
+          "url": "https://www.ynetnews.com/article/hygrg6jafe"
+        },
+        {
+          "label": "卫报直播：大部分选票计完，内塔尼亚胡阵营失去多数",
+          "url": "https://www.theguardian.com/world/live/2026/oct/28/israel-election-results-live-updates-exit-polls-netanyahu-likud-eisenkot-latest-news"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "西班牙托莱多高铁追尾事故至少 68 死：信号系统电脑故障后，Adif 控制中心让一列 Renfe AVE 在红灯下以约 200 公里时速继续行驶，撞上前方停着的 Iryo 列车；交通部长称调度指令「无法解释」，首相桑切斯宣布全国哀悼三天",
+      "tag": "新：欧洲",
+      "facts": [
+        "经过：事故发生在马德里—塞维利亚线上托莱多省 Urda 附近，当地时间 10/28 早上约 8:53。交通部长普恩特称，约 8:30 LZB 列车控制系统因「电脑之间通信故障」失效，影响 60 多公里线路，区段内 6 列车自动停车；随后 Adif 控制中心人工接管，在红灯仍亮的情况下允许 Renfe 列车「正常」恢复运行，该车在 8:36–8:52 之间以约 200 公里/小时行驶约 25 公里后撞上前方停着的 Iryo 列车（CNN、RTVE）。",
+        "伤亡：卡斯蒂利亚—拉曼恰地区政府称至少 68 人死亡，其中 AVE 上 24 人、Iryo 上 44 人；CNN 称约 100 人受伤，RTVE 称伤者超过 180 人。两车乘客数各家说法略有差异（CNN：393 和 151；RTVE：378 和 147）。美国国务院称数名美国公民受伤（CNN、RTVE）。",
+        "规程：RTVE 引述 Adif 2025 年 1 月内部规定，LZB 失效时调度必须先确认区间无车，否则至少要求「目视行车」（约 40 公里/小时）；国民警卫队已询问 Adif 的行车负责人。Iryo 方面称其司机 8:38 已在与控制中心沟通恢复运行，列车本身无故障（RTVE）。",
+        "反应：桑切斯宣布全国哀悼三天，称如有疏忽将「以最大的坚决」处理，并说同一年发生两起高铁事故「不可接受」（1 月科尔多瓦省 Adamuz 高铁相撞造成 40 多人死亡）。公务员工会 CSIF 要求普恩特辞职，指责其拿调度员当替罪羊；当晚约 500 人在交通部外抗议，部分人向警察投掷瓶子和照明弹，警方使用催泪瓦斯（CNN 引述路透社）。马德里—安达卢西亚高铁 10/29 停运（CNN）。"
+      ],
+      "readingA": "官方已经给出相当具体的原因：电脑故障加上调度员的错误指令，这是可以定位、可以追责的人为失误，按规程整改和加强值守即可恢复信心。",
+      "readingB": "同一年第二起致命高铁事故、工会此前已警告 Adif 超时工作，说明问题可能在系统层面（人手、培训、备用系统设计），把责任推给一名调度员是政府在规避政治责任。",
+      "disagree": "分歧在于这是个人失误还是系统性安全问题，以及政治责任应落到谁身上。",
+      "synthesis": "目前确定的是：信号系统故障后控制中心发出了不该发出的放行指令。独立的铁路事故调查委员会（CIAF）的结论、列车数据记录和调度录音将决定责任归属。事故已经引发对桑切斯政府的抗议，政治影响可能持续。",
+      "unknown": "LZB 故障的根本原因；放行指令的确切内容；最终死亡和受伤人数；是否追究部长责任。",
+      "confidence": "高（死亡人数、官方说明的事故经过）；中（受伤人数和乘客数，各家说法不一）；中（原因，调查尚未结束）",
+      "sources": [
+        {
+          "label": "CNN 直播：西班牙火车相撞至少 68 死",
+          "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl"
+        },
+        {
+          "label": "RTVE：电脑故障、可能的人为失误与一列停着的火车",
+          "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
+        },
+        {
+          "label": "卫报：10/28 世界新闻（西班牙事故、桑切斯宣布哀悼）",
+          "url": "https://www.theguardian.com/world/2026/oct/28/all"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "美联储按兵不动：联邦基金利率维持 3.75%–4%，投票 10 比 2，理事库克和克利夫兰联储主席哈马克主张再加息 25 个基点；声明称通胀「仍然偏高」，需要「积累更多信息」。主席沃什宣布 2027 年将有一次会议只讨论策略、不对利率投票",
+      "tag": "新：经济",
+      "facts": [
+        "决议：FOMC 10/28 维持利率区间在 3.75%–4%，这是 9 月加息 25 个基点后的水平；美联社称 9 月加息是三年来首次，且违背了特朗普的降息要求（美联储声明、CNBC、美联社）。",
+        "异议：库克和哈马克投反对票，均主张加息 25 个基点。CNBC 称库克自 2022 年就任以来从未投过反对票，理事投反对票本身就很少见（美联储声明、CNBC）。",
+        "经济判断：声明称经济「以强劲速度扩张」，生产率增长强、资本投资旺盛，失业率变化不大，但「通胀仍然偏高」。沃什在发布会上说，上半年 GDP 增速由 1.8% 上修至 2.4%，三季度增速「可能超过 3%」，商业投资可能以两位数增长，高科技投资领涨（美联储声明、发布会文字稿）。",
+        "制度变化：沃什宣布 2027 年仍开 8 次会，但其中一次「只讨论宏观货币政策策略」，不就利率投票、不发声明；预计 2028 年将有两次策略会、六次议息会。CNBC 还提到，发布会缩短到约 30 分钟，记者限问一个问题（发布会文字稿、CNBC）。",
+        "市场：美股周三小幅收高，标普 500 涨 0.28% 至 7,743.98 点，纳指涨 0.27%（美联社）。"
+      ],
+      "readingA": "暂停加息、强调「积累信息」，说明美联储认为 9 月加息已经开始起作用，不急于进一步收紧；AI 驱动的投资和生产率增长可能让经济在偏高利率下仍保持强劲。",
+      "readingB": "两票主张加息（包括从未投过反对票的库克），说明委员会内部对通胀的担忧在上升；减少议息会议次数会降低政策反应的灵活性，在中期选举和油价高企的背景下，下一步更可能是加息而不是降息。",
+      "disagree": "分歧在于下一步利率方向，以及沃什的制度改革是在提升决策质量还是削弱透明度和灵活性。",
+      "synthesis": "本次决议符合预期，真正的信息在于：两票鹰派异议和明确的「通胀偏高」表述，说明降息不在近期选项中。油价（布伦特 115 美元左右）和中期选举后的财政走向，将影响 12 月会议。",
+      "unknown": "库克和哈马克的异议说明（预计本周发布）；12 月是否加息；策略会议具体安排在哪次。",
+      "confidence": "高（声明、投票、发布会文字稿）",
+      "sources": [
+        {
+          "label": "美联储：FOMC 声明（2026 年 10 月 28 日）",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+        },
+        {
+          "label": "美联储：沃什发布会文字稿",
+          "url": "https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20261028.pdf"
+        },
+        {
+          "label": "CNBC：美联储维持利率不变",
+          "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html"
+        },
+        {
+          "label": "CNBC：沃什发布会五个要点",
+          "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+        },
+        {
+          "label": "美联社：10/28 美股主要指数表现",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-7864eac2e13db75f07758ed9c39ad96b"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "云计算财报两样结果：微软营收 923 亿美元（+19%）、Azure 增长 48% 至 332 亿美元，盘后涨 4%；Alphabet 营收 1,276 亿美元（+25%），谷歌云增长 103% 至 307 亿美元，但营收和每股收益近四年来首次双双不及预期、自由现金流 -91 亿美元，股价跌逾 10%",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "微软（截至 9/30 的 2027 财年一季度）：营收 922.8 亿美元，同比增 19%，高于 LSEG 预期的 906.9 亿；调整后每股收益 4.89 美元（预期 4.73）；首次以美元披露 Azure 收入 331.7 亿美元，同比增 48%；商业剩余履约义务增长 73% 至 6,770 亿美元。盘后股价涨 4%（微软新闻稿、CNBC）。",
+        "微软支出与指引：资本开支加融资租赁 452 亿美元（同比约 +30%，低于分析师预期的 506.7 亿），财务长胡德称部分第三方算力交付延迟；自由现金流同比降 27% 至 186.3 亿美元。二季度营收指引 960–971 亿美元，Azure 按固定汇率增长 49%–50%，「需求仍超过供给」（CNBC、业绩电话会文字稿）。",
+        "Alphabet（三季度）：营收 1,275.8 亿美元，同比增 25%，略低于 LSEG 预期的 1,282.2 亿；调整后每股收益 2.67 美元（预期 3.02）；CNBC 称这是近四年来首次营收和利润双双不及预期。谷歌云收入增 103% 至 307.1 亿美元，经营利润 111 亿美元，云业务积压订单 5,610 亿美元；搜索收入 633.5 亿美元（+12%），低于预期（Alphabet 新闻稿、CNBC、电话会文字稿）。",
+        "Alphabet 现金与债务：三季度自由现金流为 -90.7 亿美元（分析师预期 -27 亿），资本开支 513.6 亿美元；全年资本开支指引 1,950–2,050 亿美元不变，财务长称 2027 年将「显著增加」；长期债务从一年前的 216 亿美元增至 1,251 亿美元。股权投资（含 SpaceX、Anthropic）二季度带来 990 亿美元收益，三季度则亏损 86.6 亿美元。CNBC 称股价跌逾 10%（CNBC）。",
+        "背景：CNBC 指出，Meta 上周称其现金流首次转负，Alphabet 本季也为负，微软则称 2027 财年仍会产生正的自由现金流。上一期已报道 Meta 950 亿美元融资和微软 6 万人自愿离职方案。"
+      ],
+      "readingA": "需求端非常强：Azure 和谷歌云增长分别达 48% 和 103%，积压订单数千亿美元，两家都说供不应求；Alphabet 的下跌主要是投资亏损、搜索略低于预期和支出时点问题，不代表 AI 需求转弱。",
+      "readingB": "自由现金流转负、长期债务激增近 5 倍、2027 年资本开支还要大幅增加，说明 AI 基建已从「用利润投资」变成「借钱和发股投资」；市场开始按现金回报而不是营收增速来定价。",
+      "disagree": "分歧在于投资者应更看重云收入增速，还是现金流与负债。同一天两家公司的股价反应相反，说明市场在区分「支出可控、现金流仍为正」和「支出加速、现金流为负」。",
+      "synthesis": "可以确定的是：AI 云需求仍在加速，但支出增长更快。微软资本开支低于预期且现金流为正，因此获得奖励；Alphabet 支出继续上升、现金流转负，因此受罚。本周亚马逊和苹果财报将提供更多参照。",
+      "unknown": "Alphabet 2027 年资本开支的具体数字；微软第三方 GPU 交付何时恢复；Alphabet 跌幅最终收于多少；AI 公司是否会更多依靠债务融资。",
+      "confidence": "高（公司财报数据）；中（盘后股价变动）",
+      "sources": [
+        {
+          "label": "微软：2027 财年一季度业绩新闻稿",
+          "url": "https://www.microsoft.com/en-us/investor/earnings/FY-2027-Q1/press-release-webcast"
+        },
+        {
+          "label": "CNBC：微软股价因云增长和业绩超预期上涨 4%",
+          "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+        },
+        {
+          "label": "Alphabet：2026 年三季度业绩（SEC 附件 99.1）",
+          "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm"
+        },
+        {
+          "label": "CNBC：Alphabet 维持资本开支指引，股价跌 10%",
+          "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+        },
+        {
+          "label": "Alphabet 三季度电话会文字稿",
+          "url": "https://stockanalysis.com/stocks/googl/transcripts/712854-q3-2026/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "伊朗—海湾：卡塔尔向德黑兰提交新的「七天」停战草案，含每日互信措施和多国担保；伊朗高级官员称其只是「不可接受的想法」，外长阿拉格齐则称在与调解方讨论如何「不到一周」落实伊方七天方案；胡塞武装称导弹击中沙特最大炼厂拉斯坦努拉，布伦特升至 115 美元以上",
+      "tag": "续报：中东",
+      "facts": [
+        "卡塔尔草案：一名非伊朗籍知情官员告诉路透社，卡塔尔周日在德黑兰提交新的和平草案，设定七天时间表、每天双方各采取互信措施，可能下周初启动，由多国担保；草案与伊朗 9 月提出、遭特朗普拒绝的七天方案不同，卡方此前已与华盛顿协调。伊朗预计本周末前答复（路透社，经 Al-Monitor）。",
+        "伊方表态：一名参与谈判的伊朗高级官员称卡塔尔提出的只是「不可接受的想法，不是要约」，伊朗在核问题上不灵活的立场不变；外长阿拉格齐在 X 上称，伊朗与调解方保持密切联系，研究能让伊方七天方案「在不到一周内」落实的想法（路透社、法新社，经 Arab News）。",
+        "美方背景：Axios 报道（法新社转述），卡塔尔牵头的调解者希望在 11/3 美国中期选举后防止战争重启，试图说服伊朗允许联合国核查人员进入被炸核设施，换取美国部分解除制裁。美方要求从一开始就谈核问题，伊朗要求先解除对伊朗港口的封锁和石油制裁（Arab News、路透社）。",
+        "拉斯坦努拉：胡塞军事发言人萨雷亚 10/27 称弹道导弹击中沙特最大的拉斯坦努拉炼厂（日处理 55 万桶）并引发火灾；沙特未立即确认，彭博援引知情人士称沙特已控制住码头附近的火情。沙特民防称利雅得上空拦截两枚弹道导弹的残骸造成财产损失（路透社，经 Al-Monitor）。",
+        "油价：路透社称布伦特 10/28 因炼厂遇袭上涨超过 1%，升至每桶 115 美元以上；CNBC 报道亚洲早盘布伦特一度涨 1.3% 至 115.36 美元（Al-Monitor、CNBC）。"
+      ],
+      "readingA": "卡塔尔草案与华盛顿协调过、有具体时间表和担保方，伊朗外长也在谈「不到一周」落实，双方都在为中期选举后的窗口做准备，外交路径比上周更具体。",
+      "readingB": "伊朗高级官员公开否定草案、核问题上不让步，胡塞武装继续打击沙特石油设施，美以打击威胁仍在；所谓谈判可能只是各方在选举前争取时间。",
+      "disagree": "分歧在于伊朗对外长和「高级官员」两种说法哪一种代表真实立场，以及核问题能否放到停战之后再谈。",
+      "synthesis": "现在有两份「七天方案」（伊朗的和卡塔尔的），核心冲突仍是先谈核问题还是先解除封锁和制裁。伊朗本周末前的答复和 11/3 中期选举是近期节点；胡塞—沙特战线的升级在持续推高油价。",
+      "unknown": "卡塔尔草案的具体条款；伊朗的正式答复；拉斯坦努拉的实际损坏程度；美方是否下令打击。",
+      "confidence": "高（各方公开表态、油价）；中（草案内容来自匿名官员）；低（拉斯坦努拉受损程度，沙特未确认）",
+      "sources": [
+        {
+          "label": "Al-Monitor（路透社）：伊朗称最新调解只有不可接受的想法",
+          "url": "https://www.al-monitor.com/originals/2026/10/iran-sees-only-unacceptable-ideas-latest-mediation-end-war-official-says"
+        },
+        {
+          "label": "Arab News（法新社）：伊朗称正与调解方讨论结束战争、重开霍尔木兹的方案",
+          "url": "https://www.arabnews.com/middle-east/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz-3008650"
+        },
+        {
+          "label": "Al-Monitor（路透社）：胡塞称导弹击中沙特拉斯坦努拉炼厂",
+          "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
+        },
+        {
+          "label": "CNBC：沙特炼厂遇袭后油价上涨",
+          "url": "https://www.cnbc.com/2026/10/28/oil-prices-rise-after-attack-on-saudi-arabian-refinery-reignites-supply-concerns.html"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "前沿模型一天内连发：谷歌发布 Gemini 4 Carbon，称在 Artificial Analysis 智能指数 v5.0 排名第一并在漏洞挖掘基准领先，先只向部分网络安全防御方开放；OpenAI 推出更便宜的 GPT-6.1 Terra，Ramp 指数显示 token 价格自 6 月底下跌约 35%；彭博称 OpenAI 计划购买谷歌 TPU",
+      "tag": "新：科技/AI",
+      "facts": [
+        "Gemini 4 Carbon：谷歌 DeepMind 10/28 发布，称以 59 分居 Artificial Analysis 智能指数 v5.0 第一，在 SEC-bench Pro（找漏洞，88.2%）、ExploitGym（利用漏洞，54.8%）、CWE-bench（修补，71.0%）上领先；内部测试中可连续运行数天处理复杂工程任务，「无依据的说法」比两周前发布的 Argon 减少约一半（谷歌博客、The Verge）。",
+        "发布方式：谷歌称正参与美国政府的自愿性发布前测试程序，本周起只向部分网络安全防御方开放，再通过 Fairwind 计划逐步扩大，之后才面向开发者和消费者。初始价格为每百万输入/输出 token 2/10 美元，优惠期后为 4/20 美元。The Verge 称其在指数上领先 Claude Opus 5.5 和 GPT-6 Astra（谷歌博客、The Verge）。",
+        "OpenAI 降价：Axios 报道 OpenAI 推出 GPT-6.1 Terra，每 token 价格最多比上一版低一半；Ramp 根据企业实际支出编制的 token 价格指数上周五约为每百万 token 0.59 美元，自 6 月底下跌约 35%。Axios 称两家头部模型公司之间已出现价格战，Ramp 数据显示企业 AI 支出增长有放缓迹象（Axios）。",
+        "芯片：彭博援引知情人士称 OpenAI 打算购买谷歌的 AI 芯片（TPU），最终条款未定，双方拒绝置评；OpenAI 自研的 Jalapeno 芯片由博通合作开发。甲骨文周二也宣布将在其云上提供 TPU（彭博，经雅虎财经）。"
+      ],
+      "readingA": "能力与安全同时推进：谷歌把最强的网络安全能力先交给防御方、参加政府测试，降价则让更多企业用得起 AI；TPU 外销说明谷歌的全栈优势正在变现。",
+      "readingB": "厂商自报的基准成绩缺少独立验证；有限开放也意味着进攻性网络能力已强到需要管控。token 价格快速下跌、支出增长放缓，加上同日 Alphabet 现金流转负，AI 收入能否覆盖巨额投资的问题更加突出。",
+      "disagree": "分歧在于降价和模型迭代代表的是健康的技术扩散，还是在压缩整个行业的利润空间。",
+      "synthesis": "可以确定的是：前沿模型的竞争已经转到网络安全和长时间自主任务，发布节奏以周计算；价格战和芯片多元化（OpenAI 买 TPU）在同时进行。需要关注独立评测结果和 Carbon 何时全面开放。",
+      "unknown": "Carbon 的独立评测；Terra 的具体价格和能力；OpenAI—谷歌芯片交易的规模；价格战对 Anthropic、OpenAI 收入的影响。",
+      "confidence": "高（谷歌官方发布）；中（基准为厂商自报）；中（OpenAI 买 TPU 来自单一匿名消息源）",
+      "sources": [
+        {
+          "label": "谷歌博客：Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "label": "The Verge：谷歌发布网络安全能力大幅提升的 Gemini 4 Carbon",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+        },
+        {
+          "label": "Axios：OpenAI 新模型再次降价",
+          "url": "https://www.axios.com/2026/10/28/ai-open-ai-token-prices"
+        },
+        {
+          "label": "彭博（雅虎财经）：OpenAI 计划购买谷歌芯片",
+          "url": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-google-chips-011946561.html"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "巴西：弗拉维奥·博索纳罗在交出护照期限过后，用意大利护照经陆路进入阿根廷，乘私人飞机经厄瓜多尔飞抵迈阿密；巴西联邦警察已注销其巴西护照，CNN 巴西称他用已注销的外交护照入境美国。卢拉称此举「可耻」",
+      "tag": "续报：美洲",
+      "facts": [
+        "出境路线：阿根廷移民局称，弗拉维奥与妻子和两个女儿于当地时间 10/27 22:50 经米西奥内斯省的坦克雷多·内维斯国际大桥入境，持「有效旅行证件」，随后 23:30 乘 Baires Fly 私人飞机前往厄瓜多尔瓜亚基尔，10/28 降落在迈阿密附近的 Opa-locka 机场（BBC Mundo、CNN 巴西）。",
+        "护照：最高法院大法官莫拉埃斯 10/26 下令注销弗拉维奥的巴西普通和外交护照，并要求 24 小时内交出其他国籍护照；期限 10/27 11:00 届满，联邦警察中午注销了护照。CNN 巴西称，他用意大利护照（2023 年起拥有意大利国籍）入境阿根廷，用已注销的外交护照入境美国，美国海关的公开记录显示的护照号与参议院登记一致（CNN 巴西，引述 Metrópoles）。",
+        "美方与各方反应：BBC Mundo 称美国国务院此前已宣布将向他和家人发签证，特朗普称「他们是好人」。卢拉称「问心无愧的人无所畏惧」，称弗拉维奥是「美国的马屁精」。阿根廷反对派议员帕加诺对其「涉嫌秘密入境」提起诉讼（BBC Mundo）。",
+        "调查：弗拉维奥正接受两项调查：一项涉嫌与律师 Willer Tomaz 一起洗钱（涉及博彩和支付公司），另一项涉及 Banco Master 为博索纳罗传记片《Dark Horse》转账超过 1,200 万美元；他的议员豁免权将于 2027 年 2 月任期结束时到期。他否认违法（BBC Mundo）。卫报标题称他在迈阿密自称「巴西的领袖」。"
+      ],
+      "readingA": "在交照期限过后用外国护照离境，坐实了法院担心的出逃风险，削弱了他「选举被操纵」和「政治迫害」叙事的可信度，反对派领导权可能转移。",
+      "readingB": "在博索纳罗阵营看来，选后立刻扣护照本身就是政治迫害；有特朗普政府签证支持，他可以在美国继续以流亡反对派领袖的身份活动，像他的兄弟爱德华多一样，使巴美关系进一步紧张。",
+      "disagree": "分歧在于这是逃避司法还是逃避政治迫害，取决于对莫拉埃斯和最高法院的信任。",
+      "synthesis": "事实层面已清楚：他在法院期限后出境，现居美国。接下来要看巴西是否发出逮捕令或引渡请求、美国如何回应，以及阿根廷对其入境方式的调查。这也让上一期提到的「申请撤销卢拉当选」诉讼更难推进。",
+      "unknown": "是否会有逮捕令或引渡请求；使用已注销护照入境美国的法律后果；他是否回国；其参议员职务如何处理。",
+      "confidence": "高（出境路线、各方表态）；中（使用外交护照入境美国，来自媒体报道）",
+      "sources": [
+        {
+          "label": "BBC Mundo：弗拉维奥经阿根廷抵达美国",
+          "url": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo"
+        },
+        {
+          "label": "CNN 巴西：弗拉维奥用了哪些护照",
+          "url": "https://www.cnnbrasil.com.br/politica/como-flavio-entrou-na-argentina-e-nos-eua-veja-quais-passaportes-ele-usou/"
+        },
+        {
+          "label": "卫报：10/28 世界新闻（弗拉维奥自称「巴西的领袖」）",
+          "url": "https://www.theguardian.com/world/2026/oct/28/all"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "With 85% of votes counted, Netanyahu bloc has 53 seats, Eisenkot's 48; Arab parties surge to 19",
+      "outlet": "Times of Israel",
+      "url": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+    },
+    {
+      "n": 2,
+      "title": "88.6% of Votes Counted: Netanyahu Bloc at 53 Seats, Eisenkot at 48",
+      "outlet": "Ynet",
+      "url": "https://www.ynetnews.com/article/l41x9or7g"
+    },
+    {
+      "n": 3,
+      "title": "Netanyahu: We must form strong, national, right-wing government, remove existential threat from Iran",
+      "outlet": "Times of Israel",
+      "url": "https://www.timesofisrael.com/netanyahu-we-must-form-strong-national-right-wing-government-remove-existential-threat-from-iran/"
+    },
+    {
+      "n": 4,
+      "title": "Netanyahu opens coalition talks as opposition weighs bid to oust Knesset speaker",
+      "outlet": "Ynet",
+      "url": "https://www.ynetnews.com/article/hkre9ay6me"
+    },
+    {
+      "n": 5,
+      "title": "Herzog urges parties to avoid new elections as political deadlock deepens",
+      "outlet": "Ynet",
+      "url": "https://www.ynetnews.com/article/hygrg6jafe"
+    },
+    {
+      "n": 6,
+      "title": "Spain train crash kills at least 68 as witnesses describe devastating scenes",
+      "outlet": "CNN",
+      "url": "https://www.cnn.com/2026/10/28/world/live-news/spain-train-crash-collision-intl"
+    },
+    {
+      "n": 7,
+      "title": "Avería informática, posible fallo humano y un tren detenido: qué se sabe del accidente ferroviario en Toledo",
+      "outlet": "RTVE",
+      "url": "https://www.rtve.es/noticias/20261028/impacto-con-tren-detenido-posible-fallo-humano-se-sabe-del-accidente-ferroviario-toledo/17286832.shtml"
+    },
+    {
+      "n": 8,
+      "title": "Federal Reserve issues FOMC statement (holds at 3.75–4%, 10–2 vote)",
+      "outlet": "Federal Reserve",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    },
+    {
+      "n": 9,
+      "title": "Fed rate decision and Warsh news conference: 5 takeaways",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+    },
+    {
+      "n": 10,
+      "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html"
+    },
+    {
+      "n": 11,
+      "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
+    },
+    {
+      "n": 12,
+      "title": "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+      "outlet": "Al-Monitor/Reuters",
+      "url": "https://www.al-monitor.com/originals/2026/10/iran-sees-only-unacceptable-ideas-latest-mediation-end-war-official-says"
+    },
+    {
+      "n": 13,
+      "title": "Iran says discussing plan with mediators to end war, reopen Hormuz",
+      "outlet": "Arab News/AFP",
+      "url": "https://www.arabnews.com/middle-east/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz-3008650"
+    },
+    {
+      "n": 14,
+      "title": "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
+      "outlet": "Al-Monitor/Reuters",
+      "url": "https://www.al-monitor.com/originals/2026/10/yemens-houthis-say-they-hit-saudi-ras-tanura-oil-refinery-missile"
+    },
+    {
+      "n": 15,
+      "title": "Gemini 4 Carbon: our next frontier model",
+      "outlet": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+    },
+    {
+      "n": 16,
+      "title": "OpenAI's new model cuts prices again (GPT-6.1 Terra)",
+      "outlet": "Axios",
+      "url": "https://www.axios.com/2026/10/28/ai-open-ai-token-prices"
+    },
+    {
+      "n": 17,
+      "title": "OpenAI Plans to Buy Google's Chips as Part of Its AI Build-Out",
+      "outlet": "Bloomberg via Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-plans-buy-google-chips-011946561.html"
+    },
+    {
+      "n": 18,
+      "title": "Flávio Bolsonaro llegó a EE.UU. con su familia tras salir de Brasil a través de la frontera con Argentina",
+      "outlet": "BBC News Mundo",
+      "url": "https://www.bbc.com/mundo/articles/c6n8d79kvnggo"
+    },
+    {
+      "n": 19,
+      "title": "Como Flávio entrou na Argentina e nos EUA? Veja quais passaportes ele usou",
+      "outlet": "CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/politica/como-flavio-entrou-na-argentina-e-nos-eua-veja-quais-passaportes-ele-usou/"
+    },
+    {
+      "n": 20,
+      "title": "Oleshky ceasefire holds for 30 hours without incident; evacuation planned 10/30",
+      "outlet": "Hromadske",
+      "url": "https://hromadske.ua/en/war/273308-oleshky-ceasefire-holds-for-30-hours-without-incident-ukrainian-ombudsman-says"
+    },
+    {
+      "n": 21,
+      "title": "Ukraine Recaptures Territory, Forces on the Offensive, Zelensky Says (Veles, Vivaldi)",
+      "outlet": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/88358"
+    },
+    {
+      "n": 22,
+      "title": "Two Nordic leaders urge Putin to end Ukraine war in rare direct contact by Europeans",
+      "outlet": "Reuters via Investing.com",
+      "url": "https://www.investing.com/news/world-news/two-nordic-leaders-urge-putin-to-end-ukraine-war-in-rare-direct-contact-by-europeans-4976434"
+    },
+    {
+      "n": 23,
+      "title": "EU removes mention of 'associate membership' from Canada declaration",
+      "outlet": "Euronews",
+      "url": "https://www.euronews.com/2026/10/28/eu-removes-mention-of-associate-membership-from-canada-declaration"
+    },
+    {
+      "n": 24,
+      "title": "Putin hails Elon Musk's 'genius' amid plans for Russian version of Starlink",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/vladimir-putin-elon-musk-genius-russia-starlink"
+    },
+    {
+      "n": 25,
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown"
+    },
+    {
+      "n": 26,
+      "title": "党的二十届五中全会 10/26–29 在北京召开（公报尚未发布）",
+      "outlet": "中新网",
+      "url": "https://www.chinanews.com.cn/gn/2026/10-26/10720929.shtml"
+    }
+  ]
+}
