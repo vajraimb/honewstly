@@ -1,0 +1,355 @@
+{
+ "date": "2026-10-31",
+ "title": "早间简报",
+ "windowNote": "窗口：自上一期（北京时间 10/30 约 08:30）至本期（10/31 约 08:10），约 24 小时，覆盖欧美周五（默认规格为 6 小时，沿用近几期的 24 小时窗口）。美股周五收盘数据各家口径略有出入，本期已注明。部分索引条目仅从卫报 10/30 世界新闻列表页获取标题，链接指向该列表页。",
+ "thinDay": false,
+ "thinDayNote": "新闻并不薄：科技股与芯片股重挫、史上最大加密货币盗窃、霍尔木兹袭船与调解同时升级、日本央行宣布通胀目标基本达成。本期 6 条中 2 条为续报（伊朗—霍尔木兹、西班牙事故），4 条为新话题（美股科技抛售/英特尔、币安被盗、日本央行、《新报》停刊）。",
+ "vsYesterday": "相对上一期（10/30）：伊朗从万斯来信、特朗普提醒海湾备战推进到海峡多起触雷和袭船、卡塔尔团再赴德黑兰、特朗普称战争「很快会结束」；西班牙事故从调查说明转为政治问责，桑切斯称信任「已被打破」、普恩特拒绝辞职、成为 11/29 大选议题；AI 资本开支话题从亚马逊财报扩大为周五科技股全面抛售（英特尔约 -29%，纳指 10 月 -5.3%），收入第 1 条。新话题：币安 63 亿美元被盗、日本央行宣布 2% 目标大体达成、《新报》停刊。以色列计票、欧洲央行与拉加德、五中全会、香港宏福苑报告无重大新进展；奥列什基撤离开始、加拿大—欧盟「未来联盟」、教皇在美中期选举投票、加拿大入股 Cohere、Thrive 收购 ADT 等见索引。",
+ "stories": [
+  {
+   "id": "1",
+   "title": "美股科技股周五大跌：英特尔因四季度指引疲弱单日暴跌约 29%，费城半导体相关 ETF 跌超 8%，纳指 10 月累计跌 5.3%、为 2025 年 3 月以来最大月跌幅；英伟达跌 4.2%，AMD、迈威尔跌幅达两位数",
+   "tag": "新：市场/科技",
+   "facts": [
+    "指数：Investopedia 收盘报道称，周五纳指跌 2.9%、标普 500 跌 1.8%、道指跌 1.1%；雅虎财经盘中直播一度写作纳指 -3.3%、标普 -2.2%，其历史数据页显示标普 500 收于 7,558.24 点（前一日 7,720.39，约 -2.1%）。各家口径略有差异。Investopedia 称纳指 10 月累计跌 5.3%，为 2025 年 3 月以来最大单月跌幅；标普 10 月跌 0.9%，道指涨 1.7%（Investopedia、雅虎财经）。",
+    "英特尔：三季度营收 165.1 亿美元（+21%），调整后每股收益 0.52 美元，均高于预期；但四季度营收指引 150–160 亿美元、调整后每股收益 0.25 美元，低于 LSEG 预期的 171 亿美元和 0.43 美元。财务长津斯纳称 PC 市场疲软「至少持续到明年上半年」；CNBC 称以色列一座晶圆厂本月爆炸（2 死）将在两个季度内造成约 6 亿美元收入损失。客户端业务营收降 5%，数据中心与 AI 营收增 78%（CNBC）。",
+    "股价：英特尔周五跌约 29% 至 65 美元左右，雅虎财经称有望创 1974 年以来最大单日跌幅；该股此前今年累计涨幅约 150%–250%（CNBC 与 Investopedia 口径不同）。摩根士丹利把目标价从 84 美元下调至 75 美元（Investopedia、CNBC）。",
+    "连带：Investopedia 称 AMD、迈威尔跌幅达两位数，博通、美光跌超 5%，英伟达跌 4.2%；亚马逊收跌 1.4%（盘中一度跌 6%）。金价期货跌 3.7% 至约 3,883 美元，为一年来最低；WTI 原油涨 2.4% 至 104 美元以上；10 年期美债收益率约 4.93%（Investopedia）。"
+   ],
+   "readingA": "这是估值回调而不是 AI 需求见顶：英特尔数据中心与 AI 营收增长 78%，问题出在 PC 业务和工厂事故；Investopedia 引述分析师称其股价此前已超过 2027 年预期盈利的 50 倍，回落是「涨多了要跌」。",
+   "readingB": "连续一周的信号叠加在一起：Alphabet、亚马逊自由现金流转负，英特尔称内存涨价压垮 PC 需求、产能跟不上 AI 需求，芯片股集体重挫，说明市场开始怀疑 AI 投资的回报和其对其他行业的挤出效应。",
+   "disagree": "分歧在于这是个股（英特尔 PC 业务、亚马逊现金流）问题，还是整个 AI 交易的系统性重新定价。",
+   "synthesis": "可以确定的是：10 月是纳指近一年半最差的月份，下跌集中在半导体和大型科技股，而道指当月仍上涨。下周 AMD 财报、11/2 苹果财报和 11 月中旬英伟达财报将检验 AI 需求是否仍支撑估值。",
+   "unknown": "周一亚洲市场是否跟跌；英特尔外部代工客户何时公布；AI 资本开支是否会因股价压力放缓。",
+   "confidence": "高（公司财报与指引）；中（指数收盘跌幅各家口径不一）",
+   "sources": [
+    {
+     "label": "Investopedia：10/30 市场：科技股抛售，英特尔跌 30%，比特币下滑，金价一年新低",
+     "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212"
+    },
+    {
+     "label": "CNBC：英特尔因 PC 放缓给出疲弱指引",
+     "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+    },
+    {
+     "label": "雅虎财经：英特尔有望创 1974 年以来最大单日跌幅",
+     "url": "https://finance.yahoo.com/markets/article/intel-stock-plunges-nearly-30-on-pace-for-its-worst-day-since-1974-135850305.html"
+    },
+    {
+     "label": "雅虎财经：10/30 美股直播",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "title": "币安遭遇史上最大加密货币盗窃：约 63 亿美元资产被盗，多家分析公司认为与朝鲜黑客组织有关；币安称已冻结约 30 亿美元、拨出 63.4 亿美元自有资金赔付用户，暂停提币，比特币跌破 7.7 万美元",
+   "tag": "新：科技/加密",
+   "facts": [
+    "事件：币安称遭「复杂」攻击，约 63 亿美元资产被转走，超过 2025 年 Bybit 被盗的 15 亿美元，被普遍称为史上最大加密货币盗窃。联席 CEO 滕可称最初以为是一名 DevOps 工程师的笔记本电脑被入侵，后续调查发现「更多入侵点」，黑客使用了「自毁机制」销毁工具和痕迹（BBC）。",
+    "应对：币安称已追回或冻结约 30 亿美元，拨出超过 63.4 亿美元公司资金覆盖被盗资产，并称「你们的钱是安全的，我们会赔付每一笔损失」。提币暂停，充值不受影响；币安称其美国平台是「独立平台」，未受影响。美国特勤局称正全力追踪冻结资金，币安在与 FBI 合作；涉及 Tether、Circle 等稳定币（BBC、Investopedia）。CoinDesk 标题称币安目标周日恢复提币。",
+    "归因：Chainalysis 称「高度确信」与朝鲜有关，TRM Labs 称攻击手法与 Bybit 案等朝鲜相关事件相似，矛头指向 Lazarus/TraderTraitor；朝鲜一贯否认（BBC）。",
+    "市场：比特币周五下午跌约 5% 至 76,800 美元左右；Coinbase 跌约 12%（同时公布的财报营收略低于预期），Strategy 跌约 8%，Robinhood 跌约 7.8%。创始人赵长鹏在 X 上称这是「行业、币安（和我）的重大灾难」（BBC、Investopedia）。"
+   ],
+   "readingA": "币安有能力自掏腰包赔付，并已冻结一半赃款，执法机构迅速介入；只要提币如期恢复、资金流出有序，这次事件更像一次可控的安全事故。",
+   "readingB": "BBC 指出，「客户资金安全」正是 FTX 崩溃前的说法；律师提醒赔付承诺未必有法律约束力。一家交易所单次损失 63 亿美元，说明中心化平台的安全和储备透明度仍是行业最大风险，也让朝鲜通过网络盗窃获取资金的问题更加突出。",
+   "disagree": "分歧在于币安的偿付能力和赔付承诺是否可信，以及这是一家公司的问题还是行业结构性风险。",
+   "synthesis": "已知的是：被盗规模创纪录、约一半被冻结、币安承诺全额赔付。关键观察点是提币能否如期恢复以及恢复后是否出现挤兑式流出。",
+   "unknown": "入侵的完整路径；剩余约 33 亿美元能追回多少；提币恢复的确切时间；各国监管机构是否介入。",
+   "confidence": "高（被盗规模、币安声明）；中（朝鲜归因来自分析公司，非官方结论）；中（恢复提币时间）",
+   "sources": [
+    {
+     "label": "BBC：币安试图追回与朝鲜有关的 63 亿美元被盗资产",
+     "url": "https://www.bbc.com/news/articles/cwe8lp7zy07zo"
+    },
+    {
+     "label": "AP：关于币安 63 亿美元黑客事件需要知道的",
+     "url": "https://apnews.com/article/binance-cryptocurrency-security-hack-north-korea-550e9b876550f71f07098494fe735beb"
+    },
+    {
+     "label": "Chainalysis：追踪币安 64 亿美元被盗资金",
+     "url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/"
+    },
+    {
+     "label": "CoinDesk：币安发现多个入侵点，目标周日恢复提币",
+     "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "title": "伊朗—霍尔木兹：伊朗称四艘油轮在海峡触雷起火，英国海事机构证实一艘油轮被小艇安放爆炸装置；美军中央司令部坚称主航道已清雷。卡塔尔调解人员周五再赴德黑兰递交修改后的草案，特朗普称战争「很快会结束」，伊朗尚未回复万斯来信",
+   "tag": "续报：中东",
+   "facts": [
+    "水雷与袭船：伊斯兰革命卫队称三艘油轮在靠近阿曼海岸的「未经授权的南部航线」触雷起火，伊朗军方称第四艘在海峡以东起火（CNBC）。英国海上贸易行动办公室（UKMTO）称，一艘小艇在阿曼哈萨布东北约 25 海里处向一艘油轮安放两枚爆炸装置，引发机舱起火，船员安全（CNBC）；gCaptain 援引安全消息称是吸附式水雷，Iran International 称该船为巴拿马籍「Louise 1」，已恢复航行。",
+    "美方说法：中央司令部司令库珀周五重申伊朗海军已被摧毁、南部航道安全开放（CBS）；《华尔街日报》称库珀周四罕见亲赴白宫向特朗普汇报对伊军事选项（CNBC 转述）。革命卫队发言人要求美方「用独立证据而不是声明」证明海峡已清雷（CNBC）。",
+    "外交：伊朗官方通讯社 IRNA 及路透社、法新社称，卡塔尔首相兼外交大臣的高级顾问率团周五再赴德黑兰；CBS 消息源称其带去草案的「最新修改」，「有进展迹象」，伊方回复预计在周末前。塔斯尼姆通讯社称伊朗已收到万斯致礼萨伊的信但尚未回复，坚持美方须满足其七项条件。特朗普周五称战争「很快会结束」，此前称万斯来信只是为了帮伊朗获得医疗物资（CBS、新华社）。",
+    "其他：胡塞武装称对沙特机场和石油设施发动六次行动，沙特只确认拦截一架飞向麦加地区的无人机（CNBC）。《外交政策》援引美国官员称，若会面，地点最可能是伊斯坦布尔或多哈。"
+   ],
+   "readingA": "卡塔尔团再赴德黑兰、带去修改稿，消息源称有进展，特朗普也说战争很快结束，双方都在为 11/3 中期选举后的窗口争取协议。",
+   "readingB": "海峡袭船和触雷在增加，美军司令亲自向总统汇报军事选项，胡塞继续袭击沙特；特朗普公开淡化万斯来信的谈判性质，说明打击仍是现实选项。",
+   "disagree": "分歧在于「很快结束」指的是谈判达成还是一次短促打击，以及海峡的水雷威胁是伊朗所为还是另有其人。",
+   "synthesis": "外交和军事两条线同时加速，伊朗本周末的答复与 11/3 选举后的几天是关键节点。海峡航运安全各方说法矛盾，UKMTO 的独立报告证实至少一起人为袭船。",
+   "unknown": "伊朗答复内容；袭击 Louise 1 的小艇归属；其余三艘油轮触雷的独立核实；美方是否下令打击。",
+   "confidence": "高（UKMTO 报告、各方公开表态）；低（伊朗称四艘触雷，未独立核实）；中（草案进展来自匿名消息源）",
+   "sources": [
+    {
+     "label": "CNBC：伊朗称四艘油轮在霍尔木兹触雷",
+     "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html"
+    },
+    {
+     "label": "CBS 直播：特朗普称战争「很快会结束」，卡塔尔推动协议",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+    },
+    {
+     "label": "gCaptain：霍尔木兹油轮遭吸附式水雷袭击",
+     "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"
+    },
+    {
+     "label": "新华社：伊朗收到万斯来信，尚未回复",
+     "url": "https://english.news.cn/20261030/b91243aec3d947269b680f5242aafd80/c.html"
+    },
+    {
+     "label": "外交政策：万斯致信礼萨伊",
+     "url": "https://foreignpolicy.com/2026/10/30/us-iran-war-peace-deal-jd-vance-mohsen-rezaei/"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "title": "日本央行维持利率 1.25% 不变（8 比 1，高田创主张加息至 1.5%），但首次宣布基调通胀与 2% 目标「大体一致」，这是 2013 年设定目标以来第一次；上调 2027 财年通胀预测至 2.6%，市场普遍预期 12 月或 1 月加息",
+   "tag": "新：经济",
+   "facts": [
+    "决议：日本央行 10/30 将政策利率维持在 1.25% 左右，为 1995 年以来最高水平；投票 8 比 1，审议委员高田创主张加息至 1.5%（CNBC、NHK）。",
+    "判断变化：央行称基调通胀「与物价稳定目标大体一致」，此前措辞为「正在接近 2%」；NHK 标题称这是「一个节点」，加息将继续。2027 财年通胀预测从 2.4% 上调至 2.6%，「核心—核心」通胀预测从 2.6% 上调至 2.7%，并提示通胀有向上偏离 2% 的风险（CNBC）。",
+    "背景：9 月核心通胀 2.1%，为年内最高；8 月实际工资连续第 8 个月上涨（+1.5%）；CNBC 称高市政府的能源补贴压低了 CPI。CNBC 调查的 16 位经济学家全部预计央行将在 12 月或明年 1 月加息，13 位预计终点利率在 2027 年中前后达到 1.75%–2%（CNBC）。",
+    "其他：央行同时修改 ETF 和 J-REIT 处置原则并调整 ETF 出售节奏（日本央行官网）。"
+   ],
+   "readingA": "宣布 2% 目标基本达成，意味着日本走出通缩的长期政策实验告一段落，央行有了继续正常化加息的理由，工资—物价良性循环正在形成。",
+   "readingB": "通胀部分来自日元疲软和高能源价格，而不是内需；State Street 经济学家称三季度增长可能放缓、消费仍最弱，过快加息可能伤害经济，补贴又让 CPI 数据失真。",
+   "disagree": "分歧在于日本通胀是由工资驱动的可持续通胀，还是输入型通胀加上补贴扭曲。",
+   "synthesis": "本次是「鹰派按兵不动」：措辞变化比利率本身更重要，为 12 月或 1 月加息铺路。同一周美联储、欧洲央行也都按兵不动，但三家都把通胀列为主要风险。",
+   "unknown": "12 月是否加息；日元和日债收益率如何反应；三季度 GDP 数据。",
+   "confidence": "高（央行声明、投票）；中（加息时点为经济学家预期）",
+   "sources": [
+    {
+     "label": "CNBC：日本央行维持利率，称通胀目标已达成",
+     "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html"
+    },
+    {
+     "label": "NHK：日银维持政策利率，物价 2% 是「一个节点」",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261030de68221"
+    },
+    {
+     "label": "日本央行：2026 年货币政策公告",
+     "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/index.htm"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "title": "西班牙乌尔达高铁事故进入政治层面：桑切斯承认公众对高铁的信任「已被打破」，遇难者来自至少 23 个外国；交通部长普恩特拒绝辞职，再次把责任指向 Adif 调度员；人民党、左翼「广泛阵线」要求其下台，事故成为 11/29 提前大选的核心议题",
+   "tag": "续报：欧洲",
+   "facts": [
+    "桑切斯：10/30 称「公众对高速铁路系统的信任已被打破」，一年内发生两起这样规模的事故「不可接受」，政府的责任不止查明原因，还要拿出方案。卫报称遇难者来自至少 23 个外国国家（卫报另一篇标题称可能多达 27 个国籍）；死亡 69 人、伤者 100 多人（卫报）。",
+    "普恩特：拒绝辞职，称「如果调查显示组织或控制存在失误，我们将据此行动」。他称 LZB 信号系统故障「并不罕见」，故障后由人工决策；一名 48 岁、培训合格、有两年控制中心经验、自 2 月起负责该区段的 Adif 操作员下令 Renfe 列车以「正常」速度出发，而不是规程要求的 40 公里/小时目视行车（卫报）。",
+    "反对声音：铁路调度员工会 SCF 发言人对美联社称部长在「拿一名在越来越差的条件下工作的普通员工」顶罪，「无法理解的是安全系统经常失灵」。人民党领袖费霍称要追究普恩特和桑切斯对两起事故的「政治责任」，「如果不辞职，我们就用选票把他们赶走」；广泛阵线领导人科拉乌也要求普恩特尽快辞职（卫报）。",
+    "选举：卫报称人民党被预测将在下月提前大选中推翻桑切斯领导的少数派联合政府；美联社、半岛电视台称事故把竞选焦点从住房和社会政策转向铁路安全和政府能力，大选定于 11/29（美联社、半岛电视台、卫报）。"
+   ],
+   "readingA": "官方已经给出明确的事故链条：信号故障后调度员违规放行。部长留任、先拿出解决方案并按调查结果追责，比在调查完成前辞职更负责任。",
+   "readingB": "同一线路一年两次致命事故，工会早已警告人手不足和系统经常失灵，把责任集中在一名调度员身上是在规避政治责任；选民有理由在 11/29 用选票追责。",
+   "disagree": "分歧在于问责应落到个人操作还是政府管理层面，以及辞职是否应等调查结论。",
+   "synthesis": "事故已从技术调查转为竞选议题。可以确定的是首份调查说明认定一连串故障和指令导致碰撞且缺少必要的安全屏障；独立调查结论和普恩特去留将影响 11/29 选情。",
+   "unknown": "最终调查结论；普恩特是否在选前辞职；民调变化幅度；遇难者国籍和身份的完整名单。",
+   "confidence": "高（官方表态）；中（遇难者外国国籍数，23 与 27 两种说法）；低（选情走向）",
+   "sources": [
+    {
+     "label": "卫报：桑切斯称西班牙对高铁的信任「已被打破」",
+     "url": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+    },
+    {
+     "label": "卫报：火车事故后西班牙提前大选战线重划",
+     "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox"
+    },
+    {
+     "label": "美联社：西班牙在大选临近时反思又一起致命火车事故",
+     "url": "https://apnews.com/article/spain-train-crash-election-sanchez-aeb1c22ee6ddfe3733f3371bbf39ed0e"
+    },
+    {
+     "label": "BBC：交通部长称不会因事故辞职",
+     "url": "https://www.bbc.com/news/articles/c6zxj2e5qlxxo"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "title": "俄罗斯《新报》宣布停刊：编辑部在 Telegram 发文称「他们杀死了我们」，将于 11/9 正式停止运营；前一天当局开始将剩余员工逐出莫斯科编辑部。联合国人权高专蒂尔克称这是对俄罗斯独立媒体的又一「毁灭性打击」",
+   "tag": "新：俄罗斯",
+   "facts": [
+    "停刊：《新报》编辑部 10/30 宣布报纸将于 11/9 正式停止运营，称「战争近五年来，我们在被安全部门完全包围的情况下坚持工作，现在结束了」；自由欧洲电台称当局前一天开始驱逐其莫斯科编辑部剩余人员。该报 2022 年 3 月起已基本停止出版（自由欧洲电台、《新报》声明）。",
+    "官方与国际反应：联合国人权事务高级专员蒂尔克称此事是对俄独立媒体的又一「毁灭性打击」，俄罗斯对独立新闻的限制在全面入侵乌克兰后「显著加剧」（自由欧洲电台）。连宣布停刊的帖子也依法附有「外国代理人」标注（自由欧洲电台）。",
+    "背景：该报创办于 1990 年代初，部分资金来自戈尔巴乔夫；记者安娜·波利特科夫斯卡娅 2006 年遇害，另有至少五名记者或撰稿人遇害或离奇死亡；主编穆拉托夫是 2021 年诺贝尔和平奖共同得主。部分员工 2024 年在巴黎创办欧洲版（自由欧洲电台）。"
+   ],
+   "readingA": "这是俄罗斯国内最后一批独立新闻机构之一被关闭，标志着国家对信息空间的控制进一步收紧，也是战时压制异见的延续。",
+   "readingB": "从俄罗斯当局角度看，《新报》多次被监管机构警告、被认定为「外国代理人」，停刊是依法处理；该报实际上自 2022 年起已基本停止出版，此次只是正式结束。",
+   "disagree": "分歧在于这是依法监管还是政治压制。目前公开信息主要来自该报自己、自由欧洲电台和联合国，俄官方的具体说法尚未见报。",
+   "synthesis": "《新报》作为俄国内独立调查报道的象征正式结束，欧洲版仍在巴黎运营。此事与普京近期公开称赞马斯克、俄罗斯推进自有卫星互联网等新闻一起，反映了俄罗斯对信息渠道的整体控制。",
+   "unknown": "俄当局给出的具体法律依据；穆拉托夫本人是否面临进一步法律行动；剩余员工的去向。",
+   "confidence": "高（编辑部声明、联合国表态）；低（俄官方说法，未找到）",
+   "sources": [
+    {
+     "label": "自由欧洲电台：「他们杀死了我们」：《新报》宣布停刊",
+     "url": "https://www.rferl.org/a/russia-newspaper-media-novaya-gazeta-press/33887221.html"
+    },
+    {
+     "label": "《新报》：关于停止存在的声明（英文）",
+     "url": "https://novayagazeta.ru/articles/2026/10/30/we-have-been-killed"
+    },
+    {
+     "label": "美联社：俄罗斯《新报》30 年后停刊",
+     "url": "https://apnews.com/article/novaya-gazeta-muratov-russia-crackdown-putin-war-ukraine-f73ceb88bd2ef1c65e786a336e6e12db"
+    }
+   ]
+  }
+ ],
+ "index": [
+  {
+   "n": 1,
+   "title": "Markets News, Oct. 30, 2026: Tech Sell-Off Sends Nasdaq, S&P 500 Reeling; Intel Stock Drops 30%; Bitcoin Slides, Gold Hits One-Year Low",
+   "outlet": "Investopedia",
+   "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-nasdaq-10302026-12202212"
+  },
+  {
+   "n": 2,
+   "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html"
+  },
+  {
+   "n": 3,
+   "title": "Amazon, Intel shares fall after earnings amid AI spending concerns",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+  },
+  {
+   "n": 4,
+   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/cwe8lp7zy07zo"
+  },
+  {
+   "n": 5,
+   "title": "Binance Hack: Tracing the $6.4 Billion Theft to North Korea",
+   "outlet": "Chainalysis",
+   "url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/"
+  },
+  {
+   "n": 6,
+   "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html"
+  },
+  {
+   "n": 7,
+   "title": "Iran War Updates: Trump says war 'going to end soon' as Qatar pushes for a U.S.-Iran deal",
+   "outlet": "CBS News",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+  },
+  {
+   "n": 8,
+   "title": "Tanker in Strait of Hormuz Hit by Limpet Mines, Security Sources Say",
+   "outlet": "gCaptain",
+   "url": "https://gcaptain.com/tanker-in-strait-of-hormuz-hit-by-limpet-mines-security-sources-say/"
+  },
+  {
+   "n": 9,
+   "title": "U.S.-Iran War: J.D. Vance Reaches Out to Hard-Liner Mohsen Rezaei",
+   "outlet": "Foreign Policy",
+   "url": "https://foreignpolicy.com/2026/10/30/us-iran-war-peace-deal-jd-vance-mohsen-rezaei/"
+  },
+  {
+   "n": 10,
+   "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html"
+  },
+  {
+   "n": 11,
+   "title": "Spain's trust in high-speed rail 'broken' after second deadly crash this year, says PM",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/spain-trust-high-speed-rail-broken-after-second-deadly-crash-this-year-says-pedro-sanchez"
+  },
+  {
+   "n": 12,
+   "title": "Battle lines redrawn in Spain's snap election after latest train disaster",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/battle-lines-redrawn-spain-snap-election-train-disaster-pedro-sanchez-psoe-pp-vox"
+  },
+  {
+   "n": 13,
+   "title": "'They Killed Us': Muckraking Russian Newspaper Novaya Gazeta Announces Closure",
+   "outlet": "RFE/RL",
+   "url": "https://www.rferl.org/a/russia-newspaper-media-novaya-gazeta-press/33887221.html"
+  },
+  {
+   "n": 14,
+   "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic",
+   "outlet": "Business Standard (citing The Information)",
+   "url": "https://www.business-standard.com/technology/tech-news/nvidia-in-talks-to-give-credit-support-for-nscale-s-deal-with-anthropic-126103001890_1.html"
+  },
+  {
+   "n": 15,
+   "title": "Everything That Happened in AI Today, October 30 (OpenAI agent-misbehaviour monitoring; Canada up to C$1.6bn Cohere stake; Anthropic AI for Science)",
+   "outlet": "The Neuron",
+   "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/"
+  },
+  {
+   "n": 16,
+   "title": "OpenAI-backed Thrive to acquire ADT for $15.3B; OpenAI doubles ChatGPT Pro limits (AI Daily, Oct 30)",
+   "outlet": "AOYii",
+   "url": "https://www.aoyii.com/ai-daily-20261030/"
+  },
+  {
+   "n": 17,
+   "title": "Apple FY26 Q4 results and call scheduled for Nov. 2",
+   "outlet": "Apple",
+   "url": "https://investor.apple.com/investor-relations/event-details/2026/FY-26-Fourth-Quarter-Results/default.aspx"
+  },
+  {
+   "n": 18,
+   "title": "Canada and EU announce new alliance open to like-minded countries",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/all"
+  },
+  {
+   "n": 19,
+   "title": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/all"
+  },
+  {
+   "n": 20,
+   "title": "Pope Leo votes in US midterms in first known political ballot for any pontiff",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/all"
+  },
+  {
+   "n": 21,
+   "title": "Cost of living protests to spread to Germany and reignite in France on Halloween",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/all"
+  },
+  {
+   "n": 22,
+   "title": "'Amateur morons': Flávio Bolsonaro's short-lived 'president-elect' claim met with mockery",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/all"
+  },
+  {
+   "n": 23,
+   "title": "Beijing Queer film festival cancelled after harassment from authorities",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/30/all"
+  }
+ ]
+}

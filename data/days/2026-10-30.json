@@ -1,0 +1,399 @@
+{
+ "date": "2026-10-30",
+ "title": "早间简报",
+ "windowNote": "窗口：自上一期（北京时间 10/29 约 08:30）至本期（10/30 约 08:30），约 24 小时，覆盖欧美周四（默认规格为 6 小时，沿用近几期的 24 小时窗口）。以色列最终计票于以色列时间 10/30 凌晨公布。万斯致礼萨伊信件和英伟达—Hugging Face 反垄断问询最早见报于美东 10/28，略早于窗口起点但此前未简报，前者收入第 2 条，后者见索引。日本央行议息结果将于北京时间 10/30 白天公布，本期未覆盖。",
+ "thinDay": false,
+ "thinDayNote": "新闻并不薄：以色列最终计票、美伊外交与备战、亚马逊财报、欧洲央行与拉加德离任、中共五中全会公报、香港火灾报告同日出现。本期 7 条中 4 条为续报（以色列、伊朗、AI 资本开支、西班牙事故），3 条为新话题（欧洲央行/拉加德、五中全会、香港宏福苑报告）。",
+ "vsYesterday": "相对上一期（10/29）：以色列从计票 88.6% 变为全部计完，阵营仍为 53–48–19，利库德升至 27 席、沙斯降至 6 席，内塔尼亚胡转向指控阿拉伯政党借外国资金「偷选举」；伊朗从卡塔尔七天草案推进到万斯致信礼萨伊、特朗普提醒海湾盟友备战、五角大楼 J5 主任被解职；AI 资本开支话题新增亚马逊财报（AWS 加速、自由现金流 -424 亿美元），Alphabet 财报后收跌 12.6%；西班牙事故死亡人数升至 69 人，调查机构发布首份说明。新话题：欧洲央行按兵不动与拉加德提前离任、中共二十届五中全会公报（上一期索引中「尚未发布」）、香港宏福苑火灾报告。美联储、巴西弗拉维奥、Gemini 4 Carbon 无重大新进展；奥列什基扫雷完成、人道援助准备进入，英伟达收购 Hugging Face 遭司法部问询、OpenAI 更新模型规范等见索引。",
+ "stories": [
+  {
+   "id": "1",
+   "title": "以色列计票全部完成：内塔尼亚胡阵营 53 席、艾森科特阵营 48 席、阿拉伯政党 19 席，格局未变；内塔尼亚胡指称阿拉伯政党借「外国资金」买票「偷走」选举，选举委员会、警方和总统均予驳斥",
+   "tag": "续报：中东",
+   "facts": [
+    "结果：中央选举委员会（CEC）10/29 完成全部计票，以色列时间 10/30 凌晨公布结果，阵营席位与上一期相同：内塔尼亚胡阵营 53、反对阵营 48、阿拉伯政党 19（以色列时报、国土报）。投票率 77.9%，共 5,716,665 票，其中有效票 5,690,778 张；过门槛需约 184,947 票（Maariv）。",
+    "各党变化：Ynet 公布的最终席位为利库德 27（比上一期 +1）、Yashar! 21、B'Yachad 12、联合名单 11、拉阿姆 8、民主党 8、圣经犹太教联盟 7、以色列我们的家园 7、犹太力量 7、沙斯 6（-1）、宗教锡安主义 6。约 39.2 万张双信封选票已计入；「预备役」名单（2.7%）等未过 3.25% 门槛（Ynet、以色列时报）。",
+    "时间表：正式结果将于 11/4 提交总统赫尔佐格，新一届议会定于 11/10 宣誓（以色列时报）。",
+    "「外国资金」指控：内塔尼亚胡在 X 上发布利库德声明，称阿拉伯社区存在买票等违规，是「外国势力接管议会」的图谋，并要求辛贝特调查；媒体报道所指的外国是卡塔尔。卡塔尔首相顾问安萨里「断然」否认介入。CEC 代理总干事利夫内称指控似乎没有依据，警方人士称投票总体顺利；赫尔佐格呼吁不要「抹黑整个社区」。本格维尔要求逮捕阿拉伯政党领导人（卫报）。",
+    "反对方：艾森科特称利库德在进行「有组织地否定选举结果合法性」的行动，调查不能成为推迟新议会开会的理由；联合名单领导人贾巴林称内塔尼亚胡「在投票中被击败」。卫报称利库德声明的目标之一是阻止反对派与阿拉伯政党联手撤换议长奥哈纳（卫报）。"
+   ],
+   "readingA": "计票已经完成，内塔尼亚胡阵营明显不过半；在缺乏证据、连选举委员会和警方都否认的情况下指控「偷选举」，是在为拖延权力交接、阻止议会表决制造理由。",
+   "readingB": "在内塔尼亚胡阵营看来，阿拉伯政党获得创纪录的 19 席并握有关键票，若有外国资金动员的嫌疑，要求安全部门调查是正当的；既然反对阵营也不过半，依靠阿拉伯政党的外部支持组建政府在政治上就是有争议的。",
+   "disagree": "分歧在于这是一项正当的选举安全调查，还是为了否定一部分公民投票的政治攻势；双方对阿拉伯政党参与组阁的合法性看法根本不同。",
+   "synthesis": "计票结果已定，任何一方都不过半。接下来的节点是 11/4 正式结果、赫尔佐格授权组阁的顺序，以及 11/10 新议会宣誓后的议长投票——那将是反对派与阿拉伯政党能否在议会合作的第一次检验。辛贝特调查的范围和结论值得关注。",
+   "unknown": "辛贝特调查的具体内容和结论；赫尔佐格先授权谁；反对派能否在议长投票中联合阿拉伯政党；组阁僵局是否导致再次选举。",
+   "confidence": "高（CEC 计票结果、各方公开表态）；中（各党席位以 Ynet 公布为准，以色列时报列表未完全展开）；低（组阁走向）",
+   "sources": [
+    {
+     "label": "以色列时报：中央选举委员会公布最终计票结果，议会 11/10 宣誓",
+     "url": "https://www.timesofisrael.com/liveblog_entry/central-elections-committee-publishes-final-election-results-knesset-to-be-sworn-in-nov-10/"
+    },
+    {
+     "label": "Ynet（希伯来文）：计票与双信封选票直播",
+     "url": "https://www.ynet.co.il/news/blogs/article/sj60fvepze"
+    },
+    {
+     "label": "Maariv（希伯来文）：第 26 届议会最终结果",
+     "url": "https://www.maariv.co.il/breaking-news/article-1382878"
+    },
+    {
+     "label": "国土报：以色列计票完成，最终结果",
+     "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
+    },
+    {
+     "label": "卫报：内塔尼亚胡被指抹黑阿拉伯选民以保住权力",
+     "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "title": "伊朗：美国副总统万斯致信伊朗最高国家安全委员会秘书礼萨伊，提议尽快直接会谈、核问题从一开始就要谈；《华尔街日报》称特朗普已提醒海湾盟友为中期选举后的「短暂高强度」打击做准备；赫格塞思解职负责伊朗作战规划的参谋部 J5 主任",
+   "tag": "续报：中东",
+   "facts": [
+    "万斯信件：据《华尔街日报》和《纽约时报》报道（半岛电视台汇总），信件周日经卡塔尔调解方交给礼萨伊，内容是「谈判框架」而非具体和平条款；万斯提议由他率团与伊方尽快会面，地点可能在卡塔尔或土耳其，最快下周，核计划必须从一开始就在议程上。《纽约时报》称伊朗领导层「反应良好」，礼萨伊预计周四正式答复（半岛电视台）。",
+    "伊方回应：耶路撒冷邮报援引伊朗官方媒体称伊朗已收到信件但尚未答复；Axios 10/28 也报道了信件内容（核问题必须纳入谈判）。截至本期，未见伊朗公开正式答复（耶路撒冷邮报、Axios）。",
+    "特朗普：《华尔街日报》称特朗普提醒海湾盟友为 11/3 中期选举后一场短暂、高强度的军事行动做准备；该报称是特朗普指示万斯写信，但特朗普对记者说他同意万斯联系伊朗，目的是在「医疗物资等方面」帮助伊朗（半岛电视台）。",
+    "五角大楼：国防部长赫格塞思解除陆军中将布雷特·西尔维亚参谋部战略、计划与政策部（J5）主任职务。CBS 援引一名五角大楼官员称，他被指向媒体泄露与伊朗战争和俄乌战争有关的机密，三次测谎未通过，案件已移交司法部；另两名五角大楼消息人士称指控不实。CBS 称他负责协调伊朗作战计划，暂未任命继任者（CBS、美联社）。",
+    "背景：上一期报道了卡塔尔提交的七天停战草案（伊方高级官员称「不可接受」），伊朗外长阿拉格齐称在研究让伊方七天方案落实的办法；CBS 称伊朗对卡塔尔草案的答复最可能在周六（CBS）。"
+   ],
+   "readingA": "万斯亲自出面、提议直接会谈，加上卡塔尔草案和伊方「反应良好」的说法，说明在中期选举后的打击窗口到来前，外交渠道比以往任何时候都更具体，双方都有避免新一轮战争的动机。",
+   "readingB": "信件与打击准备同时进行：特朗普提醒海湾盟友备战、核问题前提未变、伊方坚持先解除封锁和制裁；分析人士（国际危机组织等）认为选举后打击风险「非常高」，信件更像是在动手前最后确认对方不会让步。",
+   "disagree": "分歧在于万斯信件是真正的谈判开局，还是打击前的程序性最后通牒；以及特朗普本人对信件的定位（「医疗物资」）与媒体报道不一致。",
+   "synthesis": "本周末前后有三个答复值得关注：礼萨伊对万斯信件、伊朗对卡塔尔草案（预计周六）、以及 11/3 中期选举后的白宫决定。J5 主任被解职发生在作战规划关键期，但其直接影响尚不清楚。",
+   "unknown": "信件全文；伊朗的正式答复；会谈是否真的在下周举行；西尔维亚被指泄密的具体内容和司法部是否起诉。",
+   "confidence": "高（多家媒体对信件存在的报道、五角大楼声明）；中（信件内容来自匿名消息源）；中（特朗普备战提醒来自单一报道）",
+   "sources": [
+    {
+     "label": "半岛电视台：万斯致礼萨伊信件的已知信息，特朗普提醒海湾国家「准备」",
+     "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
+    },
+    {
+     "label": "Axios：万斯告诉伊朗高官谈判必须涉及核计划",
+     "url": "https://www.axios.com/2026/10/28/vance-iran-nuclear-talks-letter"
+    },
+    {
+     "label": "耶路撒冷邮报：伊朗收到万斯信件但尚未答复",
+     "url": "https://www.jpost.com/middle-east/iran-news/article-913254"
+    },
+    {
+     "label": "CBS：赫格塞思解职五角大楼最高军事规划官",
+     "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+    },
+    {
+     "label": "卫报：万斯信件或是避免美伊新冲突的最后机会",
+     "url": "https://www.theguardian.com/world/2026/oct/29/jd-vance-letter-may-offer-last-chance-to-avert-fresh-conflict-between-us-and-iran"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "title": "亚马逊财报：营收 2,019 亿美元（+12%）、每股收益 1.89 美元，双双略低于预期；AWS 增长 39% 至 460 亿美元，近五年最快；过去 12 个月自由现金流为 -424 亿美元，2026 年资本开支 2,200 亿美元不变。CNBC 称盘后跌超 6%；周四 Alphabet 收跌 12.6%，纳指跌 1.4%",
+   "tag": "续报：科技/AI",
+   "facts": [
+    "业绩：三季度营收 2,019 亿美元，同比增 12%（LSEG 预期 2,023.1 亿）；每股收益 1.89 美元（预期 1.96）；经营利润 281 亿美元，经营利润率 13.9% 为历史最高。净利润 207 亿美元，略低于去年同期，公司称主要因去年同期有 95 亿美元 Anthropic 投资收益（亚马逊新闻稿、CNBC）。",
+    "AWS：收入 459.8 亿美元，同比增 39%（StreetAccount 预期 452.9 亿），二季度约 37%，为 2021 年四季度以来最快；经营利润 177.7 亿美元，增 55%。贾西称预计 2027、2028 年 AWS 增速都将「超过 40%」，并说 AWS 未来 5–10 年可能成为万亿美元收入的业务。广告收入 196.4 亿美元，低于预期的 208.2 亿（亚马逊新闻稿、CNBC）。",
+    "现金流与支出：过去 12 个月自由现金流为流出 424 亿美元（去年同期为流入 148 亿），主因购置物业和设备同比多出 948 亿美元，「主要反映 AI 投资」；2026 年资本开支预期维持 2,200 亿美元。四季度营收指引 2,400–2,470 亿美元（亚马逊新闻稿、CNBC）。",
+    "市场：CNBC 称亚马逊盘后跌超 6%。周四常规交易时段，标普 500 跌 0.31%，纳指跌 1.38%；Alphabet A 股在财报后收跌 12.64% 至 283.82 美元，ServiceNow 跌 26.95%，Meta 涨 1.96%；布伦特 1 月合约约 111.69 美元（Investing.com）。",
+    "背景：上一期报道了微软超预期、Alphabet 自由现金流转负；苹果财报定于 11/2 发布（9to5Mac）。"
+   ],
+   "readingA": "AWS 增速连续加速、经营利润率创新高，说明 AI 投资已经开始产生收入和利润；三大云厂商同季加速增长，需求端没有问题，现金流转负是阶段性的投入期。",
+   "readingB": "亚马逊、Alphabet、Meta 的自由现金流相继转负，营收和利润略低于预期，广告也不及预期；市场对「先花钱、后回报」的容忍度在下降，Alphabet 单日跌 12.6% 说明投资者开始惩罚支出加速的公司。",
+   "disagree": "分歧在于投资者应看云收入增速和积压订单，还是看自由现金流和整体利润；同一行业内股价反应差别很大。",
+   "synthesis": "两天内三大云厂商的财报给出一致的信号：云需求在加速，但支出增长更快，现金流承压。市场正在区分「支出可控」和「支出加速」的公司。下周苹果和英伟达相关消息是下一个参照。",
+   "unknown": "亚马逊周五开盘后的实际跌幅；2027 年资本开支计划；AI 投入何时转化为正的自由现金流；云价格战对利润率的影响。",
+   "confidence": "高（公司财报数据、收盘行情）；中（盘后股价变动）",
+   "sources": [
+    {
+     "label": "亚马逊：2026 年三季度业绩新闻稿",
+     "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+    },
+    {
+     "label": "CNBC：亚马逊自由现金流 -424 亿美元，维持资本开支指引",
+     "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
+    },
+    {
+     "label": "CNBC：AWS 收入增长 39%",
+     "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html"
+    },
+    {
+     "label": "Investing.com：10/29 美股收盘",
+     "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-025-4985114"
+    },
+    {
+     "label": "9to5Mac：苹果 11/2 发布 2026 财年四季度财报",
+     "url": "https://9to5mac.com/2026/10/06/apple-sets-q4-2026-earnings-release-for-november-2/"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "title": "欧洲央行维持存款利率 2.5% 不变，尽管欧元区通胀升至 3.8%、为 2023 年 9 月以来最高；会后拉加德宣布将提前离任，欧洲央行公告离任日期为 2027 年 2 月 7 日，她称希望「自由发言」谈论货币政策以外的问题",
+   "tag": "新：经济",
+   "facts": [
+    "决议：欧洲央行 10/29 维持三大利率不变：存款便利利率 2.50%、主要再融资利率 2.65%、边际借贷利率 2.90%；声明称能源价格持续上涨，对通胀构成上行风险、对增长构成下行风险，但基础通胀和工资「迄今大体稳定」；融资条件自上次会议以来收紧；按会议逐次决定，不预设路径（欧洲央行声明）。",
+    "市场解读：CNBC 称这是 9 月加息 25 个基点后的按兵不动，市场视为「鹰派暂停」，LSEG 数据显示货币市场计入 12 月加息的概率约 67%（CNBC）。",
+    "拉加德离任：欧洲央行发布公告称拉加德将于 2027 年 2 月 7 日卸任（原任期至 2027 年 10 月）。她在发布会结束时说：「我希望拥有言论自由、表达自由，以及参与非货币政策事务的自由」，并称接任人选的遴选程序已经启动（欧洲央行公告、卫报、路透社）。卫报正文写的是「3 月」离任，与欧洲央行公告日期不一致，本期以欧洲央行公告为准。",
+    "背景与人选：卫报称拉加德被视为世界经济论坛掌门人的可能人选；潜在继任者包括荷兰央行前行长诺特、西班牙的埃尔南德斯·德科斯、德国央行行长纳格尔、欧洲投资银行行长卡尔维尼奥。马克龙称继任安排要「有序、平衡」地与欧洲伙伴准备。贝伦贝格银行首席经济学家施米丁称，提前离任可让继任者在 2027 年 4–5 月法国大选前、马克龙仍在任时获得任命（卫报）。"
+   ],
+   "readingA": "欧洲央行在高通胀下暂停，是在能源冲击和融资条件收紧之间保持谨慎；拉加德提前离任、在马克龙任内完成交接，有助于保持欧洲央行的连续性和独立性，减少法国大选带来的不确定性。",
+   "readingB": "通胀已达 3.8%，暂停可能让通胀预期松动，12 月仍可能被迫加息；央行行长出于政治时间表提前离任、且明言要参与政治讨论，可能让外界质疑欧洲央行的中立性，继任人选也可能成为欧盟内部的政治交易。",
+   "disagree": "分歧在于暂停加息是审慎还是落后于通胀，以及拉加德提前离任是保护欧洲央行还是让人事任命更加政治化。",
+   "synthesis": "本次决议符合预期，真正的新闻是拉加德离任。欧洲央行在 12 月仍有加息可能，继任人选的竞争将从现在开始，最终由欧洲理事会决定。",
+   "unknown": "拉加德离任后的去向；继任人选及任命时间；12 月是否加息；能源价格走势。",
+   "confidence": "高（欧洲央行声明和公告）；中（离任月份：欧洲央行公告为 2 月 7 日，卫报写 3 月）；中（继任人选为媒体推测）",
+   "sources": [
+    {
+     "label": "欧洲央行：货币政策决定（2026 年 10 月 29 日）",
+     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+    },
+    {
+     "label": "欧洲央行：拉加德将于 2027 年 2 月 7 日卸任",
+     "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
+    },
+    {
+     "label": "CNBC：欧洲央行维持利率 2.5% 不变",
+     "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
+    },
+    {
+     "label": "卫报：拉加德为「言论自由」提前离任",
+     "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early"
+    },
+    {
+     "label": "路透社（Investing.com）：拉加德提前辞职以便自由发言",
+     "url": "https://www.investing.com/news/economy-news/ecbs-lagarde-resigns-early-so-she-can-speak-freely-on-topics-beyond-monetary-policy-4984570"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "title": "中共二十届五中全会闭幕：审议通过关于持之以恒推进全面从严治党的决定，决定党的二十一大于 2027 年下半年在北京召开；增选张升民为中央政治局委员；确认对马兴瑞、张又侠、刘振立等 33 人开除党籍、对李云泽撤销党内职务",
+   "tag": "新：中国",
+   "facts": [
+    "会议：全会于 10/26–29 在北京举行，出席中央委员 162 人、候补中央委员 117 人；听取讨论习近平受中央政治局委托所作的工作报告，审议通过《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》，习近平就决定讨论稿作说明（新华社公报）。",
+    "二十一大：全会决定党的第二十一次全国代表大会于 2027 年下半年在北京召开，称二十一大是「在基本实现社会主义现代化的关键时期」召开的「十分重要的代表大会」（新华社公报）。",
+    "人事：全会增选张升民为中央政治局委员；递补卢东亮、包钢、邢善萍、曲莹璞、吕军、朱天舒、朱国贤、刘珺、刘捷、刘强 10 人为中央委员（新华社公报）。",
+    "纪律处分：全会审议通过中央纪委关于马兴瑞、蓝天立、刘建超、王莉霞、金壮龙、雷凡培、易会满、王祥喜、孙绍骋、李云泽等 18 人，以及中央军委关于张又侠、刘振立、王仁华、刘青松等 16 人「严重违纪违法问题」的审查报告，确认中央政治局此前作出的给予其中 33 人开除党籍、给予李云泽撤销党内职务的处分（新华社公报）。",
+    "评价：公报称「十四五」圆满收官、「十五五」开局良好（新华社公报）。"
+   ],
+   "readingA": "全会以从严治党为主题，并对一批高级干部和军队高层的处分作出正式确认，体现反腐和整治「不会停」；确定二十一大时间，为明年的换届做好组织准备。",
+   "readingB": "处分名单包括前中央军委副主席张又侠等军队高层和多名前部长级官员，说明高层人事和军队系统经历了较大调整；外界会把张升民进入政治局和大批处分放在二十一大人事布局的背景下解读，但具体意图公报没有说明。",
+   "disagree": "分歧在于这是制度化的纪律执行，还是二十一大前的权力与人事重组；公报本身只给出决定和名单，没有解释背景。",
+   "synthesis": "可以确定的是：二十一大时间已定（2027 年下半年），一批此前已被处分的高级官员和军官获全会正式确认。决定全文、相关解读和此后的人事安排是下一步观察重点。",
+   "unknown": "《决定》全文内容；张升民的新职务安排；各人处分的具体事由；二十一大前的进一步人事变动。",
+   "confidence": "高（新华社公报原文）；低（对人事意图的解读）",
+   "sources": [
+    {
+     "label": "新华网：中国共产党第二十届中央委员会第五次全体会议公报",
+     "url": "http://www.news.cn/politics/20261029/1ed1fdb0c2c9490385fbc74a9989f5cc/c.html"
+    },
+    {
+     "label": "中国政府网：五中全会公报",
+     "url": "https://www.gov.cn/yaowen/liebiao/202610/content_7084479.htm"
+    },
+    {
+     "label": "中国共产党新闻网：五中全会公报",
+     "url": "https://cpc.people.com.cn/n1/2026/1029/c64387-40824095.html"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "title": "香港大埔宏福苑火灾独立委员会报告公布：火灾很可能由烟头引燃，承建商使用不合格材料、伪造文件，政府部门存在「数十年的失职」；特首李家超鞠躬道歉，房屋局局长何永贤辞职",
+   "tag": "新：中国香港",
+   "facts": [
+    "报告：独立委员会 10/29 发布报告，认为火灾「很可能」由一个「发光源，可能是烟头」点燃纸质材料引起；当时宏福苑正在进行大规模翻新。报告称承建商使用不阻燃的棚网、长时间用易燃泡沫板封住窗户，并在文件中造假以「假装合规」；还提到建筑业「广泛、系统、长期」的违法和可疑做法，包括围标，部分涉事方与黑社会有关（BBC）。",
+    "责任：报告称主承建商、顾问及多名相关人士应受「最严厉的批评」，但如果政府各部门有「危机感」并充分警惕，违规和隐患本可纠正（BBC）。",
+    "政府回应：李家超在记者会上称「深感哀痛」并代表政府道歉，与多名官员起立鞠躬；宣布房屋局局长何永贤辞职以承担责任。政府宣布改革：取代房屋局负责独立审查的单位、加强楼宇和消防安全规管、把围标刑事化并加重刑罚，并依公务员规例启动为期三个月的纪律调查（BBC、香港政府新闻公报）。",
+    "背景：火灾发生于 2025 年 11 月，造成 168 人死亡，是香港数十年来最严重的火灾；宏福苑约有 4,600 名居民，近四成 65 岁以上；已有数十人因涉嫌误杀、欺诈或贪污被捕（BBC）。"
+   ],
+   "readingA": "报告直指政府失职、特首公开道歉、局长辞职、改革和纪律调查同时启动，说明特区政府在承担政治责任，问责机制在运作。",
+   "readingB": "一名局长辞职、报告把主要责任放在私营机构，可能不足以回应「数十年失职」的结论；监管部门具体官员的责任要等三个月的调查，围标和黑社会问题是长期结构性问题，改革能否落实有待观察。",
+   "disagree": "分歧在于问责是否到位：是以局长辞职为代表的政治问责已经足够，还是需要追究更多具体官员和制度责任。",
+   "synthesis": "事实层面已清楚：报告认定私营机构违规和政府监管失职共同导致悲剧，政府已道歉并启动改革。接下来关注纪律调查结果、刑事案件进展和改革立法。",
+   "unknown": "纪律调查涉及哪些官员；刑事案件的审理进度；围标刑事化的立法时间；全港类似旧楼翻新的安全检查。",
+   "confidence": "高（官方报告与记者会）",
+   "sources": [
+    {
+     "label": "BBC：香港特首就宏福苑火灾道歉",
+     "url": "https://www.bbc.com/news/articles/cr5yn9770pgvo"
+    },
+    {
+     "label": "香港政府新闻公报：独立委员会报告发布，启动改革和纪律调查",
+     "url": "https://www.info.gov.hk/gia/general/202610/29/P2026102900551.htm"
+    },
+    {
+     "label": "香港政府新闻网：宏福苑火灾报告发布",
+     "url": "https://www.news.gov.hk/eng/2026/10/20261029/20261029_160028_023.html"
+    },
+    {
+     "label": "卫报：香港特首为致 168 人死亡的火灾道歉",
+     "url": "https://www.theguardian.com/world/2026/oct/29/hong-kong-john-lee-apologises-wang-fuk-court-fire-killed-168-people"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "title": "西班牙乌尔达高铁事故：死亡人数升至 69 人，伤者超过 200 人；调查机构 AITAT 首份说明称追尾时速约 160–200 公里，是「一连串故障、指令和操作」导致碰撞，而应有的安全屏障没有起作用，所有假设仍然开放",
+   "tag": "续报：欧洲",
+   "facts": [
+    "初步说明：西班牙铁路、海事和民航事故技术调查机构 AITAT 10/29 发布首份官方说明：约 8:31 LZB 信号与监控系统故障，列车改用侧向信号闭塞（BSL）降级模式运行，调度中心（CRC）与司机通过「电话记录」人工交换指令；8:53 Renfe AVE 2080 次在乌尔达车站入口追尾停在信号机前的 Iryo 6076 次（ABC，引述 AITAT）。",
+    "伤亡与乘客：截至说明发布，69 人死亡、200 多人受伤，数字尚非最终；Iryo 列车载客 147 人、乘务 5 人，AVE 载客 379 人、乘务 7 人（ABC，引述 AITAT）。上一期依据的地区政府数字为 68 人死亡。",
+    "调查进展：调查人员已在 Adif 阿托查调度中心查看电话记录簿、录像和通话录音；列车上的记录仪由国民警卫队保管，数据将按奥尔加斯法院的安排提取；一线司机和调度员尚未接受问询。AITAT 称调查将涵盖 LZB 故障原因、操作处置，以及环境、组织和程序因素（ABC）。",
+    "司法：国民警卫队正在调查是谁授权 AVE 恢复运行（国家报）。El Economista 称技术调查人员避免把事故归咎于人为失误；交通部长普恩特此前称调度指令「无法解释」。西班牙已进入三天全国哀悼（卫报、El Economista）。"
+   ],
+   "readingA": "首份技术说明证实了部长的基本描述：信号故障后在降级模式下发出的指令导致碰撞，问题集中在调度环节，追责方向明确。",
+   "readingB": "AITAT 有意使用「一连串故障、指令和操作」和「安全屏障没有起作用」的说法，没有把原因归为个人失误，说明问题可能在系统设计和规程上：降级模式下仅靠电话人工交换指令、缺少自动防护。",
+   "disagree": "分歧依旧在于个人失误还是系统性缺陷；技术调查的措辞比政府最初的表态更谨慎。",
+   "synthesis": "事故经过的时间线已基本清楚，但关键证据（记录仪数据、当事人陈述）还未取得。技术调查与司法调查并行，最终结论需要数月；政治压力集中在交通部和 Adif。",
+   "unknown": "放行指令的确切内容和发出者；列车实际速度；记录仪数据；最终伤亡人数；线路何时恢复。",
+   "confidence": "高（AITAT 官方说明）；中（伤亡数字仍在变化）；低（责任归属，调查初期）",
+   "sources": [
+    {
+     "label": "ABC：乌尔达事故首份报告指向「一连串故障和指令」",
+     "url": "https://www.abc.es/espana/primer-informe-urda-apunta-cadena-averias-instrucciones-20261029215855-nt.html"
+    },
+    {
+     "label": "国家报：国民警卫队调查乌尔达事故人为失误的情形",
+     "url": "https://elpais.com/espana/2026-10-29/la-guardia-civil-investiga-en-que-circunstancias-se-produjo-el-error-humano-del-accidente-de-urda.html"
+    },
+    {
+     "label": "El Economista：技术调查避免归咎于人为失误",
+     "url": "https://www.eleconomista.es/transportes-turismo/noticias/14024576/10/26/la-investigacion-de-los-tecnicos-evita-senalar-un-error-humano-como-responsable-del-accidente-de-tren-de-urda.html"
+    },
+    {
+     "label": "卫报：西班牙开始哀悼，继续搜寻遇难者（10/29 世界新闻列表）",
+     "url": "https://www.theguardian.com/world/2026/oct/29/all"
+    }
+   ]
+  }
+ ],
+ "index": [
+  {
+   "n": 1,
+   "title": "Central Elections Committee publishes final election results, Knesset to be sworn in Nov. 10",
+   "outlet": "Times of Israel",
+   "url": "https://www.timesofisrael.com/liveblog_entry/central-elections-committee-publishes-final-election-results-knesset-to-be-sworn-in-nov-10/"
+  },
+  {
+   "n": 2,
+   "title": "Israel Election Count Completed: These Are the Final Results",
+   "outlet": "Haaretz",
+   "url": "https://www.haaretz.com/israel-news/elections/2026-10-29/ty-article/.premium/israel-election-count-completed-these-are-the-final-results/000001a1-88f2-def7-adad-8afabb6f0000"
+  },
+  {
+   "n": 3,
+   "title": "Netanyahu accused of smearing Arab voters to hold on to power",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/29/israeli-leader-netanyahu-accused-of-using-ugly-smear-tactics-to-cling-to-power"
+  },
+  {
+   "n": 4,
+   "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/ckdd8qdl9e0eo"
+  },
+  {
+   "n": 5,
+   "title": "What we know of Vance's letter to Rezaei, as Trump warns Gulf to 'prepare'",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/10/29/what-we-know-of-vances-letter-to-rezaei-as-trump-warns-gulf-to-prepare"
+  },
+  {
+   "n": 6,
+   "title": "Iran received letter from US's JD Vance but yet to respond, state news says",
+   "outlet": "Jerusalem Post",
+   "url": "https://www.jpost.com/middle-east/iran-news/article-913254"
+  },
+  {
+   "n": 7,
+   "title": "Hegseth fires Pentagon's top military planner over what official says were leaks to media",
+   "outlet": "CBS News",
+   "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+  },
+  {
+   "n": 8,
+   "title": "Amazon.com Announces Third Quarter Results",
+   "outlet": "Amazon",
+   "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+  },
+  {
+   "n": 9,
+   "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html"
+  },
+  {
+   "n": 10,
+   "title": "U.S. stocks lower at close of trade; Dow Jones Industrial Average down 0.25%",
+   "outlet": "Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/us-stocks-lower-at-close-of-trade-dow-jones-industrial-average-down-025-4985114"
+  },
+  {
+   "n": 11,
+   "title": "Monetary policy decisions (ECB holds rates)",
+   "outlet": "European Central Bank",
+   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html"
+  },
+  {
+   "n": 12,
+   "title": "ECB President Lagarde to step down on 7 February 2027",
+   "outlet": "European Central Bank",
+   "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html"
+  },
+  {
+   "n": 13,
+   "title": "中国共产党第二十届中央委员会第五次全体会议公报",
+   "outlet": "新华网",
+   "url": "http://www.news.cn/politics/20261029/1ed1fdb0c2c9490385fbc74a9989f5cc/c.html"
+  },
+  {
+   "n": 14,
+   "title": "Hong Kong's leader apologises for deadly high-rise fire",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/cr5yn9770pgvo"
+  },
+  {
+   "n": 15,
+   "title": "El primer informe de Urda apunta a una «cadena de averías e instrucciones»",
+   "outlet": "ABC",
+   "url": "https://www.abc.es/espana/primer-informe-urda-apunta-cadena-averias-instrucciones-20261029215855-nt.html"
+  },
+  {
+   "n": 16,
+   "title": "Exclusive: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+   "outlet": "Reuters via Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450"
+  },
+  {
+   "n": 17,
+   "title": "OpenAI says human intent at center of updated AI model guidelines",
+   "outlet": "Reuters via Investing.com",
+   "url": "https://www.investing.com/news/stock-market-news/openai-says-human-intent-at-center-of-updated-ai-model-guidelines-4984893"
+  },
+  {
+   "n": 18,
+   "title": "Nvidia Moves to Backstop a Cloud Provider's $45 Billion Anthropic Project",
+   "outlet": "The Information",
+   "url": "https://www.theinformation.com/articles/nvidia-talks-provide-billions-credit-support-cloud-providers-45-billion-anthropic-deal"
+  },
+  {
+   "n": 19,
+   "title": "Humanitarian aid set to enter Oleshky as a localized Russia-Ukraine truce holds",
+   "outlet": "AP",
+   "url": "https://apnews.com/article/russia-ukraine-war-oleshky-melania-trump-putin-aab99d86fccb26294711ef40407b416c"
+  },
+  {
+   "n": 20,
+   "title": "Russia, Ukraine say Oleshky demining operations complete",
+   "outlet": "RTÉ",
+   "url": "https://www.rte.ie/news/ukraine/2026/1029/1597186-ukraine-russia/"
+  },
+  {
+   "n": 21,
+   "title": "Bank of Japan to hold rates, signal further hikes (preview; decision due 10/30)",
+   "outlet": "Reuters via Investing.com",
+   "url": "https://www.investing.com/news/economy-news/bank-of-japan-to-hold-rates-signal-further-hikes-4985276"
+  }
+ ]
+}
