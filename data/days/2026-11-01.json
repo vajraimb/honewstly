@@ -1,0 +1,414 @@
+{
+  "date": "2026-11-01",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 10/31 约 08:10）至本期（11/1 约 08:10），约 24 小时，覆盖欧美周六（默认规格为 6 小时，沿用近几期的 24 小时窗口）。周六美股休市，无新的市场数据。部分索引条目仅从 BBC、卫报、美联社、TechCrunch 列表页获取标题，链接指向该列表页。",
+  "thinDay": true,
+  "thinDayNote": "周末新闻偏薄：没有市场数据，硬新闻集中在伊朗谈判、币安后续、G20 和美国选举前的法律战。本期 7 条中 3 条为续报（伊朗—霍尔木兹、币安、AI 融资），4 条为新话题（G20 外长会、法国抗议、美国选举禁令、波兰宪法法院）。法国、波兰两条属于区域性但持续发酵的事件。",
+  "vsYesterday": "相对上一期（10/31）：伊朗从卡塔尔团赴德黑兰推进到伊朗代表团赴多哈、外长称海峡重开实施期缩至 2 天、最高领袖发出「无地理限制」报复警告；币安从被盗和冻结推进到 FBI 正式认定朝鲜、补足 90%、今天计划恢复提币；美股科技抛售延伸为 OpenAI 下调融资目标和 Anthropic 上市受阻。新话题：G20 外长会无公报、法国第三周末抗议、美国法官禁止联邦施压选举官员、波兰宪法法院对峙。西班牙事故、日本央行、《新报》、以色列计票无重大新进展；五中全会创纪录开除党籍（33 人）、奥列什基撤离、斯塔默称英国须靠近欧洲等见索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "伊朗—霍尔木兹：外长阿拉格齐称与卡塔尔调解方谈出新方案，海峡重开实施期从 7 天缩至 2 天，但条件不变（解除制裁、恢复石油豁免、释放冻结资金、美军减员、承认伊阿商定航线）；称万斯来信是「积极一步」，但「现阶段不需要与美方会面」。最高领袖穆杰塔巴·哈梅内伊誓言对任何攻击「立即、无地理限制」回应",
+      "tag": "续报：中东",
+      "facts": [
+        "新方案：阿拉格齐 10/31 对半岛电视台称，卡塔尔方面提出把伊朗重开海峡方案的实施期缩短到 5 天，「目前已达成把实施期缩短到 2 天的方案」；伊朗此前提出的是 7 天方案（半岛电视台、Dawn）。",
+        "条件：解除「伊斯兰堡备忘录」之后施加的制裁、减少美军在地区的部署、恢复石油豁免、释放全部冻结资金（包括存于卡塔尔的资金，半岛电视台记者称约 60 亿美元），并承认伊朗与阿曼讨论过的海峡航线、关闭其他航线。阿拉格齐称按这些条件重开海峡将「为恢复与华盛顿就其他问题的谈判铺路」（半岛电视台）。",
+        "外交：伊朗代表团已赴多哈，其一名副手在卡塔尔继续磋商；卡塔尔和巴基斯坦调解方提交了核问题相关提案，伊朗正作为「第二阶段」研究。他称美方开启对话的尝试「是积极一步」，但若来信意在「挑拨离间」将是又一个错误；关于双方会面的说法「只是媒体猜测」（半岛电视台）。半岛电视台驻德黑兰记者称伊朗立场「没有明显松动」。",
+        "另一面：美联社称最高领袖穆杰塔巴·哈梅内伊表示，对来自美国或以色列的「任何形式和程度的威胁」都应立即回应，且「没有地理限制」（据 IRNA）；美联社同时称伊朗安全事务负责人说美方语气「完全变了」。阿拉伯卫视英文网称获得的草案要点包括把高浓缩铀转移到第三国或降低丰度、在初步谅解后 7 天内重开海峡、由中国担任担保方、直接谈判地点改在多哈（Business Standard 转述）。",
+        "背景：美联社此前报道美方已提醒中东盟友为 11/3 美国选举后可能恢复对伊打击做准备（CNBC 转载美联社）。"
+      ],
+      "readingA": "实施期一再缩短、代表团在多哈、核问题提案进入研究，伊方公开称美方姿态「积极」，说明双方在为选举后达成「先开海峡、再谈核」的分阶段协议创造条件。",
+      "readingB": "伊朗的条件一个没变，且明确不与美方会面；最高领袖同时发出「无地理限制」报复警告，美方也在提醒盟友备战。缩短的只是执行时间，核心分歧（制裁、冻结资金、美军存在、航线控制）都没解决。",
+      "disagree": "分歧在于「两天方案」是实质让步还是在原条件上的程序性包装，以及美方能否接受伊朗对海峡航线的控制要求。",
+      "synthesis": "能确定的是谈判渠道活跃、节奏在加快，同时军事威慑言论也在升级。11/3 美国选举前后几天是关键窗口：看美方是否回应伊朗条件，以及海峡袭船是否继续。",
+      "unknown": "美方对伊朗条件的正式回应；阿拉伯卫视所述草案是否为双方认可的文本；中国是否同意担任担保方；海峡近期袭船事件的责任方。",
+      "confidence": "高（阿拉格齐公开表态）；中（哈梅内伊表态经美联社转述 IRNA）；低（草案要点来自单一媒体独家）",
+      "sources": [
+        {
+          "label": "半岛电视台：伊朗外长称美方接触是「积极一步」，代表团在卡塔尔",
+          "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+        },
+        {
+          "label": "美联社：伊朗最高领袖誓言对任何攻击立即回应",
+          "url": "https://apnews.com/article/mideast-news-october-31-2026-15c0556b92c8c23beb9b8854b4c124f4"
+        },
+        {
+          "label": "Dawn：新方案把伊朗重开霍尔木兹实施期缩至 2 天",
+          "url": "https://www.dawn.com/news/2041203"
+        },
+        {
+          "label": "Business Standard：美伊草案拟转移铀库存、7 天内重开海峡（转述阿拉伯卫视）",
+          "url": "https://www.business-standard.com/world-news/us-iran-draft-proposes-uranium-transfer-reopening-hormuz-within-7-days-126103100083_1.html"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "币安被盗续报：FBI 正式认定朝鲜「TraderTraitor」行动窃取逾 60 亿美元；币安称已补足约 90% 被盗资产，BTC、ETH、USDT 等 10 种币 100% 足额，目标北京时间今天（11/1）恢复提币，新一期储备证明预计 11/3 可供核验",
+      "tag": "续报：科技/加密",
+      "facts": [
+        "FBI：10/31 发布网络警报称，朝鲜「于 2026 年 10 月 29 日前后」从币安窃取逾 60 亿美元虚拟资产，行动代号「TraderTraitor」，该名称此前与 Bybit 15 亿美元被盗案等朝鲜黑客行动相关。FBI 与特勤局、国税局刑事调查部门观察到黑客主要把赃款兑换成以太坊，预计将通过去中心化金融平台和即时兑换服务进一步洗钱，并呼吁交易所和分析公司封堵相关地址（韩联社、CNBC）。",
+        "补足进度：币安 10/31 第三份安全更新称，被盗资产的覆盖比例从上一次的约 80% 提高到约 90%；BTC、ETH、USDT、BNB、SOL、USDC、XRP、USD1、RLUSD、ZEC 已 100% 足额，剩余 10% 为前十以外流动性较差的代币，将继续通过市场和场外渠道买入。资金来自用户安全资产基金 SAFU、部分合约保险基金和公司自有资金（CNBC、Bitcoin.com）。CNBC 特别指出，「覆盖 90%」不等于从黑客手中追回了 90%。",
+        "提币与储备：币安称提币仍暂停，「仍按计划」在 11/1（周日）恢复，需通过安全检查并最终确认；已发布以 10/31 00:00 UTC 为基准的储备证明快照，零知识证明生成需 40–50 小时，持有上述 10 种币的用户预计 11/3 可核验至少 1:1 的储备（Bitcoin.com、Crypto Briefing、The Verge）。",
+        "未知点：攻击具体路径仍不清楚，币安拒绝向 CNBC 提供调查细节（CNBC）。"
+      ],
+      "readingA": "币安用自有资金在两天内补足九成、主流币全部足额，并公开储备证明时间表，FBI 也迅速完成归因，说明大型交易所在极端事件中可以兑现「用户不受损」的承诺。",
+      "readingB": "「覆盖」靠的是动用 SAFU、合约保险基金和公司金库，而不是追回赃款；剩余代币流动性差，储备证明还要两天才能核验。真正的考验是提币恢复后的资金流出规模，以及朝鲜通过洗钱把数十亿美元变现的风险。",
+      "disagree": "分歧在于这次事件证明了币安的偿付能力，还是暴露了中心化平台和行业应对国家级黑客的结构性脆弱。",
+      "synthesis": "事实层面：归因已由 FBI 官方确认，补足进度可量化（90%），关键节点是今天提币能否恢复以及 11/3 储备核验结果。",
+      "unknown": "提币恢复的确切时间与是否附带限额；被盗资金中被冻结或追回的实际金额；动用保险基金后合约市场的风险缓冲是否充足；监管机构是否介入。",
+      "confidence": "高（FBI 警报、币安声明）；中（提币恢复时间仍以「计划」表述）",
+      "sources": [
+        {
+          "label": "CNBC：币安称 63 亿美元被盗损失已覆盖 90%，计划周日恢复提币",
+          "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+        },
+        {
+          "label": "韩联社：FBI 称朝鲜对从币安窃取逾 60 亿美元负责",
+          "url": "https://en.yna.co.kr/view/AEN20261101000300315"
+        },
+        {
+          "label": "美联社：FBI 称朝鲜黑客是币安被盗案幕后黑手",
+          "url": "https://apnews.com/article/binance-crypto-hack-north-korea-fbi-883f18140c1e21ce0c38781e72cbe315"
+        },
+        {
+          "label": "Bitcoin.com：币安称 BTC、ETH、XRP 等 10 种币足额",
+          "url": "https://news.bitcoin.com/security/binance-says-btc-eth-xrp-and-7-other-cryptos-fully-backed-after-hack/"
+        },
+        {
+          "label": "The Verge：币安 CEO 称 90% 被盗资产已补足",
+          "url": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "AI 融资降温：据英国《金融时报》和 CNBC，OpenAI 把新一轮融资目标从约 300 亿美元下调至最多 200 亿美元，投后估值约 1.25 万亿美元，部分投资者缩减认购；Anthropic 上市前遭遇科技股抛售，英伟达据报考虑为 Nscale 西弗吉尼亚数据中心债务提供担保",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "OpenAI：CNBC 10/31 证实 OpenAI 正寻求最多 200 亿美元融资，低于此前约 300 亿美元的目标；《金融时报》称投后估值 1.25 万亿美元，OpenAI 为投资者设定周五截止认购，「首次交割」预计不足 200 亿美元，因部分投资者下调了份额。阿联酋投资者与 Coatue 领投，《金融时报》称以 MGX 为代表的阿联酋财团将是最大参与方，OpenAI 可获得租用当地新建算力的选择权。融资尚未完成，数字可能变化，OpenAI 未回应（CNBC）。",
+        "Anthropic：CNBC 称 Anthropic 本周一公布招股书，上半年净亏损 800 亿美元，有数千亿美元算力承诺和 90 多页风险因素，第三季度财务数据尚未公布；此后微软、谷歌、亚马逊财报加剧市场对 AI 投入的担忧。亚马逊连续第二个季度自由现金流为负（过去 12 个月流出 424 亿美元），谷歌自由现金流为 -91 亿美元，其股价周四跌近 13%、为史上最差单日；微软下调年度资本开支预期至 1,700 亿美元并计划发债 250 亿美元（CNBC）。",
+        "算力融资：据 The Information 和彭博（TechCrunch 及多家汇总转述），英伟达正商谈为 Nscale 西弗吉尼亚 AI 园区数十亿美元债务提供担保，Anthropic 已就首栋楼签约约 446 亿美元，尚未宣布最终担保。CNBC 称 Oura、Firmus、Solidigm 等近期推迟或放弃 IPO，Nscale 招股书已数周未更新。",
+        "市场：纳指周五跌 2.9%，较 10/6 收盘高点累计下跌 7.8%，录得 3 月以来首次三周连跌（CNBC）。"
+      ],
+      "readingA": "这是估值和节奏的修正，不是需求坍塌：OpenAI 仍以 1.25 万亿美元估值融资 200 亿美元，三大云厂商云业务增速都超预期，Anthropic 招股书显示收入高速增长，资金只是变得更挑剔。",
+      "readingB": "融资目标被砍三分之一、巨头现金流转负并转向发债、芯片商为客户数据中心兜底债务，这些都是资本循环紧绷的信号：AI 建设越来越依赖外部融资和相互担保，一旦利率或需求出问题，风险会在供应链中传导。",
+      "disagree": "分歧在于 AI 投资周期是在健康地「去泡沫」，还是融资结构已开始出现系统性压力。",
+      "synthesis": "可以确定的是：一周之内，AI 资本叙事从「花多少都行」转为「钱从哪来」。下周看点包括 11/2 苹果财报、Anthropic 路演和第三季度数据、OpenAI 首次交割的最终规模。",
+      "unknown": "OpenAI 本轮最终金额与投资者名单；Anthropic IPO 时间表是否推迟；英伟达担保是否落地及规模。",
+      "confidence": "中（OpenAI 融资数字来自《金融时报》与 CNBC 匿名信源，交易未完成）；高（巨头财报数据）；低（英伟达担保为商谈中）",
+      "sources": [
+        {
+          "label": "CNBC：OpenAI 把融资目标降至最多 200 亿美元",
+          "url": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html"
+        },
+        {
+          "label": "CNBC：Anthropic 的上市之路更加颠簸",
+          "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html"
+        },
+        {
+          "label": "TechCrunch：英伟达考虑为 Nscale 西弗吉尼亚数据中心充当担保方",
+          "url": "https://techcrunch.com/"
+        },
+        {
+          "label": "Malpass：10/31 AI 要闻（OpenAI 融资、英伟达—Nscale）",
+          "url": "https://malpass.co/top-ai-stories-2026-10-31/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "G20 外长会在亚特兰大闭幕未达成共识，不发联合公报、改为美方主席声明；开幕时因英国、澳大利亚和多国欧洲外长拒绝与俄外长拉夫罗夫合影，鲁比奥取消传统「全家福」。主席声明聚焦能源安全、供应链、关键矿产和霍尔木兹、曼德海峡航行安全",
+      "tag": "新：外交",
+      "facts": [
+        "合影风波：卫报称约三分之一与会国表示不会与拉夫罗夫同框，鲁比奥 10/30 取消合影；美方官员称是为了避免「仪式性合影变成外交干扰」。英国外交大臣米利班德当面对拉夫罗夫说「我们都知道这场战争的侵略者是谁」（BBC、卫报）。德国外长瓦德富尔称「与俄罗斯没有正常状态」（德国之声）。俄外交部发言人扎哈罗娃在 Telegram 上嘲讽瓦德富尔，并贴出两人同在会场的照片（海峡时报）。",
+        "结果：会议 10/31 结束，没有联合公报，由美方发布主席声明。鲁比奥称「不会假装我们已接近找到普遍接受的解决方案」，但在供应链和关键矿产上有国家正在合作；他强调霍尔木兹海峡和曼德海峡「必须保持安全和开放」（CNBC 转载美联社）。",
+        "分歧：与会者称俄方在乌克兰问题上立场「毫不松动」，并反对波兰加入 G20；分歧还涉及美以对伊朗战争、美国关税、中国在南海的行动，以及美方未邀请 G20 成员南非（CNBC 转载美联社）。",
+        "相关：美国国务院 10/30 批准向乌克兰出售约 21 亿美元的「爱国者」拦截弹；拉夫罗夫称俄方不会允许乌克兰对俄构成「军事威胁」。12 月 G20 领导人峰会将在特朗普位于迈阿密的高尔夫俱乐部举行，普京是否出席未定（CNBC、海峡时报）。"
+      ],
+      "readingA": "东道主美国把议程聚焦在供应链、关键矿产和航运安全等可合作领域，取消合影是务实做法，避免了公开分裂；主席声明形式早在预期之中。",
+      "readingB": "合影风波和没有公报说明 G20 在俄乌、伊朗战争、关税等核心议题上已难以形成共同立场；美方邀请俄罗斯、排除南非也让论坛的代表性和议程受到质疑，为 12 月领导人峰会蒙上阴影。",
+      "disagree": "分歧在于这是「能做事的 G20」在回避象征性争议，还是这个论坛在大国冲突中进一步失去协调能力。",
+      "synthesis": "G20 外长层面已连续多年因俄罗斯问题无法正常合影（2022、2023、2025 年也曾取消），本次再次只发主席声明。关注 12 月迈阿密峰会：普京是否出席、欧洲如何应对。",
+      "unknown": "主席声明全文中各国保留意见的情况；普京是否接受峰会邀请；南非是否最终被排除在峰会外。",
+      "confidence": "高（多家媒体与美国务院表态）；中（「三分之一国家」等匿名外交官说法）",
+      "sources": [
+        {
+          "label": "CNBC/美联社：G20 外长会在亚特兰大结束，未就关键议题达成共识",
+          "url": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html"
+        },
+        {
+          "label": "卫报：英澳等国拒绝与俄同框，美国取消 G20 合影",
+          "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+        },
+        {
+          "label": "BBC：俄外长在场引发抗议，G20 合影取消",
+          "url": "https://www.bbc.com/news/articles/cmd6dp2y576do"
+        },
+        {
+          "label": "美国国务院：G20 外长会主席声明",
+          "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/g20-chairs-statement-g20-foreign-ministers-meeting/"
+        },
+        {
+          "label": "海峡时报：俄外交官令美国取消 G20 合影",
+          "url": "https://www.straitstimes.com/world/united-states/distaste-for-russian-diplomat-forces-us-to-cancel-g-20-photo-session"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "法国连续第三个周末大规模抗议生活成本和教育状况：内政部称全国约 32 万人参加（巴黎 7 万），低于上周的 41 万；青年团体称近 50 万。游行大体和平，但巴黎、里昂、马赛等地散场后发生冲突，一名防暴警察被燃烧瓶击中，截至晚间 511 人被捕；德国、葡萄牙等地也有青年抗议",
+      "tag": "新：欧洲",
+      "facts": [
+        "规模：法国内政部称 10/31 全国约 32 万人上街，其中巴黎 7 万；10/24 为 41 万（巴黎 11 万），10/17 为 55 万。高中和大学学生团体组成的「青年联合会」称近 50 万人，其中巴黎 20 万（franceinfo、美联社、半岛电视台）。",
+        "诉求：抗议由不满的高中生发起，矛头指向生活成本高企、公共服务和学校条件恶化，以及警方对学生运动的处理；前「黄背心」、工会和学生团体参与（franceinfo、美联社）。",
+        "冲突：内政部长努涅斯称约 150 场申报游行平稳进行，但散场时遭遇「异常」暴力，一名巴黎防暴警察被燃烧瓶击中，他称之为「谋杀未遂」；巴黎、里昂出现催泪瓦斯，垃圾箱和街道设施被点燃。franceinfo 称截至 20 时全国 511 人被捕（上周日内近千人）；共部署 7 万名警力、进行 4 万次检查（卫报、franceinfo、半岛电视台）。",
+        "政府回应：总理勒科尔尼本周多次会见学生工会，正研究缓解生活成本的措施（半岛电视台）。最高行政法院维持禁止巴士底—民族广场传统路线的决定，巴黎游行改在城市东南边缘（franceinfo、卫报）。"
+      ],
+      "readingA": "人数连续两周下降、多数游行和平，政府已与学生工会对话并研究措施，运动可能逐步转向谈判；暴力集中在少数蒙面人身上，不应代表整体诉求。",
+      "readingB": "三周仍有数十万人上街，且抗议已扩散到德国、葡萄牙等地，说明生活成本和公共服务恶化是欧洲普遍问题；政府把游行赶到城外、强调治安，反而把焦点从社会诉求转移到「打砸抢」，学生对此不满。",
+      "disagree": "分歧在于这场运动正在退潮，还是正在演变为跨国、长期的青年社会运动，以及政府应以治安为先还是以政策让步为先。",
+      "synthesis": "规模在下降但仍很大，暴力事件和逮捕人数也低于上周。政府能否拿出具体的生活成本和教育措施，将决定运动走向。",
+      "unknown": "下周末是否继续动员；勒科尔尼政府的具体措施；德国等地抗议的规模与持续性。",
+      "confidence": "高（内政部数字、官方表态）；中（组织方人数与官方差距大）",
+      "sources": [
+        {
+          "label": "美联社：法国连续第三个周末抗议",
+          "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5"
+        },
+        {
+          "label": "卫报：法国大体和平的抗议后警方与蒙面暴徒冲突",
+          "url": "https://www.theguardian.com/world/2026/oct/31/police-clash-rioters-after-largely-peaceful-protests-across-france"
+        },
+        {
+          "label": "franceinfo：10 月 31 日动员日要点（法文）",
+          "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-importante-mais-en-baisse-heurts-en-marge-de-certains-corteges-centres-villes-sous-haute-protection-ce-qu-il-faut-retenir-de-la-journee-de-mobilisation-du-31-octobre_8262017.html"
+        },
+        {
+          "label": "半岛电视台：法国再有数十万人抗议，局势紧张",
+          "url": "https://www.aljazeera.com/news/2026/10/31/tension-and-clashes-as-hundreds-of-thousands-protest-again-in-france"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "美国中期选举倒计时（11/3）：联邦法官发布临时限制令，禁止司法部和国土安全部以刑事追诉等方式威胁选举官员、要求其分拣或拒收所谓「非公民」选票，政府 10/31 已上诉至第九巡回法院；提前投票已超过 5,000 万张，比 2022 年同期多约 500 万",
+      "tag": "新：美国",
+      "facts": [
+        "禁令：加州联邦地区法官特里娜·汤普森 10/30 发布 8 页命令，禁止联邦官员「威胁、恐吓或胁迫」州和地方选举官员，仅因政府指称选民不合格就要求停止处理其选票；命令有效至 11/16。法官写道，被告的行动「可能产生干扰选举管理、剥夺合法选民投票权的效果」（NBC 新闻）。",
+        "背景：司法部上周向加州 58 个县中的 57 个县选举官员发信，要求配合调查所谓非法投票，否则自身可能受到调查；致圣贝纳迪诺县的信附上「1,133 名可能的外国人」名单，要求 48 小时内提供社会安全号码等非公开信息，并「隔离」无法确认公民身份者的邮寄选票。联邦上诉法院本周两次驳回司法部在加州的相关请求，华盛顿州案件待决（NBC 新闻）。美联社分析称，司法部加州名单中超过 40% 的名字在州选民名册上根本找不到（美联社）。",
+        "上诉：司法部 10/31 向第九巡回上诉法院提出上诉（NBC 新闻）。",
+        "投票：截至 10/31，提前投票超过 5,000 万张（另有统计称约 5,130 万），比 2022 年中期选举提前投票总数多约 500 万；在公布党派登记数据的州，登记民主党人投了约 1,070 万张、登记共和党人约 780 万张（卫报、Aju Press 汇总）。"
+      ],
+      "readingA": "政府称是在防止非公民投票、维护选举完整性；联邦法律确实禁止非公民在联邦选举中投票，联邦政府有职责核查，法院的禁令过宽，限制了执法。",
+      "readingB": "多家法院一再驳回司法部的做法，名单本身准确性存疑（四成多不在选民名册上），在投票进行中以刑事后果施压地方官员，实际效果是干扰选举管理、吓阻合法选民。",
+      "disagree": "分歧在于联邦政府的行动是正当执法还是选举干预，以及选举期间联邦与州权限的边界。",
+      "synthesis": "法院层面目前一边倒地限制联邦政府的做法，第九巡回法院的裁决将决定选举日前后的规则。提前投票创中期选举新高，党派登记数据只覆盖部分州，不能直接推断结果。",
+      "unknown": "第九巡回法院何时裁决；选举日后是否出现针对计票的联邦行动；最终投票率。",
+      "confidence": "高（法院命令、司法部上诉）；中（提前投票数为第三方汇总，各州统计口径不一）",
+      "sources": [
+        {
+          "label": "NBC 新闻：特朗普政府就禁止威胁选举官员的命令提出上诉",
+          "url": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659"
+        },
+        {
+          "label": "CNN：法官发布全面紧急命令，叫停司法部对选举官员的施压",
+          "url": "https://edition.cnn.com/2026/10/30/politics/emergency-order-halts-doj-pressure-campaign-election-officials"
+        },
+        {
+          "label": "卫报：中期选举前三天提前投票超过 5,000 万",
+          "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+        },
+        {
+          "label": "美联社首页：司法部加州「非公民」名单逾四成不在选民名册上",
+          "url": "https://apnews.com/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "波兰宪法法院对峙：法官科尔文-皮奥特罗夫斯卡宣布暂停院长希维翁奇科夫斯基和副院长的职务并自称临时掌权，防暴警察进驻法院；总统纳夫罗茨基称这是「强行夺权」、要求安全部队撤出，总理图斯克则称政府将继续恢复法院「合法、独立的组成」，法院外连续两晚有抗议",
+      "tag": "新：欧洲",
+      "facts": [
+        "事件：10/31，法官安娜·科尔文-皮奥特罗夫斯卡宣布暂停宪法法院院长博格丹·希维翁奇科夫斯基和副院长巴尔托沃米耶·索汉斯基的职务，并宣布由自己临时掌权；防暴警察随后控制法院（卫报、BBC、半岛电视台汇总）。",
+        "各方：总理图斯克为改组辩护，称这对恢复多年来陷入政治争端而瘫痪的法院至关重要，政府将继续恢复其「合法、独立的组成」；总统纳夫罗茨基称这是强行夺权，要求安全部队撤离（卫报、Euronews）。",
+        "现场：数百人在法院外抗议，警方称有人翻越围栏、投掷物品，拘留 3 人；美联社称这是第二晚抗议（美联社、半岛电视台）。",
+        "背景：宪法法院自上届法律与公正党政府时期的人事任命起就处于合法性争议中，图斯克政府和亲法律与公正党的总统长期在司法问题上对立（半岛电视台解释性报道）。"
+      ],
+      "readingA": "上届政府时期的任命让宪法法院失去独立性，欧盟也长期批评波兰法治问题；图斯克政府是在纠正旧错误，恢复法院的合法组成。",
+      "readingB": "由政府支持的一名法官单方面暂停院长、警察进驻法院，绕开了正常的法定程序；不论动机如何，用行政力量改变司法机构的控制权本身就损害法治，与当年批评的做法相似。",
+      "disagree": "分歧在于这是「恢复法治」还是「以法治之名的夺权」，以及修复被政治化的司法机构应走何种程序。",
+      "synthesis": "波兰的司法危机从立法之争转为对机构的实际控制之争，总统与政府正面对立。后续需要看法院内部其他法官、欧盟机构和总统的反应。",
+      "unknown": "暂停决定的法律依据是否被其他法官认可；总统是否采取进一步行动；欧盟委员会的立场。",
+      "confidence": "中（事件经过来自多家媒体，但法律解释双方对立；部分细节来自搜索摘要汇总）",
+      "sources": [
+        {
+          "label": "卫报：波兰宪法法院一名法官被暂停后防暴警察进驻",
+          "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+        },
+        {
+          "label": "BBC：围绕波兰最高法院控制权的对峙中警察部署",
+          "url": "https://www.bbc.com/news/articles/crz9824d5e88o"
+        },
+        {
+          "label": "美联社：反政府抗议者连续第二晚聚集在波兰宪法法院外",
+          "url": "https://apnews.com/article/poland-european-union-protests-police-tribunal-0a346b1633cef7360277500a1273773f"
+        },
+        {
+          "label": "半岛电视台：波兰宪法法院外的抗议，危机是什么",
+          "url": "https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about"
+        },
+        {
+          "label": "Euronews：纳夫罗茨基指责政府夺权",
+          "url": "https://www.euronews.com/2026/10/31/poland-political-crisis-constitutional-court-in-chaos-as-nawrocki-accuses-government-of-st"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Iran FM says US outreach a 'positive step' as delegation in Qatar for talks",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks"
+    },
+    {
+      "n": 2,
+      "title": "Iran's leader vows immediate response to any attack, and other Mideast news",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/mideast-news-october-31-2026-15c0556b92c8c23beb9b8854b4c124f4"
+    },
+    {
+      "n": 3,
+      "title": "US-Iran draft proposes uranium transfer, reopening Hormuz within 7 days",
+      "outlet": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/us-iran-draft-proposes-uranium-transfer-reopening-hormuz-within-7-days-126103100083_1.html"
+    },
+    {
+      "n": 4,
+      "title": "Gulf states must rethink trillion-dollar defence in light of US-Iran war, says report",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 5,
+      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html"
+    },
+    {
+      "n": 6,
+      "title": "FBI says N. Korea responsible for over US$6 bln crypto theft from Binance",
+      "outlet": "Yonhap",
+      "url": "https://en.yna.co.kr/view/AEN20261101000300315"
+    },
+    {
+      "n": 7,
+      "title": "How crypto hacking funds isolated North Korea's nuclear programme",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 8,
+      "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html"
+    },
+    {
+      "n": 9,
+      "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html"
+    },
+    {
+      "n": 10,
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "n": 11,
+      "title": "Apple CEO says the company doesn't 'want to ship AI for AI's sake'",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "n": 12,
+      "title": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+      "outlet": "CNBC/AP",
+      "url": "https://www.cnbc.com/2026/10/31/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-issues.html"
+    },
+    {
+      "n": 13,
+      "title": "US cancels G20 'family photo' after Australia, UK and others refuse to appear with Russia",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
+    },
+    {
+      "n": 14,
+      "title": "A third weekend of protests in France",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/protests-europe-youth-france-germany-spain-362a7cb69871ab21bd894290dad639f5"
+    },
+    {
+      "n": 15,
+      "title": "Trump administration appeals judge's order to stop threatening election officials with criminal charges",
+      "outlet": "NBC News",
+      "url": "https://www.nbcnews.com/politics/2026-election/judge-orders-trump-administration-stop-threatening-election-officials-rcna606659"
+    },
+    {
+      "n": 16,
+      "title": "More than 50m Americans cast ballots in early voting with three days to go before midterms",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/oct/31/early-voting-midterms"
+    },
+    {
+      "n": 17,
+      "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
+      "outlet": "AP",
+      "url": "https://apnews.com/"
+    },
+    {
+      "n": 18,
+      "title": "Virginia and DC sue to stop Trump's arch as government looks to start construction",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/us"
+    },
+    {
+      "n": 19,
+      "title": "Riot police deployed to Poland's constitutional court after judge suspended",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/riot-police-deployed-to-polands-constitutional-court-after-judge-suspended"
+    },
+    {
+      "n": 20,
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city (Oleshky)",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "n": 21,
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "n": 22,
+      "title": "Starmer says UK must get closer to Europe as US relationship changes",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 23,
+      "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq5ynw94k7kzo"
+    },
+    {
+      "n": 24,
+      "title": "Ethiopian PM puts ministers through military training",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    }
+  ]
+}
