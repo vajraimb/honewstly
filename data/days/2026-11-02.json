@@ -1,0 +1,431 @@
+{
+  "date": "2026-11-02",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/1 约 08:10）至本期（11/2 约 08:15），约 24 小时，覆盖欧美周日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。周日美股休市，无新的市场数据。部分索引条目仅从 BBC、卫报、半岛电视台、TechCrunch 列表页获取标题，链接指向该列表页。",
+  "thinDay": true,
+  "thinDayNote": "周日新闻偏薄，科技/AI 方面没有重大新事件：币安恢复提币为续报，AI 数据中心债务担忧、OpenAI 被诉（10/27 已起诉）等见索引。本期 7 条中 3 条为续报（伊朗—霍尔木兹、币安、欧洲青年抗议），4 条为新话题（乌克兰恢复打击俄炼厂、美国选前密歇根风波、印度选民名册抗议、西撒哈拉维和任务终止）。今天（11/2）苹果发布财报、币安发布新储备证明，明天美国中期选举投票。",
+  "vsYesterday": "相对上一期（11/1）：伊朗从「两天方案」推进到谈判第三天、伊方等待美方答复，特朗普称还有「一两个地点」要打，伊朗公开展示导弹并做电网战备；币安从计划恢复提币推进到首批 15 种资产已恢复、补足 95%、首日净流出约 36 亿美元；欧洲青年抗议扩散到德国并出现抢劫。新话题：乌克兰恢复打击俄炼厂、密歇根民主党人倒戈、印度选民名册抗议、西撒维和任务终止。G20、波兰（图斯克为改革辩护）、美国选举禁令上诉无重大新进展；以色列组阁、俄罗斯在美方预警后拘留一名涉嫌策划袭击的未成年人等见索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "伊朗—霍尔木兹：卡塔尔斡旋的间接谈判进入第三天，伊朗等待美方对「两天内部分重开海峡」方案的答复；特朗普称谈判「还行」但伊方「不可靠」，并说还有「一两个地点」要处理、「10 分钟就能搞定」；伊朗多名军方指挥官表态随时准备导弹和无人机反击，周末至少四艘油轮在海湾遇袭",
+      "tag": "续报：中东",
+      "facts": [
+        "谈判：半岛电视台称，经周五德黑兰、周六卡塔尔两轮斡旋，伊朗把部分重开霍尔木兹海峡方案的生效期从 7 天缩短到 2 天；《卫报》称间接谈判已进入第三天，卡塔尔正设法促成释放约 60 亿美元伊朗资产，谈判人员「做好了最坏打算」。",
+        "伊方条件：安全事务负责人雷扎伊对国家电视台称，美方需解除对伊朗港口的海上封锁、给予石油制裁豁免、解冻海外资产、停止包括黎巴嫩在内各条战线的战斗，并承认伊朗与阿曼的海峡双边安排；他尚未回复万斯来信，但称来信语气有「积极变化」（半岛电视台）。",
+        "美方：特朗普 10/31 在海湖庄园对记者说谈判进行得「还行」，但伊朗当局「不可靠」，并称对伊朗核设施「还要处理一两个地点，10 分钟就能做到」。Axios 公开的一份美国财政部报告称，自 8/25 以来伊朗码头没有新装油，9 月伊朗同比通胀接近 90%，经济被「重创」但未接近崩溃（半岛电视台转述）。",
+        "军事信号：最高领袖穆杰塔巴·哈梅内伊办公室称其要求「最大威慑」，总参谋部、革命卫队和正规军随后分别表态准备发动导弹、无人机等打击；国家电视台 11/1 播出从地下库取出导弹和无人机的画面；民防负责人称已确定 14 个高度依赖电力的部门，考虑电网「孤岛化」以防再遭轰炸（半岛电视台）。",
+        "海峡：半岛电视台称 10/30–10/31 至少四艘油轮被击中；英国海上贸易行动办公室称一艘液化石油气船 10/31 在拉万岛以南约 40 海里处被三枚伊朗弹药击中。"
+      ],
+      "readingA": "缩短生效期、雷扎伊称美方语气「积极」、卡塔尔推进资产释放，说明双方都在寻找一个能各自宣称「首轮成果」的分阶段安排；美方财政部报告显示封锁效果显著，伊朗有现实动力达成协议。",
+      "readingB": "伊朗开出的条件清单反而更长（加入解除封锁、停止黎巴嫩战事），特朗普一边称伊朗不可靠一边暗示选举后继续轰炸，伊朗则公开展示导弹并做电网战备，海峡袭船也没停。双方都在为谈判破裂做准备，「两天方案」可能只是外交姿态。",
+      "disagree": "分歧在于双方是在为选举后的协议铺路，还是在为下一轮冲突争取时间和道义高地；核心是先后顺序：美方要求核问题先有进展，伊方要求先兑现让步。",
+      "synthesis": "能确定的是：谈判渠道仍在运转，但没有任何一方公开让步核心条件，军事准备和袭船都在持续。11/3 美国中期选举后的几天是最关键窗口，看美方是否正式回应、卡塔尔资产释放是否落地。",
+      "unknown": "美方是否、何时正式答复伊方方案；60 亿美元资产释放的进展；特朗普所说「一两个地点」的具体所指；近期袭船事件的完整数量。",
+      "confidence": "高（各方公开表态、特朗普原话）；中（财政部报告经 Axios 和半岛电视台转述；《卫报》关于谈判氛围的匿名信源）",
+      "sources": [
+        {
+          "label": "半岛电视台：伊美在战争威胁上升之际探索外交",
+          "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war"
+        },
+        {
+          "label": "卫报：谈判人员对重开霍尔木兹海峡的美伊谈判「做好最坏打算」",
+          "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+        },
+        {
+          "label": "半岛电视台：斡旋方在战争言论中继续推动美伊谈判，已知情况",
+          "url": "https://www.aljazeera.com/news/2026/11/1/mediators-continue-us-iran-negotiations-amid-war-rhetoric-what-we-know"
+        },
+        {
+          "label": "Doha News：伊朗等待美方对海峡方案的答复",
+          "url": "https://dohanews.co/iran-awaits-u-s-response-on-strait-of-hormuz-plan-amid-ongoing-qatari-mediation/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "俄乌：乌克兰不顾特朗普政府压力恢复袭击俄罗斯炼油厂，三天内打击萨马拉州新古比雪夫斯克、乌法和下诺夫哥罗德州克斯托沃三座炼厂，泽连斯基称还击中罗斯托夫州一座导弹厂；克里姆林宫称基辅「无视」美方意愿。奥列什基局部人道停火 11/1 晚结束，俄方空袭致乌克兰数十万人断电",
+      "tag": "新：俄乌",
+      "facts": [
+        "袭击：俄副总理诺瓦克称 10/30 乌方袭击了三座炼油厂和一座天然气化工厂，「短暂停顿之后，袭击恢复了」；俄官方媒体称 11/1 凌晨克斯托沃炼厂起火。下诺夫哥罗德州州长称一处工业设施「严重受损」，州政府呼吁司机按需加油、不要恐慌抢购（卫报、NBC 新闻）。",
+        "规模：乌克兰开源情报频道 Dnipro Osint 称这三座炼厂合计年产能约 3,300 万吨，约占俄罗斯炼油能力的 10%（RBC-乌克兰转述，未经独立核实）。泽连斯基称罗斯托夫州的卡缅斯基导弹厂也被击中（《独立报》）。",
+        "美乌分歧：《华尔街日报》10/29 报道乌克兰在白宫压力下同意暂停打击炼厂至美国中期选举后；乌克兰官员对《基辅独立报》说，美国特使库什纳确实建议「30 天不打炼厂」，但乌方「从未下过这样的命令」，并表示今后将继续打击但不公开认领。特朗普曾把柴油涨价归咎于这些袭击（NBC 新闻）。",
+        "另一面：泽连斯基称俄方 11/1 的打击使数十万人断电；奥列什基周边为期六天的局部停火 11/1 晚结束，此前让平民撤出被占城市；乌克兰空军称空袭警报应用疑遭黑客入侵，用户收到虚假辐射威胁（BBC、卫报）。"
+      ],
+      "readingA": "乌克兰在俄方持续打击其电网的情况下保留对等反击手段，打击炼厂是迫使俄方接受全面能源停火的筹码；乌方表示支持涵盖双方能源设施的全面停火，是俄方不接受。",
+      "readingB": "在美国选举前几天公开违背华盛顿的请求，可能损害乌克兰与特朗普政府的关系；油价上涨对美国选民和全球市场都有代价，而且乌方承认今后不再公开认领，说明它也意识到政治风险。",
+      "disagree": "分歧在于打击俄炼厂是乌克兰正当的军事施压，还是在关键时刻与最重要的支持者对着干、得不偿失；油价上涨主要源于霍尔木兹危机还是炼厂袭击，各方说法也不同。",
+      "synthesis": "可以确定的是，10 月中旬特朗普单方面宣布的「能源停火」已名存实亡，双方都在打击对方能源设施。奥列什基停火结束后，赫尔松方向可能重新升温。",
+      "unknown": "三座炼厂的实际受损程度和停产时间；美方是否会对乌方施加实际惩罚；俄方是否会进一步扩大对乌电网的打击。",
+      "confidence": "高（俄方官员证实遭袭、乌方官员表态）；中（10% 产能数据来自开源情报频道；乌方是否同意暂停的说法双方对立）",
+      "sources": [
+        {
+          "label": "卫报：乌克兰不顾特朗普压力恢复袭击俄炼油厂",
+          "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+        },
+        {
+          "label": "基辅独立报：消息人士确认乌克兰从未同意暂停打击炼厂",
+          "url": "https://kyivindependent.com/ukraine-never-agreed-to-pause-strikes-on-russian-refineries-sources-confirm/"
+        },
+        {
+          "label": "NBC 新闻：俄方打击致乌克兰数千人断电",
+          "url": "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784"
+        },
+        {
+          "label": "RBC-乌克兰：开源分析称乌方三天内打掉俄 10% 炼油能力",
+          "url": "https://newsukraine.rbc.ua/news/ukraine-disabled-10-of-russia-s-oil-refining-1793544918.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "美国中期选举前两天（11/3 投票）：密歇根州联邦众议员、民主党人海莉·史蒂文斯宣布支持共和党参议员候选人迈克·罗杰斯，而非本党提名人阿卜杜勒·埃尔-赛义德，民主党内一片哗然；同日联邦法官驳回司法部在阿拉斯加参议员选举中拖延认证结果的诉讼",
+      "tag": "新：美国",
+      "facts": [
+        "密歇根：史蒂文斯 8 月以微弱差距输掉民主党参议员初选。她 11/1 与罗杰斯一同出席底特律一座教堂礼拜后在 X 发视频称，埃尔-赛义德说她「不再受欢迎」，「他说得对……我不属于他的竞选团队」，并批评埃尔-赛义德与网络评论员哈桑·派克的关系；她称自己「仍是骄傲的民主党人」（美联社、NBC 新闻）。",
+        "起因：双方此前因外部政治行动委员会 Rebellion PAC 的一则广告争执，该广告暗示美国援助以色列导致物价上涨，史蒂文斯称其反犹并要求埃尔-赛义德谴责；埃尔-赛义德竞选团队称与该广告无关，并指责她「想重打三个月前就结束的初选」（CNBC、Axios）。",
+        "反应：密歇根州民主党主席赫特尔称史蒂文斯「现在不是、将来也不会是」州党成员；Axios 称其部分幕僚辞职。该席位由不连任的民主党参议员彼得斯空出，被视为决定参议院控制权的关键战场之一（NBC 新闻、Axios）。",
+        "阿拉斯加：BBC 称联邦法官驳回司法部的诉讼，该诉讼以选票上有两名「丹·沙利文」为由，寻求在共和党现任议员落败时推迟认证结果。",
+        "其他：特朗普 11/1 在艾奥瓦州和堪萨斯州造势，力保共和党参议院多数（半岛电视台）；《卫报》称康涅狄格州参议员克里斯·墨菲因中风住院。"
+      ],
+      "readingA": "史蒂文斯的倒戈反映了民主党内中间派与左翼之间、尤其在以色列问题上的真实裂痕；如果温和派选民跟随她，民主党可能丢掉这个原本有望守住的席位，影响参议院归属。",
+      "readingB": "一名初选落败者在选举前两天倒戈，更多是个人恩怨与党内斗争，提前投票已大量完成，实际影响可能有限；而阿拉斯加诉讼被驳回说明法院继续限制联邦政府介入选举结果认证。",
+      "disagree": "分歧在于史蒂文斯事件会实质改变密歇根选情，还是一个声量大于选票的插曲；以及民主党内部的以色列议题分歧会不会在全国范围影响投票。",
+      "synthesis": "能确定的是：选前最后 48 小时，两党在关键州都面临内部或法律上的变数。真正的答案要等 11/3 计票，密歇根、阿拉斯加都是需要盯住的州。",
+      "unknown": "史蒂文斯的表态对选民的实际影响；民调是否有变化；司法部是否就阿拉斯加裁决上诉。",
+      "confidence": "高（当事人视频与多家主流媒体报道）；中（幕僚辞职等细节来自单一媒体）",
+      "sources": [
+        {
+          "label": "美联社：史蒂文斯支持罗杰斯，密歇根参议员选情动荡",
+          "url": "https://apnews.com/article/elsayed-michigan-stevens-democrats-unity-midterms-d7053bbd0ed2fd70756896c6e4b66a27"
+        },
+        {
+          "label": "NBC 新闻：史蒂文斯支持共和党候选人罗杰斯",
+          "url": "https://www.nbcnews.com/politics/2026-election/haley-stevens-endorses-gop-mike-rogers-michigan-senate-race-el-sayed-rcna606831"
+        },
+        {
+          "label": "Axios：史蒂文斯的背书引发民主党怒火",
+          "url": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed"
+        },
+        {
+          "label": "CNBC：史蒂文斯支持罗杰斯而非埃尔-赛义德",
+          "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+        },
+        {
+          "label": "BBC 世界新闻（阿拉斯加诉讼被驳回）",
+          "url": "https://www.bbc.com/news/world"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "币安被盗续报：币安 11/1 北京时间 14:00 起分阶段恢复提币，首批 15 个网络和资产（含 BTC、ETH、BNB、USDT、USDC、XRP、DOGE）至当晚全部恢复；称已补足约 95% 被盗资产。截至 11/1 23:30（北京时间）处理提币 46.5 亿美元、充值 10.1 亿美元，净流出约 36.4 亿美元，约占其 1,710 亿美元总资产的 2.1%",
+      "tag": "续报：科技/加密",
+      "facts": [
+        "恢复进度：币安称 11/1 06:00 UTC 起分阶段恢复提币，12:36 UTC 首批 15 个网络和资产全部恢复；高峰后提币量回落趋稳，其余网络仍在测试（币安声明，CoinAlerts 转载；TechCrunch）。",
+        "补足：币安称已用公司资金买入替代代币补足约 95%（此前为 90%），剩余 5% 为流动性差、较难大规模买入的代币；BTC、ETH、USDT、BNB、SOL、USDC、XRP 等 10 种资产 100% 足额。资金来自 SAFU 用户保护基金、合约保险基金和公司金库，并承诺把 SAFU 补回约 10 亿美元（路透社、TokenPost）。注意 95% 指补足，不是追回赃款。",
+        "资金流：06:00–15:30 UTC 处理提币 46.49 亿美元、充值 10.1 亿美元，净流出约 36.4 亿美元，按 10/28 储备证明数据约占 1,710 亿美元总资产的 2.1%；10/31 00:00 UTC 的新储备证明快照预计 11/2 发布（币安声明）。",
+        "归因：FBI 10/31 称朝鲜国家支持的 TraderTraitor 团伙负责，观察到其把赃款主要换成以太坊，预计会通过去中心化金融平台和即时兑换服务进一步洗钱；同一团伙被认定为 2025 年 2 月 Bybit 约 15 亿美元被盗案的作案方（路透社、半岛电视台）。"
+      ],
+      "readingA": "首日净流出只占总资产约 2%，提币高峰后迅速回落、充值仍有 10 亿美元，说明用户没有发生挤兑式恐慌；币安在三天内用自有资金基本补足并恢复服务，是中心化平台危机处置的正面案例。",
+      "readingB": "一天之内净流出 36 亿美元并不小，而且只有首批资产恢复、其余仍暂停，真正的压力测试尚未完成；补足靠的是动用保护基金和公司金库，赃款大部分没有追回，朝鲜仍在洗钱，行业对国家级黑客的防御依然薄弱。",
+      "disagree": "分歧在于这次事件最终证明币安和行业的韧性，还是暴露出中心化交易所集中托管的系统性风险。",
+      "synthesis": "可量化的事实是：提币已部分恢复、首日净流出约 2.1%。今天（11/2）要看新储备证明发布、其余资产恢复的节奏，以及净流出是否继续收窄。",
+      "unknown": "剩余资产何时恢复提币；新储备证明的具体结果；被冻结或追回资金的最终金额；完整事件报告何时发布。",
+      "confidence": "高（币安官方数据、FBI 声明，均为公司或官方自述）；中（资金流数据由币安自报，未经第三方审计）",
+      "sources": [
+        {
+          "label": "路透社：币安补足大部分被盗资产后恢复比特币、以太坊提币",
+          "url": "https://au.investing.com/news/stock-market-news/binance-resumes-bitcoin-ether-withdrawals-after-covering-bulk-of-stolen-63-billion-4731668"
+        },
+        {
+          "label": "TechCrunch：币安在 63 亿美元被盗后恢复提币",
+          "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+        },
+        {
+          "label": "半岛电视台：币安在 63 亿美元劫案后重启提币",
+          "url": "https://www.aljazeera.com/news/2026/11/1/binance-restarts-withdrawals-after-6-3bn-heist"
+        },
+        {
+          "label": "CoinAlerts 转载币安声明：提币与充值数据",
+          "url": "https://coinalerts.org/news/articles/709685/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "印度：反对党联盟 INDIA 在新德里罗摩利拉广场举行大规模集会，要求首席选举专员吉亚内什·库马尔辞职，抗议「特别深度修订」使选民名册草案删除逾 1.3 亿个名字；德里警方估计约 4.5 万至 5 万人参加，组织方此前目标为 100 万",
+      "tag": "新：亚洲",
+      "facts": [
+        "集会：由拉胡尔·甘地领导的国大党牵头，国大党主席卡尔格、索尼娅·甘地、普里扬卡·甘地、社会党领袖阿克列什·亚达夫、草根国大党领袖马马塔·班纳吉等出席，口号包括「保卫选票，保卫国家」（BBC、Dynamite News）。",
+        "人数：国大党领导人此前公开预测有 100 万人参加；德里警方估计 4.5 万至 5 万人；BBC、美联社称「数万人」。警方要求下午 5 点前结束、安装监控、不得游行出场地（BBC、Dynamite News）。",
+        "争议：选举委员会称修订是为删除重复登记、已故、迁走或不符合资格者，被错删的选民可申请恢复；反对党称合法选民被删、对穆斯林等少数群体影响尤大，有利于执政的印度人民党。印度人民党和选举委员会否认。《印度快报》9 月报道库马尔在两名选举专员一再反对下仍作出关键决定，选举委员会称意见分歧正常（BBC、半岛电视台）。",
+        "背景：自 9 月底以来，反对党、学生组织和青年组织「蟑螂人民党」几乎每天举行示威，此前曾遭警方镇压；下届大选在 2029 年（半岛电视台、美联社）。"
+      ],
+      "readingA": "删除 1.3 亿个名字规模空前，加上两名选举专员反对、选举委员会内部决策受质疑，反对党的担忧有实质依据；持续一个多月的抗议显示这已成为对印度选举机构公信力的广泛质疑。",
+      "readingB": "大规模清理选民名册本身是正常的行政程序，印度人口流动大、重复和过期登记普遍；被删者可以重新登记，下次大选还有两年多。集会人数远低于组织方预期，说明反对党的动员能力和议题吸引力有限。",
+      "disagree": "分歧在于这次修订是必要的数据清理，还是有选择地剥夺部分选民的投票权，以及选举委员会是否保持了独立性。",
+      "synthesis": "能确定的是：删除规模巨大，选举委员会内部存在异议，反对党持续动员但人数有限。关键在于被删名单是否有独立审计，以及法院是否介入。",
+      "unknown": "被删名字中实际不符合资格的比例；被删者按宗教或地区的分布；最高法院是否受理相关诉讼；库马尔是否面临弹劾程序。",
+      "confidence": "高（集会、删除数字为官方和多家媒体报道）；中（对少数群体影响尤大的说法来自反对党，缺乏公开的分类数据）",
+      "sources": [
+        {
+          "label": "BBC：印度反对党集会反对选民名册修订",
+          "url": "https://www.bbc.com/news/articles/c60qk92dvlwgo"
+        },
+        {
+          "label": "卫报：数万人在德里抗议莫迪政府",
+          "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
+        },
+        {
+          "label": "半岛电视台：数千人在新德里集会要求选举专员辞职",
+          "url": "https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-delhi-demanding-indias-election-chief-resign"
+        },
+        {
+          "label": "美联社：印度反对党在新抗议中要求选举专员辞职",
+          "url": "https://apnews.com/article/india-opposition-protests-voters-elections-cockroach-party-cb532b4811eea64c51f61cd4199fb64e"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "欧洲青年生活成本抗议续报：德国「Z 世代」抗议 10/31 与法国第三周末抗议同日举行，多数城市和平，但法兰克福出现砸店抢劫、柏林 27 名警察受伤，汉堡有路障被点燃；法国一名防暴警察被燃烧瓶击中一事已以谋杀未遂立案",
+      "tag": "续报：欧洲",
+      "facts": [
+        "德国：BBC 称柏林、汉堡、法兰克福、科隆等多地游行白天大体有序，入夜后转为暴力，法兰克福有商店被砸、被抢；路透社称法兰克福暴徒向救援人员投掷烟花、石块和瓶子，警方动用水炮。",
+        "伤亡与逮捕：据德国之声直播和德国媒体汇总，柏林晚间另一场抗议中 27 名警察受伤、最多 56 人被临时拘留，汉堡警方称约 120 人被捕（数字来自搜索摘要汇总，未逐一核实原文）。",
+        "法国：《卫报》称法国已就向防暴警察投掷燃烧瓶一事展开谋杀未遂调查（上一期已报道法国内政部称约 32 万人参加、511 人被捕）。",
+        "诉求：德国抗议以「Z 世代」为名，聚焦生活成本，与法国、葡萄牙等地的青年抗议同步（BBC、Euronews）。"
+      ],
+      "readingA": "德国、法国同日爆发同类青年抗议，说明生活成本和年轻人前景恶化是跨国的结构性问题，暴力是少数人所为，政府应回应诉求而不只是加强治安。",
+      "readingB": "德国的打砸抢和袭警让运动的社会诉求被暴力掩盖，也会削弱公众支持；在没有统一组织和明确诉求的情况下，这类网络动员的抗议容易被少数人利用，治安应对是政府的首要责任。",
+      "disagree": "分歧在于暴力是边缘现象还是运动本身失控的信号，以及政府应先回应经济诉求还是先恢复秩序。",
+      "synthesis": "可以确定的是：青年抗议从法国扩散到德国并出现同步，但组织形式松散，规模和诉求在各国差异较大。看下周末是否继续，以及德法政府是否拿出具体措施。",
+      "unknown": "德国抗议的总参与人数；伤亡和逮捕的官方最终数字；是否有跨国协调的组织者。",
+      "confidence": "高（多家主流媒体报道暴力和抢劫）；中（具体伤亡和逮捕数字来自汇总，未逐一核实）",
+      "sources": [
+        {
+          "label": "BBC：德国生活成本抗议转为暴力，商店遭抢",
+          "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o"
+        },
+        {
+          "label": "Euronews：德国「Z 世代」抗议转为暴力",
+          "url": "https://www.euronews.com/2026/11/01/germany-gen-z-protests-turn-violent-as-shops-looted"
+        },
+        {
+          "label": "德国之声：Z 世代抗议席卷德国多城（直播）",
+          "url": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694"
+        },
+        {
+          "label": "路透社（Investing.com 转载）：法兰克福暴徒抢劫商店",
+          "url": "https://www.investing.com/news/world-news/rioters-loot-stores-in-frankfurt-as-gen-zled-protests-in-germany-turn-violent-4989337"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "西撒哈拉：联合国西撒哈拉全民投票特派团（MINURSO）授权 10/31 午夜到期终止。俄罗斯否决美国起草的延期决议（11 票赞成），该草案拟把摩洛哥自治方案作为唯一谈判基础并删去「全民投票」；俄方替代草案仅获 2 票赞成。摩洛哥欢迎结果，要求联合国人员撤离",
+      "tag": "新：非洲/联合国",
+      "facts": [
+        "投票：俄罗斯 10/30 否决美国草案，该草案获 15 个理事国中 11 国支持，包括法国和英国；俄方另提的「原样延期一年」草案 2 票赞成、1 票反对、11 票弃权，未达 9 票门槛（美联社、路透社，经半岛电视台）。",
+        "草案内容：美国草案拟延期一年、从特派团名称中删去「全民投票」、把摩洛哥自治方案（领土内部自治但主权归摩洛哥）作为后续谈判唯一基础，并要求进行难民人口普查。美国大使沃尔兹称全民投票已停滞数十年；俄罗斯大使涅边贾称安理会不能「预先决定主权问题」（半岛电视台）。",
+        "各方：摩洛哥王室欢迎延期失败，称联合国人员和设备应在几天内撤离、西撒问题应从安理会议程撤下，并表示继续遵守停火；波利萨里奥阵线欢迎俄方否决；阿尔及利亚对未能延期表示遗憾，批评美国草案过度偏袒摩洛哥（半岛电视台）。",
+        "规模与风险：MINURSO 于 1991 年设立，负责监督停火和筹备全民投票，现有 155 名军事人员、本财年预算 6,200 万美元；乐施会警告失去其监督和降温功能可能危及稳定。波利萨里奥自 2020 年宣布恢复武装斗争以来低烈度冲突持续；联合国称「随时准备」继续支持和平解决（半岛电视台、联合国新闻）。"
+      ],
+      "readingA": "全民投票三十多年无法举行，安理会去年已把摩洛哥自治方案作为谈判基础；美国草案只是承认现实，俄罗斯的否决让一个有广泛支持的方案落空，也让维和监督意外终止。",
+      "readingB": "把单方自治方案定为唯一基础，等于在安理会层面预先决定了一块争议领土的主权，违背自决原则；特派团终止后停火缺少第三方监督，难民问题和低烈度冲突都可能恶化。",
+      "disagree": "分歧在于西撒问题应按「现实」以摩洛哥主权下的自治解决，还是应坚持当地人民的自决权；以及特派团终止是推动政治解决的契机还是安全真空的开始。",
+      "synthesis": "事实层面：特派团授权已终止，安理会大国分裂直接导致一项运行 35 年的维和任务结束。接下来看联合国人员撤离进度、停火能否维持，以及安理会是否另寻方案。",
+      "unknown": "联合国人员撤离的时间表；安理会是否会重新讨论；波利萨里奥和阿尔及利亚的下一步；当地停火执行情况。",
+      "confidence": "高（安理会投票结果、各方声明）",
+      "sources": [
+        {
+          "label": "半岛电视台：美俄竞争性西撒决议均在联合国失败",
+          "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un"
+        },
+        {
+          "label": "联合国新闻：MINURSO 结束，联合国随时准备继续支持和平努力",
+          "url": "https://news.un.org/en/story/2026/11/1168717"
+        },
+        {
+          "label": "联合国会议报道：安理会未能通过延长 MINURSO 授权的决议",
+          "url": "https://press.un.org/en/2026/sc16498"
+        },
+        {
+          "label": "美联社：美俄在联合国就西撒前途对立",
+          "url": "https://apnews.com/article/un-western-sahara-morocco-us-russia-polisario-3267317ce19e61bd0f41d90012504c92"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Iran and US explore diplomacy amid rising threats of war",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/1/iran-and-us-explore-diplomacy-amid-rising-threats-of-war"
+    },
+    {
+      "n": 2,
+      "title": "Negotiators 'braced for worst' over US-Iran talks to reopen strait of Hormuz",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+    },
+    {
+      "n": 3,
+      "title": "Ukraine defies Trump to resume attacks on Russian oil refineries",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+    },
+    {
+      "n": 4,
+      "title": "Ukraine never agreed to pause strikes on Russian refineries, sources confirm",
+      "outlet": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-never-agreed-to-pause-strikes-on-russian-refineries-sources-confirm/"
+    },
+    {
+      "n": 5,
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "n": 6,
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "n": 7,
+      "title": "Minor detained after U.S. warned Russia of possible Moscow terrorist attack, FSB says",
+      "outlet": "NBC News",
+      "url": "https://www.nbcnews.com/world/russia/us-warned-russia-possible-moscow-terror-attack-fsb-says-rcna606789"
+    },
+    {
+      "n": 8,
+      "title": "Turmoil in Michigan's Senate race as Stevens endorses Rogers",
+      "outlet": "AP",
+      "url": "https://apnews.com/article/elsayed-michigan-stevens-democrats-unity-midterms-d7053bbd0ed2fd70756896c6e4b66a27"
+    },
+    {
+      "n": 9,
+      "title": "Judge dismisses Trump administration's lawsuit over two Dan Sullivans in Alaska election",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "n": 10,
+      "title": "Trump rallies in Iowa, Kansas to maintain Republican control of US Senate",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/"
+    },
+    {
+      "n": 11,
+      "title": "Connecticut senator Chris Murphy hospitalized after stroke",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 12,
+      "title": "Binance resumes bitcoin, ether withdrawals after covering bulk of stolen $6.3 billion",
+      "outlet": "Reuters",
+      "url": "https://au.investing.com/news/stock-market-news/binance-resumes-bitcoin-ether-withdrawals-after-covering-bulk-of-stolen-63-billion-4731668"
+    },
+    {
+      "n": 13,
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+    },
+    {
+      "n": 14,
+      "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/01/india-opposition-protest-rally-delhi"
+    },
+    {
+      "n": 15,
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqj34gnd3n30o"
+    },
+    {
+      "n": 16,
+      "title": "Attempted murder probe after petrol bomb thrown at French riot police",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 17,
+      "title": "Rival US and Russian resolutions on Western Sahara fail at UN",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/rival-us-and-russian-resolutions-on-western-sahara-fail-at-un"
+    },
+    {
+      "n": 18,
+      "title": "Neoclouds: These firms you've never heard of are feeding fears the AI bubble could burst",
+      "outlet": "BBC",
+      "url": "https://www.bbc.com/news/articles/cje36degrgv5o"
+    },
+    {
+      "n": 19,
+      "title": "OpenAI might rebrand its data centers as 'AI compute campuses'",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/"
+    },
+    {
+      "n": 20,
+      "title": "Parents of woman who died of seizure after ChatGPT misguidance sue OpenAI (suit filed 10/27)",
+      "outlet": "The Guardian / TechCrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
+    },
+    {
+      "n": 21,
+      "title": "Canada and EU announce new alliance open to like-minded countries",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 22,
+      "title": "UK was 'vehement' slavery reparations should not be on Commonwealth summit agenda",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 23,
+      "title": "Tusk defends overhaul of Poland's constitutional court despite protests",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 24,
+      "title": "At least eight Palestinians killed in Israeli attacks across Gaza",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/"
+    },
+    {
+      "n": 25,
+      "title": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/"
+    },
+    {
+      "n": 26,
+      "title": "Serbia arrests police chief over abuse of office allegations",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/"
+    },
+    {
+      "n": 27,
+      "title": "All nine people aboard business jet that crashed in Florida have died",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    },
+    {
+      "n": 28,
+      "title": "Africa's 'unprecedented' Ebola outbreak could reach UK, says top health official",
+      "outlet": "The Guardian",
+      "url": "https://www.theguardian.com/world"
+    }
+  ]
+}
