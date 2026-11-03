@@ -1,0 +1,445 @@
+{
+ "date": "2026-11-03",
+ "title": "早间简报",
+ "windowNote": "窗口：自上一期（北京时间 11/2 约 08:15）至本期（11/3 约 08:10），约 24 小时，覆盖欧美周一（默认规格为 6 小时，沿用近几期的 24 小时窗口）。美国中期选举今日（美东时间 11/3）投票，本期发稿时投票尚未开始，没有任何结果。索引中部分条目只从 BBC、卫报、半岛电视台、TechCrunch 列表页取得标题。",
+ "thinDay": false,
+ "thinDayNote": "本期不是薄日：周一欧美新闻和科技/AI 消息都较多（Marvell–Lumentum 并购、苹果和 Fabrinet 财报、Anthropic 修订招股书、欧洲冷柜网络攻击）。7 条中 4 条为续报（伊朗—霍尔木兹、美国中期选举、俄乌、Anthropic），3 条为新话题（AI 光互联并购、苹果财报、欧洲超市冷柜攻击）。币安续报（10 种资产储备证明已完成、95% 已补足、11/3 起恢复更多网络提币、11/4 再做快照）未单列，见索引。今天（美东 11/3）中期选举投票，币安计划 11/4 做新的储备快照。",
+ "vsYesterday": "相对上一期（11/2）：伊朗从等待美方答复推进到最高领袖授权政府谈判、外长称磋商「密集」、油价跌超 6%，同时又有两艘船遇袭、中国派特使；美国从选前倒戈风波推进到最高法院驳回加州选票案、司法部再起诉 6 人，今天投票；俄乌从乌方打击炼厂推进到奥列什基停火结束、俄军轰炸援助点致 26 死；币安储备证明按时完成（见索引）。Anthropic 从提交 S-1 推进到修订版披露第三季度数据和 RSI 风险表述。新话题：Marvell–Lumentum 并购与 Fabrinet 财报、苹果财报、欧洲超市冷柜网络攻击。印度选民名册抗议、西撒哈拉、欧洲青年抗议（法国学生恢复封锁学校，见《卫报》）无重大新进展。",
+ "stories": [
+  {
+   "id": "1",
+   "title": "伊朗—霍尔木兹：伊朗总统佩泽希齐扬称最高领袖已授予政府与美方谈判的「某些权力」，外长阿拉格齐称经卡塔尔、巴基斯坦斡旋的磋商「非常密集」；布伦特原油一度跌超 6% 至 105.55 美元。特朗普称要么达成协议、要么「落下锤子」，万斯则称取得「一些进展」；海湾又有两艘船遇袭，中国加大中东外交",
+   "tag": "续报：中东",
+   "facts": [
+    "授权：佩泽希齐扬 11/2 称「我们正努力通过对话解决问题，为此最高领袖也授予了政府某些权力」（伊朗国家通讯社 IRNA，经彭博、法新社转述），未说明具体是哪些权力，也未说明伊方谈判立场是否改变。",
+    "磋商：阿拉格齐称经斡旋方的磋商「非常密集」，「我们已提出条件和建议，一切取决于华盛顿的政治理性」（《卫报》引 IRNA）；半岛电视台称斡旋方为卡塔尔和巴基斯坦，伊方同时表示已准备好再次军事对抗。外交部发言人巴盖伊称「两天方案」仍是谈判基础，未说明美方是否接受（《印度时报》）。",
+    "美方：特朗普 11/1 在艾奥瓦州集会上说「我还没收拾完伊朗的唯一原因是我想友善一点……但到某个时候我们得给他们锤子」（《卫报》）。Axios 报道特朗普在与内塔尼亚胡通话时表示仍愿给外交解决更多时间（彭博转述）。万斯 11/2 称「总统和我对通过谈判达成解决的前景都感觉不错……我们确实取得了一些进展」，但特朗普保留「动武和非动武选项」（半岛电视台）。",
+    "市场：布伦特原油 11/2 一度跌超 6.5% 至每桶 105.55 美元，为 10/16 以来最低；英国 10 年期国债收益率降 10 个基点，英航母公司 IAG 涨 4.2%，美联航涨 7%（《卫报》）。",
+    "海峡：英国海上贸易行动办公室（UKMTO）称 11/1 15:09 UTC 霍尔木兹海峡内有船只被不明弹药击中，23:47 UTC 一艘油轮在沙特海夫吉以东 72 海里处被两枚不明弹药击中，船员均安全。联合海事信息中心统计 10/6 以来海峡内已确认 18 起袭击，11/1 约有 490 艘船在海峡外等待（gCaptain）。",
+    "中国：王毅 11/2 在北京会见伊朗最高国家安全委员会副秘书巴盖里·卡尼，称对话谈判是「唯一可行出路」；习近平接待阿曼苏丹海塞姆国事访问，双方签署 14 份合作文件并呼吁恢复海峡安全通航；外交部宣布中东问题特使翟隽本月将访问伊朗、阿曼和沙特（半岛电视台）。"
+   ],
+   "readingA": "最高领袖公开授权政府谈判是伊朗体制内少见的信号，加上伊方称磋商密集、万斯称有进展、特朗普私下同意多给时间，说明双方都在为选举后的分阶段协议铺路；油价单日大跌反映市场也这样理解，中国和阿曼的介入增加了外交解决的支持面。",
+   "readingB": "授权内容不明，伊方核心条件（解除封锁、解除石油制裁、黎巴嫩停火）没有改变，并同时声称准备再战；特朗普在选前最后几天仍公开威胁「落锤」，海峡袭船也在继续。市场乐观可能过早，正如分析师所说，特朗普仍可能在中期选举后「最后掷一次铁骰子」。",
+   "disagree": "分歧在于这次授权是伊朗决定实质让步的前奏，还是为了在谈判中显示灵活、同时把破裂的责任推给美方；以及美方的「进展」说法是否会在选举后兑现。",
+   "synthesis": "可确认的是：谈判正在加速、市场明显押注缓和，但双方公开条件都没变、军事威胁和袭船仍在。选举结束后的几天是关键，看美方是否正式回应、授权具体指什么、海峡通航数据是否回升。",
+   "unknown": "最高领袖授予的具体权力范围；美方是否已书面回复两天方案；60 亿美元资产释放进展；11/1 两起袭船的船名和受损情况。",
+   "confidence": "高（官方表态、UKMTO 公告、市场数据）；中（Axios 关于特朗普—内塔尼亚胡通话为单一信源转述）",
+   "sources": [
+    {
+     "label": "卫报：伊朗战争有望突破，油价下跌",
+     "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+    },
+    {
+     "label": "半岛电视台直播：德黑兰称美伊谈判「密集」进行，战争选项仍在",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"
+    },
+    {
+     "label": "彭博（Energy Connects 转载）：哈梅内伊授权政府就战争举行谈判",
+     "url": "https://www.energyconnects.com/news/oil/2026/november/iran-s-khamenei-gives-government-powers-to-hold-talks-on-war/"
+    },
+    {
+     "label": "gCaptain：新一波袭击波及霍尔木兹和波斯湾油轮",
+     "url": "https://gcaptain.com/new-wave-of-attacks-hits-tankers-and-lng-carrier-in-strait-of-hormuz-and-persian-gulf/"
+    },
+    {
+     "label": "UKMTO 警告 192-26",
+     "url": "https://www.ukmto.org/-/media/ukmto/products/20261102-ukmto_warning-192-26.pdf"
+    },
+    {
+     "label": "半岛电视台：中国借会见伊朗、阿曼加大中东外交",
+     "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings"
+    }
+   ]
+  },
+  {
+   "id": "2",
+   "title": "美国中期选举今日投票（北京时间本期发稿时尚未开始计票）：最高法院驳回特朗普政府要求加州隔离约 2 万张疑似非公民选票的紧急申请；司法部在加州再起诉 6 名绿卡持有人；密歇根史蒂文斯倒戈风波发酵，舒默称其「卑劣的背叛」，埃尔-赛义德阵营称一天筹款逾 240 万美元",
+   "tag": "续报：美国",
+   "facts": [
+    "最高法院：11/2 拒绝受理特朗普政府的紧急请求，此前多级下级法院已支持加州。司法部 10 月中旬向洛杉矶和萨克拉门托选举官员交付约 2 万个它称为非公民的名字，要求在核实公民身份前隔离这些选票，但拒绝公开方法；联邦法官卡特 10/28 驳回时写道「美国历史上从未有联邦政府在选举前夕试图胁迫州和地方政府放弃自身宪法选举程序」（《卫报》）。",
+    "新起诉：洛杉矶联邦检察官埃萨伊利宣布起诉 6 名合法永久居民，罪名均为在入籍申请中虚假陈述（称从未登记投票），5 人已被捕；司法部 10 月已在加州起诉 28 人。一个移民权益组织称名单中逾 40% 的人在州选民名册上查无此人；埃萨伊利承认名单「可能不是 100%」准确。另有联邦法官上周裁定埃萨伊利任职「不合法」，司法部正在上诉（《卫报》）。",
+    "密歇根：参议院少数党领袖舒默称史蒂文斯支持共和党人罗杰斯是「卑劣的背叛」，佩洛西、纽约市长曼达尼也予以谴责；埃尔-赛义德阵营称 11/1 筹款逾 240 万美元、2.6 万多人首次捐款。史蒂文斯在 CNN 上称「我只是这样投我的一票」，并自比宾州参议员费特曼；特朗普称赞她并邀她加入共和党，罗杰斯称其「勇敢」（《卫报》）。",
+    "其他：特朗普 11/2 在林肯纪念堂倒影池收官，承认执政党通常输掉中期选举，并称若国会由民主党控制他将当「否决先生」；他仍称阿拉斯加选举「欺诈」，而法官格利森 11/1 已驳回司法部的相关诉讼。民调显示伊朗战争、能源价格和生活成本可能让民主党表现强势；得州参议员选举民调塔拉里科小幅领先帕克斯顿。联邦法院 11/2 还听取了关于 ICE 武装人员能否进入投票站的诉讼（半岛电视台）。"
+   ],
+   "readingA": "最高法院和多名联邦法官在选前连续驳回联邦政府介入州选举的做法，说明司法制衡在关键时刻起作用；名单错误率高、起诉罪名并非投票欺诈本身，支持「司法部意在制造舞弊印象」的批评。",
+   "readingB": "非公民投票即便罕见也是违法行为，司法部起诉的个案有具体证据；最高法院只是拒绝紧急介入，并未就实体问题作出裁决。民主党内部倒戈和以色列议题分歧也提醒外界，选情并非一边倒。",
+   "disagree": "分歧在于联邦政府这一轮行动是正当执法，还是对选举的施压与干预；以及民调所示的民主党优势是否可靠。",
+   "synthesis": "能确定的是：选前最后一天，法院层面的争议以联邦政府败诉告终，但起诉和「欺诈」言论仍在继续，可能影响选后对结果的接受度。今晚（美东时间）计票开始后，要关注密歇根、得州、阿拉斯加、缅因等关键参议院席位和众议院归属。",
+   "unknown": "投票结果；选后联邦政府是否在加州、华盛顿州、阿拉斯加继续挑战认证；ICE 投票站诉讼的裁决；史蒂文斯事件对密歇根票数的实际影响。",
+   "confidence": "高（法院裁决、起诉文件、当事人公开表态）；中（民调走势、筹款数字为竞选团队自报）",
+   "sources": [
+    {
+     "label": "卫报：最高法院在加州选票问题上裁定特朗普败诉",
+     "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots"
+    },
+    {
+     "label": "卫报：司法部在加州「选民欺诈」行动中再起诉 6 人",
+     "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges"
+    },
+    {
+     "label": "卫报：「卑劣的背叛」——民主党人对史蒂文斯背书罗杰斯愤怒",
+     "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers"
+    },
+    {
+     "label": "半岛电视台：特朗普、万斯在中期选举前最后一天造势",
+     "url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms"
+    }
+   ]
+  },
+  {
+   "id": "3",
+   "title": "俄乌：俄军轰炸扎波罗热州科梅舒瓦哈村一所用作人道援助发放点的学校，泽连斯基称 26 人死亡，称首轮空袭后又有九枚炸弹直接落在人群聚集的掩体上；赫尔松方向在为期六天的奥列什基停火结束后重燃战火，乌方无人机第五次击中萨马拉炼油厂",
+   "tag": "续报：俄乌",
+   "facts": [
+    "袭击：泽连斯基 11/2 称遇难者 26 人（比紧急部门早前通报多 2 人），另有 5 人受伤；死者包括一名警察和两名国家紧急服务局救援人员。他说「俄罗斯人不可能不知道」留守居民每周都在那里领取援助，「这再次证明俄罗斯不想要任何降级」。地方官员称救援时俄无人机又在同一地点发动袭击（半岛电视台、BBC）。",
+    "赫尔松：BBC 称奥列什基停火是全面入侵以来最长的一次，数百名被困居民得以撤离；11/2 上午地方当局确认袭击恢复，俄方击中赫尔松市中心一处医疗设施。乌总参谋部指俄方利用停火轮换部队、运送弹药，克里姆林宫发言人佩斯科夫称乌军「也利用这段时间重组」是「标准做法」，并称没有类似停火计划（BBC）。",
+    "能源战：BBC 称乌方无人机袭击了俄罗斯四个地区的能源设施，萨马拉炼油厂一个月内第五次被击中；俄国防部称一夜击落 212 架乌方无人机（半岛电视台、BBC）。",
+    "其他：哈尔科夫州无人机袭击致 12 人受伤，敖德萨 5 人受伤；乌克兰空袭警报应用被黑、推送虚假核辐射警告，当局称不到一小时内澄清（半岛电视台、《卫报》）。"
+   ],
+   "readingA": "在人道停火刚结束后即轰炸援助点并对救援人员二次打击，显示俄方并无降级意图，奥列什基停火只是为照顾美俄关系的「特例」；国际社会应据此加大对俄压力。",
+   "readingB": "停火结束后双方都迅速恢复进攻：俄方承认双方都利用停火重组，乌方同日继续打击俄炼厂。双方都在冬季前争取筹码，单一事件很难改变整体战局，奥列什基模式本身就是政治产物。",
+   "disagree": "分歧在于这次袭击应被视为俄方蓄意针对平民的证据，还是持续战争中双方相互升级的一部分；以及局部停火能否成为更大停火的起点。",
+   "synthesis": "能确定的是：最长的一次局部停火结束当天，前线和后方的打击都立即恢复，克里姆林宫明确表示没有复制计划。冬季能源战和平民伤亡可能继续上升。",
+   "unknown": "俄方对科梅舒瓦哈袭击的回应；萨马拉炼厂受损程度；美方对袭击的反应；是否有新的人道停火倡议。",
+   "confidence": "高（多家媒体引乌方官员和克宫表态）；中（伤亡数字来自乌方，未经独立核实）",
+   "sources": [
+    {
+     "label": "半岛电视台：俄军轰炸乌克兰援助中心致 26 人死亡",
+     "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
+    },
+    {
+     "label": "BBC：俄军轰炸乌克兰人道援助中心致 26 死",
+     "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+    },
+    {
+     "label": "BBC：最长停火结束后赫尔松重燃战火",
+     "url": "https://www.bbc.com/news/articles/ckg5jlyp66jzo"
+    },
+    {
+     "label": "半岛电视台：俄乌核辐射警报？只是被黑的预警系统",
+     "url": "https://www.aljazeera.com/news/2026/11/2/nuclear-radiation-in-russia-ukraine-no-just-hacked-warning-alerts"
+    }
+   ]
+  },
+  {
+   "id": "4",
+   "title": "AI 光互联：Marvell 宣布以全股票方式收购 Lumentum，按 10/28 股价计企业价值约 1,150 亿美元、跻身科技史最大并购之列；消息公布当天 Marvell 股价跌约 13%、Lumentum 跌约 18.6%。同日盘后 Fabrinet 公布季度营收增长 51%、指引超预期，盘后股价涨约 11%",
+   "tag": "新：科技/半导体",
+   "facts": [
+    "条款：每股 Lumentum 换 4.5 股 Marvell，按 10/28 未受影响股价计每股约 1,132 美元、溢价约 23.9%；企业价值约 1,150 亿美元（含债务），股权价值约 800 亿美元。合并后 Marvell 股东约持 67%，由 Marvell CEO 马特·墨菲执掌，预计 2028 年上半年完成，需双方股东和监管批准（TechCrunch、MarketWatch、《经济时报》）。",
+    "逻辑：Marvell 称要把电互联与光互联结合，满足 AI 数据中心连接需求；双方预计年成本节约逾 10 亿美元。英伟达 3 月曾分别向两家各投资 20 亿美元（TechCrunch、CNBC、Motley Fool）。",
+    "市场：CNBC 称 Marvell 当天跌约 13%、Lumentum 跌近 19%；Motley Fool 称因固定换股比例，按盘中价计报价已缩水至约每股 800 美元、总计约 812 亿美元，两家合计蒸发近 280 亿美元市值。Lumentum 同日公布季度营收 12.6 亿美元（同比 +136.5%）、调整后每股收益 4.57 美元，下季营收指引约 16 亿美元。",
+    "Fabrinet：截至 9/25 的季度营收 14.745 亿美元，同比增长 51%；非 GAAP 每股收益 4.34 美元（市场预期 4.19）；下季营收指引 16–16.5 亿美元；扩大回购 1.03 亿美元，并计划 1 月起在泰国春武里园区建设 11 号厂房（公司公告、财报电话会）。Investing.com 称其常规交易收于 314.70 美元后盘后涨 11.4%。"
+   ],
+   "readingA": "AI 数据中心正从铜缆转向光连接，Marvell 与 Lumentum 合并可提供从芯片到激光器的完整方案、与博通竞争；Lumentum 和 Fabrinet 的业绩都显示光模块需求仍在加速，交易有真实的产业基础。",
+   "readingB": "两只股票同时大跌说明市场对估值、稀释和整合风险的担忧，在 AI 资本开支被质疑的时点以全股票方式付出高溢价，可能是周期顶部的信号；交割要等到 2028 年，监管（包括中国审批）不确定性很大。",
+   "disagree": "分歧在于这笔交易是对 AI 光互联长期趋势的合理押注，还是 AI 热潮中的高位并购。",
+   "synthesis": "可量化的是：上游光器件公司的营收在加速增长，但市场对大规模并购的定价是负面的。之后看交易价差变化、监管审批进展，以及 11 月中旬英伟达财报对 AI 需求的验证。",
+   "unknown": "监管审批（尤其中国）能否通过；双方股东投票；成本节约能否实现；AI 资本开支周期的持续性。",
+   "confidence": "高（公司公告、财报数据）；中（股价反应为单日数据，Lumentum 跌幅各家口径略有差异）",
+   "sources": [
+    {
+     "label": "TechCrunch：Marvell 以 1,150 亿美元收购 Lumentum",
+     "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+    },
+    {
+     "label": "CNBC：Marvell 以全股票方式收购 Lumentum",
+     "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html"
+    },
+    {
+     "label": "Motley Fool：Lumentum 股价为何下跌",
+     "url": "https://www.fool.com/investing/2026/11/02/why-lumentum-stock-fell-14-9-today/"
+    },
+    {
+     "label": "Fabrinet 2027 财年第一季度业绩公告",
+     "url": "https://www.globenewswire.com/news-release/2026/11/02/3393751/0/en/fabrinet-announces-first-quarter-fiscal-year-2027-financial-results.html"
+    },
+    {
+     "label": "Investing.com：Fabrinet 业绩超预期、盘后大涨",
+     "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-fabrinet-posts-q1-2027-beat-as-stock-jumps-after-hours-93CH-4993155"
+    }
+   ]
+  },
+  {
+   "id": "5",
+   "title": "苹果：新任 CEO 特纳斯首份财报，7–9 月季度营收 1,144.8 亿美元（+12%）、每股收益 2.10 美元，均超预期，iPhone 营收 575.8 亿美元；但因内存芯片成本「前所未有」地上涨，预计假日季毛利率降至 45%–46%，服务增长指引低于预期，电话会期间股价一度跌约 4%；折叠屏 iPhone Duo 供不应求",
+   "tag": "新：科技",
+   "facts": [
+    "业绩：苹果 2026 财年第四季度（7–9 月）营收 1,144.8 亿美元，同比增 12%，高于 LSEG 统计的 1,133.9 亿美元预期；每股收益 2.10 美元（含关税退款 5 美分），预期 1.99 美元；净利润 307.1 亿美元。iPhone 营收 575.8 亿美元（不含 Duo），Mac 107.9 亿美元，服务 315.7 亿美元基本符合预期；iPad 62.3 亿美元、可穿戴 83.0 亿美元低于预期（路透社、《卫报》/美联社）。",
+    "指引：预计 12 月季度毛利率 45%–46%（本季 47.9%），服务营收增长 8%–9%，低于分析师预期的 10.7%。路透社称盘后股价起初变化不大，电话会公布展望后一度下跌 4%（路透社）。",
+    "内存：特纳斯称「我们现在看到的内存价格前所未有」，预计 12 月季度及以后内存成本继续上涨；库存从上季 110.9 亿美元增至 145.4 亿美元，同比增 154%；制造采购承诺 6 月至 9 月增加 330 亿美元。COO 萨比·汗未排除继续涨价（TechCrunch）。",
+    "iPhone Duo：汗称 Duo「目前供不应求……很难预测何时供需平衡」；特纳斯对路透社称因屏幕问题退回的比例「非常小」。Siri 每天处理 25 亿次请求（TechCrunch、路透社）。"
+   ],
+   "readingA": "在谷歌、亚马逊、英特尔等财报令人失望的季度，苹果营收和利润都超预期，iPhone 和 Mac 强劲、Duo 供不应求，说明其对 AI 基础设施的「克制」投入保护了现金流，新 CEO 开局稳健。",
+   "readingB": "真正的问题在前瞻：AI 推高的内存成本正在侵蚀毛利，苹果已经涨价并大量囤货，服务增长放缓、Duo 产能受限，意味着利润率压力会持续到明年；苹果并没有免于 AI 周期的成本冲击。",
+   "disagree": "分歧在于苹果是 AI 周期中的「避风港」，还是会成为内存涨价的主要受害者之一。",
+   "synthesis": "事实上业绩和指引同时传递了两种信号：需求强、成本升。之后看假日季实际毛利率、Duo 交付速度，以及其他硬件厂商在内存成本上的表现。",
+   "unknown": "内存价格何时见顶；Duo 产能爬坡时间表；是否再次涨价；服务增长放缓的具体原因。",
+   "confidence": "高（公司公布数据、管理层电话会原话）；注：美联社稿把该季度称为「第三财季」，苹果官方为财年第四季度",
+   "sources": [
+    {
+     "label": "路透社（Investing.com 转载）：苹果预计成本上升、服务放缓，股价下滑",
+     "url": "https://www.investing.com/news/stock-market-news/apple-results-beat-wall-street-expectationson-strong-iphone-sales-4992898"
+    },
+    {
+     "label": "TechCrunch：内存成本攀升，苹果库存激增 154%",
+     "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/"
+    },
+    {
+     "label": "TechCrunch：苹果称难以预测 iPhone Duo 供应何时改善",
+     "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/"
+    },
+    {
+     "label": "卫报/美联社：苹果营收超预期，特纳斯首份财报",
+     "url": "https://www.theguardian.com/technology/2026/nov/02/apple-third-quarter-revenue-earnings"
+    },
+    {
+     "label": "苹果新闻稿：第四季度业绩",
+     "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+    }
+   ]
+  },
+  {
+   "id": "6",
+   "title": "欧洲超市冷柜遭第二波疑似网络攻击：比利时、爱沙尼亚、爱尔兰、芬兰、卢森堡、荷兰、瑞典至少七国的连锁超市称冷藏冷冻设备温度一夜升至最高 50°C，德尔海兹、家乐福比利时、宜家、SuperValu 等受影响；欧盟委员称这是「蓄意破坏食品供应链」，无人认领",
+   "tag": "新：欧洲/网络安全",
+   "facts": [
+    "范围：Ahold Delhaize 称比利时和卢森堡数十家门店受影响；家乐福比利时约 700 家店中约 15 家、Intermarché 15 家、Colruyt 5 家；爱尔兰 SuperValu 223 家店中 13 家的某一型号制冷系统受影响；瑞典 Coop 6 家，ICA 称「少数门店」；荷兰 NOS 称至少 17 家小店（《卫报》）。",
+    "手法：为德尔海兹运营制冷系统的 Sabcobel 公司 CEO 称这是网络攻击，蒸发器被切换到除霜模式；爱沙尼亚制冷供应商称攻击者入侵控制制冷系统的电脑并把温度调到 50°C。瑞典国家网络安全中心负责人称该国有「相当多暴露在外的运营技术设备」需要更新或打补丁（《卫报》引路透社）。",
+    "前情：10 月法国约 700 家超市的冷柜遭类似攻击，造成数千万欧元损失，被劫持的控制器主要来自丹麦 Danfoss，该公司称去年已发现漏洞并建议更新；巴黎检方已立案，法国网络安全局称另有两家厂商的控制器也被利用（《卫报》）。",
+    "定性：欧盟食品和农业委员汉森称这是「蓄意扰乱食品供应链、破坏消费者信心的企图」。SentinelOne 研究员称没有勒索要求，指向破坏；Tributech 研究员称法国事件后仍有数千台控制器可从互联网访问。目前无人认领，当局未指认攻击者（《卫报》、TechCrunch）。"
+   ],
+   "readingA": "两周内两次跨国、同类手法、无勒索要求，指向有组织的破坏行动；在俄乌战争背景下，欧洲当局担心这是国家支持的混合攻击，应把零售和食品冷链纳入关键基础设施保护。",
+   "readingB": "攻击利用的是已知但未修补的控制器漏洞，联网设备大量暴露在外，任何有能力的团伙都可以低成本复制；在没有证据前把它归于某个国家可能过早，更紧迫的是厂商和零售商的基础安全工作。",
+   "disagree": "分歧在于这是国家主导的混合战争行为，还是利用普遍漏洞的犯罪或破坏团伙所为；以及责任主要在攻击者归因，还是在设备厂商和运营方的安全疏失。",
+   "synthesis": "能确定的是：同类攻击在法国之后扩散到至少七国，物联网设备的安全短板已造成实际经济损失。接下来看各国调查是否归因、Danfoss 等厂商的补丁覆盖率，以及欧盟是否出台针对性措施。",
+   "unknown": "攻击者身份和动机；本轮使用的控制器品牌；总损失金额；是否会扩散到其他行业的联网设备。",
+   "confidence": "高（多家零售商和官方确认）；低（攻击者身份，目前无任何归因）",
+   "sources": [
+    {
+     "label": "卫报：欧洲多国超市冷柜遭新一轮疑似网络攻击",
+     "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+    },
+    {
+     "label": "卫报：谁在攻击欧洲超市冷柜，为什么？",
+     "url": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why"
+    },
+    {
+     "label": "TechCrunch：新一波网络攻击袭击欧洲超市冷柜",
+     "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/"
+    },
+    {
+     "label": "BBC：欧洲七国商店冷柜遭网络攻击",
+     "url": "https://www.bbc.com/news/articles/cq1kd1nee80eo"
+    }
+   ]
+  },
+  {
+   "id": "7",
+   "title": "Anthropic 修订版招股书：前九个月营收 332.4 亿美元、同比增约 1,200%，第三季度营收约 170 亿美元但环比增速降至 47%；算力等采购和租赁承诺约 8,954 亿美元。风险因素新增表述称，按内部估计其可能「即将」达到自身安全政策中「由 AI 导致的显著加速进展」门槛，即所谓「递归自我改进」",
+   "tag": "续报：AI",
+   "facts": [
+    "财务：修订版 S-1 显示截至 9/30 的九个月营收 332.4 亿美元，净亏损 1,040 亿美元，其中大部分来自可转换票据和衍生负债的公允价值变动；第三季度营收约 170 亿美元，同比增约 1,127%，环比增 47%（第二季度 144%、第一季度 132%），第三季度净亏损 232.9 亿美元。仍未公布发行价区间（CNBC）。",
+    "承诺：采购承诺和租赁协议总承诺支出约 8,954 亿美元，「几乎全部与算力和基础设施相关」；前九个月算力和基础设施费用增加 144 亿美元，增幅 329%（CNBC）。",
+    "RSI 表述：新增风险因素称，越来越多用 AI 加速自身研发，可能使模型能力进步快于安全措施；公司「过去曾未能、将来也可能无法」在发生之前识别研发速度的大幅加速；「根据内部估计和对未来模型的预期……我们可能即将达到负责任扩展政策中『由 AI 导致的显著加速进展』的定义」，但目前没有任何模型被认定超过该门槛（TechCrunch 引原文）。",
+    "承诺人类控制：文件称预计无法在缺乏有意义的人类监督和理解的情况下，安全地用 Claude 完全自主地设计和构建下一代前沿模型，并正在考虑更新负责任扩展政策，以确保人类掌控前沿模型开发（TechCrunch）。"
+   ],
+   "readingA": "一家即将上市的公司在法定文件中主动披露「可能即将」触及自我加速门槛，并承认过去未能及时识别加速，这是前所未有的风险透明度；监管机构和公众应认真对待，提前讨论治理安排。",
+   "readingB": "招股书既是披露也是营销，「接近自我构建 AI」的说法本身有提升估值的效果；同一份文件显示营收增速明显放缓、承诺支出近 9,000 亿美元，投资者更该关注的是增长可持续性和算力融资风险。",
+   "disagree": "分歧在于这段 RSI 表述是负责任的安全披露，还是为 IPO 叙事服务的措辞；以及关注重点应放在 AI 安全治理，还是公司的财务风险。",
+   "synthesis": "可确认的是：文件的确写入了「可能即将」达到内部门槛的表述，同时承认目前没有模型越过该线；财务上营收规模巨大但环比增速放缓、长期承诺极高。路演和定价时，这两方面都会受到检验。",
+   "unknown": "「显著加速进展」的具体衡量方法；IPO 发行价区间和时间；近 9,000 亿美元承诺的期限结构；监管机构是否回应。",
+   "confidence": "高（SEC 文件原文、CNBC 和 TechCrunch 引述）；中（对 RSI 表述含义的解读属评论）",
+   "sources": [
+    {
+     "label": "TechCrunch：Anthropic 警告其非常接近 RSI 能力",
+     "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+    },
+    {
+     "label": "CNBC：Anthropic 修订版 S-1 公布第三季度营收约 170 亿美元",
+     "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+    },
+    {
+     "label": "SEC EDGAR：Anthropic S-1/A",
+     "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm"
+    }
+   ]
+  }
+ ],
+ "index": [
+  {
+   "n": 1,
+   "title": "Oil price falls amid hope of a breakthrough to end Iran war",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war"
+  },
+  {
+   "n": 2,
+   "title": "Iran war live: Tehran says 'intensive' US talks ongoing, war still on table",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/iran-war-live-tankers-hit-in-hormuz-trump-again-says-conflict-to-end-soon"
+  },
+  {
+   "n": 3,
+   "title": "Pezeshkian says Khamenei granted government 'certain authorities' over peace talks",
+   "outlet": "Iran International",
+   "url": "https://www.iranintl.com/en/202611025177"
+  },
+  {
+   "n": 4,
+   "title": "New wave of attacks hits tankers and LNG carrier in Strait of Hormuz and Persian Gulf",
+   "outlet": "gCaptain",
+   "url": "https://gcaptain.com/new-wave-of-attacks-hits-tankers-and-lng-carrier-in-strait-of-hormuz-and-persian-gulf/"
+  },
+  {
+   "n": 5,
+   "title": "China steps up Middle East diplomacy with Iran and Oman meetings",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings"
+  },
+  {
+   "n": 6,
+   "title": "Supreme court rules against Trump over bid to force California to set aside ballots",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/supreme-court-trump-california-ballots"
+  },
+  {
+   "n": 7,
+   "title": "Trump's DoJ charges six more people in 'voter fraud' crackdown in California",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges"
+  },
+  {
+   "n": 8,
+   "title": "'A despicable betrayal': Democrats incensed by Haley Stevens's endorsement of Mike Rogers",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers"
+  },
+  {
+   "n": 9,
+   "title": "Trump, Vance campaign with candidates on last day before US midterms",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms"
+  },
+  {
+   "n": 10,
+   "title": "US midterms campaign set to be most expensive ever recorded",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/cqkgk64z7p58o"
+  },
+  {
+   "n": 11,
+   "title": "Russian bombing kills 26 people at humanitarian aid centre in Ukraine, Kyiv says",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/cjy56dndlyz0o"
+  },
+  {
+   "n": 12,
+   "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/ckg5jlyp66jzo"
+  },
+  {
+   "n": 13,
+   "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/cwx28mngxz8do"
+  },
+  {
+   "n": 14,
+   "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/"
+  },
+  {
+   "n": 15,
+   "title": "Fabrinet announces first quarter fiscal year 2027 financial results",
+   "outlet": "GlobeNewswire",
+   "url": "https://www.globenewswire.com/news-release/2026/11/02/3393751/0/en/fabrinet-announces-first-quarter-fiscal-year-2027-financial-results.html"
+  },
+  {
+   "n": 16,
+   "title": "Apple forecasts rising costs, lower services; shares slip",
+   "outlet": "Reuters",
+   "url": "https://www.investing.com/news/stock-market-news/apple-results-beat-wall-street-expectationson-strong-iphone-sales-4992898"
+  },
+  {
+   "n": 17,
+   "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack"
+  },
+  {
+   "n": 18,
+   "title": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+  },
+  {
+   "n": 19,
+   "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+   "outlet": "CNBC",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+  },
+  {
+   "n": 20,
+   "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+   "outlet": "The Block",
+   "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321"
+  },
+  {
+   "n": 21,
+   "title": "Germany says lawmakers' iPhones may have been hacked with spyware",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/"
+  },
+  {
+   "n": 22,
+   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+  },
+  {
+   "n": 23,
+   "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+   "outlet": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/"
+  },
+  {
+   "n": 24,
+   "title": "Trump to remove Rwanda and South Africa from US trade deal",
+   "outlet": "BBC",
+   "url": "https://www.bbc.com/news/articles/c9j346xg0mkvo"
+  },
+  {
+   "n": 25,
+   "title": "Drone attacks extend campaign targeting Sudan's power system",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system"
+  },
+  {
+   "n": 26,
+   "title": "Thousands evacuated as India braces for second cyclone in a week",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week"
+  },
+  {
+   "n": 27,
+   "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
+   "outlet": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting"
+  },
+  {
+   "n": 28,
+   "title": "Reddit and libertarian group challenge Australia's under-16s social media ban in high court",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project"
+  },
+  {
+   "n": 29,
+   "title": "Washington state resident dies from 'severe illness' after contracting bird flu",
+   "outlet": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/02/bird-flu-death-washington"
+  }
+ ]
+}
