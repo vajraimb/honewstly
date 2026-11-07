@@ -1,0 +1,380 @@
+{
+  "date": "2026-11-07",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/6 约 08:00）至本期（11/7 约 08:00），约 24 小时，覆盖欧美周五交易日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。今日为周六，周末薄日风险升高（美股已收盘，隔夜新鲜进展相对有限），但周五仍有白宫幕僚长换人、科技股部分反弹、欧洲航班恐吓再起、OpenAI 融资与密西西比参议员计票等实质更新。索引条目取自 BBC、卫报、半岛电视台、CNBC、TechCrunch、The Verge 的 RSS 列表。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：周五密集落地白宫幕僚长换人、科技股部分反弹与亚欧跟跌、欧洲航班恐吓第三波并扩至媒体、OpenAI 融资首期与阿姆斯特丹数据中心工地抗议、密西西比法律战升级、卡塔尔公开催促美伊务实停火。但时点为周六上午，存在周末薄日风险（美股休市、隔夜增量有限）。6 条中 1 条为新话题（米勒接任幕僚长），5 条为续报。",
+  "vsYesterday": "相对上一期（11/6）：周四纳指暴跌逾 5.5% 后，周五美股科技股部分收复——纳指收涨约 1.1%、标普涨约 0.3%，但亚欧市场仍重挫（日经与韩国综指跌约 6%）；特朗普宣布斯蒂芬·米勒接替苏茜·威尔斯出任白宫幕僚长，周一上任；密西西比参议员选举科洛姆领先扩大至约 2,000–2,500 票，双方律师进驻；欧洲航班假炸弹恐吓再扰动至少约 18 架次并扩至媒体机构；OpenAI 据报完成约 110 亿美元融资（估值约 1.25 万亿美元，低于此前目标），CFO 称将继续投建数据中心；卡塔尔首相敦促美伊勿等「完美时机」谈和，伊通社称两枚导弹击中霍尔木兹附近格什姆岛。上一期的英国央行加息、梅拉尼娅斡旋俄乌无重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "特朗普任命斯蒂芬·米勒接替苏茜·威尔斯出任白宫幕僚长，周一上任；威尔斯周四夜递交辞呈，将转任「特朗普政治运作」；民主党领袖称米勒是「危险的仇外者」，舒默称特朗普「什么都没学到」",
+      "tag": "新：美国",
+      "facts": [
+        "任命：特朗普周五在 Truth Social 宣布，现任副幕僚长斯蒂芬·米勒将自 11/9（周一）起出任白宫第 33 任幕僚长，称其为「最受信赖的顾问之一」；苏茜·威尔斯「表现出色」，将转至「特朗普政治运作」（白宫声明、CNBC、卫报、半岛电视台）。",
+        "离任过程：威尔斯周四夜递交辞呈；周五称「今天是我担任白宫幕僚长的最后一天」，「为总统与使命的承诺不会改变」。特朗普对记者称「我想做个改变」「斯蒂芬从一开始就跟我在一起，他懂」（卫报、CNBC）。威尔斯是特朗普任内任职最长的幕僚长，也是首位女性白宫幕僚长。",
+        "米勒背景：2016 年起追随特朗普，本届任副幕僚长兼国土安全顾问，是强硬移民政策与大规模驱逐的主要推手；过百名民主党议员曾联名要求将其解职（卫报）。万斯、国防部长赫格塞斯等公开祝贺；特朗普政治运作官方账号发帖「It's Miller time」。",
+        "民主党反应：众院少数党领袖杰弗里斯称米勒是「危险的仇外者与鲁莽极端分子」；参院少数党领袖舒默称特朗普「什么都没学到」，民主党多数将「每一步都与之斗争」；可能出任监督委员会主席的加西亚称「米勒该找律师」（CNBC、半岛电视台）。前奥巴马顾问阿克塞尔罗德称，对希望总统转向与新国会合作的人来说，任命米勒「像一桶冰水」。"
+      ],
+      "readingA": "在中期惨败三天后提拔最极化的核心幕僚，等于公开拒绝「向中间靠拢」叙事：特朗普把失利归咎于幕僚而非自身路线，并用米勒向基本盘与即将掌权的民主党发出对抗信号。",
+      "readingB": "威尔斯转任政治运作不等于出局；米勒擅长政策与宣传，未必擅长管理庞大白宫机器。国会调查与拨款权在民主党手里，强硬人事也可能加速对立与僵局，而非巩固执政能力。",
+      "disagree": "分歧在于这是选后清算与备战调查的战略选择，还是情绪化人事；以及米勒上任会强化移民与调查对抗，还是因行政权受限而更多停留在姿态。",
+      "synthesis": "能确定的是：中期失利后特朗普立刻更换幕僚长，由强硬派米勒接任、周一生效，民主党已预告调查与对抗。接下来要看米勒首周人事与议程、司法部等高官是否继续出走，以及新国会筹备期的监督清单。",
+      "unknown": "威尔斯在政治运作中的实际权力；米勒是否再动其他内阁/白宫人事；民主党首批针对米勒的调查范围。",
+      "confidence": "高（总统公告、当事人声明与多家媒体交叉）",
+      "sources": [
+        {
+          "label": "卫报：米勒将出任白宫幕僚长",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+        },
+        {
+          "label": "CNBC：特朗普称米勒接替威尔斯",
+          "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+        },
+        {
+          "label": "半岛电视台：特朗普任命米勒为新幕僚长",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+        },
+        {
+          "label": "BBC：米勒任命，特朗普为战斗做准备",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "科技股周五部分反弹：纳指收涨约 1.1%、标普涨约 0.3%、道指跌约 0.4%–0.5%；AMD 涨约 11%、英伟达涨约 2.8%、费城半导体指数涨约 4%；但日经与韩国综指跌约 6%，英国富时 100 跌约 1%。美国 10 月新增就业 16.5 万、失业率 4.1%",
+      "tag": "续报：市场/科技",
+      "facts": [
+        "美股收盘：BBC 称纳斯达克综合指数周五收涨 1.1%，部分收复周四约 5.5% 的跌幅；标普 500 收涨约 0.3%，道指收跌约 0.4%。卫报称纳指收涨约 1%。多家报道指英伟达、SpaceX、特斯拉等回升部分失地。",
+        "芯片与个股：福克斯商业等称费城半导体指数涨约 4.2%；AMD 涨约 11%，英伟达约 +2.8%，美光约 +5.1%，英特尔约 +7.7%；特斯拉约 +4.2%，SpaceX 约 +8.6%。雅虎财经称半导体指数在周四跌约 12% 后反弹约 4%。",
+        "亚欧传导：周四美股暴跌后，周五亚洲与欧洲跟跌——BBC/卫报称韩国综指跌约 6%–6.5%（SK 海力士跌逾 10%），日经 225 跌约 6%；德国 DAX 跌约 2%，法国 CAC 约 −0.8%，英国富时 100 收跌约 1.01%（盘中一度跌超 2%）。",
+        "就业与解读：美国劳工统计局数据显示 10 月非农新增 16.5 万（远超预期），失业率自 4.2% 降至 4.1%（BBC）。AJ Bell 的科茨沃思称，周末过后下周才能更清楚科技交易是「崩盘还是反击」。Wealth Club 的斯特里特称「大数据中心建设放缓」与「投资回报焦虑」正在叠加。"
+      ],
+      "readingA": "周五反弹幅度远小于周四跌幅，亚欧又把抛售消化了一轮，说明监管与资本开支疑虑未被一天买盘消解；强劲就业反而抬高联储 12 月再加息预期，对高估值科技股未必是利好。",
+      "readingB": "纳指已进入技术性回调后出现经典「超跌反弹」，芯片领涨显示部分资金在逢低吸纳；若民主党对数据中心的联邦立法推进缓慢，且油价/战争风险缓和，周一可能延续修复。",
+      "disagree": "分歧在于这是可持续修复的开始，还是回调中的死猫跳；以及就业强劲是支撑需求还是强化紧缩预期。",
+      "synthesis": "能确定的是：美股周五收回周四科技暴跌的一小部分，亚欧仍重挫，纳指仍处回调区间。接下来要看下周开盘、Anthropic IPO 定价预期，以及云厂商资本开支表态。",
+      "unknown": "周一是否延续反弹；外资是否继续减持亚洲芯片股；联储官员对就业数据的即时反应。",
+      "confidence": "高（收盘数据与 BBC/卫报/CNBC 交叉）；中（对「监管拖慢建设」的因果仍属市场叙事）",
+      "sources": [
+        {
+          "label": "BBC：AI 股在市值蒸发数万亿后回升",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o"
+        },
+        {
+          "label": "卫报：全球股市因 AI 担忧下跌",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+        },
+        {
+          "label": "CNBC：纳指反弹约 1%（盘中直播）",
+          "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "中期选举计票：半岛电视台称民主党众院已获 253 席（仍有约 27 场未决）；密西西比科洛姆领先海德-史密斯约 2,000–2,500 票，双方律师与全国助选团队进驻 82 县，宣誓选票须在 11/10 前补齐证件；阿拉斯加佩尔托拉与沙利文仍胶着，排序计票约 11/18 开始",
+      "tag": "续报：美国",
+      "facts": [
+        "众议院：半岛电视台周五报道民主党已获众院 435 席中的 253 席，约 27 场仍在计票（与上一期卫报约 253 对 155 的量级一致）。",
+        "密西西比：卫报称科洛姆以略低于 2,000 票领先现任共和党海德-史密斯；华盛顿邮报等称周五领先扩大至约 2,500 票量级；计票约 96% 或更高。NRSC 致信各县要求隔离并保存宣誓选票；科洛姆竞选团队称此为「绝望作秀」，其律师信要求各县勿偏离常规、勿使选票可追溯到个人。NAACP 亦致信敦促严格依法。州法无自动重计，重计须经诉讼；无证件选民的宣誓选票须在 11/10 前补交照片证件或宗教异议声明，邮寄选票同日截止（卫报）。独立候选人平金斯称其参选意在分流海德-史密斯选票（CNBC）。",
+        "阿拉斯加：佩尔托拉与现任共和党沙利文仍胶着，约四分之一选票未计完；因无人过半，排序选择计票预计约 11/18 开始（美联社/地方报道综合）。",
+        "人事余波：除米勒任命外，司法部多名高官选后辞职（含民权司负责人等，上一期已报 Dhillon）；众院监督民主党警告特朗普家族「找律师」（CNBC）。"
+      ],
+      "readingA": "密西西比领先扩大且剩余宣誓/邮寄票被认为更偏民主党人口结构，翻盘难度上升；共和党提前布局法律信函，显示他们已按「诉讼延长战」准备，可能把参院最终席位拖入认证争议。",
+      "readingB": "州共和党主席赫斯特称约 2 万张未计票中有不少在共和党优势区；在无自动重计、须逐县诉讼的制度下，任何一方的「确定性」声明都可能被程序打断。阿拉斯加排序计票仍可能改写参院具体人数。",
+      "disagree": "分歧在于密西西比是否实质上已定、法律战是否会实质改写结果；以及众院 253 席优势会优先用于立法还是调查。",
+      "synthesis": "能确定的是：众院民主党优势维持在约 253 席量级，密西西比仍未认证、法律战已开打，阿拉斯加待排序计票。接下来要看 11/10 宣誓/邮寄截止后的官方数字，以及是否出现逐县诉讼。",
+      "unknown": "密西西比最终认证日与是否诉讼；阿拉斯加排序结果；众院最终席位。",
+      "confidence": "高（多家计票与律师信函报道）；中（未决选票与诉讼仍可变）",
+      "sources": [
+        {
+          "label": "卫报：律师涌入密西西比，计票胶着",
+          "url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers"
+        },
+        {
+          "label": "CNBC：平金斯称意在分流海德-史密斯选票",
+          "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html"
+        },
+        {
+          "label": "半岛电视台：米勒任命报道中的众院 253 席",
+          "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "欧洲航班假炸弹恐吓第三波：卫报称周五至少再扰动约 18 架次（捷克、法、匈、意、葡、罗、保、塞浦路斯、英等）；匈军机三次升空护航；威胁扩至爱尔兰 RTÉ、英天空新闻等媒体；自称负责团体电邮称「这只是开始」，「男性国家」否认涉事",
+      "tag": "续报：欧洲",
+      "facts": [
+        "航班：卫报称周五至少约 18 架次受威胁，涉及保加利亚、塞浦路斯、捷克、法国、匈牙利、意大利、葡萄牙、罗马尼亚与英国等；捷克布拉格相关至少 9 班，法国空域至少 4 班，索菲亚方向 2 班，里斯本—罗马等亦中招。匈牙利国防部长称战斗机三次升空护航民航。BBC 称里斯本、罗马、布拉格、索菲亚多线受扰；法新社称捷克与保加利亚至少 11 班。所有受检飞机均未发现爆炸物。",
+        "规模：Eurocontrol 数据显示周五欧洲约 26,709 架次计划飞行，受扰比例约 0.067%（卫报）；此前周二、周四已累计迫使至少约 35 架次备降或搜查。",
+        "媒体：爱尔兰公共广播 RTÉ、《爱尔兰独立报》、NewstalkFM、TodayFM 等接威胁后疏散；英国天空新闻亦称收到安全威胁并报警。爱尔兰总理马丁称须严肃对待，「显示制造混乱可以相对简单」；爱尔兰政府称「很可能是协调的扰乱行动」。",
+        "归因：多家媒体称一团体电邮宣称负责并警告还将打击交通，「这只是开始」。周四部分威胁署名「男性国家」；其创始人波兹德尼亚科夫周五称组织 2021 年起已不存在并否认（卫报、BBC）。调查人员称尚无证据显示由俄、伊等国家行为体直接策动，但西班牙外长阿尔瓦雷斯称「同样手法遍及欧洲不太可能是巧合」，更像「混合侵略与心理战」。意大利总理梅洛尼称尚不清楚恐吓与本周多国超市制冷系统网络攻击是否相关，但「受攻击的是民用基础设施」。"
+      ],
+      "readingA": "从机场扩到媒体与（可能相关的）冷冻供应链，说明行为人在测试欧洲「低成本、高扰动」的混合手段；即便无国家归属，效果已接近意大利所说的「门槛以下战争」。",
+      "readingB": "受扰航班占比极低、未发现爆炸物，且「男性国家」否认，仍可能是模仿犯罪或小团伙；过度反应本身就是恐吓的目标，伦敦警察厅厅长罗利提醒勿对每条网信「过度反应」。",
+      "disagree": "分歧在于是否存在统一指挥的国家级混合战，还是松散模仿；以及欧盟下周在都柏林的高规格会议是否成为下一波目标。",
+      "synthesis": "能确定的是：本周第三波假炸弹恐吓再扰欧洲航空并扩至媒体，仍无爆炸物、仍无确认国家归属。接下来要看周末是否再发、欧盟会议安保升级，以及是否出现可起诉的溯源结果。",
+      "unknown": "幕后归属；与超市制冷黑客是否同源；是否升级为对关键基础设施的实质破坏。",
+      "confidence": "高（多国官方与卫报/BBC 交叉）；低–中（归因与「协调战役」判断）",
+      "sources": [
+        {
+          "label": "卫报：至少再扰动 18 架次",
+          "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
+        },
+        {
+          "label": "BBC：新一波炸弹恐吓打击欧洲航司",
+          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
+        },
+        {
+          "label": "BBC：恐吓对航空业构成严峻挑战",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "OpenAI 据报完成约 110 亿美元融资首期、估值约 1.25 万亿美元（原目标约 300 亿/最高约 1.5 万亿已下调）；CFO 弗赖尔称选后仍将继续投资数据中心；阿姆斯特丹微软数据中心工地遭数百人闯入，警方拘 150–200 人；欧洲多国「停止肮脏数据中心」联动抗议",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "融资：Bloomberg/TechCrunch/CNBC 称 OpenAI 周五完成新一轮融资中约 110 亿美元首期，估值约 1.25 万亿美元；整轮未来数周或达约 200 亿美元，远低于 9 月前后传出的最高约 300 亿美元、估值约 1.5 万亿美元目标。CNA 等称软银与阿联酋 MGX 等参与。弗赖尔对 CNBC 称「好的 CFO 能融就融」，并继续审视 2027 年上市窗口；Anthropic 仍瞄准约 11 月中登陆纳斯达克，但买方对估值预期已下修。",
+        "资本开支立场：弗赖尔在花旗 TMT 峰会称，中期选举后「仍要想如何持续投资以满足客户需求」；「若中期意味着更关注数据中心与社区，我们将继续走进社区建立信任」。周四公司已公布数据中心政策蓝图（上一期已报）。",
+        "欧洲抗议：半岛电视台称数百名活动人士周五占领阿姆斯特丹 Sloterdijk 微软数据中心工地，爬吊车、燃信号弹，与警方冲突；Geef Tegengas 组织者称「没人需要它」「只会用于 AI 垃圾、战争与监控」。荷兰警方拘留约 150–200 名涉嫌非法侵入者。微软称尊重和平表达、不认可违法危及安全行为。「停止肮脏数据中心」行动称周五至周六在爱尔兰、波兰、丹麦、芬兰、西、意、荷、法、英等约 15 国有活动；柏林、华沙议会前亦有集会。"
+      ],
+      "readingA": "估值与募资额双双下调，说明一级市场已在交易「选后监管 + 回报疑虑」；与此同时欧洲街头直接冲进工地，政治与物理阻力同步硬化，OpenAI「继续投」的表态更像对投资者的信心管理。",
+      "readingB": "110 亿美元仍是巨额现金，说明核心出资人并未撤离；抗议多集中在新建工地，对已签约算力影响有限。若 Anthropic IPO 定价不崩，一级市场情绪可能快速稳定。",
+      "disagree": "分歧在于融资缩水是周期性降温还是 AI 基建叙事拐点；以及欧洲抗议会否转化为可执行的停建令。",
+      "synthesis": "能确定的是：OpenAI 以更低估值完成巨额融资首期并公开承诺继续建数据中心，同时欧洲出现跨国民众直接占领工地。接下来要看整轮是否凑满约 200 亿、Anthropic IPO 定价，以及荷兰等地是否实质叫停项目。",
+      "unknown": "最终轮次规模与主要出资人持股；阿姆斯特丹工地工期是否延误；美国州级暂停令文本。",
+      "confidence": "中高（融资细节多源匿名，CNBC 确认首期；抗议有警察与当事方声明）",
+      "sources": [
+        {
+          "label": "TechCrunch：OpenAI 据报以 1.25 万亿美元估值再融 110 亿",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+        },
+        {
+          "label": "CNBC：CFO 称将继续投资数据中心",
+          "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html"
+        },
+        {
+          "label": "半岛电视台：抗议者闯入阿姆斯特丹微软数据中心工地",
+          "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"
+        },
+        {
+          "label": "The Verge：OpenAI 估值 1.25 万亿美元",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "卡塔尔首相在牛津称美伊「永远不会有完美和约」，「不能等完美时机」；特朗普称「与伊朗进展很好」，并称不愿「摧毁该国剩余部分」但「也许不得不」；伊通社称两枚导弹击中霍尔木兹附近格什姆岛、半官方称无伤亡；白宫本周讨论是否恢复对伊军事行动",
+      "tag": "续报：中东",
+      "facts": [
+        "卡塔尔斡旋：半岛电视台 11/7 直播称卡塔尔首相兼外长谢赫·穆罕默德·本·阿卜杜勒拉赫曼在牛津大学公开活动中敦促美伊达成停火，称「我们永远不会有完美的和平协议，但不能等待那个完美时刻」（彭博引述，半岛/ANI 转述）。",
+        "美方表态：特朗普对记者称「我们与伊朗进展很好」；周四在椭圆形办公室称「如果可能，我宁愿不摧毁该国剩余部分，但也许我不得不」「你们很快会知道」；并称重建「大概要 25 年」。福克斯新闻引高级官员称白宫周三、周四开会讨论是否恢复对伊军事行动；报道提及 11/9 中东新月、月光极少，被部分人视为更有利于军事行动的环境条件（Tribune/ANI 转述）。",
+        "战场与海峡：伊通社称两枚导弹击中霍尔木兹海峡格什姆岛，半官方媒体称无人员伤亡（半岛直播）。上一期伊方宣称多艘油轮触雷/遇袭、阿曼谈共同管控等议题仍在背景中；阿布扎比相关接触窗口（上一期曾报 11/10–11）临近。"
+      ],
+      "readingA": "卡塔尔公开催促「先签够好的协议」与特朗普「很快会知道」并列表军事窗口，说明外交与军事升级选项在并行加压；选后特朗普更需要要么快速停火叙事、要么可控升级来重夺议程。",
+      "readingB": "「进展很好」与「也许不得不摧毁」并置，更像谈判姿态；格什姆两枚导弹若无伤亡，也可能是有限示警而非全面重启。周末与 11/9 前若无实弹升级，则喊话成分居多。",
+      "disagree": "分歧在于白宫会议是真在排期打击，还是施压伊朗接受卡塔尔方案；以及格什姆袭击的责任方与意图。",
+      "synthesis": "能确定的是：卡塔尔公开催促务实停火，特朗普同时释放「进展很好」与军事升级暗示，格什姆再传遭导弹击中。接下来要看 11/9 前后是否出现新打击或可验证的谈判文本，以及油轮通航是否再恶化。",
+      "unknown": "谈判文本要点；是否真有 11/9 前后军事窗口；格什姆袭击的发射方与目标。",
+      "confidence": "中高（卡塔尔公开讲话与总统记者会有直接引语）；中（军事会议与「新月窗口」依赖匿名官员）；中（格什姆细节主要来自伊方通讯社）",
+      "sources": [
+        {
+          "label": "半岛电视台直播：卡塔尔称勿等完美时机",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"
+        },
+        {
+          "label": "The Tribune/ANI：卡塔尔首相敦促美伊和谈，特朗普称进展很好",
+          "url": "https://www.tribuneindia.com/news/world/cant-wait-for-perfect-moment-qatari-pm-urges-us-iran-peace-deal-as-trump-confirms-talks-says-doing-well/"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "AI stocks climb after trillions wiped from market values",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o"
+    },
+    {
+      "n": 2,
+      "title": "Global stocks fall amid 'big worries over AI'",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
+    },
+    {
+      "n": 3,
+      "title": "Nasdaq rebounds 1% following worst session in 18 months",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 4,
+      "title": "Stephen Miller to become White House chief of staff",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump"
+    },
+    {
+      "n": 5,
+      "title": "Trump says Stephen Miller to replace Susie Wiles",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html"
+    },
+    {
+      "n": 6,
+      "title": "Trump names Stephen Miller as new chief of staff",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff"
+    },
+    {
+      "n": 7,
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go"
+    },
+    {
+      "n": 8,
+      "title": "Lawyers descend on Mississippi as vote counting continues",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/06/mississippi-senate-race-vote-counting-lawyers"
+    },
+    {
+      "n": 9,
+      "title": "Mississippi Senate: Ty Pinkins says he aimed to spoil Hyde-Smith",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html"
+    },
+    {
+      "n": 10,
+      "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
+    },
+    {
+      "n": 11,
+      "title": "New wave of bomb threats hit European airlines",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
+    },
+    {
+      "n": 12,
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo"
+    },
+    {
+      "n": 13,
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/"
+    },
+    {
+      "n": 14,
+      "title": "OpenAI will keep investing in AI data centers despite election results",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html"
+    },
+    {
+      "n": 15,
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+    },
+    {
+      "n": 16,
+      "title": "Protesters break into Microsoft data centre site in Amsterdam",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam"
+    },
+    {
+      "n": 17,
+      "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal"
+    },
+    {
+      "n": 18,
+      "title": "Tesla to wind down Cybertruck production in Texas next year",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+    },
+    {
+      "n": 19,
+      "title": "Tesla will stop making the Cybertruck in 2027",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/"
+    },
+    {
+      "n": 20,
+      "title": "Investors brace for lower Anthropic valuation",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html"
+    },
+    {
+      "n": 21,
+      "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html"
+    },
+    {
+      "n": 22,
+      "title": "EU tells TikTok to fix 'harmful' For You feed, threatens fines",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
+    },
+    {
+      "n": 23,
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    },
+    {
+      "n": 24,
+      "title": "Fox completes its $22B acquisition of Roku",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/"
+    },
+    {
+      "n": 25,
+      "title": "US tech stock rout: is the AI bubble bursting?",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer"
+    },
+    {
+      "n": 26,
+      "title": "Four midterms takeaways for 2028 White House race",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
+    },
+    {
+      "n": 27,
+      "title": "Democrats blast Trump's Stephen Miller appointment – live",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates"
+    },
+    {
+      "n": 28,
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html"
+    },
+    {
+      "n": 29,
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+    },
+    {
+      "n": 30,
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+    }
+  ]
+}
