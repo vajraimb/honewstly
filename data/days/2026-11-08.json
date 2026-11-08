@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-08",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/7 约 08:00）至本期（11/8 约 08:00），约 24 小时，覆盖欧美周六（默认规格为 6 小时，沿用近几期的 24 小时窗口）。今日为周日，周末薄日风险较高：美股与多数欧美决策机构休市，市场与美国政策类新增量明显减少；但周六仍有克拉科夫枪击、以色列组阁授权、俄方大规模空袭基辅、美伊加码施压与新西兰大选等实质事件。索引条目取自 BBC、卫报、半岛电视台、CNBC、TechCrunch、The Verge 的 RSS 列表。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：周六有克拉科夫枪击、以色列组阁授权、俄方空袭基辅、美伊施压加码与新西兰大选等实质事件。但存在周末薄日风险：时点为周日上午，美股休市，市场、科技公司与美国政策类新增量有限，第 5、6 条主要是选后余波与周末分析稿。7 条中 4 条为新话题（克拉科夫枪击、以色列组阁、俄袭基辅、新西兰大选；AI 反弹条为新角度），2 条为续报（美伊、白宫换帅）。",
+  "vsYesterday": "相对上一期（11/7）：周六波兰克拉科夫老城广场发生持极端民族主义观点男子枪击，6 人遇难；以色列总统授权艾森科特组阁，内塔尼亚胡受挫；俄罗斯在阿布扎比三方会谈前以 30 余枚弹道导弹与 170 余架无人机重击基辅能源设施；美伊方面，特朗普证实周五「小规模打击」，美方悬赏 2,000 万美元征集伊核情报并设立陆路封锁特遣队，卡塔尔「解封换核查」方案细节曝光；白宫换帅余波延续（米勒宣誓效忠、邀达纳·怀特任新闻秘书、令司法部调查民主党人）；选后 AI 反弹与 Anthropic IPO 估值预期下调；新西兰大选悬而未决。上一期的科技股反弹、欧洲航班炸弹恐吓、OpenAI 融资、英国央行加息无重大新进展（周末休市）；密西西比、阿拉斯加参议员计票仍未定。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "波兰克拉科夫老城中央集市广场枪击：6 人遇难（含 1 名英国公民）、约 15–16 人受伤；25 岁波兰籍嫌犯被警方击伤逮捕，内政部长称其持「极端民族主义」观点、迷恋极右意识形态；其家中另发现 3 具遗体；国防部长称「恐怖行为」",
+      "tag": "新：欧洲",
+      "facts": [
+        "经过：当地时间周六约 15:00，一名 25 岁波兰男子驾车驶入克拉科夫老城中央集市广场，在多个地点从车内用自动武器向人群扫射；警方称其在开火约三分钟内被击中，受伤后被捕并接受手术（BBC、CNBC、卫报）。一辆路过的电车驾驶室车窗被击碎。",
+        "伤亡：遇难 6 人（4 女 2 男），其中 1 名英国公民、3 名波兰女性，另 2 人身份待确认；受伤人数卫报称 16 人、CNBC 称 15 人（统计口径或含嫌犯），外籍伤者来自英国、奥地利、德国、葡萄牙、俄罗斯；两名警察中枪，其中一人伤势严重（卫报、BBC、CNBC）。",
+        "动机与后续：内政部长基尔温斯基称嫌犯持「非常激进」「极端民族主义」观点，「一切迹象表明他迷恋极右意识形态」；国防部长科西尼亚克-卡梅什称这是针对克拉科夫人民的「恐怖行为」。总理图斯克称在嫌犯位于约 150 公里外的奥斯特罗维茨家中发现 3 具遗体（两女一男），很可能是其家人（CNBC、卫报）。",
+        "背景与反应：警方称嫌犯单独作案、公众已安全；车内另搜出多件武器弹药，枪支是否合法持有尚不清楚。卫报引述数据称波兰合法持有枪支已首超 100 万支、2025 年签发持枪许可创纪录约 5.07 万份。克拉科夫市长宣布哀悼至周三，卫报称全国哀悼周日与周一；华沙加强老城安保。"
+      ],
+      "readingA": "这是一起带极右动机的本土恐袭：在欧洲本周航班炸弹恐吓、混合威胁讨论升温之际，波兰（前线国家、持枪率快速上升）出现大规模枪击，将把极右激进化与枪支管控推上政治议程。",
+      "readingB": "目前官方定性主要来自部长级发言，动机仍待调查；嫌犯先在家中杀害亲属，也可能存在个人/精神因素与意识形态交织。大规模枪击在波兰仍罕见，单一事件未必代表趋势。",
+      "disagree": "分歧在于这首先是意识形态驱动的恐怖主义，还是个人暴力叠加极右标签；以及事件会否推动波兰收紧持枪许可。",
+      "synthesis": "能确定的是：克拉科夫中心广场枪击致 6 死、十余人伤，嫌犯为持极端民族主义观点的 25 岁波兰男子，已被击伤逮捕，家中另有 3 名亲属遇害。接下来要看检方正式指控与动机认定、枪支来源，以及政府是否提出枪支或反极端主义措施。",
+      "unknown": "嫌犯姓名与是否有同伙/网络联系；枪支来源与是否合法；两名未确认身份遇难者国籍；受伤总数口径。",
+      "confidence": "高（伤亡与时间线有官方发布会与多家媒体交叉）；中（动机定性为初步说法）",
+      "sources": [
+        {
+          "label": "卫报：克拉科夫集市广场枪击 6 死",
+          "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+        },
+        {
+          "label": "BBC：克拉科夫枪击已知信息",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
+        },
+        {
+          "label": "CNBC：克拉科夫枪手持「极端民族主义」观点",
+          "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "以色列总统赫尔佐格授权反对派领袖、前总参谋长加迪·艾森科特组阁，内塔尼亚胡受挫：艾森科特获 67 位议员推荐、内塔尼亚胡 46 位；有 28 天（可延 14 天）凑足 61 席；两个阿拉伯政党联盟（共 19 席）成潜在「造王者」",
+      "tag": "新：中东",
+      "facts": [
+        "授权：赫尔佐格办公室称周六晚已告知艾森科特（亚沙尔党领袖）将授权其组阁，正式仪式定于周日在耶路撒冷总统官邸举行；艾森科特在 X 发文：「现在是组建国家紧急政府的时候。」（卫报、BBC）",
+        "议席格局：10/27 大选后，内塔尼亚胡的利库德及极右、极端正统派盟友共 53 席，艾森科特阵营 48 席，均未过 120 席议会半数；两个阿拉伯政党联盟（联合阿拉伯名单、联合名单）合计创纪录 19 席（BBC、卫报）。",
+        "推荐数：BBC 引总统府声明称艾森科特获 67 位候任议员推荐、内塔尼亚胡 46 位；卫报称两个阿拉伯政党名单均推荐了艾森科特，但其阵营是否接受阿拉伯政党支持仍不明确。",
+        "程序与路径：艾森科特有 28 天组阁，可延 14 天；失败则授权他人，再不成则重新大选（2019–2022 年曾举行五次大选）。可能路径包括与内塔尼亚胡的国家团结政府、由阿拉伯政党外部支持的少数派政府等；内塔尼亚胡在宣布前发视频呼吁「国家团结政府」并警告勿与「恐怖支持者」仓促组阁（CNBC、BBC）。",
+        "立场：艾森科特誓言打击袭击巴勒斯坦人的极端定居者，但反对建立巴勒斯坦国、誓言终结哈马斯在加沙统治；2006 年黎以战争期间提出所谓「达希耶主义」（卫报）。"
+      ],
+      "readingA": "授权本身是对内塔尼亚胡的重大挫败：多数议员推荐艾森科特，意味着以色列政治中心正在离开内塔尼亚胡时代；卫报此前分析，美国民主党中期大胜也可能促使以反对派联合。",
+      "readingB": "拿到组阁权不等于能组阁：48 席阵营须要么借助阿拉伯政党（几乎所有犹太政党选前承诺不合作），要么与内塔尼亚胡或极端正统派妥协，每条路都会激怒各自选民；以色列历史上多次授权失败后重回大选。",
+      "disagree": "分歧在于艾森科特能否跨越阿拉伯政党合作的政治禁忌，还是最终被迫与利库德组成团结政府；以及新政府在加沙、黎巴嫩、伊朗问题上会否真正改变路线。",
+      "synthesis": "能确定的是：艾森科特获优先组阁权且推荐票明显多于内塔尼亚胡，但两大阵营均缺席位，阿拉伯政党成关键变量。接下来要看周日正式授权后 28 天内的联盟谈判，尤其是是否出现阿拉伯政党外部支持或团结政府方案。",
+      "unknown": "艾森科特愿接受何种形式的阿拉伯政党支持；利库德内部是否出现倒戈；组阁失败后的时间表。",
+      "confidence": "高（总统府声明与多家媒体一致）；中（组阁前景属分析判断）",
+      "sources": [
+        {
+          "label": "卫报：以总统选定艾森科特组阁",
+          "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+        },
+        {
+          "label": "BBC：以总统授权反对派领袖艾森科特组阁",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
+        },
+        {
+          "label": "CNBC：以总统选艾森科特，内塔尼亚胡受挫",
+          "url": "https://www.cnbc.com/2026/11/07/israel-eisenkot-netanyahu.html"
+        },
+        {
+          "label": "半岛电视台：以总统弃内塔尼亚胡选艾森科特",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "美伊：特朗普证实周五「小规模打击」伊朗防空设施；中央司令部悬赏最高 2,000 万美元征集伊核情报，并设「铁门特遣队」封堵伊朗陆路与里海通道；卡塔尔方案拟以解除封锁和部分解冻资产换核查与重开霍尔木兹；分析称重启战事风险仍高",
+      "tag": "续报：中东",
+      "facts": [
+        "打击：特朗普周五对记者称美方实施了「小规模打击」，「他们建了一点防空装置，我们大约 15 分钟、也许 5 分钟就打掉了」，但未明确证实即伊方报道的格什姆岛袭击；这是 11/3 中期选举后的首轮打击（CNBC、卫报）。CNBC 称中央司令部周六晚表示瘫痪一艘无视警告、驶离伊朗港口的圣基茨籍油轮；伊官方媒体另报格什姆与贾斯克港有爆炸，CNBC 未能独立证实。",
+        "悬赏与特遣队：中央司令部周五晚宣布，国务院「正义奖赏」计划提供最高 2,000 万美元奖金并可能安置，征集伊朗核设施、设备与科学人员等情报（卫报、BBC）。周六宣布设立驻坦帕的「铁门特遣队」，联合财政、国务、司法与情报部门，打击伊朗经陆路边境和里海的武器、两用技术与非法收入；中央司令部估计海上封锁已阻止伊朗逾 250 亿美元原油出口（CNBC、BBC）。",
+        "卡塔尔方案：卫报称卡塔尔正劝说伊朗允许国际原子能机构核查人员进入被炸核设施（含高浓铀库存），无须承诺将库存运出；作为交换美方立即解除霍尔木兹封锁并释放约 80 亿美元冻结资产中的一部分，伊朗第二天经与阿曼商定的航线重开海峡。卡塔尔埃米尔周五与特朗普通话，赫格塞斯与卡塔尔防长亦通话。",
+        "风险评估：CNBC 称选后五个交易日原油跌逾 16%，但分析人士认为局势仍在走向再战；Rapidan Energy 估计战事恢复概率约 80%，第三个航母打击群正前往该地区；周五布伦特原油高于 97 美元。伊方称需看到美方「实际措施」而非「纸面承诺」；伊革命卫队称两艘「违规」油轮走未授权航线触雷起火（卫报）。"
+      ],
+      "readingA": "美方在「谈」的同时把封锁从海上延伸至陆路和里海、并悬赏核情报，是在为可能的再次打击做情报与经济准备；「小规模打击」常态化说明军事选项从未离桌。",
+      "readingB": "悬赏和特遣队更多是增加谈判筹码的非战争手段；卡塔尔方案已细化到第二天开海峡的程序，特朗普也称「我们一直在和伊朗谈」。市场油价大跌反映多数参与者押注降级。",
+      "disagree": "分歧在于美方当前是在为全面重启战事铺路，还是用有限打击和制裁加压逼伊朗接受卡塔尔方案；以及伊朗会否接受原子能机构核查。",
+      "synthesis": "能确定的是：选后美方仍在进行有限打击，同时加码悬赏与陆路封锁，卡塔尔的「解封换核查」方案正在推进。接下来要看伊朗对核查的答复、是否再有油轮遇袭或新打击，以及原油价格能否守住选后跌幅。",
+      "unknown": "格什姆、贾斯克爆炸的具体责任方与损失；卡塔尔方案伊方正式回应；特朗普是否已有再次大规模打击的决定。",
+      "confidence": "高（悬赏、特遣队为美军官方声明）；中（打击细节与油轮事件依赖双方单方说法）；中（卡塔尔方案细节来自卫报报道）",
+      "sources": [
+        {
+          "label": "卫报：特朗普称美方再次「小规模」打击伊朗",
+          "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+        },
+        {
+          "label": "CNBC：特朗普称「小规模打击」，导弹击中格什姆岛",
+          "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html"
+        },
+        {
+          "label": "CNBC：美军拟限制伊朗陆路贸易",
+          "url": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html"
+        },
+        {
+          "label": "BBC：美国悬赏 2,000 万美元征集伊核情报",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+        },
+        {
+          "label": "卫报：卡塔尔方案或重开霍尔木兹",
+          "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+        },
+        {
+          "label": "CNBC：中期选举后伊朗战事升级风险仍高",
+          "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "俄罗斯以约 172 架无人机、36 枚弹道导弹重击基辅及周边能源设施，北桥受损、停电停水；泽连斯基称仅拦截 4 枚弹道导弹；美俄乌三方会谈定于下周二至周三在阿布扎比举行，泽连斯基称库什纳方案为「雅尔塔 2.0」",
+      "tag": "新：欧洲/俄乌",
+      "facts": [
+        "袭击规模：卫报称俄方动用 172 架无人机和 36 枚弹道导弹；BBC 称超过 30 枚弹道导弹、170 余架无人机，12 个州遭袭、基辅受创最重。CNBC 引泽连斯基称 36 枚弹道导弹仅 4 枚被拦截，部分为朝鲜制造并击中重要能源设施。",
+        "损失：基辅电力、供水、供暖严重受扰，北桥、住宅楼与一所幼儿园受损；基辅州连接里夫内与赫梅利尼茨基核电站的变电站遭袭。伤亡口径不一：卫报称 5 人受伤（含 1 名 14 岁女孩），BBC 称全国 9 人受伤，CNBC 称至少 2 人死亡、约十余人受伤。基辅市长克利奇科称供水已恢复、约 60% 公寓楼已接通供暖（BBC）。",
+        "和谈：俄乌美三方代表定于周二、周三在阿布扎比会谈，为 2 月以来首次三方会谈；俄方代表团由梅金斯基率领（CNBC）。泽连斯基对 CNN 称库什纳最新方案是「雅尔塔 2.0」；特朗普周五称涉及「全欧洲」的「大而美协议」可能接近（卫报）。",
+        "对美呼吁：泽连斯基呼吁民主党掌控的新国会更关注乌克兰，「我们期待美国增加双边支持」。BBC 提及梅拉尼娅周四在白宫接待俄乌代表团并呼吁「更持久」停火（上期已报）。"
+      ],
+      "readingA": "在和谈前夜集中打击能源与桥梁，是俄方惯用的「以打促谈」：冬季前削弱乌克兰抗压能力，同时在阿布扎比要价「欧洲安全架构」这类远超乌克兰本身的议题。",
+      "readingB": "俄国防部称打击的是军工、能源与交通目标；乌方也在同时袭击俄境内。特朗普团队急于在选后拿出外交成果，三方会谈本身显示渠道在恢复，空袭未必阻断谈判。",
+      "disagree": "分歧在于库什纳方案是现实的停战框架还是对俄让步的「雅尔塔 2.0」；以及空袭升级会削弱还是加速阿布扎比会谈。",
+      "synthesis": "能确定的是：和谈前俄方发动大规模导弹无人机袭击，基辅能源与交通受创，三方会谈仍定于下周二至周三。接下来要看阿布扎比会谈是否触及北约/欧洲安全议题、是否达成能源设施停火，以及美国新国会对援乌的态度。",
+      "unknown": "最终伤亡人数；库什纳方案具体条款；欧洲是否被纳入阿布扎比会谈。",
+      "confidence": "高（袭击与会谈时间有官方与多家媒体交叉）；中（伤亡与拦截数口径不一）",
+      "sources": [
+        {
+          "label": "卫报：俄袭乌电网后基辅停电缺水",
+          "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+        },
+        {
+          "label": "BBC：俄袭致 9 人伤、乌电网受损",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+        },
+        {
+          "label": "CNBC：俄猛击基辅周边电力设施、主要桥梁受损",
+          "url": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "白宫换帅余波：米勒首次公开讲话向特朗普宣誓「绝对忠诚」，部分共和党议员批评任命；特朗普邀 UFC 总裁达纳·怀特任新闻秘书（CNN 称已婉拒）；特朗普下令司法部调查民主党人「威胁」共和党人，点名参议员斯洛特金",
+      "tag": "续报：美国",
+      "facts": [
+        "米勒表态：周五晚米勒首次公开讲话（周一上任）称「若没有特朗普总统，美国现在就不存在了」，并宣誓「绝对忠诚、坚定承诺与全心奉献」（卫报）。共和党众议员斯图兹曼称任命是「可怕的决定」，即将离任的培根称米勒「因疏远西语裔选民让我们在得州和亚利桑那丢了席位」。特朗普对 60 分钟称可能「做一些改变」，对国防部长赫格塞斯表示「有信心」。",
+        "中期选举数字（卫报截至周六上午）：共和党丢失 7 个参议院席位，阿拉斯加与密西西比两场未定、民主党小幅领先；众议院丢 42 席，州长丢 5 席。",
+        "新闻秘书：特朗普周六在 Truth Social 宣布向「暴力斗士与战士」达纳·怀特提供「美国新闻秘书」职位，「Dana，请接受这份工作！」；怀特在 Instagram 发布站在白宫讲台后的照片并配文「下一章」，CNN 引消息源称怀特已婉拒（CNBC）。CNBC 称前任新闻秘书凯蒂·扎卡里亚 10 月仅任职五天即离职。",
+        "司法部调查：特朗普周六称民主党人以弹劾等「威胁」司法部长等人属「最高级别的勒索」，「我命令司法部立即调查这一犯罪行为」，并点名斯洛特金，但未说明具体信件、发送人或证据（CNBC、半岛电视台）。民主党已表示明年 1 月掌权后将调查特朗普家族财务、ICE、赫格塞斯与司法部长布兰奇。"
+      ],
+      "readingA": "米勒的效忠宣言加上「战时顾问」定位、对民主党的司法反制，显示白宫选择正面对抗即将上任的民主党国会，而非转向合作。",
+      "readingB": "新闻秘书邀约带有表演色彩（怀特据报已婉拒），司法部调查缺乏具体指控；此前针对斯洛特金的调查大陪审团已拒绝起诉。这些动作更像动员基本盘的姿态，实际法律效果存疑。",
+      "disagree": "分歧在于这些举措是系统性的「备战」布局，还是选后情绪化的姿态政治；以及共和党内部批评会否扩大。",
+      "synthesis": "能确定的是：米勒周一上任前公开宣誓效忠，共和党内出现批评声，特朗普同时以人事和司法部调查向民主党施压。接下来要看米勒首周人事调整、司法部是否真正立案，以及阿拉斯加、密西西比最终结果。",
+      "unknown": "新闻秘书最终人选；司法部是否立案及对象；特朗普所说「一些改变」涉及哪些内阁成员。",
+      "confidence": "高（Truth Social 原文与当事人讲话）；中（怀特婉拒为 CNN 单一信源）",
+      "sources": [
+        {
+          "label": "卫报：米勒向特朗普宣誓「全心奉献」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+        },
+        {
+          "label": "CNBC：特朗普邀 UFC 总裁怀特任新闻秘书",
+          "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
+        },
+        {
+          "label": "CNBC：特朗普点名斯洛特金，要求司法部调查",
+          "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html"
+        },
+        {
+          "label": "半岛电视台：特朗普令司法部调查民主党人",
+          "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "AI 反弹潮遇上 IPO：CNBC 称中期选举中 41 项数据中心相关投票有 40 项站在反对一方，Anthropic 拟 11 月中旬上市、估值预期降至 1–1.5 万亿美元；纽约时报称美国批准向一家「空壳」中国公司销售英伟达 H200，另有美情报备忘录称中方招募 Megaspeed 高管接近黄仁勋",
+      "tag": "新：科技/AI",
+      "facts": [
+        "选后 AI 民意：CNBC 称社区在数据中心相关投票中 41 项有 40 项站在反对一方；NBC 出口民调显示过半选民称 AI 数据中心是投票的「关键」或「主要因素」。南加大调查称 71% 受访者「完全不」信任大型科技公司在数据中心开发上为社会利益行事。",
+        "Anthropic IPO：CNBC 称 Anthropic 可能于 11 月中旬在纳斯达克上市，投资人预期估值 1–1.5 万亿美元，低于此前流传的 2 万亿；修订版招股书显示其采购与租赁承诺合计约 8,954 亿美元，几乎全部与算力和基础设施相关，并在风险因素中提及数据中心反对力量日益组织化。",
+        "行业反应：TechCrunch 播客称马斯克向共和党捐款约 5 亿美元「几乎一无所获」，得州新任州长当选人希诺霍萨以限制数据中心为竞选承诺；OpenAI 新发布「算力园区」政策蓝图，称不再要求官员签保密协议。",
+        "英伟达对华：The Verge 引纽约时报称获美商务部批准处理英伟达 H200 芯片的中国公司 New Matrix 办公地址是「一个空壳」，其所有者与 2024 年起被美国列入黑名单的私募公司有关联；TechCrunch 称另据美情报备忘录，中国国安部招募新加坡 Megaspeed 高管 Alice Huang 接近英伟达 CEO 黄仁勋。英伟达称两人互动「并无异常」，且不向客户分享机密信息。"
+      ],
+      "readingA": "选举把 AI 基建从技术议题变成选票议题，叠加股市回调与估值下调，Anthropic IPO 将成为「AI 是否已过热」的公开定价测试；对华芯片审批漏洞则可能成为新国会调查目标。",
+      "readingB": "投票数据显示的是地方对选址的反对，不等于对 AI 产品本身的否定；Anthropic 以企业客户为主、营收增长强劲，上市定价下调反而可能更稳。英伟达相关报道多基于匿名情报与媒体调查，尚无官方定论。",
+      "disagree": "分歧在于反数据中心浪潮会实质拖慢 AI 算力建设，还是促使企业改进社区沟通后继续推进；以及对华芯片出口审批问题会否引发政策收紧。",
+      "synthesis": "能确定的是：选后 AI 与数据中心成为显性政治议题，Anthropic 正以更低估值预期筹备上市，英伟达对华销售与安全问题受到新一轮媒体审视。接下来要看 Anthropic 定价与首日表现、民主党州政府的数据中心限制措施，以及商务部对审批名单的回应。",
+      "unknown": "Anthropic 最终定价与日期；商务部对 New Matrix 审批的解释；情报备忘录真实性与后续调查。",
+      "confidence": "中高（投票与招股书数据有明确出处）；中（IPO 估值为投资人预期；英伟达相关依赖媒体与匿名情报）",
+      "sources": [
+        {
+          "label": "CNBC：Anthropic IPO 遭遇选后 AI 反弹",
+          "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
+        },
+        {
+          "label": "TechCrunch：中期选举后马斯克与数据中心前景堪忧",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+        },
+        {
+          "label": "The Verge：美国允许向中国「空壳」公司售英伟达芯片",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+        },
+        {
+          "label": "TechCrunch：情报备忘录称 Megaspeed 高管被招募监视黄仁勋",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "新西兰大选「难分胜负」：初步结果国家党 42 席居首，与 ACT（13）、新西兰优先党（12）合计约 67 席，仅领先左翼阵营约 3 席；特殊选票待计，官方结果 11/27 公布；新党「机会党」首次越过 5% 门槛成潜在「造王者」",
+      "tag": "新：亚太",
+      "facts": [
+        "初步结果：BBC 称国家党 42 席、工党 36 席、绿党 16、ACT 13、新西兰优先党 12、机会党 7、毛利党 5；卫报称工党 35 席，国家党在政党票上仅领先工党 0.02 个百分点。两大党合计得票约 60%，处于历史低位（BBC）。",
+        "组阁算术：卫报称右翼阵营合计 67 席、左翼阵营（含机会党）落后约 3 席；因「超额议席」，新议会可能达创纪录的 130 席，需 65 席组阁。国家党多名资深部长（含威利斯、戈德史密斯、毕晓普、布朗利）未能回到议会（卫报）。",
+        "计票与特殊选票：官方结果 11/27 公布；特殊选票（含海外票）2023 年约 60 万张、占 21%，往往利好左翼（卫报）。卢克森称将以看守政府运作，「太接近无法判断」；希普金斯称「人民已发声，但弄清他们说了什么还需要些时间」。",
+        "机会党：得票约 5.9%，是 1996 年实行 MMP 制以来首个非分裂产生、越过门槛的新党，领袖王秋莱称愿与任一方合作（卫报、BBC）。选举主题为生活成本与失业。"
+      ],
+      "readingA": "现任中右联合以微弱优势领先，特殊选票若按 2023 年模式向左倾，可能改变多数，新西兰将进入数周不确定期。",
+      "readingB": "右翼阵营目前无需机会党即可过半，历史上特殊选票通常只改变一两席；卢克森政府延续的概率仍较大。",
+      "disagree": "分歧在于特殊选票能否扭转 3 席差距；以及机会党能否真正成为造王者。",
+      "synthesis": "能确定的是：新西兰大选无明确胜者，中右阵营初步小幅领先，最终结果待 11/27 官方公布与后续谈判。接下来要看特殊选票计数和超额议席最终分配。",
+      "unknown": "特殊选票分布；最终议会规模；机会党的优先谈判对象。",
+      "confidence": "高（初步计票数据）；中（席位数 BBC 与卫报略有出入，结果可变）",
+      "sources": [
+        {
+          "label": "BBC：新西兰大选结果难分胜负",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        },
+        {
+          "label": "卫报：新西兰大选「太接近无法判断」",
+          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman"
+    },
+    {
+      "n": 2,
+      "title": "What we know so far after Krakow gun attack",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
+    },
+    {
+      "n": 3,
+      "title": "Polish gunman who killed 6 people in Krakow has 'ultranationalistic' views, minister says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/krakow-poland-shooting.html"
+    },
+    {
+      "n": 4,
+      "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government"
+    },
+    {
+      "n": 5,
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
+    },
+    {
+      "n": 6,
+      "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government"
+    },
+    {
+      "n": 7,
+      "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+    },
+    {
+      "n": 8,
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+    },
+    {
+      "n": 9,
+      "title": "Expanding on naval blockade, U.S. military looks to restrict Iranian land commerce",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/iran-us-task-force-land-commerce.html"
+    },
+    {
+      "n": 10,
+      "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections"
+    },
+    {
+      "n": 11,
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html"
+    },
+    {
+      "n": 12,
+      "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid"
+    },
+    {
+      "n": 13,
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+    },
+    {
+      "n": 14,
+      "title": "Russia pounds power facilities around Kyiv, damages major bridge",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge.html"
+    },
+    {
+      "n": 15,
+      "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty"
+    },
+    {
+      "n": 16,
+      "title": "Trump offers UFC chief Dana White press secretary job",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html"
+    },
+    {
+      "n": 17,
+      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html"
+    },
+    {
+      "n": 18,
+      "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people"
+    },
+    {
+      "n": 19,
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html"
+    },
+    {
+      "n": 20,
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/"
+    },
+    {
+      "n": 21,
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+    },
+    {
+      "n": 22,
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+    },
+    {
+      "n": 23,
+      "title": "No clear winner after tight New Zealand general election",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+    },
+    {
+      "n": 24,
+      "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count"
+    },
+    {
+      "n": 25,
+      "title": "More than 140,000 rally as new protests against rising costs sweep France",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france"
+    },
+    {
+      "n": 26,
+      "title": "Paraguay's former president charged after bank collapse",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
+    },
+    {
+      "n": 27,
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
+    },
+    {
+      "n": 28,
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+    },
+    {
+      "n": 29,
+      "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html"
+    },
+    {
+      "n": 30,
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/"
+    },
+    {
+      "n": 31,
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo"
+    },
+    {
+      "n": 32,
+      "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html"
+    }
+  ]
+}
