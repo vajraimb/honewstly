@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-09",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/8 约 08:00）至本期（11/9 约 08:00），约 24 小时，覆盖欧美周日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。今日为周一（北京时间），但欧美仍是周日夜间：美股休市、决策机构大多未上班，周日访谈节目与周末深度稿构成主要新增量，周末薄日风险较高。索引条目取自卫报、半岛电视台、CNBC、TechCrunch 的 RSS 列表；BBC 与 The Verge 的 RSS 本次未能抓取到内容，该部分覆盖有缺口。",
+  "thinDay": false,
+  "thinDayNote": "本期不是严格意义上的薄日，但周末含量偏高：7 条中 2 条为新话题（德国总统提名、教皇访阿），5 条为续报，且多来自周日访谈节目表态与周末分析稿（第 3、7 条尤其如此）。周日美股休市，市场新增量有限；第 6 条仅取得卫报 RSS 摘要，信息较少。BBC 与 The Verge 的 RSS 未抓到，建议今日美国上班后复核米勒上任、阿布扎比会谈与 AMAT/NVDA 财报周动向。",
+  "vsYesterday": "相对上一期（11/8）：全部为已报话题的续报，外加两条新话题。续报：英伟达就黄仁勋与疑似中国间谍女商人的关系启动董事会独立调查，黄仁勋书面承认婚外情；美伊互相威慑（特朗普称重启战事「极不可能」但保留打击，阿拉格齐威胁「降下地狱」）；民主党推进对赫格塞斯的弹劾，司法部长布兰奇称可能反向调查议员；克拉科夫枪击后波兰全国哀悼、嫌犯家中另发现 7 支枪；艾森科特正式获组阁授权并接触内塔尼亚胡盟友。新话题：默茨提名艾格纳出任德国首位女总统；教皇利奥十四世访问阿根廷。上期已报的米勒周一接任白宫办公厅主任（今日北京时间正式上任）、俄袭基辅与阿布扎比会谈（周二至周三）、新西兰大选未出重大新进展，仅在索引中提及。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "英伟达董事会就 CEO 黄仁勋与疑似中国间谍女商人的关系启动独立调查；黄仁勋内部邮件承认婚外情、称「没有借口」；董事会称无理由认为国家安全或英伟达机密受损，黄仁勋将继续任 CEO；共和党委员会要求其 11/18 闭门作证，英伟达 11/17 发财报",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "调查：英伟达周日宣布，鉴于近期报道称创始人兼 CEO 黄仁勋曾是「外国情报行动的目标」，董事会启动独立调查（卫报、CNBC）。董事会称「没有理由认为美国国家安全或英伟达机密受到损害」，但调查将审视所有可得信息；董事会对黄仁勋及其团队「有信心」，黄仁勋全力配合，公司称他将继续任 CEO、工作不中断。",
+        "承认：黄仁勋周日给员工的邮件写道：「我对妻子不忠。我的行为伤害了她和孩子。我的行为没有任何借口。我深表歉意。」邮件还称自己「为身为美国人感到自豪和感激」（CNBC，Axios 先行报道草稿，路透社亦见到该邮件）。",
+        "背景：据纽约时报与金融时报报道，美国情报机构担心与黄仁勋有关系的 Alice Huang（黄乐，与 CEO 无亲属关系，新加坡数据中心公司 Megaspeed 高管）向北京传递信息；纽约时报称此前美方官员已将其视为中国国家安全部的情报资产，并称国务卿鲁比奥今春起草的备忘录曾在政府高层流传。此外，黄仁勋夫妇 9 月曾受邀出席白宫为习近平举行的国宴并与特朗普、习近平同桌（卫报）。Megaspeed 此前被指协助受限中国公司获取英伟达芯片，英伟达称其已就规避出口管制受过调查（CNBC）。",
+        "时间点：三名众议院共和党委员会主席周三致信黄仁勋，要求其 11/18 参加关于「防范外国对手间谍活动安保协议」的闭门简报；英伟达 11/17 公布三季报，月底在华盛顿举办大会（CNBC）。卫报称近期科技股抛售使纳斯达克一周蒸发近 1 万亿美元、一个月蒸发约 2 万亿美元，英伟达曾下跌 3.1%，为拖累标普 500 的最大单一因素。"
+      ],
+      "readingA": "这是从媒体报道升级为公司治理事件：CEO 书面承认不忠，董事会不得不启动独立调查；叠加国会 11/18 听证与 11/17 财报，英伟达的对华出口、Megaspeed 渠道与 CEO 个人风险会被合并审视，压力在 AI 抛售期放大。",
+      "readingB": "董事会明确称目前没有迹象表明国家安全或商业机密受损，并公开表态信任黄仁勋；承认婚外情与「被情报机构盯上」是两回事，间谍定性主要来自匿名情报来源经媒体转述，尚无官方公开结论。短期更多是声誉与程序风险，而非业务基本面变化。",
+      "disagree": "分歧在于这是一次可控的个人丑闻加董事会走程序，还是暴露出对华芯片政策与最高层人脉的系统性安全漏洞；以及国会与市场会否因此重新审视 H200 对华销售审批。",
+      "synthesis": "能确定的是：黄仁勋书面承认婚外情，董事会已启动独立调查并仍支持他留任，国会要求 11/18 闭门作证。接下来要看 11/17 财报电话会上管理层如何表态、11/18 简报后国会反应，以及调查是否发现任何信息泄露证据。",
+      "unknown": "调查范围、负责人与完成时间；Alice Huang 是否确为情报人员的公开证据；黄仁勋是否会出席 11/18 简报；商务部对此前 H200 审批的立场。",
+      "confidence": "高（邮件与董事会声明由多家媒体同时引用）；中（间谍定性依赖匿名情报信源，官方未公开结论）",
+      "sources": [
+        {
+          "label": "CNBC：英伟达调查黄仁勋与疑似中国间谍的关系",
+          "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+        },
+        {
+          "label": "卫报：英伟达在黄仁勋被指成外国情报目标后展开调查",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+        },
+        {
+          "label": "TechCrunch：英伟达调查黄仁勋与可能的中国间谍的关系",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+        },
+        {
+          "label": "半岛电视台：英伟达就婚外情调查黄仁勋",
+          "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "美伊：特朗普称若谈判有进展「极不可能」重启战事，但保留打击权并称已有三个航母打击群「箭在弦上」、38 座桥梁可「一小时内炸毁」；伊朗外长阿拉格齐警告若美再袭将「降下地狱」；周六霍尔木兹多艘油轮被指触雷起火，沙特阿美利雅得一栋行政楼遭碎片受损",
+      "tag": "续报：中东",
+      "facts": [
+        "特朗普表态：特朗普周日对 CNN 称，战事重启「极不可能」，条件是伊朗签署「非常有力的协议」，「他们是个失败国家」；同时重申若战事重启将打击伊朗桥梁与电厂，称「已有三艘航母，另一艘刚到，全部箭在弦上」「我们瞄准了 38 座桥梁，一小时内可炸毁」。他还在 Truth Social 称「铁门特遣队全面生效」，「几乎没有东西能进出伊朗」（CNBC、半岛电视台）。该战争已持续 8 个多月（始于 2 月）。",
+        "伊方表态：阿拉格齐在 X 上称「我们的两日方案依然有效：满足要求，包括各条战线停战，就会看到结果；或选择战争，看我们久经考验的勇士降下地狱」，并称谈判因美国中期选举而推迟，需等待「气氛稳定」后调停方恢复访问；革命卫队空天军顾问称武器「已备足多年」（半岛电视台）。伊朗外交部称不会对美国在地区的目标「手软」。",
+        "海上与爆炸：路透/CNBC 称周六晚伊朗南部（含格什姆岛）传出爆炸，伊国家电视台称未证实有导弹袭击，暗示可能与伊军事活动有关；伊方称两艘油轮触雷起火、另一艘发生爆炸起火；美军称其空军向一艘试图突破封锁的商船船尾开火使其失能；UKMTO 称在阿联酋 Khor Fakkan 以东约 18 海里的阿曼湾发生涉散货船事件。路透社无法证实上述报道。",
+        "外溢与外交：沙特能源部称阿美在利雅得的一栋行政楼因一次未遂袭击的坠落碎片受损，无伤亡；胡塞与沙特冲突本月升级。卡塔尔周六否认美伊谈判已失败，称双方仍在推进协议；一名伊朗高级官员称已通过卡塔尔提交核方案，但需美方先满足七项要求（含制裁解除、冻结资产与战争赔偿），美方坚持核问题须在首轮谈判中涉及（CNBC）。革命卫队称美方陆路封锁特遣队只是「文字游戏」。"
+      ],
+      "readingA": "美方一手谈判、一手加码（铁门特遣队、航母、桥梁清单）；伊方设定「两日方案」并公开威胁，双方都在为谈崩后的升级做威慑摆位。海上接连触雷、被击事件说明局势随时可能失控，「极不可能」只是有条件的表述。",
+      "readingB": "美伊都在释放降级信号：特朗普把重启战争与是否签约挂钩，且选后国内政治压力（汽油价格、民主党国会）倾向结束战争；伊方称在等调停方恢复访问，卡塔尔称谈判在推进。威胁话语是谈判筹码，实际大规模军事行动迹象有限。",
+      "disagree": "分歧在于「极不可能」是真实的政策转向（受选后政治压力驱动），还是谈判前的施压话术；以及伊朗的七项要求与美国「核问题优先」能否调和。",
+      "synthesis": "能确定的是：美伊相互威慑升温的同时，卡塔尔渠道仍在，特朗普把重启战争与协议进展挂钩；海上事件仍在发生但各方说法不一。接下来要看调停方何时恢复访问、伊朗对 IAEA 核查方案的答复，以及霍尔木兹是否出现新的大规模袭击。",
+      "unknown": "伊朗南部爆炸的真实原因；各油轮事件的责任方；两日方案的具体内容；美国是否已定下重启打击的条件。",
+      "confidence": "高（双方公开表态有原话）；中（爆炸、油轮事件各方说法不一，路透无法证实）",
+      "sources": [
+        {
+          "label": "CNBC：特朗普称若谈判有进展，重启伊朗打击「极不可能」",
+          "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+        },
+        {
+          "label": "半岛电视台：伊朗威胁若美方升级将「降下地狱」",
+          "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
+        },
+        {
+          "label": "CNBC：伊朗暗示爆炸并非美方袭击，双方均称船只被击",
+          "url": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "新国会前哨战：民主党现已拿下参议院至少 54 席、众议院至少 254 席；杰弗里斯表态「坚定支持」弹劾国防部长赫格塞斯（马西 11/9 起重提弹劾案），但称民主党团内无人谈弹劾特朗普；司法部长布兰奇称可能反向调查国会议员，沃伦誓言调查「欺诈」企业",
+      "tag": "续报：美国",
+      "facts": [
+        "席位：CNBC 称民主党在参议院至少 54 席、众议院至少 254 席，仍有部分州在计票；卫报称 35 场参院选举已揭晓 33 场，民主党 54 席对共和党 44 席，阿拉斯加和密西西比未定，若两地均获胜则盟友可达 56 席。",
+        "赫格塞斯：杰弗里斯周日在 ABC 称自己对赫格塞斯弹劾决议案是「坚定赞成」，称其「滥用权力、损害国家安全，并一手策划这场鲁莽而昂贵的伊朗选择性战争」。肯塔基州共和党众议员马西（即将离任）计划最早周一重提含八项弹劾条款的决议（含违反《战争权力法》），可能数日内触发众议院表决；民主党团将于周二回华盛顿后讨论。特朗普周三称赫格塞斯「干得很好」，赫格塞斯称弹劾是「政治迫害」（卫报）。",
+        "反调查：布兰奇周日在 CNN 被问及是否会反向调查民主党人时说「可能会有」，并称对即将担任众院监督委员会主席的加西亚「如果我是该委员会成员会非常担心」；加西亚回应「这是威胁」。特朗普此前已下令司法部就斯洛特金的言论展开调查（CNBC）。",
+        "民主党议程：沃伦（将任参院银行委员会主席）称「靠欺骗美国家庭、欺骗投资者牟利的公司，最好做好被严肃调查的准备」；卫报称民主党将同时「调查与立法」，优先事项含恢复 ACA 保费补贴、撤销医保削减、推动撤销关税与结束伊朗战争，杰弗里斯称「没有任何民主党议员跟我谈弹劾」特朗普；共和党现任监督委员会主席康默称委员会最后两个月将调查阿拉斯加参议院选战风波。"
+      ],
+      "readingA": "民主党一边推进针对内阁成员（赫格塞斯）的问责，一边把立法与调查作为 2028 年的竞选平台；白宫与司法部以反向调查威胁回应，政府与国会将进入长期的对抗性监督战。",
+      "readingB": "实际能力受限：特朗普有否决权，参议院 60 票门槛仍在，赫格塞斯弹劾案在共和党控制的现任众议院和未来参议院几乎不可能通过；布兰奇的「可能」是未立案的表态。双方都在为各自基本盘表演强硬，真正的约束来自传票与预算。",
+      "disagree": "分歧在于弹劾赫格塞斯是有实质后果的问责，还是象征性动作；以及司法部反向调查议员是否会越过法律与宪法界线。",
+      "synthesis": "能确定的是：民主党已掌握两院多数（具体席位仍在计票），杰弗里斯公开支持弹劾赫格塞斯，布兰奇公开不排除反向调查议员。接下来要看马西决议案提交与表决时间、民主党团周二表态，以及阿拉斯加、密西西比最终结果。",
+      "unknown": "弹劾案是否获足够票数付诸表决；司法部是否真正立案；民主党团内部对弹劾赫格塞斯的支持程度；Alaska/Mississippi 结果。",
+      "confidence": "高（表态均为当事人原话、多家媒体引用）；中（席位数随计票变化，CNBC 与卫报口径略有不同）",
+      "sources": [
+        {
+          "label": "卫报：杰弗里斯支持弹劾赫格塞斯：「他必须走人」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries"
+        },
+        {
+          "label": "CNBC：民主党升级对特朗普的调查威胁，布兰奇称可能反向调查议员",
+          "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html"
+        },
+        {
+          "label": "卫报：医保、关税而非弹劾特朗普——民主党规划未来两年",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms"
+        },
+        {
+          "label": "卫报：特朗普称选举是「后退一大步」，料将进一步右转",
+          "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "克拉科夫枪击后续：波兰进入两天全国哀悼；嫌犯被修正为 24 岁、仍病危，其父母与姐姐在家中被发现遇害；家中缴获 7 支枪与大量弹药；检方称两地命案「极可能」同一人所为；民族主义反对派质疑内政部长「极右」定性",
+      "tag": "续报：欧洲",
+      "facts": [
+        "伤亡与口径：CNBC 称 16 人受伤，含两名警察与嫌犯本人，嫌犯 24 岁、病危；遇难者中 1 名英国公民、1 名奥地利人，伤者含奥地利、德国、葡萄牙、俄罗斯与英国籍人士。两名警察经近距离交火制服枪手，已恢复意识并接受手术（CNBC，与上期口径「25 岁」有出入，以 CNBC 为准待核）。",
+        "家中命案：在嫌犯家乡奥斯特罗维茨-希维托克日斯基（约 200 公里外）发现其父母与姐姐遗体，均有枪伤，家中起获 7 支枪与「相当数量」弹药；检察官发言人称两地命案「极可能」为同一人所为，调查仍在进行；嫌犯为一射击俱乐部成员（CNBC）。",
+        "政治争议：内政部长基尔温斯基周六称袭击可能受极右意识形态启发；保守派反对党法律与公正党（PiS）副主席切尔内克在 X 上质疑，称若部长「误导公众应承担政治后果」，要求说明依据（CNBC）。",
+        "社会反应：波兰周日起两天全国哀悼，圣母玛利亚教堂每小时的号角声暂停 12 小时，为 1939 年以来首次；老城广场及周边仍封闭，华沙加强安保；《共和国报》社论称这是波兰「安全岛时代的残酷终结」，并提到 10 月已有多起与极端化网络内容相关的校园持刀案（CNBC）。"
+      ],
+      "readingA": "官方把事件定性为极右启发的恐怖袭击，并叠加此前的校园袭击，意味着波兰需要正视网络极端化与枪支扩散，政府、警方、反极端项目会因此被拷问。",
+      "readingB": "动机仍在调查，嫌犯同时杀害家人，也可能有家庭与个人因素；PiS 对「极右」定性的质疑反映该事件已被党派化，在证据公布前任何单一解释都可能被政治利用。",
+      "disagree": "分歧在于这起袭击的主因是意识形态极端化，还是个人暴力；以及政府随之收紧枪支与网络监管，还是陷入党派互斥。",
+      "synthesis": "能确定的是：枪击已致 6 人死、16 人伤，嫌犯家中另有 3 名亲属遇害并起获 7 支枪，嫌犯仍在病危。接下来要看检方对嫌犯的指控、其意识形态材料的公开程度，以及政府是否推出枪支或反极端化新措施。",
+      "unknown": "嫌犯确切年龄（24 或 25 岁，各来源有出入）；枪支是否合法持有；内政部长定性的具体依据；嫌犯能否苏醒受审。",
+      "confidence": "高（伤亡、家中命案与哀悼安排来自官方与路透报道）；中（动机定性有争议）",
+      "sources": [
+        {
+          "label": "CNBC：波兰哀悼克拉科夫枪击遇难者，安全担忧加剧",
+          "url": "https://www.cnbc.com/2026/11/08/poland-krakow-shooting-mass-killing.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "默茨将提名巴伐利亚州议会议长伊尔泽·艾格纳（61 岁、基社盟）出任德国总统，若周一基民盟/基社盟会议确认，她几乎必然当选，将成德国首位女总统；联邦大会 1 月 30 日选举，接替 2027 年 3 月任满的施泰因迈尔",
+      "tag": "新：欧洲",
+      "facts": [
+        "提名：默茨周日在基民盟领导层晚宴上宣布，将提名艾格纳为下任总统；若基民盟与基社盟周一会议确认，她「几乎肯定」将正式当选，成为德国首位女国家元首（半岛电视台，引法新社、德新社、路透）。",
+        "背景：艾格纳 61 岁，1998 年当选联邦议员，曾在默克尔政府任农业部长，2018 年起任巴伐利亚州议会议长。基社盟今年早些时候提出她，基民盟在默茨考虑其他人选期间未表态，曾使两党关系紧张。",
+        "程序：按德国惯例，联合政府（基民盟、基社盟与社民党）须就共同候选人达成一致；社民党此前多次公开支持艾格纳。联邦大会定于 1 月 30 日选举施泰因迈尔的继任者，施泰因迈尔（社民党，2017 年就任）将于 2027 年 3 月任满两届。",
+        "职权：总统职位主要为礼仪性，签署法律、正式任命部长，但可作为超越党派的中立仲裁者与国家团结象征。"
+      ],
+      "readingA": "这是默茨化解与基社盟张力、巩固联合政府团结的务实决定：确认来自基社盟、社民党也支持的人选，既避免总统选举成为联合政府裂痕，也完成德国首位女总统的历史性一步。",
+      "readingB": "这件事更多是德国国内政治的程序性事件，总统权力有限，对政策走向影响不大；默茨前期犹豫显示基民盟内部对人选并非没有分歧，真正考验在于联邦大会投票与联合政府其他议题。",
+      "disagree": "分歧在于这一提名是联合政府稳定的信号，还是只是延后了基民盟与基社盟之间更深的矛盾；以及总统职位对德国政治的实际影响有多大。",
+      "synthesis": "能确定的是：默茨已决定提名艾格纳，需周一党内会议确认，社民党此前已表示支持，联邦大会 1 月 30 日投票。接下来要看周一会议结果与是否出现其他候选人。",
+      "unknown": "周一会议确认结果；是否有来自极右或左翼的竞争候选人；联邦大会各党派票数构成。",
+      "confidence": "高（提名由默茨本人宣布，多家通讯社一致）；中（「几乎必然当选」为通讯社基于联合政府席位的判断）",
+      "sources": [
+        {
+          "label": "半岛电视台：默茨将提名艾格纳为德国首位女总统",
+          "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "以色列：艾森科特周日正式获赫尔佐格授权，28 天组阁；其开始向内塔尼亚胡盟友伸出橄榄枝，称内塔尼亚胡把以色列带入「历史性危机」、国家正接近「不归点」",
+      "tag": "续报：中东",
+      "facts": [
+        "授权：卫报称，前军方总参谋长、亚沙尔党领袖艾森科特周日正式从总统赫尔佐格处获得 28 天组阁授权，尽管其阵营缺乏明确多数；他开始接触内塔尼亚胡的盟友，称内塔尼亚胡把国家带入历史性危机，以色列正在接近「不归点」，并承诺弥合内塔尼亚胡时代造成的深度分裂（卫报，据其 RSS 摘要）。",
+        "已知格局（上期）：10/27 大选后，内塔尼亚胡阵营 53 席、艾森科特阵营 48 席，两个阿拉伯政党名单合计 19 席；推荐数艾森科特 67、内塔尼亚胡 46（BBC 引总统府）。",
+        "本期核实说明：卫报此条摘要称艾森科特 66 岁，上期简报引用的年龄信息为 67（推荐数），属不同指标；此条全文未能读取，仅采用 RSS 摘要，细节偏少。"
+      ],
+      "readingA": "艾森科特选择先向内塔尼亚胡盟友（而非阿拉伯政党）伸手，显示他倾向组建跨阵营的「紧急」联合政府，以绕开与阿拉伯政党合作的政治禁忌，也让利库德内部出现分化的可能。",
+      "readingB": "接触内塔尼亚胡盟友未必意味着路线已定：28 天时钟已开始，但 48 席阵营仍缺席位，极端正统派与利库德未必愿意背弃内塔尼亚胡；这更可能是谈判姿态，失败后仍可能回到阿拉伯政党或重新大选。",
+      "disagree": "分歧在于艾森科特能否真的拆分内塔尼亚胡阵营，还是被迫依赖阿拉伯政党或走向再次大选。",
+      "synthesis": "能确定的是：授权已正式生效，28 天时钟开始，艾森科特已启动对内塔尼亚胡盟友的接触。接下来要看哪些政党愿意坐下谈判、阿拉伯政党的立场，以及 28 天内是否有突破。",
+      "unknown": "哪些内塔尼亚胡盟友已回应；艾森科特是否接受阿拉伯政党的外部支持；利库德内部是否有人倒戈。",
+      "confidence": "中（仅依据卫报摘要；授权事实高可信，细节有限）",
+      "sources": [
+        {
+          "label": "卫报：艾森科特开始向内塔尼亚胡盟友接触，力争组阁",
+          "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "教皇利奥十四世访问阿根廷（首次完整一日行程 11/9）：1987 年以来首次教皇访阿，米莱到机场迎接；教皇行程聚焦残障院舍、劳工与国防工厂，与米莱的削减开支与 AI 去监管主张形成对照",
+      "tag": "新：拉美/宗教",
+      "facts": [
+        "行程：半岛电视台称米莱周日欢迎教皇利奥访问阿根廷；卫报称这是他南美三国之行的一站（周五始于乌拉圭，最后在秘鲁待六天），为 1987 年约翰·保罗二世之后首次教皇访问阿根廷；周一（11/9）首站是布宜诺斯艾利斯郊区的 Cottolengo Don Orione 残障人士之家，随后会见企业家与工会领袖，周二在科尔多瓦国防飞机厂 FAdeA 举行弥撒，该厂工人曾抗议米莱削减开支。",
+        "背景：卫报称米莱削减公共支出、残障资助陷入僵局；智库 Mate 估计最低养老金领取者购买力下降约 30%；米莱 2020 年曾称教皇方济各是「蠢货」「地球上邪恶的代表」，称曾于 2024 年 2 月道歉。5 月利奥十四世曾呼吁「裁减」人工智能武装，而米莱表示不会监管 AI，推动在阿建数据中心并给予「无人类公司」法律地位。",
+        "不确定性：政府社会部长称教皇「不会来评论地方政治」；阿根廷天主教认同率降至 57.7%（20 年前 76.5%），福音派升至 17.4%；大主教称教皇会看到「分裂的阿根廷」。"
+      ],
+      "readingA": "这次访问将教皇的社会教义与米莱「超级资本主义」路线置于同一舞台，即使教皇不直接批评，访问的行程安排（残障、劳工、国防工业）本身就有政治含义，也将 AI 治理纳入天主教与国家政策的分歧。",
+      "readingB": "教皇的外交风格是不对抗，强调普遍尊严与兄弟情谊；政府与教会双方都在淡化冲突，米莱可能借机展示外交形象，天主教影响力下降也限制其对立法议程的实际影响。",
+      "disagree": "分歧在于这次访问会放大阿根廷的政治分裂，还是被双方以外交礼仪化解；以及教皇关于 AI 的立场能否影响阿根廷的政策。",
+      "synthesis": "能确定的是：教皇已抵阿，行程包含残障院舍、工会企业会面与国防工厂弥撒。接下来要看教皇在 11/9 至 11/11 的讲话措辞，尤其涉及贫困、残障资助与 AI，及米莱的回应。",
+      "unknown": "教皇讲话是否直接触及米莱政策；米莱政府是否改变残障资助；访问对阿根廷国内政治的实际影响。",
+      "confidence": "中高（行程与背景来自卫报深度稿与半岛电视台；教皇具体讲话尚未发生）",
+      "sources": [
+        {
+          "label": "卫报：教皇访阿根廷引发与「超级资本主义」米莱的较量",
+          "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+        },
+        {
+          "label": "半岛电视台：米莱在历史性访问中欢迎教皇利奥",
+          "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+    },
+    {
+      "n": 2,
+      "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation"
+    },
+    {
+      "n": 3,
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/"
+    },
+    {
+      "n": 4,
+      "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair"
+    },
+    {
+      "n": 5,
+      "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+    },
+    {
+      "n": 6,
+      "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war"
+    },
+    {
+      "n": 7,
+      "title": "Iran suggests blasts are not U.S. attacks as both sides report ships hit",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/saudi-aramco-riyadh-building-attack.html"
+    },
+    {
+      "n": 8,
+      "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries"
+    },
+    {
+      "n": 9,
+      "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html"
+    },
+    {
+      "n": 10,
+      "title": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/democrats-congress-trump-midterms"
+    },
+    {
+      "n": 11,
+      "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration"
+    },
+    {
+      "n": 12,
+      "title": "Poland mourns victims of Krakow mass shooting as security fears grow",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/poland-krakow-shooting-mass-killing.html"
+    },
+    {
+      "n": 13,
+      "title": "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/chancellor-merz-to-nominate-aigner-as-germanys-first-woman-president"
+    },
+    {
+      "n": 14,
+      "title": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/gadi-eisenkot-netanyahu-allies-form-israel-government"
+    },
+    {
+      "n": 15,
+      "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina"
+    },
+    {
+      "n": 16,
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei"
+    },
+    {
+      "n": 17,
+      "title": "Ukraine war briefing: Russia ramping up attacks to ‘pressure’ Kyiv at trilateral talks, Zelenskyy says（阿布扎比三方会谈周二至周三；172 架无人机、36 枚弹道导弹；未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/ukraine-war-briefing-russia-ramping-up-attacks-to-pressure-kyiv-at-trilateral-talks-zelenskyy-says"
+    },
+    {
+      "n": 18,
+      "title": "Collision of two trains in Egypt kills at least seven",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+    },
+    {
+      "n": 19,
+      "title": "Deadly sand cliff collapses on displaced families in Gaza",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza"
+    },
+    {
+      "n": 20,
+      "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/"
+    },
+    {
+      "n": 21,
+      "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/"
+    },
+    {
+      "n": 22,
+      "title": "Stock futures rise slightly as investors eye AI trade, brace for more data and earnings: Live updates",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html"
+    }
+  ]
+}
