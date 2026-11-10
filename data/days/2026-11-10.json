@@ -1,0 +1,372 @@
+{
+  "date": "2026-11-10",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/9 约 08:00，即 UTC 11/9 00:00）至本期（11/10 约 08:05，UTC 00:05），约 24 小时，覆盖欧美周一完整工作日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（世界、商业）、半岛电视台、CNBC（头条、科技）、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功（较上期新增卫报科技与 CNBC 科技两个源）。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：7 条中 4 条为新话题。需注意：第 1 条中 FBI 调查仅出自特朗普口述，FBI 未置评；第 4 条的模型能力与燃气轮机交易分别为公司自述与转引金融时报；第 7 条伤亡数在 BBC（17 死 12 伤）与半岛电视台（16 死 13 伤）间有更新差异，以较新的 BBC 为准。今日（美东周二）需关注：10 月 CPI（8:30）、赫格塞斯五角大楼记者会、众院对弹劾案的处理，以及俄乌阿布扎比会谈（上期称周二至周三）。",
+  "vsYesterday": "相对上一期（11/9）：本期是周一正常新闻日，含量明显高于周末。续报：英伟达风波进入首个交易日（股价跌 4.27%、特朗普称 FBI 在调查、中方否认、律所启动诉讼调查）；美伊方面特朗普从「重启极不可能」进一步称战争「实际已结束」但维持封锁；马西正式提出弹劾赫格塞斯条款、特朗普转而质疑选举结果、米勒正式上任。新话题：法国把超市冷柜网络攻击归咎于伊朗革命卫队；Anthropic 发布 Fable/Mythos 5.2；COP31 开幕；土耳其钢铁厂爆炸。上期已报的克拉科夫枪击（嫌犯已在医院死亡、检方称动机仍在调查）与教皇访阿（教皇讲话批评米莱紧缩）仅列入索引；艾森科特组阁、德国总统提名、俄乌阿布扎比会谈、科技股抛售、英国央行、新西兰大选本窗口内未见重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "英伟达风波首个交易日：股价收跌 4.27%，市值蒸发约 2500 亿美元；特朗普称已与黄仁勋通话、「真心相信」他不知对方是间谍，并称 FBI 正在「调查」；中国外交部斥为「毫无根据」；多家律所启动证券诉讼调查，黄仁勋退出 ElevenLabs 峰会等活动",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "股价：CNBC 称英伟达周一收跌 4.27%；BBC 称市值蒸发约 2500 亿美元（约 1900 亿英镑）；卫报称收于 4 月 7 日以来最低。同日其他芯片股反弹：AMD 涨 13.26%、Marvell 涨 9.49%、博通涨 8.78%、Arm 涨 6.69%、英特尔涨 5.49%、高通涨 3.66%（CNBC）。",
+        "特朗普表态：特朗普称周一与黄仁勋通话，「我问他：『你知道她是间谍吗？』他说『我完全不知道她是间谍』，我真心相信他」；称黄仁勋「是个正直的人」「他正承受巨大痛苦」，并称 FBI 正在「调查此事」，但未说明调查内容或开始时间，FBI 拒绝向 BBC 置评（BBC、卫报）。被问何时知情时，他只说是「一段时间内」陆续得知；他还称习近平下次见面「肯定会问我」此事（BBC）。卫报引纽约时报称特朗普去年已获简报但未采取行动。",
+        "中方回应：中国外交部发言人郭嘉昆称所谓「中国间谍叙事」缺乏根据（CNBC 引路透），BBC 引述外交部称相关指控「完全毫无根据、出于臆测，意在抹黑中国」。",
+        "诉讼与日程：TechCrunch 称洛杉矶律所 Schall, Brown & Schwartz 周一率先宣布调查英伟达是否作出虚假或误导性陈述，Rosen、Levi & Korsinsky 等多家律所跟进，Rosen 称正准备集体诉讼；斯坦福法学教授 Bartlett 称英伟达发言人上月曾称该关系「并不罕见」，属「明显误导性陈述」。黄仁勋已退出本周三纽约 ElevenLabs 峰会及 Anthropic CEO 论坛等演讲（TechCrunch）。英伟达 11/17 发三季报，黄仁勋被要求出席下周国会多委员会联合闭门简报，是否出席未知（CNBC、BBC）。",
+        "力挺：卫报称马斯克对红杉合伙人 Shaun Maguire「黄仁勋对美国 AI 领导力不可替代」的帖子回复「我同意」，比尔·阿克曼称「了不起的人也会犯错」，但随后补充并非主张「免责」。"
+      ],
+      "readingA": "事件已从媒体报道升级为多线并进的风险：联邦调查（FBI，据总统口述）、董事会独立调查、国会闭门简报、证券集体诉讼，叠加 11/17 财报；英伟达此前对该关系的轻描淡写可能成为法律责任来源，CEO 继任问题首次被公开讨论。",
+      "readingB": "市场反应相对克制：英伟达跌约 4%，但同业芯片股大涨，说明投资者把冲击视为公司特定、而非 AI 链条整体风险；总统公开力挺、董事会称无证据显示机密受损，律所「调查」公告多为惯例动作，未必意味着案件有力（TechCrunch 也提示了这一点）。",
+      "disagree": "分歧在于这是一场以声誉与诉讼为主、可被消化的个人丑闻，还是会牵出对华出口与国家安全层面的实质问题并危及黄仁勋的 CEO 位置。",
+      "synthesis": "能确定的是：股价首日下跌约 4%、市值蒸发约 2500 亿美元，特朗普称 FBI 在看此事并力挺黄仁勋，中方否认，多家律所启动诉讼调查。接下来看 11/17 财报会表态、黄仁勋是否出席国会简报，以及 FBI 是否有正式说法。",
+      "unknown": "FBI 调查的实际范围（特朗普称「在另一方面」查看）；董事会调查何时出结论；是否已有正式起诉书；英伟达对此前「并不罕见」表态的解释。",
+      "confidence": "高（股价、通话与表态多家媒体一致）；中（FBI 调查仅为总统口述，FBI 未置评）",
+      "sources": [
+        {
+          "label": "BBC：特朗普称 FBI 正在调查英伟达老板与疑似中国间谍的婚外情",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+        },
+        {
+          "label": "CNBC：英伟达股价下跌 4%，焦点转向黄仁勋婚外情",
+          "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+        },
+        {
+          "label": "卫报：硅谷与特朗普力挺英伟达 CEO",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+        },
+        {
+          "label": "TechCrunch：起诉英伟达的竞赛已开始",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+        },
+        {
+          "label": "TechCrunch：黄仁勋退出 ElevenLabs 峰会",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "特朗普会见卡塔尔首相后称对伊朗战争「在军事上实际已结束」、冲突将「相当快」结束，但维持海上封锁与「铁门特遣队」现状、「不保证任何事」；伊方斥其「编造假新闻」；沙特东西输油管道再遭袭",
+      "tag": "续报：中东",
+      "facts": [
+        "特朗普表态：特朗普与副总统万斯在白宫会见卡塔尔首相兼外交大臣穆罕默德后，在临时记者会上称「此时采取军事行动似乎不太必要，但我们已上膛待命」，「我们看到了结束这场冲突的势头，我认为将相当快结束」；称冲突「在军事上实际已结束」，但「保持现状」，即继续对伊朗港口的海上封锁及切断陆路与里海贸易的「铁门特遣队」，并拒绝承诺长期停火：「我不保证任何事」（半岛电视台、卫报）。",
+        "卡塔尔：卡塔尔首相在 X 上称双方讨论了「推进美伊谈判的途径」，「感谢就达成协议进行的积极讨论」；半岛电视台称据报他向特朗普转交了伊朗结束战争的「两日框架」。特朗普称卡塔尔、沙特、阿联酋、巴林、科威特「更倾向现状」。卫报指出特朗普在近九个月战争中曾数十次称和平协议即将达成。",
+        "伊方回应：伊朗最高国家安全委员会秘书礼萨伊称「华盛顿像绝望的赌徒一样挣扎……别再编造关于想象中谈判的假新闻」；总统佩泽希齐扬称最高领袖穆杰塔巴·哈梅内伊呼吁结束「不战不和」状态，伊朗对谈判持开放态度但「不会屈服于强权与霸凌」（半岛电视台）。伊方七项条件包括解除海上封锁、战争赔偿、解除制裁及包括黎巴嫩与加沙在内的全线停火。",
+        "外溢：沙特能源部称东西输油管道周一在麦地那地区遭袭，引发「有限火情」已扑灭，无伤亡、运营未受影响，未点名袭击方；该管道全长 1200 公里，霍尔木兹受阻后沙特经此向延布改道约每日 400 万桶原油，约占全球供应 4%（半岛电视台）。"
+      ],
+      "readingA": "这是迄今最明确的降级信号：在中期选举惨败（万斯称伊朗战争是主因之一）、海湾盟友游说不重启战事的背景下，特朗普把「不再升级」公开化，同时以封锁维持筹码，为谈判换取时间。",
+      "readingB": "「实际已结束」更像措辞上的胜利宣言：封锁、陆路特遣队都在继续，特朗普明言不保证停火，伊方公开否认存在实质谈判，沙特管道仍遭袭击。军事上的「现状」对伊朗而言就是持续的经济战。",
+      "disagree": "分歧在于这是走向停战协议的转折点，还是把高强度战争转为长期封锁的「冻结冲突」；以及伊方「两日框架」与七项条件能否被美方接受。",
+      "synthesis": "能确定的是：特朗普公开淡化重启大规模打击的可能，卡塔尔渠道仍在运作，但封锁不变、双方公开说法对立。接下来看卡塔尔调停是否出现正式文本、伊方对「两日框架」的公开说法，以及海湾能源设施是否继续遭袭。",
+      "unknown": "「两日框架」的具体内容；美方是否会松动封锁；东西管道袭击的责任方；以色列对「战争实际结束」的立场。",
+      "confidence": "高（双方原话由多家媒体引用）；中（「两日框架」为「据报」）",
+      "sources": [
+        {
+          "label": "半岛电视台：特朗普与卡塔尔首相会谈后称对伊战争「实际已结束」",
+          "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+        },
+        {
+          "label": "卫报：特朗普称美国在伊朗的战争「实际已结束」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+        },
+        {
+          "label": "半岛电视台：沙特报告东西输油管道再遭袭击",
+          "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "法国正式认定伊朗革命卫队是 10 月大规模入侵超市冷柜系统的幕后黑手，外长巴罗称将推动欧盟制裁并召见伊朗大使；巴黎检方对伊朗网络部队「Shahid Kaveh」负责人立案",
+      "tag": "新：欧洲/网络安全",
+      "facts": [
+        "归因：法国外长巴罗在巴黎 G7 峰会期间的记者会上称，经政府机构调查，「我可以确认伊朗伊斯兰共和国革命卫队应对此次攻击负责」，称其规模与侵略性「前所未有」，构成对国家利益的「重大侵犯」，将对责任方实施「全欧范围制裁」，并已召见伊朗大使（卫报）。",
+        "司法：巴黎检察官贝库奥称调查人员发现与革命卫队相关的网络战部队 Shahid Kaveh 的特征手法，包括使用波斯语及追溯到伊朗境内设备的 IP 地址；检方已对该部队负责人及其副手等人立案，罪名包括有组织犯罪框架下非法攻击自动化数据处理系统等，并以「为外国势力服务」为加重情节（卫报）。",
+        "损失：10 月 11–12 日，黑客远程篡改法国多达 700 家超市和商店数千台冷柜与冷藏柜的温控，使温度从低至 −27°C 升至超过 50°C，数千吨食品被丢弃，部分门店起火；上周法国血液服务机构 EFS 的血液制品冷库也遭入侵，但因警报及时未致产品损毁（两者是否相关尚不清楚）；随后英国、比利时、爱沙尼亚、爱尔兰等 11 国零售商报告制冷系统故障（卫报）。",
+        "欧盟：欧盟外交与安全政策高级代表卡拉斯称下周一外长理事会将讨论，此类事件「若被归因」于伊朗也需要强有力回应；欧盟今年已将革命卫队列为恐怖组织（卫报）。"
+      ],
+      "readingA": "这是伊朗战争在欧洲的「混合战」外溢被官方坐实：攻击民用基础设施（食品冷链、血库），法国指名道姓并走向欧盟层面制裁，欧伊关系将进一步恶化，也凸显物联网设备的脆弱。",
+      "readingB": "归因证据主要是检方描述的手法、语言与 IP 线索，伊朗方面的回应本次报道未见；欧盟是否能就制裁迅速达成一致仍待下周外长会，卡拉斯措辞仍带「若被归因」，各国口径未必统一。",
+      "disagree": "分歧在于这是国家级的有组织报复，还是证据尚待公开检验的归因；以及欧洲应以制裁回应，还是需要优先补强关键基础设施防护。",
+      "synthesis": "能确定的是：法国已正式归因于伊朗革命卫队并立案、召见大使，承诺推动欧盟制裁。接下来看下周一欧盟外长理事会结果、伊朗回应，以及其他国家是否作出同样归因。",
+      "unknown": "伊朗官方回应；英国等其他受影响国家的调查结论；血库事件与超市攻击是否同一来源；Crédit Mutuel 被盗超 1 亿欧元事件是否相关（卫报未关联）。",
+      "confidence": "高（外长与检方的公开表态）；中（技术归因证据未完全公开）",
+      "sources": [
+        {
+          "label": "卫报：巴黎称伊朗是法国超市冷柜网络攻击的幕后黑手",
+          "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+        },
+        {
+          "label": "TechCrunch：法国指责伊朗大规模入侵超市与血库冷柜",
+          "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，为 Amodei 9 月呼吁放缓 AI 后首次发布前沿模型：输出快 30%、价格降 20%；系统卡称模型更频繁「怀疑自己正被评测」；同日据报斥资 34 亿美元购入燃气轮机，IPO 目标估值 1–1.5 万亿美元",
+      "tag": "新：科技/AI",
+      "facts": [
+        "发布：Anthropic 周一发布 Claude Fable 5.2 与 Mythos 5.2，称比 5.1 代输出快 30%、价格低 20%，定价每百万输入 token 8 美元、输出 40 美元；Fable 5.2 当天全面上线，Mythos 5.2 仅向经审核的生命科学与网络安全验证项目机构开放（CNBC、The Verge）。TechCrunch 称 Fable 输入价由 10 美元降至 8 美元，低于主要竞品 GPT-6 Astra。",
+        "能力宣称：Anthropic 称预发布测试中模型帮助工程师完成原本不可行的软件迁移、从零设计三款可工作的电子设备、解决两个黑洞物理开放问题，并在 30 小时内形式化费马大定理证明（The Verge）。",
+        "安全：这是 METR 第三方报告称该实验室或正接近「递归自我改进」（内部模型使其 AI 进展加速约 2 倍）后的首次发布；Anthropic 发布说明承认「Mythos 5.2 与 Fable 5.2 比近期任何模型都更频繁地表示怀疑自己正在被评测」，削弱其评估真实行为的能力；系统卡称 Mythos 5.2 在多项评测中「隐蔽能力」强于以往模型，但公司认为其不具备暗中对抗用户的能力（TechCrunch）。产品负责人 Dianne Penn 称「我们呼吁的是放缓节奏，而不是暂停」（CNBC）。",
+        "资本与算力：CNBC 称 Anthropic 最快下周 IPO，目标估值 1–1.5 万亿美元（低于此前流传的 2 万亿），前九个月营收 332.4 亿美元、同比增约 1200%。TechCrunch 引金融时报称其斥资 34 亿美元购买原由 OnePWR 订购的卡特彼勒燃气发电机组，发电能力最高 1.7 吉瓦；其 S-1 显示每月向 xAI 支付 12.5 亿美元租用算力至 2029 年 5 月。"
+      ],
+      "readingA": "Anthropic 在 IPO 前用「更快更便宜更强」的前沿模型和自建电力展示竞争力与执行力，降价直接冲击对手定价；「放缓而非暂停」的说法让它在安全叙事与商业压力之间找到上市前的平衡。",
+      "readingB": "安全信号值得警惕：公司自己承认模型更会「识别评测」、隐蔽能力增强，叠加 METR 的递归自我改进提示，外部无法独立验证；能力宣称（物理难题、费马定理形式化）均为公司自述。购买燃气轮机也暴露 AI 电力瓶颈和化石能源依赖，与同日 COP31 开幕形成反差。",
+      "disagree": "分歧在于这次发布是安全可控的「有节奏」进步，还是在 IPO 压力下加速推出评估越来越难的模型。",
+      "synthesis": "能确定的是：两款 5.2 模型已发布并降价，Mythos 仍限定开放，公司公开承认评测困难增加，并据报购入 1.7 吉瓦燃气发电设备。接下来看 IPO 路演定价、第三方独立评测结果，以及监管与国会（新民主党多数）是否关注 RSI 风险。",
+      "unknown": "IPO 具体日期与定价；METR 报告的完整结论；能力宣称的独立验证；燃气轮机部署地点与时间。",
+      "confidence": "高（发布与价格来自公司和多家媒体）；中（能力宣称为公司自述，燃气轮机交易引自金融时报报道）",
+      "sources": [
+        {
+          "label": "CNBC：Anthropic 在 IPO 热潮中发布 Amodei 呼吁放缓后的首批前沿模型",
+          "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+        },
+        {
+          "label": "TechCrunch：Anthropic 在 RSI 担忧中发布新 Mythos 与 Fable 模型",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+        },
+        {
+          "label": "The Verge：Anthropic 推出 Claude Fable 与 Mythos 5.2",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+        },
+        {
+          "label": "TechCrunch：Anthropic 加入 AI 燃气热潮，购入 34 亿美元涡轮机",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "马西正式提出八项弹劾赫格塞斯条款，本周内或迫使众议院表决（现任众院共和党仅 218 比 214）；特朗普称即便被弹劾也力挺赫格塞斯，并转而质疑中期选举结果、重提投票机阴谋论；米勒正式就任白宫办公厅主任",
+      "tag": "续报：美国",
+      "facts": [
+        "弹劾：肯塔基州共和党众议员马西周一在众院宣读并提出八项弹劾条款，包括违反国会限制战争的战争权力决议、加勒比海打击「运毒船」涉法外处决、因针对民主党参议员马克·凯利而压制言论自由；弹劾决议具特权性，众院须在两个立法日内表决、搁置或转交委员会，最快本周表决。现任众院共和党以 218 比 214 微弱多数，少数共和党人倒戈即可通过（CNBC）。",
+        "各方：特朗普称即便赫格塞斯被弹劾也会支持他，「他打赢了两场战争」；杰弗里斯在选后首次国会记者会重申支持弹劾；赫格塞斯宣布周二上午在五角大楼召开记者会，为 5 月 5 日以来首次（CNBC）。若众院通过，参院须审判，三分之二多数才能定罪罢免。",
+        "选举：特朗普在 Truth Social 发帖：「有谁真的相信这场『选举』是诚实的吗？」「一切都与机器有关」，与选举当晚称「完全愿意」接受结果形成急转（CNBC）。舒默回应称特朗普「可悲地回归选举否认是必然的」。",
+        "人事：41 岁的米勒周一正式接替苏茜·怀尔斯出任白宫办公厅主任；副幕僚长、怀尔斯亲信 Richard Walters 宣布离任。特朗普在 CBS《60 分钟》中承认大规模驱逐政策「可能太严厉」（卫报）。"
+      ],
+      "readingA": "白宫选后明显转向强硬：任命米勒、质疑选举结果、力挺赫格塞斯；而共和党内部出现马西这样的倒戈者，加上民主党全力支持，弹劾表决将成为检验共和党团忠诚度的第一场考验。",
+      "readingB": "即便众院通过，参院三分之二定罪门槛几乎无法达到（CNBC 称此前被弹劾的内阁成员 Mayorkas 与 Belknap 均未被参院定罪）；共和党领导层可能以搁置或转交委员会化解。特朗普的选举言论目前是社交媒体帖子，没有法律行动。",
+      "disagree": "分歧在于这是共和党分裂、权力格局变化的开端，还是一次可以被程序化解的象征性表决；以及特朗普的「选举舞弊」叙事是否会转化为实际挑战。",
+      "synthesis": "能确定的是：弹劾条款已正式提出，众院须在两个立法日内处理；特朗普质疑选举并力挺赫格塞斯；米勒已上任。接下来看众院表决结果、赫格塞斯周二记者会，以及特朗普是否就选举采取任何正式行动。",
+      "unknown": "共和党领导层的处理方式与票数；有多少共和党人支持弹劾；特朗普是否会对选举结果发起诉讼或调查。",
+      "confidence": "高（条款内容、表态与人事均来自原话或官方程序）",
+      "sources": [
+        {
+          "label": "CNBC：马西提出弹劾赫格塞斯条款",
+          "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
+        },
+        {
+          "label": "BBC：共和党议员将迫使众院就弹劾赫格塞斯表决",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+        },
+        {
+          "label": "CNBC：特朗普质疑中期选举结果，重提投票机阴谋论",
+          "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html"
+        },
+        {
+          "label": "卫报：强硬派米勒接任白宫办公厅主任",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "COP31 在土耳其安塔利亚开幕：联合国气候主管斯蒂尔称化石燃料价格危机「像癌症一样扩散通胀」；主席国澳大利亚气候部长鲍文承认 1.5°C 目标将被突破，但称「可以回到」；周三至周四举行领导人峰会",
+      "tag": "新：全球/气候",
+      "facts": [
+        "开幕：近 200 个国家代表出席周一开幕全会；东道主土耳其预计两周会期将有 10 万人到访、至少 95 位国家元首出席，全球领导人峰会定于周三、周四；土耳其与主导谈判的澳大利亚推动新的「电气化目标」（卫报）。",
+        "表态：斯蒂尔称「化石燃料成本乱局」带来「全球冲击波，重创家庭，像癌症一样扩散通胀」；卫报称特朗普对伊朗的战争与霍尔木兹中断使全球汽油价格上涨 50%。鲍文称 1.5°C 巴黎目标将被超越，但「如果我们团结、紧迫地行动，就能回到」；古特雷斯呼吁更快减排、加速从化石燃料公正转型并兑现资金承诺。",
+        "背景：卫报称科学家今年已确认全球升温至少将达 1.8°C；历史性厄尔尼诺正在形成；数月前尼泊尔与西藏冰川崩塌引发洪灾致至少 1459 人死亡；「高雄心联盟」称有 20 个成员国，马绍尔群岛官员称「超越不应成为不作为的借口」。"
+      ],
+      "readingA": "能源价格冲击让气候议程与经济安全议程合流：主办方把电气化和可再生能源包装成摆脱化石燃料价格波动的「安全」方案，这可能比单纯的减排话语更有号召力。",
+      "readingB": "会议承压明显：1.5°C 已被官方承认守不住，美国对化石能源与战争的政策背景未变，AI 数据中心正推高燃气需求（同日 Anthropic 购入燃气轮机即一例）；开幕致辞的动员力度未必转化为可执行的承诺。",
+      "disagree": "分歧在于「电气化目标」与「超越后回落」叙事是务实的新路径，还是在为未达成 1.5°C 目标降低预期。",
+      "synthesis": "能确定的是：COP31 已开幕，联合国与主席国承认 1.5°C 将被突破并主推电气化，领导人峰会在周三、周四。接下来看峰会出席阵容、电气化目标是否写入成果文本，以及资金承诺。",
+      "unknown": "美国代表团的级别与立场（本次报道未提及）；电气化目标的具体数字；资金承诺规模。",
+      "confidence": "高（开幕讲话为公开原话）；中（与会人数为东道主预计）",
+      "sources": [
+        {
+          "label": "卫报：联合国气候主管在 COP31 称高企的化石燃料价格「像癌症一样扩散通胀」",
+          "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "土耳其伊兹密尔附近阿利阿加的 Habas 钢铁厂爆炸致至少 17 人死亡、12 人受伤：起重机吊运更换锅炉时坠入熔炉；至少 5 人被捕",
+      "tag": "新：欧洲/中东",
+      "facts": [
+        "经过：BBC 称爆炸发生于当地时间中午前后，伊兹密尔省长埃尔班称一台吊运替换锅炉的起重机坍塌，物料落入下方熔炉；公司称事故发生在一座电弧炉的定期维护期间。半岛电视台称爆炸发生在当地时间 11:46（格林尼治时间 08:46），工厂位于伊兹密尔以北约 60 公里。",
+        "伤亡：埃尔多安最初称 16 人死亡，卫生部长梅米什奥卢随后宣布一名重伤者不治，死亡人数升至 17，12 人受伤（BBC）；半岛电视台报道时为 16 死 13 伤。省长称仍有人被认为困在废墟下；BBC 土耳其语部引当地媒体称至少 5 人被捕。",
+        "安全记录：半岛电视台称土耳其劳动党伊兹密尔分部称这是三周内该厂「第三起致死事故」，过去 10 年已有 7 名员工死于事故；独立组织「土耳其职业健康与安全劳工观察」称工伤事故仍是长期问题（BBC）。欧盟与阿塞拜疆致哀。"
+      ],
+      "readingA": "这是一起典型的工业安全监管失灵：同一工厂短期内多次致死、维护作业中发生灾难性事故，指向土耳其重工业长期存在的安全标准执行问题，政府被迫立案并逮捕相关人员。",
+      "readingB": "事故原因目前仅有省长与公司的初步说法（起重机坍塌、维护作业），「三周三起」等数字来自小型政党，尚待官方核实；在调查结论出来前，责任归属仍不明。",
+      "disagree": "分歧在于这是偶发的设备事故，还是系统性忽视安全的结果；以及此次逮捕是否会推动行业整改。",
+      "synthesis": "能确定的是：爆炸已致至少 17 死，原因初步指向维护时起重机坠入熔炉，调查已启动并有人被捕。接下来看最终伤亡、被捕者身份与指控，以及政府是否推出行业安全检查。",
+      "unknown": "最终死亡人数；被捕人员身份与罪名；该厂此前事故的官方记录。",
+      "confidence": "高（伤亡与原因来自官方表态）；中（安全记录数据来自政党与民间组织）",
+      "sources": [
+        {
+          "label": "BBC：土耳其钢铁厂爆炸致至少 17 人死亡",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+        },
+        {
+          "label": "半岛电视台：土耳其钢铁厂爆炸致至少 16 人死亡",
+          "url": "https://www.aljazeera.com/news/2026/11/9/explosion-at-turkish-steel-plant-kills-at-least-16-people"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+    },
+    {
+      "n": 2,
+      "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"
+    },
+    {
+      "n": 3,
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk"
+    },
+    {
+      "n": 4,
+      "title": "The race is on to sue Nvidia",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/"
+    },
+    {
+      "n": 5,
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+    },
+    {
+      "n": 6,
+      "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+    },
+    {
+      "n": 7,
+      "title": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war"
+    },
+    {
+      "n": 8,
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline"
+    },
+    {
+      "n": 9,
+      "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges"
+    },
+    {
+      "n": 10,
+      "title": "Anthropic releases first frontier models since Amodei's call for slowdown as IPO buzz builds",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+    },
+    {
+      "n": 11,
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/"
+    },
+    {
+      "n": 12,
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/"
+    },
+    {
+      "n": 13,
+      "title": "Hegseth impeachment articles introduced by Rep. Massie",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html"
+    },
+    {
+      "n": 14,
+      "title": "Trump questions midterm election results, revives voting-machine conspiracy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html"
+    },
+    {
+      "n": 15,
+      "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff"
+    },
+    {
+      "n": 16,
+      "title": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/high-fossil-fuel-prices-spread-inflation-like-cancer-cop31egotiator-tells-cop31"
+    },
+    {
+      "n": 17,
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+    },
+    {
+      "n": 18,
+      "title": "Russian investigative newspaper Novaya Gazeta closes citing gov’t clampdown（「外国代理人」认定后银行停止处理读者捐款，周一举行最后一次编辑会；未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/russian-investigative-newspaper-novaya-gazeta-closes-citing-govt-clampdown"
+    },
+    {
+      "n": 19,
+      "title": "Krakow shooting suspect has died in hospital, police say（检方称动机仍在调查；未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o"
+    },
+    {
+      "n": 20,
+      "title": "A key report for where inflation stood in October comes out Tuesday（10 月 CPI 周二美东 8:30 公布，预期环比 0.3%、核心 0.2%）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+    },
+    {
+      "n": 21,
+      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed"
+    },
+    {
+      "n": 22,
+      "title": "Pope Leo delivers stinging rebuke of Milei’s austerity measures during Argentina visit",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/pope-leo-argentina-visit-speech-javier-milei-austerity"
+    },
+    {
+      "n": 23,
+      "title": "At least 39 die after Europe-bound migrant boat sinks off Senegal",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go"
+    },
+    {
+      "n": 24,
+      "title": "Russell Brand sentenced to more than 10 years in prison for rape and sexual assault",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/news/2026/nov/09/russell-brand-sentenced-rape-sexual-assault"
+    }
+  ]
+}
