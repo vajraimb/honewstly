@@ -1,0 +1,425 @@
+{
+  "date": "2026-11-11",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/10 约 08:05，即 UTC 11/10 00:05）至本期（11/11 约 08:05，UTC 00:05），约 24 小时，覆盖欧美周二完整工作日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（世界、商业）、半岛电视台、CNBC（头条、科技）、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：7 条中 3 条为新话题。需注意：第 2 条中 Dan Ives 的「15% 撤换概率」是对市场议论的概括，并非正式预测；第 3 条的定价日与认购情况来自匿名知情人士，BBC 与 CNBC 对估值区间表述不同（BBC 约 1.1–1.3 万亿美元，CNBC 完全摊薄最高 1.405 万亿美元）；第 6 条鲁比奥表态仅见半岛电视台视频摘要；第 7 条「涉俄」只出现在媒体标题。今日（周三）关注：阿布扎比会谈第二天、COP31 领导人峰会，以及周五美国批发物价数据。",
+  "vsYesterday": "相对上一期（11/10）：续报：赫格塞斯弹劾案在众院被搁置、共和党新领导层选出；英伟达风波第二天续跌并出现首起正式诉讼与国会两党追问；美伊方面鲁比奥称无需大规模作战、费尔福德袭击起诉书公布；俄乌阿布扎比会谈首日结束。新话题：Anthropic 公布 IPO 价格区间；美国 10 月 CPI 超预期、美债收益率破 5%；驻英美军士兵涉嫌间谍被捕。伊朗否认法国超市黑客指控、以色列新议会宣誓仅列入索引；COP31、土耳其钢厂爆炸本窗口内未见重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "众议院以 211 比 204 将马西提出的赫格塞斯弹劾案转交司法委员会，实际搁置；五角大楼称「完全胜利」，特朗普称「洗清罪名」；共和党选出吉姆·乔丹、图恩为下届两院少数党领袖，桑德斯表态不支持舒默续任民主党参院领袖",
+      "tag": "续报：美国",
+      "facts": [
+        "表决：众议院周二以 211 比 204 通过动议，把共和党议员马西提出的弹劾决议转交司法委员会；CNBC 称这几乎不给委员会和全院在明年 1 月民主党接掌两院前留下行动时间。马西是唯一投反对票的共和党人，全体民主党人反对转交（CNBC、卫报）。",
+        "指控内容：卫报称决议列出八项违宪指控，包括未经国会授权攻击伊朗、无视 6 月两院通过的战争权力决议、伊朗米纳卜一所学校遇袭致 168 人以上死亡、加勒比与东太平洋对涉毒船只「法外处决」至少 221 人、报复民主党参议员马克·凯利，以及抓捕马杜罗行动和也门轰炸。",
+        "各方表态：赫格塞斯当天在五角大楼记者会上称弹劾是「闹剧、作秀」「这是破坏」；国防部发言人帕内尔称转交是「赫格塞斯部长……的完全胜利」；特朗普在 Truth Social 称这是对其「洗清罪名」，并称马西是「大输家」（CNBC、卫报）。投票支持过战争权力决议的共和党人戴维森称弹劾是把国会失职和特朗普决定「甩锅」给赫格塞斯（卫报）。",
+        "后续：卫报称众院少数党领袖杰弗里斯（预计明年 1 月任议长）支持弹劾；CNBC 指出历史上被众院弹劾的两位内阁部长都未被参院定罪。",
+        "领导层：CNBC 称共和党以 106 比 73 选出乔丹任下届众院少数党领袖，击败斯卡利斯；图恩继续领导参院共和党。卫报称桑德斯表示不会支持舒默续任参院民主党领袖。"
+      ],
+      "readingA": "国会共和党在惨败后依旧不愿与特朗普切割：除马西外全员护住赫格塞斯，并选出最亲特朗普的乔丹当家；这把弹劾与战争问责留给 1 月接手的民主党多数。",
+      "readingB": "转交委员会也反映出部分共和党人的实质看法：问题在总统的战争决策而非国防部长个人，弹劾内阁部长在参院从未成功，这一动作更多是政治表态；且主导者马西已在初选中落败。",
+      "disagree": "分歧在于这次表决是共和党忠诚度的体现、将在 1 月后被民主党重启，还是说明弹劾赫格塞斯本身缺乏两党基础、民主党更可能转向调查与听证。",
+      "synthesis": "能确定的是：弹劾案在本届国会实际被搁置，赫格塞斯与特朗普视之为胜利，民主党领导层表态支持弹劾。接下来看 1 月新国会是否重新提出，以及民主党内部领导层之争（舒默是否续任）。",
+      "unknown": "民主党 1 月后是否真的推动弹劾或优先听证；参院在民主党多数下能否凑齐定罪所需三分之二；舒默领导地位会否被挑战成功。",
+      "confidence": "高（票数与表态多家媒体一致）",
+      "sources": [
+        {
+          "label": "CNBC：众院表决实际搁置赫格塞斯弹劾",
+          "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
+        },
+        {
+          "label": "卫报：众院共和党阻止弹劾赫格塞斯",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
+        },
+        {
+          "label": "半岛电视台：众院共和党否决弹劾努力",
+          "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth"
+        },
+        {
+          "label": "CNBC：乔丹、图恩当选共和党国会领袖",
+          "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
+        },
+        {
+          "label": "卫报：桑德斯不支持舒默",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "英伟达第二天续跌 5.47%，盘中一度跌破 4 万亿美元市值；首起证券集体诉讼在加州联邦法院提起；公司聘请 Wachtell Lipton 主导独立调查；舒默指特朗普「为黄仁勋辩护而牺牲国家安全」，众院中国委员会主席穆勒纳尔要求「查清真相」",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "股价：CNBC 称英伟达周二收跌 5.47%，午后一度跌破 4 万亿美元市值、收盘回到其上；前一日已跌逾 4%。BBC 称自上周五以来市值累计蒸发约 5000 亿美元（约 3750 亿英镑），股价接近年内低点。",
+        "诉讼：卫报与 CNBC 称以散户投资者 Kistenmacher 为首的股东在加州圣何塞联邦法院对英伟达和黄仁勋提起集体诉讼（CNBC 称由 Rosen 律所提起），指其未披露该关系涉国家安全风险、就与 Megaspeed 的关系作出虚假或误导性陈述，索赔金额未定；卫报称诉状在周一美股收盘后五分钟提交。",
+        "公司调查：BBC 称英伟达聘请 Wachtell, Lipton, Rosen & Katz，由律师 Joon Kim 领导「彻底且独立的调查」，由独立董事委员会监督；董事会此前称没有理由认为公司机密或国家安全受损。BBC 引纽约时报称国务卿鲁比奥今年早些时候曾发备忘录警告此事。",
+        "国会：舒默在参院发言称，据报特朗普一年多前就获简报却「什么都没做」，「这是失职」，并呼吁通过《芯片安全法》等三项法案；共和党众议员穆勒纳尔称要弄清黄仁勋是否向对方透露特权信息、是否因此游说反对限制对华芯片销售（CNBC）。BBC 称众院外委会要求黄仁勋下周出席闭门简报，他尚未表态，委员会有传票权。",
+        "分析师：Yorkville Ives & Co 的 Dan Ives 在周二报告中称市场大致认为黄仁勋被撤换的概率约 15%，董事会调查可能需 4 至 6 周（CNBC）。"
+      ],
+      "readingA": "风险正在从股价向法律和政治层面扩散：已有正式诉讼、国会两党都在追问，民主党 1 月掌握两院后可以发起调查；对英伟达而言，悬而未决的 4–6 周调查期本身就是压力。",
+      "readingB": "市场和公司仍在把事情框定为可控：英伟达聘请顶级律所、称无证据显示泄密，分析师给出的「留任」概率约 85%；股价下跌后的集体诉讼在美国属常见现象，舒默的批评也带有明显党派色彩。",
+      "disagree": "分歧在于这是否会演变为对英伟达对华销售与出口管制决策的实质调查（涉及特朗普政府），还是停留在 CEO 个人丑闻与股东诉讼层面。",
+      "synthesis": "能确定的是：股价两天累计大跌，首起诉讼已提起，公司调查由 Wachtell 负责，国会两党都要求说法。接下来看 11/17 财报、黄仁勋是否出席外委会简报，以及白宫对舒默指控的回应。",
+      "unknown": "FBI 调查的具体范围；特朗普何时获得简报（舒默引述的报道 vs 特朗普「最近才知」的说法）；调查结论时间。",
+      "confidence": "高（股价、诉讼、聘请律所）；中（特朗普获简报时间来自媒体转述纽约时报）",
+      "sources": [
+        {
+          "label": "CNBC：英伟达第二天续跌",
+          "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+        },
+        {
+          "label": "BBC：英伟达聘请大型律所调查",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go"
+        },
+        {
+          "label": "卫报：英伟达与黄仁勋在美被起诉",
+          "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+        },
+        {
+          "label": "CNBC：舒默指责特朗普为黄仁勋辩护",
+          "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Anthropic 公布 IPO 价格区间每股 70–78 美元、发行 8.25 亿股，最多募资约 643.5 亿美元，完全摊薄估值最高约 1.405 万亿美元；据报 11/18 定价、11/19 以代码 ANT 在纳斯达克交易，散户配售约 20%",
+      "tag": "新：科技/AI",
+      "facts": [
+        "条款：CNBC 称 Anthropic 周二在更新的招股文件中称将以每股 70–78 美元发行 8.25 亿股，按上限净募资最多 643.5 亿美元，完全摊薄估值最高 1.405 万亿美元（5 月融资时为 9650 亿美元）。BBC 称估值区间约 1.1–1.3 万亿美元，并引金融时报称低于夏季部分支持者预期的 2 万亿美元。",
+        "时间与需求：CNBC 引知情人士称计划 11/18 定价、11/19 交易，目标散户配售约 20%（一般 IPO 为 5%–10%），在可分配基础上认购已覆盖价格区间，机构需求强于 SpaceX 同阶段。TechCrunch 称董事里德·黑斯廷斯拟通过捐赠基金认购 3 亿美元。",
+        "财务：CNBC 称截至 9/30 的九个月营收 332.4 亿美元，同比增约 1200%；同期净亏损 1040 亿美元，主要来自可转换票据与衍生负债公允价值变动；10 月底年化营收约 810 亿美元，比上月增 100 亿美元。",
+        "创始人套现：TechCrunch 称七位联合创始人各出售 3,378,378 股，按中值 74 美元计每人约 2.5 亿美元；售后七人合计约持有 A 类股的 22%。",
+        "背景：BBC 称 Anthropic 上月曾警告 AI 可能带来「灾难性或生存性风险」，并将是首家纯 AI 公司上市；CNBC 称上周已有投资者认为 1.5 万亿美元估值「勉强」。"
+      ],
+      "readingA": "这是 AI 行情的重要压力测试：在中期选举后科技股抛售、利率上行、英伟达风波之际仍按万亿美元以上估值上市，并且认购已覆盖，说明机构对头部模型公司的增长（年化营收约 810 亿美元）仍有很强信心。",
+      "readingB": "估值已从 2 万亿美元预期下修，亏损规模巨大，20% 的散户配售和创始人套现也意味着更多风险转向公众投资者；在利率与政策环境不确定时，「上市即巅峰」的风险不容忽视。",
+      "disagree": "分歧在于这次 IPO 是 AI 商业化成熟的证明，还是在市场情绪转弱前抢窗口锁定高估值。",
+      "synthesis": "能确定的是：价格区间、发行规模与时间表已公布，认购据报已覆盖。接下来看 11/18 最终定价是否高于区间、首日表现，以及它对 OpenAI 上市计划的影响。",
+      "unknown": "最终定价；路演期间是否调整区间；首日交易表现；民主党国会对 AI 监管的走向。",
+      "confidence": "高（招股文件数据）；中（定价日与需求来自匿名知情人士）",
+      "sources": [
+        {
+          "label": "CNBC：Anthropic 设定 IPO 价格区间",
+          "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        },
+        {
+          "label": "BBC：Claude 开发商将以约 1.3 万亿美元上市",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+        },
+        {
+          "label": "TechCrunch：七位创始人各套现约 2.5 亿美元",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "美国 10 月 CPI 环比升 0.4%、核心升 0.3%，均高于预期；美联储理事沃勒称若通胀超预期，12 月应考虑加息 50 个基点；10 年期美债收益率盘中破 5%，2 年期大涨逾 18 个基点；油价跌至 8 月以来低位",
+      "tag": "新：全球经济",
+      "facts": [
+        "数据：CNBC 称 10 月 CPI 环比升 0.4%，高于道琼斯调查预期的 0.3%，低于 9 月的 0.6%；核心 CPI 升 0.3%，预期 0.2%。卫报称劳工统计局因去年 10 月政府停摆未采集数据，此次未发布同比数字；牛津经济研究院插值估算同比约 3.9%。能源价格 10 月升 0.7%，9 月为 5.2%（卫报、BBC）。",
+        "美联储：CNBC 称沃勒在英国央行会议上称若通胀高于预期，「12 月会议应考虑加息 50 个基点」，「只加 25 个基点会让我们的信誉面临风险」。卫报称美联储 9 月已首次加息，市场预期 12 月再加；CNBC 称 CME FedWatch 显示市场已大致计入 12 月加息 25 个基点。",
+        "债市：10 年期美债收益率盘中突破 5%，最后报 4.992%，涨 13 个基点；2 年期涨逾 18 个基点至 4.736%；420 亿美元 10 年期国债拍卖疲弱，交易商承接 10%，为 5 月以来最多（CNBC）。",
+        "能源：卫报称布伦特原油周二早盘跌至 89.66 美元，为 8 月 31 日以来最低，此前周一已跌近 6%；CNBC 称收于 91.49 美元。美国汽油均价周一跌破每加仑 4 美元，为 7 月以来首次（卫报、CNBC）。"
+      ],
+      "readingA": "通胀黏性超出预期，美联储鹰派正走向更激进的立场：核心通胀连续两月 0.3%，说明能源冲击开始向更广泛价格传导，加息可能延续到 2027 年（高盛资管观点，CNBC）。",
+      "readingB": "10 月环比已从 9 月的 0.6% 回落，油价与汽油价格正随伊朗局势缓和而下跌，后续数据可能自然降温；激进加息 50 基点有过度收紧、加剧 AI 与科技股抛售的风险。",
+      "disagree": "分歧在于这是需要加大力度的通胀扩散，还是随着油价回落会自行消退的能源冲击尾声。",
+      "synthesis": "能确定的是：CPI 略超预期、债券收益率跳升，市场押注 12 月加息。接下来看周五的批发物价数据，以及沃勒之外其他美联储官员是否支持 50 个基点。",
+      "unknown": "同比通胀的实际水平（官方未发布）；12 月加息幅度；油价下跌能维持多久。",
+      "confidence": "高（官方数据与市场价格）",
+      "sources": [
+        {
+          "label": "CNBC：10 年期美债收益率重回 5%",
+          "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
+        },
+        {
+          "label": "卫报：美国 10 月通胀升 0.4%",
+          "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+        },
+        {
+          "label": "BBC：美国 10 月通胀高于预期",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+        },
+        {
+          "label": "卫报：油价跌至 8 月以来最低",
+          "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "美俄乌阿布扎比三方会谈首日结束：泽连斯基称「建设性、相当实质」，鲁比奥称「非常有成效」，库什纳称美方已「缩小分歧」；美方提出类似北约第五条的安全保障与俄欧「长期安全架构」；拉夫罗夫重申拒绝无条件停火，周三续谈",
+      "tag": "续报：欧洲",
+      "facts": [
+        "会谈：BBC 称为期两天的三方会谈首日持续约四小时，双方代表团事后低调；泽连斯基（未出席）称会谈「建设性且相当实质」，讨论了安全保障细节及交换战俘等人道问题。卫报称这是 2 月以来俄乌首次实质性谈判，周三继续。",
+        "美方：库什纳开场称美方已「缩小分歧」，会谈聚焦双方「战后安全关切」；美方官员称俄乌私下在东部地区控制问题上显示「一点灵活性」（BBC）。卫报称美方提案包括俄欧「长期安全架构」、可能恢复北约—俄罗斯理事会和解除部分制裁，并称与俄讨论了给乌克兰「非常类似北约」的安全保障。",
+        "欧洲：鲁比奥在巴黎称「欧洲在桌边」；欧洲官员另与乌美会谈，称任何安排须尊重主权与领土完整（卫报）。美方官员称「俄罗斯对欧洲人心存芥蒂」（BBC）。",
+        "俄方：拉夫罗夫称停火只会让基辅重整旗鼓，「我们不会同意」（BBC）。顿涅茨克归属仍是核心分歧：俄要求乌交出仍控制部分，乌希望冻结接触线。"
+      ],
+      "readingA": "这是数月来最认真的一轮和谈：美方给出接近北约第五条的保障、俄乌私下有松动迹象、欧洲被拉进来，各方公开评价都偏正面。",
+      "readingB": "实质分歧丝毫未变：俄拒绝停火、顿涅茨克问题无解，美方愿讨论北约东翼与制裁让步令欧洲担忧被牺牲；特朗普在国内受挫后急于要成果，可能导致不利于乌克兰的协议。",
+      "disagree": "分歧在于美方的「架构」思路是解决战争的现实路径，还是以欧洲安全为代价换取停火。",
+      "synthesis": "能确定的是：首日会谈气氛正面，但领土与停火问题公开立场未变。接下来看周三第二天是否有联合声明或战俘交换安排。",
+      "unknown": "俄乌「私下灵活性」的具体内容；美国安全保障是否需国会批准；欧洲是否会正式加入后续谈判。",
+      "confidence": "高（各方公开表态）；中（「私下灵活性」为匿名美方官员说法）",
+      "sources": [
+        {
+          "label": "BBC：泽连斯基称首日和谈具建设性",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+        },
+        {
+          "label": "卫报：美方寻求「彻底结束」俄乌战争",
+          "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "伊朗战事降温信号延续：鲁比奥称「没有必要」再对伊朗采取大规模作战行动；美检方新起诉书指控在押伊朗特工从狱中策划 9 月英国费尔福德空军基地袭击；伊朗南帕尔斯气田平台起火，17 名工人跳海后获救",
+      "tag": "续报：中东",
+      "facts": [
+        "美方：半岛电视台称鲁比奥在巴黎七国集团会议后表示，由于经济制裁与施压有效，「没有必要」再对伊朗进行大规模作战行动。",
+        "起诉：卫报称纽约南区检方新起诉书指控伊朗与伊拉克双重国籍的萨阿迪（被指与真主党旅和伊朗革命卫队有关）在美国羁押期间通过与家人通话的暗语传递计划，指使同伙采购化学品，策划 9 月袭击美军 B-1 轰炸机驻扎的英国皇家空军费尔福德基地，作为对伊朗战争的报复；9/27 五名伦敦男子在基地附近被捕。他此前已被控与欧洲 18 起恐袭及纽约犹太会堂爆炸图谋有关。",
+        "南帕尔斯：半岛电视台引法尔斯通讯社称，南帕尔斯气田第 14 期一处平台周二起火后被扑灭，17 名工人跳海，后均乘救生艇获救、状况良好；官方考虑原因为气体泄漏或操作失误。该平台日产 1450 万立方米，占气田总产量逾 7 亿立方米的一小部分。",
+        "市场：卫报称布伦特原油跌至 8 月以来最低，欧洲斯托克 600 指数接近纪录高位。"
+      ],
+      "readingA": "美方从总统到国务卿口径一致地降温，配合油价下跌，显示华盛顿把重心从军事打击转向制裁与封锁施压，战事正在降级。",
+      "readingB": "降温只是军事层面：封锁仍在、伊朗关联的海外袭击阴谋正在被起诉、能源设施事故频发，冲突的外溢风险（欧洲本土袭击、海湾设施）并未消退。",
+      "disagree": "分歧在于伊朗战争是否正在实质结束，还是转为低烈度、长期化的制裁与影子冲突。",
+      "synthesis": "能确定的是：美方高层连续两天淡化再次大规模打击，油价回落；同时针对伊朗网络在欧美活动的司法行动在推进。接下来看卡塔尔调停渠道能否产生文本，以及封锁是否松动。",
+      "unknown": "南帕尔斯起火的确切原因；萨阿迪案同伙的下落；美伊谈判实际进展。",
+      "confidence": "中（鲁比奥表态来自半岛电视台视频摘要；南帕尔斯信息来自伊朗官方媒体）；高（起诉书内容）",
+      "sources": [
+        {
+          "label": "半岛电视台：鲁比奥称无需对伊朗大规模作战",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran"
+        },
+        {
+          "label": "卫报：美检方起诉策划费尔福德袭击的伊朗特工",
+          "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack"
+        },
+        {
+          "label": "半岛电视台：南帕尔斯气田平台火灾被控制",
+          "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "一名 41 岁美军「资深士兵」在英国格洛斯特附近被反恐警察逮捕，涉嫌违反《国家安全法》协助外国情报机构，媒体报道称涉俄；其驻地为北约盟军快速反应军总部所在的英朱姆军营",
+      "tag": "新：欧洲/安全",
+      "facts": [
+        "逮捕：卫报称伦敦反恐警察与美方、美军及 FBI 密切合作，周二在格洛斯特附近逮捕该男子，涉嫌违反《国家安全法》第一和第三条；半岛电视台称两条分别涉及协助外国情报机构和获取或披露受保护信息。他在伦敦警局羁押，警方在格洛斯特郡两处地点搜查。",
+        "身份：美陆军反情报司令部称涉及一名「资深士兵」；卫报称其驻地为英尼斯沃斯的英朱姆军营，是北约盟军快速反应军总部。卫报与半岛电视台的标题称其涉俄，但两篇正文引述的官方声明均未点名国家。",
+        "官方：FBI 局长帕特尔称这是涉及间谍的指控，「美国和盟友极度关切」，并称 FBI 过去 21 个月进行了 167 起反情报和间谍案逮捕；英国警方称此案与其他反恐调查无关，半岛电视台据此称与 9 月费尔福德基地图谋无关。"
+      ],
+      "readingA": "在北约核心指挥机构附近抓获涉嫌为外国情报机构工作的美军人员，凸显俄罗斯对欧洲北约设施的渗透威胁，以及英美情报合作的紧密程度。",
+      "readingB": "目前只是逮捕、尚未起诉，官方未公开点名涉及国家或泄露内容；FBI 局长借此强调执法数字，也有宣传成分，宜等待更多事实。",
+      "disagree": "分歧在于这是一起重大的北约内部间谍案，还是早期阶段、细节尚不足以判断严重程度的个案。",
+      "synthesis": "能确定的是：一名驻英美军资深士兵因涉嫌违反《国家安全法》被捕，调查在进行。接下来看是否起诉、是否公开涉及国家与信息类型。",
+      "unknown": "涉及国家的官方确认；接触了哪些敏感信息；是否有其他人员牵涉。",
+      "confidence": "高（逮捕事实）；低至中（「涉俄」仅见于媒体标题，官方未点名）",
+      "sources": [
+        {
+          "label": "卫报：英国反恐警察逮捕涉俄美军资深士兵",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+        },
+        {
+          "label": "半岛电视台：美军士兵在英涉嫌为俄从事间谍活动被捕",
+          "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Hegseth impeachment effort torpedoed in House",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html"
+    },
+    {
+      "n": 2,
+      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort"
+    },
+    {
+      "n": 3,
+      "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html"
+    },
+    {
+      "n": 4,
+      "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats"
+    },
+    {
+      "n": 5,
+      "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html"
+    },
+    {
+      "n": 6,
+      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go"
+    },
+    {
+      "n": 7,
+      "title": "Nvidia and Jensen Huang sued in US over affair with alleged Chinese spy",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi"
+    },
+    {
+      "n": 8,
+      "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html"
+    },
+    {
+      "n": 9,
+      "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+      "n": 10,
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+    },
+    {
+      "n": 11,
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+    },
+    {
+      "n": 12,
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "n": 13,
+      "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html"
+    },
+    {
+      "n": 14,
+      "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+    },
+    {
+      "n": 15,
+      "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets"
+    },
+    {
+      "n": 16,
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+    },
+    {
+      "n": 17,
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+    },
+    {
+      "n": 18,
+      "title": "Rubio says no need for major combat operations against Iran",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/rubio-says-no-need-for-major-combat-operations-against-iran"
+    },
+    {
+      "n": 19,
+      "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack"
+    },
+    {
+      "n": 20,
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field"
+    },
+    {
+      "n": 21,
+      "title": "Iran rejects French claims it was behind supermarket fridge hacking（续上期法国指控；未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+    },
+    {
+      "n": 22,
+      "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire"
+    },
+    {
+      "n": 23,
+      "title": "Israel's new parliament sworn in as leaders compete to form government（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
+    },
+    {
+      "n": 24,
+      "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html"
+    },
+    {
+      "n": 25,
+      "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html"
+    },
+    {
+      "n": 26,
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+    },
+    {
+      "n": 27,
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po"
+    },
+    {
+      "n": 28,
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+    },
+    {
+      "n": 29,
+      "title": "SoftBank swings to $7 billion loss after U.S. data center hit and Intel share decline（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html"
+    },
+    {
+      "n": 30,
+      "title": "Disgraced former leader Sheikh Hasina plans return to Bangladesh from exile（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/10/disgraced-former-leader-sheikh-hasina-plans-return-to-bangladesh-after-two-years-in-exile"
+    },
+    {
+      "n": 31,
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko"
+    }
+  ]
+}
