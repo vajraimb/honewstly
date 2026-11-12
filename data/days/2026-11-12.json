@@ -1,0 +1,448 @@
+{
+  "date": "2026-11-12",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/11 约 08:05，即 UTC 11/11 00:05）至本期（11/12 约 08:10，UTC 00:10），约 24 小时，覆盖欧美周三完整工作日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（世界、商业）、半岛电视台、CNBC（头条、科技）、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，另用网络搜索核对英伟达董事会是否已宣布决定（截至发稿未见）。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：7 条中 3 条为新话题。需注意：第 1 条罢免计划和第二段关系均来自匿名信源，截至发稿英伟达董事会未正式宣布；第 4 条穆罕默迪的「两周期限」和对阿曼雷达站的打击只是伊方单方说法，沙特产量数字欧佩克与卫报口径不一；第 5 条参与人数各方估计相差数倍；第 6 条 OpenAI 收入来自彭博匿名信源。今日（周四）关注：英伟达董事会结果与盘前走势、美方特使在莫斯科会见普京、阿拉斯加参议员选举计票。",
+  "vsYesterday": "相对上一期（11/11）：续报：英伟达风波升级为董事会据报准备罢免黄仁勋；美国中期选举收官阶段民主党拿下密西西比参议员席位，白宫与下届国会围绕调查权交锋；阿布扎比俄乌会谈结束并同意大规模换俘；伊朗在霍尔木兹海峡问题上表态强硬。新话题：西班牙全国大罢工；CoreWeave 业绩带动 AI 股反弹；特朗普诉 BBC 案获准继续。Anthropic IPO（澳大利亚零售发售）、COP31 领导人发言、加沙空袭仅列入索引；美国 CPI 话题因债市老兵节休市，本窗口内无重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "《纽约时报》报道黄仁勋另与直属下属、英伟达医疗副总裁金伯莉·鲍威尔有婚外关系；随后《华尔街日报》称董事会准备罢免黄仁勋、最快周三开会；英伟达盘后跌 7–9%；国会三委员会威胁传唤，两党议员要求其辞职",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "新指控：《纽约时报》援引五名员工称，黄仁勋与向其直接汇报的医疗业务副总裁金伯莉·鲍威尔有婚外关系，两人今年 3 月 GTC 大会期间在圣何塞一家酒店被拍到亲昵画面；The Verge 指出《纽约时报》本身并未看过该视频（TechCrunch、CNBC、The Verge）。",
+        "罢免报道：《华尔街日报》援引知情人士称，董事会准备罢免黄仁勋，最快周三开会决定其去留；CBS 援引两名消息人士称董事会准备「很快」罢免他，且特朗普政府知情。截至北京时间周四早间，未见英伟达董事会正式宣布决定；董事会 11/8 声明仍写着「对黄仁勋及其管理团队有信心」（CNBC、TechCrunch、CBS、英伟达新闻稿）。",
+        "股价：英伟达周三收涨 2.87%（此前周一跌 4.3%、周二跌 5.47%），报道出来后盘后跌 7%–9% 以上；摩根士丹利当天把英伟达移出首选股名单，称自 10/2 入选以来已跌逾 25%（CNBC）。",
+        "国会：众院外委会主席马斯特、中国特设委员会主席穆勒纳尔要求黄仁勋 11/18 出席闭门听证，周三称尚未收到回复、给他到当天结束；被问是否会传唤，马斯特答「会」。共和党参议员克雷默、民主党众议员苏布拉马尼亚姆、共和党众议员培根都要求其辞职（CNBC）。",
+        "其他背景：CNBC 称黄仁勋与妻子共同持有的约 8 亿股在信托中，个人另持约 7000 万股；TechCrunch 称公司没有明显的接班人或继任计划。英伟达财报定于 11/17。"
+      ],
+      "readingA": "董事会若真动手，说明问题已从私德升级为治理与国家安全风险：与直属下属的关系违反通常的公司规定，加上涉华情报疑点和国会传唤，董事会难以再以「调查进行中」为由维持现状，提前换人是保护公司与美国政府关系的理性选择。",
+      "readingB": "罢免消息目前全靠匿名信源，第二段关系也只有员工转述、无人见过视频；黄仁勋是公司技术与客户关系的核心，没有现成接班人，仓促撤换本身可能比丑闻更伤公司。董事会 11/8 刚表态信任，后续也可能以调整权力、加强监督等方式代替撤换。",
+      "disagree": "分歧在于：黄仁勋个人问题是否已严重到必须立即离任，还是董事会应等独立调查结论、避免在财报前制造领导真空。",
+      "synthesis": "最可能的近期节点是董事会会议结果和 11/17 财报；无论去留，国会传唤与对华出口管制收紧的政治压力都会持续到 1 月民主党接掌国会之后。",
+      "unknown": "董事会是否已开会、表决结果如何；第二段关系的视频是否存在；独立调查是否发现泄密；黄仁勋是否会同意 11/18 作证；英伟达对华出口许可会否被收紧。",
+      "confidence": "中等。新指控与罢免准备均来自《纽约时报》《华尔街日报》匿名信源，多家媒体转述但未见公司确认；股价和议员表态有直接引语支撑，可信度较高。",
+      "sources": [
+        {
+          "label": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+        },
+        {
+          "label": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+        },
+        {
+          "label": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+        },
+        {
+          "label": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
+        },
+        {
+          "label": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+          "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+        },
+        {
+          "label": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+          "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/"
+        },
+        {
+          "label": "Statement From NVIDIA Board of Directors (11/8)",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "民主党人斯科特·科洛姆击败现任共和党参议员海德-史密斯，成为密西西比州 1982 年以来首位民主党参议员、重建时期以来首位黑人参议员，民主党参院席位至少 55 席；白宫律师致函下届监督委员会主席加西亚称民主党调查计划是「滥用」；民主党内部指责 11 人缺席导致赫格塞斯弹劾受挫",
+      "tag": "续报：美国",
+      "facts": [
+        "密西西比：美联社判定科洛姆胜出，海德-史密斯致电认输并发视频祝贺。卫报称这是在开票一周多后、以极微弱优势取得的胜利；CNBC 称选前全国分析人士并不看好他（CNBC、卫报、BBC、半岛电视台）。",
+        "参院格局：CNBC 称民主党在参院至少拿下 55 席、从共和党手中翻转至少 8 席；仅剩阿拉斯加未判定，民主党人佩尔托拉以微弱优势领先现任共和党参议员沙利文。",
+        "白宫信函：白宫律师沙夫周一致函加利福尼亚州民主党众议员罗伯特·加西亚（1/3 起预计任众院监督委员会主席），称民主党人显示出越过宪法对国会调查限制的「明确意图」，又称以威胁吓阻官员的程序「可能越界成为公然犯罪」；加西亚回应「看来特朗普有东西要隐瞒」（半岛电视台、卫报）。",
+        "弹劾余波：卫报称 11 名民主党人缺席周二程序性表决，弹劾努力以 7 票之差受挫，部分人归咎交通和议长约翰逊提前结束投票；特朗普在阿灵顿老兵节活动上称赫格塞斯干得「好极了」。卫报另报道赫格塞斯一行在无名烈士墓因说笑被卫兵提醒保持肃静。"
+      ],
+      "readingA": "选举浪潮仍在延伸到最深红的州，说明选民对伊朗战争、物价和选区重划的不满已跨越党派地理；白宫预先警告调查，反映出政府对 1 月后国会监督的担忧。",
+      "readingB": "科洛姆的胜利也有强烈的个人因素：卫报描述他是在本州有成绩的地方检察官、父亲是共和党人，且得益于海德-史密斯曾阻挠其法官提名的反作用；白宫信函则可被视为对国会调查权边界的正当法律提示，而民主党在弹劾表决中的缺席也暴露其组织问题。",
+      "disagree": "分歧在于：这是对特朗普路线的系统性否定、预示 1 月后国会与白宫全面对抗，还是带有地方与候选人特殊性的结果，而行政与立法的冲突仍将在法律程序内展开。",
+      "synthesis": "已确定的是民主党将以较大多数同时掌控两院；更值得关注的是 1 月 3 日后监督委员会的首批调查与传唤，以及白宫是否以行政特权或诉讼回应。",
+      "unknown": "阿拉斯加最终结果；白宫若拒绝配合传唤会采取何种法律策略；民主党是否在 1 月后重启对赫格塞斯的弹劾。",
+      "confidence": "高。选举结果由美联社判定并有败选方认输；白宫信函内容有原文引述。",
+      "sources": [
+        {
+          "label": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+          "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
+        },
+        {
+          "label": "Democrat Scott Colom unseats Cindy Hyde-Smith in shocking Mississippi Senate win",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+        },
+        {
+          "label": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+          "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse"
+        },
+        {
+          "label": "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt",
+          "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "阿布扎比美俄乌三方会谈两天结束，无突破但同意战争以来「最大规模」换俘，每方预计逾 1000 人；美方特使威特科夫、库什纳周四赴莫斯科见普京，再赴都柏林见泽连斯基和欧洲伙伴；俄方代表梅津斯基称要建立「新雅尔塔和波茨坦」",
+      "tag": "续报：欧洲",
+      "facts": [
+        "结果：BBC 称美方看到「一些空间」，但没有突破迹象；双方确认正在筹备大规模换俘。卫报称库什纳说换俘预计每方超过 1000 人。",
+        "乌方：谈判代表阿拉哈米亚称这是自 2 月以来首轮会谈、「最艰难之一」，俄方带着「非常严格的指示」，但在战后安全保障上取得「很大进展」，希望在新年前达成方案（BBC、卫报）。",
+        "俄方：梅津斯基称「我们的每一寸土地都将以某种方式回归俄罗斯」，并称主要任务是建立「新的雅尔塔和波茨坦」式欧洲安全体系；库什纳承认领土争议尚未解决（卫报、BBC）。",
+        "下一步：库什纳称已与乌方和欧洲伙伴协调好将在莫斯科讨论的方案；英国、北约和多个欧盟国家代表在阿布扎比只与美乌方会面，克里姆林宫称未与他们接触；德国政府发言人称没有北约成员共识协议无法落实（BBC、卫报）。"
+      ],
+      "readingA": "换俘规模和美乌欧事先协调，说明谈判机制在实际运转；特使直接赴莫斯科与都柏林穿梭，美国在推动年底前形成框架。",
+      "readingB": "领土问题毫无松动，梅津斯基把议题扩展到整个欧洲安全秩序，接近 2021 年对北约提出的要求；欧洲担心美俄绕过欧洲达成更大交易，换俘这类人道成果不等于和平进展。",
+      "disagree": "分歧在于：这轮会谈是走向停战的实质一步，还是俄方借谈判把乌克兰问题升级为重塑欧洲安全格局的筹码。",
+      "synthesis": "短期可以检验的是换俘能否落实以及周四普京会面的表态；若俄方坚持全部顿巴斯和北约限制，年底前协议的可能性有限。",
+      "unknown": "换俘具体时间与人数；美方带去莫斯科的方案内容；欧洲是否会被正式纳入谈判形式。",
+      "confidence": "中高。会谈结果与各方表态有多家媒体直接引述；乌方「年底前」预期属主观判断。",
+      "sources": [
+        {
+          "label": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+        },
+        {
+          "label": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "伊朗议长、首席谈判代表加利巴夫称霍尔木兹海峡「永远不会回到」战前状态，与阿曼达成共管谅解并重申七项条件；其顾问称美方给出约两周决策期、伊朗拒绝万斯直接会面请求；美财长贝森特因涉伊威胁迁往军事基地；伊朗把阿根廷海空军列为「恐怖组织」；欧佩克称沙特 10 月产量回到战后最高",
+      "tag": "续报：中东",
+      "facts": [
+        "海峡：加利巴夫对半岛电视台称海峡内「没有公海」，1982 年《联合国海洋法公约》不适用，规则由伊朗和阿曼两国法律决定；伊朗已经卡塔尔调解人向美方提交七项条件，包括解除封锁与制裁、释放冻结资金、各条战线停火、明确宣布结束战争，并称美方曾请普京调解直接谈判（半岛电视台）。",
+        "伊方评估：加利巴夫顾问穆罕默迪在 Telegram 上称美方提出约两周的时间框架，之后特朗普将决定是否军事行动；称美方答复「完全是欺骗」，伊朗拒绝了副总统万斯在答复条件前直接会面的请求；并称若制裁持续可能需要「先发制人」（卫报）。",
+        "其他伊方表态：国安会秘书雷扎伊称不会让高浓缩铀「一粒」离境，可能用于核潜艇计划，并称将打击起飞袭伊的远方美军基地；卫报称伊方称三天前轰炸阿曼迪达马尔岛上的美军雷达站，该说法未见独立证实（卫报）。",
+        "贝森特：CBS 称《华尔街日报》刊出可定位其乔治城住所的照片后安全担忧上升，财长已迁往华盛顿附近军事基地；财政部称他「不会被吓倒」（BBC）。",
+        "阿根廷：伊朗外交部以「对等原则」将阿根廷海军和空军列为恐怖组织，阿根廷外交部「断然拒绝」；此前米莱政府 3 月已将伊斯兰革命卫队列为恐怖组织（半岛电视台）。",
+        "石油：欧佩克月报称沙特 10 月日产原油 1056.3 万桶，较 9 月增逾 200 万桶，为 2 月战争爆发以来最高；欧佩克+ 日产 4123 万桶。卫报则称布伦特约 93 美元、沙特产量接近战前 930 万桶，与欧佩克数字口径不一（半岛电视台、卫报）。"
+      ],
+      "readingA": "伊朗在军事上处于守势后转向以海峡主权和条件清单抬高价码，并威胁欧洲基地；美方以封锁加经济窒息为主，伊方担心两周后升级，双方都在为谈判失败做准备。",
+      "readingB": "沙特等产油国已借转运等方式恢复出口、油价回落，说明美方「不打也能压」的策略在起效；伊朗的强硬表态与对贝森特等官员的威胁，可能更多是压力下的内部动员与谈判姿态。",
+      "disagree": "分歧在于：美伊僵局是在向新一轮军事冲突滑动，还是在经济压力下逐步逼近以条件交换为基础的谈判。",
+      "synthesis": "穆罕默迪的「两周」说法是值得盯住的时间点，但目前仅为伊方单方说法；油市供应改善降低了美方急迫性，民主党 1 月接掌国会则是另一层时间压力。",
+      "unknown": "美方是否真有两周期限；伊朗对阿曼雷达站的打击是否属实；对美官员的威胁具体内容。",
+      "confidence": "中等。加利巴夫、穆罕默迪与雷扎伊表态有原文；军事行动、时间框架和威胁细节多为单方或匿名说法，产量数据各来源口径不同。",
+      "sources": [
+        {
+          "label": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+          "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf"
+        },
+        {
+          "label": "Trump planning new military assault or tighter sanctions, say Iranian officials",
+          "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials"
+        },
+        {
+          "label": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o"
+        },
+        {
+          "label": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+          "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist"
+        },
+        {
+          "label": "Oil production nears pre-Iran war levels, OPEC says",
+          "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "西班牙举行 14 年来首次全国大罢工，抗议房价与生活成本，参与人数各方说法差距很大；巴塞罗那夜间蒙面人与警察冲突、商店被砸，全国逾 50 人被捕；距 11/29 议会选举不到三周",
+      "tag": "新：欧洲",
+      "facts": [
+        "规模：卫报称数以百万计的人参加 24 小时罢工，租户协会联合会称中午前约 400 万人参与；工会称汽车和港口行业参与率 90%、垃圾收集 82%，但各地不均，加泰罗尼亚和安达卢西亚最强（卫报）。",
+        "游行人数：BBC 称马德里约 12 万人游行、巴塞罗那逾 5 万人；卫报称巴塞罗那组织者称 40 万人，地方警察称 5.5 万人。",
+        "冲突：BBC 称巴塞罗那格拉西亚大道一带有蒙面人焚烧垃圾桶、砸商店橱窗，警察施放催泪弹，当地媒体称乐高店被洗劫；政府称全国 50 多人因轻微事件被捕（BBC、卫报）。",
+        "发起者：卫报称罢工最初由租户协会发起、后获工会支持；BBC 称由主要工会发起。UGT 工会领袖阿尔瓦雷斯称参与「规模巨大」。",
+        "政治背景：西班牙将于 11/29 举行议会选举，卫报称极右翼可能借此上台。"
+      ],
+      "readingA": "住房危机已经从租户运动升级为跨行业的全国性动员，说明住房成本是西班牙选民最核心的痛点之一，任何政府都必须正面回应。",
+      "readingB": "罢工参与地区差异明显，人数估计相差数倍，夜间暴力也可能让部分选民反感；在选前三周，罢工也是左翼与工会动员选民的政治工具，能否转化为政策仍不确定。",
+      "disagree": "分歧在于：这次罢工是住房问题政治化的转折点，还是选前动员，其效果会被暴力事件和选举结果抵消。",
+      "synthesis": "可以确定的是住房成本将成为 11/29 选举的中心议题；更关键的是各主要政党会提出什么具体的租金与供给政策。",
+      "unknown": "真实参与人数；暴力事件对选情的影响；政府是否会在选前推出住房措施。",
+      "confidence": "中高。罢工与冲突有多家媒体现场报道；参与人数均为各方自报，差距很大。",
+      "sources": [
+        {
+          "label": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+          "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+        },
+        {
+          "label": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "CoreWeave 三季度营收增 168% 至 37 亿美元并上调全年指引，股价单日大涨 24.71%；纳指涨 1.6%、标普涨 1.31%，AI 交易回暖；彭博称 OpenAI 季度收入首破 100 亿美元",
+      "tag": "新：科技/AI 市场",
+      "facts": [
+        "CoreWeave：三季度营收同比增 168% 至 37 亿美元，全年收入指引 130–133 亿美元（LSEG 预期 128.6 亿美元）；股价周三涨 24.71%，为 2025 年 4 月以来最佳单日，Nebius 涨 15.44%（CNBC）。",
+        "融资：CEO 因特拉特称约 90 亿美元客户预付款和保证金支撑增长，即将发行一笔「高投资级」资产担保债，预计利率 7%–7.5%；CNBC 称此前其信用违约互换利差一度超过 11%；因特拉特另称已取消原定的个人股票出售计划（CNBC）。",
+        "大盘：纳指收涨 1.60% 至 25,466.19 点，标普 500 涨 1.31% 至 7,619.38 点，道指涨 0.49% 至 52,486.49 点；美债市场因老兵节休市（CNBC）。",
+        "OpenAI：TechCrunch 转述彭博匿名信源，称 OpenAI 三季度收入首次超过 100 亿美元，较二季度约 67 亿美元增近 50%，年化收入约 500 亿美元；Anthropic 称 10 月底年化收入 810 亿美元，两家口径不同。"
+      ],
+      "readingA": "CoreWeave 的业绩与融资改善直接回应了市场对 AI 基建「融资链断裂」的担忧，加上 OpenAI 收入加速，AI 需求本身仍然强劲，上周的抛售可能过度。",
+      "readingB": "一天的反弹不改变结构性风险：CoreWeave 依赖客户预付和资产担保债，信用利差曾达困境水平；OpenAI 仍大幅亏损（调整后营业利润率约 -109%），而英伟达风波和民主党对数据中心的限制仍悬而未决。",
+      "disagree": "分歧在于：这是 AI 交易见底的信号，还是高波动市场中的技术性反弹。",
+      "synthesis": "短期市场焦点将转向英伟达董事会结果与 11/17 财报，以及 Anthropic IPO 定价；这些将比单日涨幅更能说明 AI 投资周期的方向。",
+      "unknown": "CoreWeave 新债实际发行利率；OpenAI 数据的准确性；英伟达盘后大跌会否拖累周四大盘。",
+      "confidence": "中高。CoreWeave 业绩和指数收盘为公开数据；OpenAI 数字来自匿名信源。",
+      "sources": [
+        {
+          "label": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+          "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
+        },
+        {
+          "label": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
+          "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+        },
+        {
+          "label": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "美国联邦法官裁定特朗普对 BBC 的 100 亿美元诽谤诉讼可以继续，部分驳回 BBC 的撤诉动议；BBC 称「感到意外」但会继续应诉",
+      "tag": "新：美国/媒体",
+      "facts": [
+        "裁决：特朗普任命的佛罗里达南区联邦法官库恩茨周二发布 40 页裁决，认为特朗普关于 BBC 损害其名誉、且知道或应当知道片段具误导性的主张「具有合理可信性」；半岛电视台强调裁决并未认定特朗普的主张已获证明。",
+        "争议内容：诉讼涉及 BBC 2024 年 10 月纪录片《特朗普：第二次机会？》，指其把 2021 年 1 月 6 日演讲中相隔近 55 分钟的两段剪接在一起，显得他直接号召暴力（半岛电视台）。",
+        "BBC 立场：BBC 曾于 2025 年 11 月 13 日承认剪辑具误导性并道歉，但否认构成诽谤；裁决后发言人称「对这一决定感到意外，但尊重法院权威」，将继续通过法律程序回应（半岛电视台）。"
+      ],
+      "readingA": "案件进入下一阶段，说明特朗普的主张至少在法律上站得住脚；BBC 已承认剪辑误导，这对其抗辩不利，也加大了和解压力。",
+      "readingB": "驳回动议的门槛很低，只需主张「合理」即可，与最终胜诉相距甚远；美国诽谤法对公众人物要求证明「实际恶意」，而且该纪录片是否在美国播出、造成可证实损害仍需证明，此案也被视为总统施压媒体的又一例子。",
+      "disagree": "分歧在于：这是对媒体剪辑失误的正当问责，还是利用诉讼对外国公共媒体施压。",
+      "synthesis": "短期内案件会进入证据开示阶段，和解可能性和 BBC 的成本都会上升；最终结果仍取决于实际恶意和损害的举证。",
+      "unknown": "BBC 是否考虑和解；审理时间表；法官部分驳回了哪些诉由。",
+      "confidence": "高。裁决和双方立场有明确报道；法律前景属推测。",
+      "sources": [
+        {
+          "label": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+          "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
+    },
+    {
+      "n": 2,
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/"
+    },
+    {
+      "n": 3,
+      "title": "Jensen Huang affair in D.C.: Resignation calls and moves to tighten Nvidia China exports",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html"
+    },
+    {
+      "n": 4,
+      "title": "Nvidia shares rebound as Jensen Huang faces scrutiny ahead of earnings",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html"
+    },
+    {
+      "n": 5,
+      "title": "The unfolding Jensen Huang scandal: a timeline（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+    },
+    {
+      "n": 6,
+      "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html"
+    },
+    {
+      "n": 7,
+      "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in shocking Mississippi Senate win",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race"
+    },
+    {
+      "n": 8,
+      "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse"
+    },
+    {
+      "n": 9,
+      "title": "Democrats lambast absent peers after Republicans block Hegseth impeachment attempt",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote"
+    },
+    {
+      "n": 10,
+      "title": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier"
+    },
+    {
+      "n": 11,
+      "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda"
+    },
+    {
+      "n": 12,
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+    },
+    {
+      "n": 13,
+      "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
+    },
+    {
+      "n": 14,
+      "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html"
+    },
+    {
+      "n": 15,
+      "title": "Russia’s ambassador to US, Alexander Darchiev, dies at 66（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66"
+    },
+    {
+      "n": 16,
+      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf"
+    },
+    {
+      "n": 17,
+      "title": "Trump planning new military assault or tighter sanctions, say Iranian officials",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials"
+    },
+    {
+      "n": 18,
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o"
+    },
+    {
+      "n": 19,
+      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist"
+    },
+    {
+      "n": 20,
+      "title": "Oil production nears pre-Iran war levels, OPEC says",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says"
+    },
+    {
+      "n": 21,
+      "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+    },
+    {
+      "n": 22,
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+    },
+    {
+      "n": 23,
+      "title": "CoreWeave soars more than 24% for best day since April 2025 after strong Q3 report",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html"
+    },
+    {
+      "n": 24,
+      "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 25,
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    },
+    {
+      "n": 26,
+      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed"
+    },
+    {
+      "n": 27,
+      "title": "United Airlines moves to block AI agents from its platform over security concerns（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/united-airlines-ai-agents.html"
+    },
+    {
+      "n": 28,
+      "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html"
+    },
+    {
+      "n": 29,
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    },
+    {
+      "n": 30,
+      "title": "CFTC investigates if Kalshi improperly self-certified event contracts（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/cftc-investigates-if-kalshi-improperly-self-certified-event-contracts.html"
+    },
+    {
+      "n": 31,
+      "title": "Israeli strikes hit medical complex as nine killed across Gaza（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
+    },
+    {
+      "n": 32,
+      "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31"
+    },
+    {
+      "n": 33,
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro"
+    },
+    {
+      "n": 34,
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o"
+    }
+  ]
+}
