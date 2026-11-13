@@ -1,0 +1,455 @@
+{
+  "date": "2026-11-13",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/12 约 08:10，即 UTC 11/12 00:10）至本期（11/13 约 08:05，UTC 00:05），约 24 小时，覆盖欧美周四完整工作日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（世界、商业）、半岛电视台、CNBC（头条、科技）、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，另用网络搜索核对微软故障的最新恢复状态。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：7 条中 4 条为新话题。需注意：第 1 条第三段关系（路透）和 Alice Huang 与华为关联（CNBC 独家）均为单一信源、未见公司回应；第 2 条本窗口抓取的来源未见伊方回应；第 4 条用户数量来自 Downdetector 报告，截至发稿微软尚未完全恢复；第 6 条只有半岛电视台一家报道。今日（周五）关注：微软服务能否在欧洲工作日前恢复、欧盟就对俄谈判代表的讨论、英伟达继任消息与 11/17 财报前走势。",
+  "vsYesterday": "相对上一期（11/12）：续报：英伟达风波从「据报准备罢免」变为黄仁勋正式辞职；伊朗问题上特朗普宣布「不需要协议」并让万斯退出；俄乌问题进入莫斯科—都柏林穿梭外交并出现芬兰湾袭舰。新话题：微软 365 全球故障；AI 基础设施财报分化（Nebius、思科、Cerebras）；非营利组织起诉五家 AI 公司要求冻结；布鲁克林楼房倒塌。华盛顿健身房枪击、赫格塞斯给哨兵授勋、加沙医院空袭、美国房屋销量 16 年新低等仅列入索引；美国中期选举（阿拉斯加）、西班牙大罢工、特朗普诉 BBC 案本窗口内无重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "黄仁勋辞去英伟达 CEO、总裁及董事职务，即时生效；CFO 科莱特·克雷斯任临时 CEO，前新思科技 CEO 哈维·琼斯任公司首位董事长；股价盘中一度跌 13–14%、收跌 4.34%；路透再曝第三段关系；黄仁勋同意感恩节前赴国会闭门作证，民主党另启调查矛头指向特朗普政府对华芯片出口安排",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "公司声明：英伟达周四宣布黄仁勋辞去首席执行官、总裁和董事会成员职务，「即时生效」；首席财务官科莱特·克雷斯任临时 CEO，董事会将在内外部候选人中寻找正式继任者；前新思科技（Synopsys）CEO 哈维·琼斯出任公司史上首位董事长。卫报指出董事会声明未提间谍疑云和个人行为问题，只称黄仁勋贡献「深远」（CNBC、卫报）。",
+        "股价：英伟达周四开盘一度跌约 13%（CNBC 称盘中最深跌 14%），收盘跌 4.34%，市值收在 4 万亿美元上方。卫报称当日蒸发逾 1800 亿美元、本周约 4900 亿美元；BBC 称五天内市值损失 5500 亿美元，是上市 27 年来最大五日跌幅。伯恩斯坦把目标价从 400 美元砍半至 200 美元（CNBC、卫报、BBC）。",
+        "新爆料：路透周四援引两名知情人士称，黄仁勋还与另一名未具名的英伟达女员工有「亲密关系」。CNBC 独家报道称，被指为中国情报人员的 Megaspeed 前高管 Alice Huang 与华为有关联，可能在与英伟达做生意的同时持有惠及华为的中国企业股份。美国司法部长托德·布兰奇周四称，司法部尚未就 Alice Huang 是否从事间谍活动得出结论（CNBC、TechCrunch、BBC）。",
+        "国会：众院外委会主席马斯特称黄仁勋已同意在感恩节前闭门作证，过程将录像并整理文字记录（彭博、NBC，经 TechCrunch 转述）。民主党众议员尼尔与参议员怀登另行启动调查，致函商务部长卢特尼克要求保存记录，称特朗普批准 H200 对华销售、先运抵美国再征税的安排是「看似违宪的出口税」，并质问为何在情报部门据报示警后仍允许 Megaspeed 购买芯片，以及英伟达向特朗普项目（含白宫宴会厅）捐款 2600 万美元的作用；少数党只能提问、无法强制回答（TechCrunch）。参议员沃伦、库恩斯等民主党人也要求黄仁勋向国会说明（BBC）。",
+        "继任：特朗普在 Truth Social 发文称「只有一个人」能接替黄仁勋——苹果执行董事长蒂姆·库克。卫报称其他被提及的人选包括 Arm CEO 雷内·哈斯、AMD CEO 苏姿丰，内部人选包括克雷斯和负责 AI 软硬件产品的伊恩·巴克。克雷斯致员工邮件称公司将在 11/18 太平洋时间上午 9 点召开全员会议（TechCrunch、卫报、CNBC）。"
+      ],
+      "readingA": "董事会终于「撕掉创可贴」：与直属下属的关系、第三段关系和涉华情报疑点叠加后，留任只会让公司陷入数月的国会质询。分析师艾夫斯称董事会做了必须做的事，英伟达在产品和订单上仍领先对手，换帅反而去除了治理悬念。",
+      "readingB": "黄仁勋本人就是英伟达的核心竞争力：他管理约 60 名直属下属、没有现成接班人（伯恩斯坦分析师拉斯贡称不知谁能做下一个十年的决策），临时 CEO 出身财务。而且辞职并未终结风险——民主党调查已把矛头转向特朗普政府的出口许可与捐款，事件正从公司丑闻转为政治问题。",
+      "disagree": "分歧在于：黄仁勋离任是让英伟达止损的「利空出尽」，还是领导真空与政治调查扩大的开始。",
+      "synthesis": "短期节点是 11/17 财报、11/18 全员会议和感恩节前的闭门作证；中期看继任人选和对华出口政策是否收紧。市场当天收复大部分跌幅，说明投资者更担心 AI 需求本身而非一人去留，但不确定性还远未消除。",
+      "unknown": "正式继任者是谁、需要多久；独立调查（Wachtell 律所）是否发现泄密；第三段关系的细节；Alice Huang 是否被认定为间谍；民主党 1 月接掌国会后调查会否升级；对华 H200 出口许可是否被撤销。",
+      "confidence": "高（辞职、临时 CEO、股价）：公司声明与多家媒体一致。中等（第三段关系、Alice Huang 与华为关联）：分别来自路透匿名信源和 CNBC 独家报道，未见公司回应。",
+      "sources": [
+        {
+          "label": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+        },
+        {
+          "label": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+          "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+        },
+        {
+          "label": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+        },
+        {
+          "label": "Jensen Huang was having a third affair, Reuters reports",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+        },
+        {
+          "label": "Jensen Huang agrees to testify before Congress",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+        },
+        {
+          "label": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+        },
+        {
+          "label": "Trump floats Apple chairman Tim Cook as Jensen Huang's successor",
+          "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+        },
+        {
+          "label": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html"
+        },
+        {
+          "label": "Alice Huang tied to Nvidia's biggest Chinese competitor",
+          "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "特朗普称「我们不需要和伊朗达成协议……我们拿到了他们的钱、几千亿美元，也拿到了他们的海峡！」，并让副总统万斯转而专注「民主党执政城市和州的腐败与犯罪」，等于把此前由万斯牵头的谈判搁置；布伦特原油收涨 3.3% 至 95.82 美元",
+      "tag": "续报：中东",
+      "facts": [
+        "特朗普周四在 Truth Social 发文：「我们不需要和伊朗达成协议。那些日子早就过去了。我们拿到了他们的钱，几千亿美元，我们也拿到了他们的海峡！」同时称已要求万斯把「全部注意力」放在民主党执政城市和州的「大规模腐败和犯罪」上（CNBC、卫报）。",
+        "背景：《华尔街日报》周三报道万斯正考虑与伊朗一名高级安全官员直接会面；Axios 上周称万斯几乎每天与卡塔尔首相、巴基斯坦陆军参谋长穆尼尔等调解人通话，几周前还致信伊朗最高国家安全委员会秘书雷扎伊要求恢复直接谈判。万斯此前把共和党中期选举惨败归咎于这场战争（卫报、CNBC）。",
+        "现状：卫报称美国维持对伊朗港口的封锁，霍尔木兹海峡已基本恢复通航；美国几个月来未对伊朗发动大规模打击，伊朗也未向美军基地发射弹道导弹齐射。特朗普上周曾称战争「实际上已经结束」（卫报）。",
+        "油价：布伦特原油收涨 3.3% 至每桶 95.82 美元，WTI 涨 2.6% 至 88.74 美元；此前 11 月以来 WTI 已跌 16%、布伦特跌 20%。分析师利波称双方立场都没变：伊朗要求解除封锁和制裁、包括黎巴嫩在内的停火；美方要求伊朗交出全部核材料库存、海峡自由通行（CNBC）。"
+      ],
+      "readingA": "这是把「僵持」正式化：封锁加海峡通航已让美国拿到主要筹码，特朗普认为不必再为一纸协议让步，经济压力会迫使伊朗回到谈判桌或引发政权更迭（CNBC 引述利波的推测）。",
+      "readingB": "这更像国内政治动作：选后共和党把败选归咎战争，特朗普借此把万斯调去打「蓝州腐败」议题。宣称「拿下海峡」可能刺激伊朗再袭击航运或地区基础设施（分析师基尔达夫），油价当天反弹说明市场此前过早押注停战。",
+      "disagree": "分歧在于：放弃谈判是基于筹码优势的冷处理，还是会让冲突重新升温的冒险。",
+      "synthesis": "短期内无协议、无大规模交火的「冷战式僵持」最可能延续，油价将在安全溢价和中东供应恢复之间来回摆动。",
+      "unknown": "伊朗官方如何回应（本窗口抓取的来源未见伊方表态）；卡塔尔、巴基斯坦调解渠道是否中断；封锁会否加码；特朗普所说「几千亿美元」具体指什么。",
+      "confidence": "高：特朗普原话与油价有多家来源一致；对谈判前景的判断属分析人士观点。",
+      "sources": [
+        {
+          "label": "Trump says 'we don't need a deal with Iran'",
+          "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+        },
+        {
+          "label": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+        },
+        {
+          "label": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+          "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "威特科夫、库什纳在克里姆林宫会见普京：普京坚持「只有一条分界线——国界」、要求完全控制所宣称吞并的四个州、排除外国维和部队，提议在康斯坦丁尼夫卡实行五天人道主义停火；美方称已商定新一轮三方会谈、欧洲将加入；泽连斯基指星盾（Starshield）再遭「系统性」限制；乌克兰首次在芬兰湾击中俄军舰",
+      "tag": "续报：欧洲",
+      "facts": [
+        "莫斯科会谈：普京称「对我们来说只有一条分界线：国界……一旦开始讨论『灰色地带』，争论就会出现，任何协议都会不稳定」；卫报称他坚持完全控制莫斯科宣称吞并的四个乌克兰州，把外国维和部队部署称为「战争的延续」并称会打击任何派往乌克兰的外国部队（BBC、卫报）。",
+        "停火提议：普京提议仿照上月奥列什基模式，在顿涅茨克州前线城市康斯坦丁尼夫卡实行五天人道主义停火以撤离平民；乌克兰总统顾问利特温称俄方曾借人道行动在奥列什基调兵轮换，「很清楚他们在康斯坦丁尼夫卡想要什么」（BBC）。",
+        "后续：威特科夫称已与普京商定新一轮三方会谈，欧洲人将参加，随后与库什纳赴都柏林见泽连斯基。普京称欧洲一旦任命首席谈判代表就会形成「四方对话」；欧盟官员称不期待就特别代表达成一致，卡拉斯提议由她与欧洲理事会主席科斯塔代表欧盟；马克龙称「内容决定形式」，默茨称先要让普京坐到谈判桌前。45 国以上领导人正在都柏林出席欧洲政治共同体峰会（卫报、BBC）。",
+        "星盾：泽连斯基称乌军再次面临 SpaceX 军用卫星服务星盾的「系统性」限制，卫报称前线及被占区出现时速 100 英里（161 公里）的速度限制，使拦截俄方喷气式无人机更难；上月类似问题持续约一周，至今不清楚由谁下令（BBC、卫报）。",
+        "芬兰湾：乌克兰安全局称在袭击波罗的海沿岸乌斯季卢加石油出口港的无人机行动中击中俄「暴徒-M」型小型护卫舰「纳罗-福明斯克」号；芬兰官员确认俄舰周三在芬兰湾遇袭，爱沙尼亚防长赫雷姆称舰只冒烟后驶回圣彼得堡；BBC 称这被认为是乌无人机首次在波罗的海民用航道区域袭击俄舰（BBC）。"
+      ],
+      "readingA": "会谈机制在推进：美方拿到了新一轮三方会谈并把欧洲拉进来，普京提出局部停火，说明各方仍在找可落地的小步骤。",
+      "readingB": "实质立场没有松动：普京在领土和维和部队上的要求远超乌克兰可接受范围，局部停火可能被用来调兵；美方接受「先谈欧洲安全架构」被爱沙尼亚学者拉伊克称为美国立场的重大转变，欧洲担心被排除在外；星盾限制更让基辅怀疑美方态度。",
+      "disagree": "分歧在于：频繁的会谈是走向停火的进程，还是让俄罗斯在不让步的情况下重塑欧洲安全议程。",
+      "synthesis": "近期可能出现的是程序性进展（新一轮会谈、欧洲代表人选、局部人道停火），而非全面停火；战场上双方仍在向对方纵深打击。",
+      "unknown": "新一轮三方会谈的时间地点；欧盟周五能否就代表人选达成一致；星盾限制由谁下令；俄舰受损和伤亡情况。",
+      "confidence": "高：普京、威特科夫、泽连斯基原话有多家来源；俄舰受损程度只有乌方说法和芬、爱官员有限确认。",
+      "sources": [
+        {
+          "label": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+        },
+        {
+          "label": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+        },
+        {
+          "label": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "微软全球大规模故障：Outlook、Teams、Copilot 等 365 服务从美东时间周四下午起无法连接，Downdetector 上 Outlook 报告峰值约 13 万；微软称大批服务器「意外不可用」使其余设施过载，至北京时间周五上午仍在逐步恢复",
+      "tag": "新：科技",
+      "facts": [
+        "时间与范围：CNBC 称故障在美东时间周四下午 1 点前不久开始，影响 Microsoft 365、Outlook 和 Teams，Downdetector 上 Outlook 问题报告约 13 万条；卫报称还涉及 Word、Excel、PowerPoint、SharePoint、OneDrive 和 Copilot；微软称任何地区的用户都可能受影响（CNBC、卫报、半岛电视台）。",
+        "原因：微软称负载升高并非整体流量增加，而是「大量服务器意外不可用」，把负载转移到其余设施；后称受影响服务器上的一个核心进程过载导致停止响应，审查发现最近的配置更新「可能是原因」，仍在调查；已暂停所有部署和配置变更（卫报）。",
+        "恢复：UTC 周四 21:00 微软称在部分服务器上验证了替代健康检查方法；22:11 称已采取的措施「未带来预期缓解」；23:06 称部分服务器已恢复并保持稳定，并把流量转向替代路径，部分地区有限恢复（卫报）。新西兰奥克兰大学北京时间周五早上通告仍称暂无完全恢复时间（网络搜索核对）。",
+        "外溢：亚马逊称自家服务「正常运行」，指相关报道不准确（CNBC）；澳大利亚 ABC 称 OpenAI 和 Anthropic 也报告了其微软连接器的问题（网络搜索核对）。"
+      ],
+      "readingA": "这是集中化云服务的系统性风险：一处配置问题即可让全球企业邮件和协作停摆，连依赖它的 AI 工具也一起受影响，企业应重新评估单一供应商依赖。",
+      "readingB": "这类故障在大型云服务中周期性出现，微软在数小时内定位到服务器健康检查与配置问题并逐步恢复；真正的考验是事后复盘是否透明、会否给企业客户赔偿。",
+      "disagree": "分歧在于：这是需要监管和多云备份的结构性问题，还是可以通过运维改进解决的偶发事故。",
+      "synthesis": "欧洲和亚洲周五上班时段是否完全恢复是首要看点，其次是微软的根因报告。",
+      "unknown": "确切根因和受影响用户总数；完全恢复时间；是否与近期配置更新直接相关；是否有数据丢失。",
+      "confidence": "高：微软官方状态更新与多家媒体一致；用户数量来自 Downdetector 报告，不等于实际受影响人数。",
+      "sources": [
+        {
+          "label": "Widespread Microsoft outage takes down Outlook and other 365 services",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+        },
+        {
+          "label": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        },
+        {
+          "label": "Microsoft outage hits tens of thousands of users",
+          "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users"
+        },
+        {
+          "label": "Microsoft platforms including Outlook suffer widespread outages (ABC)",
+          "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958"
+        },
+        {
+          "label": "Global Microsoft outage – University of Auckland",
+          "url": "https://www.auckland.ac.nz/en/news/notices/2026/microsoft-outlook-outage.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "AI 基础设施财报分化：新云公司 Nebius 上调资本开支、全年营收指引落在区间低端，股价跌 16%；思科把来自超大规模云厂商的 AI 基础设施收入预期上调至 90 亿美元、盘后上涨；Cerebras 营收超预期并宣布与微软合作，盘后涨 17%",
+      "tag": "新：科技/AI 市场",
+      "facts": [
+        "Nebius：季度营收增长 571%，净亏损 3750 万美元；预计 2026 财年营收处于 30–34 亿美元区间低端（LSEG 预期 33.7 亿）；2026 年资本开支预计 270 亿美元（此前指引 200–250 亿），2027 年 400–450 亿美元（FactSet 预期 287.7 亿），2027 年营收预期 120–130 亿美元；股价跌 16%。CNBC 称英伟达 6 月底持有约 3.29 亿美元 Nebius 股份，周三新云股集体大涨后周四盘前普遍回落（CNBC）。",
+        "思科：财季营收同比增 24%，净利润 46 亿美元（每股 1.14 美元）；把本财年来自超大规模云厂商的 AI 基础设施收入预期上调至 90 亿美元、为上财年的两倍多；下季营收指引 180–182 亿美元，高于 LSEG 预期的 178.8 亿；盘后上涨，今年以来股价涨约 35%（CNBC）。",
+        "Cerebras：核心营收同比增 70%，四季度营收指引 3.1–3.3 亿美元（LSEG 预期 2.71 亿），预计 2027 年营收翻三倍；CEO 费尔德曼称微软 10 月签约、收入预计 2027 年一季度开始体现，此前已与亚马逊、甲骨文签约；盘后涨 17%，但自 5 月上市以来股价已跌约 47%（CNBC）。",
+        "背景：Nebius CEO 沃洛日称资本市场「最近不太平静」，行业被问的两个问题是 AI 建设能多快、谁来买单；CNBC 称上周美国选民支持了数十项限制数据中心建设的地方投票议案（CNBC）。"
+      ],
+      "readingA": "需求仍然强劲：思科、Cerebras 的指引都高于预期，Nebius 的营收增速和 2027 年指引也高于共识，GPU 交期长、价格高反而给替代芯片带来机会（费尔德曼）。",
+      "readingB": "融资压力在显现：Nebius 资本开支预期远超市场、全年营收只达区间低端，加上上周 CoreWeave 债券收益率一度超 16%，说明「谁来买单」的问题正被市场定价；英伟达领导层动荡又给依赖其投资和担保的新云公司增添不确定性。",
+      "disagree": "分歧在于：AI 基础设施的瓶颈是需求还是资本——是需求跑在供给前面，还是开支跑在可持续回报前面。",
+      "synthesis": "市场正在区分「卖铲子」且现金流好的公司（思科）与重资本、高杠杆的新云公司；后者对融资环境和英伟达动向更敏感。",
+      "unknown": "Cerebras 与微软合作的规模和条款；Nebius 如何为 400 亿美元以上开支融资；英伟达换帅是否影响其对新云公司的投资与担保。",
+      "confidence": "高：数字均来自公司财报与 CNBC 报道；对行业前景的判断属解读。",
+      "sources": [
+        {
+          "label": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+          "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html"
+        },
+        {
+          "label": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+          "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
+        },
+        {
+          "label": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+          "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+        },
+        {
+          "label": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "四家美国非营利组织在旧金山起诉 Anthropic、谷歌、Meta、OpenAI 和 SpaceX，请求法院紧急禁令冻结下一代 AI 模型的训练和部署，直到企业能证明技术「处于人类控制之下」",
+      "tag": "新：科技/AI 监管",
+      "facts": [
+        "起诉方与被告：Irreplaceable Education Fund、Public Citizen、Heat Initiative 和 Alliance for Secure AI 周四在旧金山高等法院提起民事诉讼，被告为 Anthropic、谷歌、Meta、OpenAI 和 SpaceX（半岛电视台）。",
+        "诉求：原告请求对主要科技公司的下一代模型下达紧急禁令，要求企业在能证明技术受人类控制后才能恢复；诉状称「没有其他行业被允许把开发不安全的产品——更不用说可能杀死我们所有人的产品——视为不可避免」（半岛电视台）。",
+        "法律依据：原告称被告危害公共健康、干扰计算机系统等财产的使用，违反加州《不正当竞争法》；诉状援引已记录的 AI 驱动网络攻击，以及企业自己关于技术可能失控的表态（半岛电视台）。",
+        "政治背景：原告称国会至今未通过 AI 立法，希望 1 月上任的民主党多数响应；他们主张通过双边协议和国际条约与中国同步放慢，而特朗普一直强调「谁赢得 AI 谁就赢」（半岛电视台）。"
+      ],
+      "readingA": "这是在立法缺位时用诉讼施压：民主党中期大胜后监管窗口打开，诉讼即便难胜也能把「AI 可控性」议题推上议程，并为新国会提供立法框架（独立评估机构、严格责任等）。",
+      "readingB": "请求法院冻结整个前沿 AI 行业的法律门槛极高，以《不正当竞争法》为依据的禁令也难以执行和核查（报道自己也指出这一点）；单边放缓可能被视为把优势让给中国，政治上难获支持。",
+      "disagree": "分歧在于：法院是否适合、是否有能力就前沿 AI 风险作出全行业禁令。",
+      "synthesis": "短期内法院批准全面冻结的可能性很小，更现实的影响是为 2027 年国会 AI 立法辩论提供素材。",
+      "unknown": "法院何时就紧急禁令开庭；被告的回应（本窗口未见）；是否有其他州或团体跟进。",
+      "confidence": "中等偏高：诉讼事实来自半岛电视台单一来源报道，未见被告回应；其余为原告主张。",
+      "sources": [
+        {
+          "label": "US nonprofits sue tech giants to halt AI development",
+          "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "纽约布鲁克林弗拉特布什区一栋紧邻施工基坑的三层住宅楼周三下午倒塌，8 人死亡（含 2 名儿童）、18 人受伤；消防部门周四下午结束搜救，市楼宇局调查原因",
+      "tag": "新：美国",
+      "facts": [
+        "伤亡：市政官员称废墟中发现 6 人遇难，另 2 人伤重不治；死者中有 2 名儿童，另有 2 人是附近工地的建筑工人；至少 18 人受伤，其中 4 名是救援消防员（卫报）。",
+        "经过：倒塌发生在周三下午约 4 点，大楼位于一处拆除平房后正在开挖的施工地块边缘，倒塌的砖木填满了基坑；相邻一栋共墙建筑仍立着但外墙被削去（卫报）。",
+        "救援：约 250 名纽约消防局人员在暴雨中搜救，用上挖掘机、无人机和搜救犬；一名怀孕六个月的女子获救。消防局称周四下午 3:37 结束搜索，确定没有其他遇难者，现场移交警方和市楼宇局（卫报）。",
+        "官员：市长佐赫兰·曼达尼称「心碎」，州长霍楚尔称调查人员已开始工作，纽约人「应该知道这是如何以及为何发生的」（卫报）。"
+      ],
+      "readingA": "这很可能是施工监管问题：倒塌楼紧邻正在开挖的基坑，邻近施工对老旧住宅地基的影响和审批、监测是否到位将是调查重点。",
+      "readingB": "现在下结论为时过早：大楼本身状况、天气和施工方作业都可能是因素，官方只说已开始调查，尚未公布原因。",
+      "disagree": "分歧在于：责任主要在施工方及审批监管，还是建筑本身的老化与维护。",
+      "synthesis": "调查结论出来前，焦点会是施工许可、开挖监测记录和此前是否有投诉。",
+      "unknown": "倒塌直接原因；施工项目是否有违规或投诉记录；遇难者完整身份；是否追究刑事责任。",
+      "confidence": "高：伤亡数字和救援经过来自市政官员；原因尚无官方结论。",
+      "sources": [
+        {
+          "label": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns"
+    },
+    {
+      "n": 2,
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+    },
+    {
+      "n": 3,
+      "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html"
+    },
+    {
+      "n": 4,
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/"
+    },
+    {
+      "n": 5,
+      "title": "Jensen Huang agrees to testify before Congress",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/"
+    },
+    {
+      "n": 6,
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+    },
+    {
+      "n": 7,
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang's successor",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/"
+    },
+    {
+      "n": 8,
+      "title": "Alice Huang tied to Nvidia's biggest Chinese competitor",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html"
+    },
+    {
+      "n": 9,
+      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+    },
+    {
+      "n": 10,
+      "title": "Trump says 'we don't need a deal with Iran'",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html"
+    },
+    {
+      "n": 11,
+      "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+    },
+    {
+      "n": 12,
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
+    },
+    {
+      "n": 13,
+      "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+    },
+    {
+      "n": 14,
+      "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink"
+    },
+    {
+      "n": 15,
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+    },
+    {
+      "n": 16,
+      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html"
+    },
+    {
+      "n": 17,
+      "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+    },
+    {
+      "n": 18,
+      "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html"
+    },
+    {
+      "n": 19,
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html"
+    },
+    {
+      "n": 20,
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html"
+    },
+    {
+      "n": 21,
+      "title": "US nonprofits sue tech giants to halt AI development",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-nonprofits-sue-tech-giants-to-halt-ai-development"
+    },
+    {
+      "n": 22,
+      "title": "Brooklyn building collapse kills at least two children and six adults, injuring 18",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/brooklyn-building-collapse-nyc"
+    },
+    {
+      "n": 23,
+      "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle"
+    },
+    {
+      "n": 24,
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno"
+    },
+    {
+      "n": 25,
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+    },
+    {
+      "n": 26,
+      "title": "Two men found guilty of helping Iran try to 'eliminate' UK-based journalists（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists"
+    },
+    {
+      "n": 27,
+      "title": "Donald Trump Jr. exits advisory role at Kalshi prediction market（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/donald-trump-jr-exits-kalshi-advisory-role.html"
+    },
+    {
+      "n": 28,
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html"
+    },
+    {
+      "n": 29,
+      "title": "Home sales hit 16-year low in October amid record-high mortgage rates（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
+    },
+    {
+      "n": 30,
+      "title": "UK economy grows at fastest rate for more than two years（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o"
+    },
+    {
+      "n": 31,
+      "title": "China rules out hosting Cop33 climate summit in 2028（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028"
+    },
+    {
+      "n": 32,
+      "title": "Google's new Gemini model is better at understanding complicated questions（未单列）",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+    },
+    {
+      "n": 33,
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/"
+    },
+    {
+      "n": 34,
+      "title": "Russian court jails rights lawyer for 12 years on treason charge（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge"
+    }
+  ]
+}
