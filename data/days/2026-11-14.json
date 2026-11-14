@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-14",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/13 约 08:05，即 UTC 11/13 00:05）至本期（11/14 约 08:05，UTC 00:05），约 24 小时，覆盖欧美周五完整工作日（默认规格为 6 小时，沿用近几期的 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（世界、商业）、半岛电视台、CNBC（头条、科技）、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，另用网络搜索核对 FAA 停飞通告。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：7 条中 4 条为新话题。需注意：第 1 条停飞原因各方说法均为初步或匿名信源，截至发稿未确认全面恢复；第 3 条伊美双方对雷达是否被毁说法相反，主要依据卫报一家；第 2 条白宫讨论撤换卢特尼克为美联社单一报道。今日（周六）关注：美国航班恢复和故障原因说明、星舰上面级回收尝试（BBC 称约北京时间周日 05:15）、下周二英伟达财报。",
+  "vsYesterday": "相对上一期（11/13）：新话题：美国全国航班停飞；美国 PPI 与加息之争；ChatGPT Wallet；新奥尔良油轮撞游轮。续报：英伟达风波从黄仁勋辞职转向商务部长卢特尼克问责与 12 月听证；伊朗从「不需要协议」到巴林雷达交火和 NPT 表态；俄乌问题进入欧洲组团和俄方重提安全架构。微软 365 故障（微软致歉、称与网络攻击或 AI 无关）、星舰试飞助推器回收中止、舒默遭范霍伦挑战、博伯特落选、最高法院受理边境庇护禁令案等仅列入索引。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "美国联邦航空局（FAA）周五下午发布全国地面停飞令，称「临时电信故障」波及多个航路交通管制中心；FlightAware 显示逾 1 万架次延误、数千架次取消，为 9·11 以来第二次全国性停飞；国土安全部长称暂无遭袭迹象，原因未明",
+      "tag": "新：美国",
+      "facts": [
+        "事件：FAA 于美东时间周五约 16:00（北京时间周六约 05:00）下令全国机场暂停所有离港航班，称通信问题「影响多个航路交通管制中心」（这些中心负责高空航路管制）；在空航班获准降落，入境国际航班「逐案处理」。FAA 在 X 上称「出现临时电信故障，出于高度谨慎暂停所有航班，所有航班均已掌握」（CNBC、The Verge、半岛电视台）。",
+        "规模：Cirium 称周五美东 16:00 后原定有 1.1 万架次离港；截至美东 18:16，FlightAware 显示美国 10,494 架次延误、3,396 架次取消（The Verge）。卫报直播稍后引 FlightAware 称延误 10,343 架次、取消 1,479 架次——不同时间点、口径的数字不一致。卫报称这是 2001 年 9·11 以来第二次全国性停飞，上一次是 2023 年 1 月飞行员通告系统故障，停飞不到两小时。",
+        "恢复：FAA 约美东 18:00 称，航路管制设施恢复后将「通过与空管系统协调」逐步放行离港；美东 18:50 左右已有飞往亚洲和夏威夷的航班从西海岸起飞（CNBC），旧金山机场确认飞往太平洋方向航班获准起飞（卫报直播）。网络搜索到的 FAA 指挥中心通告列出的停飞事件时间为 UTC 13 日 20:53 至 14 日 04:00（即北京时间周六 12:00），截至本期发稿未确认全面恢复。",
+        "原因：国土安全部长马克韦恩·马林称「没有迹象表明这是恶意攻击」「这不是又一次 9·11」，也与微软故障无关，但「什么都不能排除」，包括 11 月 10 日全国启用的 AI 空域管理系统 SMART。开发商 Air Space Intelligence 发声明否认与其有关。彭博援引知情官员称 FBI 不认为是网络攻击或犯罪，调查方向之一是软件更新；《华尔街日报》援引知情人士称故障涉及 L3Harris 运营的空管—飞行员无线电通信网络（半岛电视台、The Verge、卫报直播）。",
+        "政治：众院国土安全委员会民主党人称特朗普政府「完全力不从心」；参院商务委员会（共和党克鲁兹主持）则称自约翰逊总统时代以来未新建航路管制中心。运输部和白宫当天向国会再申请 301 亿美元空管升级资金（国会去年已批 125 亿）（卫报直播、半岛电视台）。"
+      ],
+      "readingA": "解读 A：这是美国空管基础设施老化的又一次集中爆发。从 2025 年纽瓦克失联到今年 9 月光缆被挖断，再到这次全国停飞，单点通信故障能让整个系统瘫痪，说明冗余不足。共和党人强调「几十年没新建管制中心」，民主党人也要拨款，两党在加大投入上有共同基础。",
+      "readingB": "解读 B：问题在于执行和问责，不只是旧设备。新的 AI 系统刚全国上线三天就出了全国故障，政府在发布会上说不清原因，民主党借此批评现任官员不称职；在原因查明前，「是不是新系统或软件更新引发」是必须回答的问题，而不是用「基础设施老化」一笔带过。",
+      "disagree": "分歧主要在事实未定的部分：故障是旧网络（L3Harris 通信网）本身的问题，还是新部署或软件更新引发。前者支持「加钱升级」，后者指向「推进太快、测试不足」。两种解读都不认为这是外部攻击，这一点目前与官方口径一致。",
+      "synthesis": "已确认：全国性停飞、上万架次受影响、官方称暂无攻击迹象、原因未明。合理的判断是先看 FAA 和 NTSB 或交通部的技术说明；在原因公布前，把故障归咎于某个系统或某位官员都为时过早。对周末出行的实际影响取决于机组超时和飞机调度，可能持续到周六。",
+      "unknown": "故障的确切技术原因；是否与 SMART 系统或某次软件更新有关；全面恢复的时间；取消航班的最终数量和赔付安排；国会是否会举行听证。",
+      "confidence": "高（停飞事实与官方表态，多家来源一致）；中（WSJ 关于 L3Harris 网络、彭博关于软件更新均为匿名信源单家报道）；航班数字随时间变化。",
+      "sources": [
+        {
+          "label": "CNBC：FAA grounds departing flights nationwide",
+          "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+        },
+        {
+          "label": "The Verge：FAA ground stop shuts down flights nationwide",
+          "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
+        },
+        {
+          "label": "半岛电视台/路透：FAA grounds US flights nationwide",
+          "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue"
+        },
+        {
+          "label": "卫报直播：US flight outage live updates",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+        },
+        {
+          "label": "FAA ATCSCC 通告 111",
+          "url": "https://www.fly.faa.gov/ois/oisedit/adv_oisedit_dis?day=11132026&number=111"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "英伟达风波延烧到商务部长卢特尼克：财长贝森特公开称商务部「握笔」却迟迟未把 Megaspeed 列入实体清单；白宫据报讨论是否撤换卢特尼克，参院银行委员会定于 12/3、12/10 分别听取黄仁勋和卢特尼克作证；英伟达市值跌破 4 万亿美元，周线六连跌创 2012 年以来最长",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "行政部门内部分歧：财长贝森特周五接受 CNBC 采访称，他「几个月来」一直主张把新加坡公司 Megaspeed 列入出口管制黑名单，但商务部「握着笔」，「内部流程得去问他们」；他说特朗普已明确中国不应获得 H100 以上芯片，「任何泄漏都令人非常沮丧」，并称真正的问题是英伟达是否「了解客户」。BBC 指这是政府内部分歧罕见公开化（卫报、BBC）。",
+        "卢特尼克：美联社报道白宫官员在讨论是否解雇卢特尼克，起因是一份关于黄仁勋与 Alice Huang 关系的情报报告曾在政府高层传阅（经卫报转述）。参院银行委员会主席蒂姆·斯科特致函黄仁勋和卢特尼克，要求分别于 12 月 3 日、12 月 10 日作证；卢特尼克发言人称其已「主动同意自愿出席」。共和党参议员柯蒂斯、科宁、班克斯均提出批评，科宁称「必须有人掉脑袋」；众院外委会主席马斯特则表示对卢特尼克有信心（卫报、CNBC）。CNBC 另报道卢特尼克之子掌管的 Cantor Fitzgerald 与英伟达关系密切。",
+        "公司：英伟达董事会周五对 CNBC 称「正在挑选猎头公司」「尚未正式接触任何候选人」，对具体人选的猜测「为时过早」；《金融时报》此前报道董事会已接触 Arm CEO 雷内·哈斯。临时 CEO 克雷斯周四下午召开首次高管会议（CNBC）。",
+        "股价：英伟达周五收跌逾 2%，市值收在 4 万亿美元以下，是 2025 年 7 月以来首次；本周累计跌 13%，周线六连跌为 2012 年以来最长，连跌期间市值蒸发约 1.7 万亿美元（约 30%），市值已被苹果超越。汇丰把评级下调至持有。公司定于周二（11/17）发布财报，LSEG 统计分析师预期营收 1089 亿美元、同比增 91%（CNBC）。纳指周五跌 0.91%，标普跌 0.4%，道指微涨 0.1%，但三大指数本周均录得 8 月初以来最佳单周表现（CNBC）。"
+      ],
+      "readingA": "解读 A：这已从个人丑闻变成出口管制的问责问题。财长公开点名商务部、两党参议员都在追问，说明 Megaspeed 等「中转」渠道长期没堵上；不管是商务部拖延还是英伟达「没了解客户」，国会调查和听证都有正当性，收紧对华芯片出口可能成为两党共识。",
+      "readingB": "解读 B：要警惕政治化和互相甩锅。贝森特与卢特尼克此前就有过矛盾（BBC 提及争夺财长职位和关税分歧），这次公开表态也可能有内部权斗成分；对英伟达来说，基本面（下周财报预期营收同比增 91%）和治理冲击要分开看，部分分析师认为股价已大体反映了这次交接。",
+      "disagree": "分歧在于重点放在哪里：A 看制度漏洞和国家安全，B 看政府内部政治和市场是否已过度反应。两者都承认 Megaspeed 列入黑名单的延误是核心事实问题。",
+      "synthesis": "目前可确认的是行政和国会两条线的压力都在加大，听证日期已定。关键检验点有三个：周二财报和指引是否稳定市场；商务部是否对 Megaspeed 采取行动；卢特尼克去留。在情报报告的具体内容公开前，「谁何时知道什么」仍应视为未定。",
+      "unknown": "情报报告何时传阅、谁看过；商务部延误的真实原因；英伟达内部是否知道 Megaspeed 存在转运；白宫是否真的会撤换卢特尼克；继任 CEO 人选。",
+      "confidence": "高（贝森特表态、听证日期、股价数据）；中（美联社关于讨论撤换、FT 关于接触哈斯为单一或匿名信源）。",
+      "sources": [
+        {
+          "label": "卫报：US treasury chief blames Lutnick's commerce department",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "label": "BBC：Pressure grows on Lutnick",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+        },
+        {
+          "label": "CNBC：Lutnick agrees to testify about China chip sales",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+        },
+        {
+          "label": "CNBC：Nvidia hasn't selected search firm",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+        },
+        {
+          "label": "CNBC：Longest weekly losing streak since 2012",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+        },
+        {
+          "label": "CNBC：Lutnick's sons' firm ties to the chipmaker",
+          "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+        },
+        {
+          "label": "CNBC：Stock market Friday",
+          "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "伊朗革命卫队称摧毁美军在巴林的预警雷达，以报复美军空袭霍尔木兹海峡沿岸锡里克的通信塔，是数月来首次直接打击美军设施；美中央司令部否认雷达被毁、称拦截两架无人机；伊朗专家会议呼吁重新审视 NPT 成员身份",
+      "tag": "续报：中东",
+      "facts": [
+        "交火：伊斯兰革命卫队称已「瞄准并摧毁」美军在巴林的一部早期预警雷达，作为对美军空袭锡里克（俯瞰霍尔木兹海峡）通信塔的回应，并警告若再「侵犯」将「不受限制」应对。卫报称这是数月来伊朗首次直接攻击美军设施。美国中央司令部否认雷达被摧毁，称拦截了两架飞往巴林的伊朗无人机（卫报）。",
+        "海峡：半岛电视台视频报道称，革命卫队说一艘油轮在霍尔木兹海峡触雷起火（仅视频标题，本期未核实细节）。",
+        "华盛顿：特朗普在过去 24 小时的多次采访中称只在必要时攻击伊朗，称沙特等海湾国家劝他暂缓大规模打击；他已让副总统万斯不再参与谈判（上期已报）。卫报称伊方此前拒绝了万斯与其谈判代表单独会面的请求（卫报）。",
+        "伊朗国内：伊朗专家会议（负责遴选最高领袖的 88 人教士机构）周四发表声明，称审查伊朗的《不扩散核武器条约》成员身份是「不可避免的必要」，卫报称这是伊朗首个呼吁检讨国防学说的统治机构，可能为寻求核武器提供宗教许可（卫报）。",
+        "英国民调：YouGov 受阿拉伯—英国理解委员会委托的民调显示，65% 的英国人反对美国重启对伊战争、14% 支持；54% 反对美国使用英国基地打击伊朗（卫报）。"
+      ],
+      "readingA": "解读 A：这是危险的升级信号。双方从「谈判搁置」很快变成直接交火，专家会议又公开把 NPT 摆上台面；在谈判渠道收缩（万斯退出）的情况下，误判空间变大，霍尔木兹航运和油价风险上升。",
+      "readingB": "解读 B：这更像有控制的相互示警。美方称只拦截了两架无人机、无损失，特朗普公开说只在必要时打击，海湾国家也在劝阻；伊朗的强硬声明和 NPT 表态可能主要用于对内和谈判施压，不一定意味着政策已改变。",
+      "disagree": "分歧核心在于意图：伊朗是在为更大对抗做准备，还是在有限报复后留出台阶。双方对雷达是否被毁的说法直接矛盾，本期来源无法判定。",
+      "synthesis": "可确认的是双方都承认发生了一次伊朗无人机行动，结果说法相反；专家会议声明是真实的政策信号，但从「审查」到「退约」还有很长距离。值得关注的指标：是否再有直接交火、霍尔木兹航运事件、伊朗最高国家安全委员会或议会是否跟进 NPT 议题。",
+      "unknown": "雷达是否真的受损；美军空袭锡里克的时间和目的（本期来源未见美方说明）；触雷油轮的身份和受损情况；专家会议声明是否获最高领袖背书。",
+      "confidence": "中（双方说法相互矛盾，主要依据卫报一家的综合报道）；高（专家会议声明、英国民调数据）。",
+      "sources": [
+        {
+          "label": "卫报：Iran says it targeted US military radar in Bahrain",
+          "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+        },
+        {
+          "label": "半岛电视台视频：IRGC says tanker caught fire after hitting mines",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "美国 10 月 PPI 环比 0.3%、略低于预期，但同比升至 6.5%，为 2022 年 11 月以来最高；芝加哥联储古尔斯比称通胀「在往错误方向走」，市场几乎完全定价 12 月加息 25 个基点；财长贝森特公开喊话美联储不要「对能源供给冲击过度加息」",
+      "tag": "新：经济",
+      "facts": [
+        "数据：美国劳工统计局周五公布，10 月生产者价格指数（PPI）环比上涨 0.3%，低于道琼斯调查预期的 0.4%；核心 PPI 环比 0.3%，符合预期。同比上涨 6.5%，比上月加快 0.2 个百分点，为 2022 年 11 月以来最高。商品价格同比上涨 10.2%，中间加工品同比上涨 14.6%（CNBC）。",
+        "此前 CPI：10 月 CPI 环比 0.4%、核心 0.3%，均比预期高 0.1 个百分点；由于 2025 年 10 月政府停摆缺少数据，劳工统计局未发布 CPI 12 个月同比（CNBC、半岛电视台）。",
+        "美联储：市场几乎完全定价 12 月 8–9 日会议加息 25 个基点，并有小概率加息 50 个基点（CNBC）；半岛电视台引 CME FedWatch 称加息到 4.00–4.25% 的概率为 89.4%。芝加哥联储主席古尔斯比称「近几个月出现麻烦迹象」，在不受油价、关税驱动的类别里进展停滞，「有些在往错误方向走」。理事沃勒本周早些时候称，若核心 CPI 达 0.3% 或以上，12 月应考虑加息 50 个基点；随后公布的数据是 0.3%（半岛电视台、CNBC）。",
+        "财政部：贝森特对 CNBC 称这是「能源供给冲击」，基本面经济很强，「在冲击正在回落时过度加息」不可取，「美联储应该向前看，而不是看后视镜」，但也称「我不告诉美联储该做什么」。半岛电视台称美国汽油均价 3.87 美元/加仑，低于一个月前的 4.34 美元，但仍高于 2 月 28 日美以首次打击伊朗时的 2.98 美元。"
+      ],
+      "readingA": "解读 A：通胀已在扩散、变得更顽固。PPI 同比创近四年新高，中间品和商品价格涨幅更大，会继续传导到消费端；美联储官员指出非能源、非关税类别也在恶化，12 月加息是控制通胀预期的必要之举。",
+      "readingB": "解读 B：这主要是战争带来的能源供给冲击，且正在回落。汽油价格一个月内明显下降，PPI 环比低于预期；在供给冲击下大幅加息会伤害增长，尤其对依赖债务融资的 AI 基础设施等行业，财政部的提醒有道理。",
+      "disagree": "分歧在于通胀的性质（暂时的供给冲击还是已经扩散）和对应的政策（看穿还是加息）。双方都承认能源和关税是重要来源。",
+      "synthesis": "数据显示通胀确实不只是能源问题，但环比也有放缓迹象。12 月加息已基本被市场定价，真正的看点是会议声明与点阵图对 2027 年路径的暗示，以及 11 月 CPI 和油价走势。财政部公开施压本身也值得关注，涉及央行独立性。",
+      "unknown": "11 月通胀数据；伊朗局势对油价的后续影响；美联储会否加息 50 个基点；加息对 AI 相关债务融资的影响程度。",
+      "confidence": "高（官方数据与公开讲话，多家来源一致）。",
+      "sources": [
+        {
+          "label": "CNBC：Wholesale prices rose 0.3% in October, annual rate at 6.5%",
+          "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+        },
+        {
+          "label": "半岛电视台：US Treasury warns against rate hikes",
+          "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock"
+        },
+        {
+          "label": "CNBC：Stock market Friday",
+          "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "欧盟都柏林峰会确定参与俄乌和谈的欧洲代表团：欧盟机构加英、法、德、意、波「E5」；卡拉斯警告别「掉进俄罗斯设的陷阱」；克里姆林宫重提 2021 年「安全条约草案」并对欧洲加入谈判表态冷淡；莫斯科、圣彼得堡连发汽车炸弹",
+      "tag": "续报：欧洲",
+      "facts": [
+        "欧洲代表团：欧洲理事会主席科斯塔在都柏林欧盟峰会后称，领导人商定谈判团队由欧盟机构加 E5（英国、法国、德国、意大利、波兰）组成，「欧洲必须用一个清晰统一的声音说话」。德国总理默茨称俄罗斯想谈欧洲安全架构，「没必要谈，它已经存在」（卫报）。",
+        "分歧：欧盟外交与安全政策高级代表卡拉斯称「只有一个侵略者和一个受害者」，警告不要「掉进俄罗斯设的陷阱」。特朗普女婿库什纳周四晚称俄乌同意让欧洲加入下一轮谈判，但俄方很快反驳：克里姆林宫称要先了解欧洲「真实意图」再决定是否扩大谈判形式，俄方首席谈判代表梅金斯基称与欧洲「不清楚有什么可谈」。本周三方会谈在阿布扎比举行（卫报）。",
+        "莫斯科要价：BBC 莫斯科编辑罗森伯格分析称，克里姆林宫在会见威特科夫、库什纳后提出「新的、长期的不可分割安全与和平架构」，重新引用 2021 年 12 月提交美国和北约的「条约草案」（要求北约停止东扩、从中东欧撤回军事设施）；普京外事助理乌沙科夫称还将「增加某些新考虑」（BBC）。",
+        "暗杀事件：周五莫斯科一辆汽车爆炸，乌克兰前总理阿扎罗夫的前顾问谢尔盖·扎沃罗特尼重伤（俄 REN TV 称其失去左臂、昏迷）；前一天圣彼得堡一名军人在车内被炸身亡。俄调查委员会已立案，未点名嫌疑人；莫斯科此前把同类袭击归咎于基辅（半岛电视台/美联社）。"
+      ],
+      "readingA": "解读 A：欧洲有理由警惕。俄罗斯把乌克兰停战和整个欧洲安全架构捆绑，等于重提开战前被拒绝的要求；欧洲组团入场、坚持「先停火再谈」，是为了防止美俄绕过欧洲和乌克兰达成交易。",
+      "readingB": "解读 B：欧洲进入谈判本身是进展，但如果只是重申立场、拒绝讨论俄方关切，谈判可能停滞。任何持久停火迟早要处理北约部署和安全保障问题，回避这些议题未必能让乌克兰得到更好的结果；俄方对欧洲入场的冷淡也说明各方仍在试探。",
+      "disagree": "分歧在于欧洲安全议题应不应该放上谈判桌：A 认为这是陷阱，B 认为绕不开。双方都同意美方关于「欧洲将加入」的说法目前并未得到俄方确认。",
+      "synthesis": "目前的事实是欧洲已确定代表团构成，但俄方未接受扩大形式，三方谈判的下一轮时间和形式仍不清楚。汽车炸弹事件可能进一步恶化气氛，但责任方未经证实。",
+      "unknown": "下一轮谈判时间、地点和形式；乌沙科夫所说的「新考虑」具体内容；乌克兰对 E5 方案的态度；两起汽车爆炸的责任方。",
+      "confidence": "高（欧盟决定、各方公开表态）；中（BBC 对克里姆林宫意图的分析属解读）；爆炸事件责任方未知。",
+      "sources": [
+        {
+          "label": "卫报：Russia is 'setting traps' in Ukraine talks, Kallas warns",
+          "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+        },
+        {
+          "label": "BBC：Rosenberg: Uncompromising Putin ups demands",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+        },
+        {
+          "label": "半岛电视台：Car bombings in Russia",
+          "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "OpenAI 推出 ChatGPT Wallet，与美国运通、万事达、Visa 合作，让其「Dots」AI 代理替用户下单：每笔需生物识别确认、代理只拿到一次性支付令牌；OpenAI 暂不抽成，部分商家仍屏蔽 AI 代理",
+      "tag": "新：科技/AI",
+      "facts": [
+        "产品：OpenAI 周五宣布 ChatGPT Wallet，用户录入一次银行卡后，可让 Dots 代理找商品并下单，每笔购买需安全确认；支持页面称需 Face ID 或指纹等生物识别。支付网络向代理提供针对单笔交易的「支付令牌」（限定用途的卡号、安全码和有效期），代理和商家都拿不到真实卡号，用户保留原有信用卡积分和保障（CNBC、The Verge）。",
+        "路线图：OpenAI 称预计未来用户可通过设置消费上限、品类或时间段，把购买完全委托给代理并预先授权（The Verge）。",
+        "商业模式：OpenAI 称起步阶段不从交易中抽成，重点是建立与商家和支付网络的关系。CNBC 称 OpenAI 去年推出的「Instant Checkout」很快转向，今年 3 月改版购物体验；ChatGPT 截至三季度末有超过 12 亿周活跃用户、近 1 亿付费用户（CNBC，援引公司数据）。",
+        "阻力：联合航空本周三宣布屏蔽 AI 代理订票；亚马逊阻止代理在其平台购物，今年早些时候屏蔽了 Meta 的 Muse 代理。OpenAI 称网站需要避免「误封」代理，支付和风控系统需要识别代理的正当购买（CNBC、The Verge）。"
+      ],
+      "readingA": "解读 A：这是 AI 代理走向实用的重要一步。和卡组织合作、令牌化、逐笔生物识别确认，在安全设计上沿用了 Apple Pay 等成熟做法；如果被广泛接受，购物、订票等日常事务的交互方式会改变，OpenAI 也多了一条潜在收入来源。",
+      "readingB": "解读 B：信任和渠道问题远未解决。代理理解错指令、被网页内容误导下单、退款纠纷由谁负责都不清楚；亚马逊、联合航空等大商家正在屏蔽代理，说明平台不愿把用户入口和数据让给 OpenAI。OpenAI 此前的购物功能也未能成功。",
+      "disagree": "分歧在于主要风险是技术安全（A 认为已有较好设计）还是商业生态和责任划分（B 认为是主要障碍）。双方都承认现阶段仍需人工逐笔确认。",
+      "synthesis": "这次发布在支付安全上做得比较谨慎，但能否普及取决于商家是否放行代理，以及出错时责任怎么分。值得观察：大型零售商的态度、首批数据和投诉、监管部门是否关注代理支付的消费者保护。",
+      "unknown": "上线地区和用户范围；首批合作商家；代理下错单时的责任和退款规则；何时开始抽成。",
+      "confidence": "高（公司公告和多家科技媒体报道一致）；用户数为公司自报数据。",
+      "sources": [
+        {
+          "label": "CNBC：OpenAI launches ChatGPT Wallet",
+          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+        },
+        {
+          "label": "The Verge：ChatGPT Wallet lets OpenAI's Dots agents make purchases",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
+        },
+        {
+          "label": "TechCrunch：ChatGPT's new Wallet lets AI agents shop and check out",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "新奥尔良密西西比河上一艘油轮撞上靠港的内河游轮「American Heritage」，游轮侧翻；约 129 名乘客及船员全部找到，32 人送医、无人危重，市长称「密西西比河上的奇迹」；事故原因待查",
+      "tag": "新：美国",
+      "facts": [
+        "事故：美东时间周五约 12:30，油轮 Atlantic Asphalt 撞上 American Cruise Lines 旗下、已靠港准备让乘客下船的 American Heritage 号，视频显示油轮横撞游轮侧面，游轮随后慢慢向受撞一侧翻倒；目击者称从撞击到翻覆约 15 分钟。有人落入水冷流急的河中（卫报，援引 WWL 等合作媒体）。",
+        "伤亡：新奥尔良港称船上约有 129 名乘客及船员；市长埃莱娜·莫雷诺称 32 人送医，均无危重，无人失踪，称多部门救援让结果成为「密西西比河上的奇迹」（卫报）。",
+        "原因：官员尚未公布原因；莫雷诺称调查人员将核实油轮撞前是否失去转向能力（此前一应急来源有此说法，未经证实）。图兰大学海事法专家称油轮庆幸没有撞上日均约 16 万辆车通行的新月城大桥（卫报）。"
+      ],
+      "readingA": "解读 A：这次人员无伤亡要归功于快速的多部门救援，也说明内河港口的应急体系有效。现阶段重点应是查明设备或操作原因，而不是追责。",
+      "readingB": "解读 B：结果幸运不代表风险小。油轮在城市核心河段、靠近大桥和停靠的游轮处失控，暴露了繁忙河段的航运安全问题，应审视大型船舶在弯道河段的航行管理和拖船护航要求。",
+      "disagree": "分歧在于这起事故主要说明应急有效，还是说明结构性风险需要改。两者都同意需等待调查结果。",
+      "synthesis": "事实部分清楚且无人死亡。原因（是否失去转向）未确认；后续值得关注美国海岸警卫队和 NTSB 的调查，以及游轮能否打捞。",
+      "unknown": "事故原因；油轮是否有货物泄漏（本期来源未提及）；游轮受损程度和打捞计划。",
+      "confidence": "高（市长和港口方面公开通报）；原因相关说法为未证实。",
+      "sources": [
+        {
+          "label": "卫报：All passengers and crew accounted for after New Orleans boat crash",
+          "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+        },
+        {
+          "label": "CNBC：Rescues underway in New Orleans after a tanker hits a river cruise boat",
+          "url": "https://www.cnbc.com/2026/11/13/tanker-hits-cruise-boat-in-new-orleans-rescues-underway.html"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "FAA grounds departing flights nationwide, citing air traffic communication system outage",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+    },
+    {
+      "n": 2,
+      "title": "US flight outage live updates: FAA grounds thousands of flights",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+    },
+    {
+      "n": 3,
+      "title": "FAA ground stop shuts down flights nationwide",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop"
+    },
+    {
+      "n": 4,
+      "title": "Nvidia scandal: US treasury chief blames Lutnick's commerce department",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    },
+    {
+      "n": 5,
+      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html"
+    },
+    {
+      "n": 6,
+      "title": "Nvidia stock suffers longest weekly losing streak since 2012",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html"
+    },
+    {
+      "n": 7,
+      "title": "Nvidia hasn't selected search firm for permanent Huang replacement",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html"
+    },
+    {
+      "n": 8,
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+    },
+    {
+      "n": 9,
+      "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+    },
+    {
+      "n": 10,
+      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz（视频）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz"
+    },
+    {
+      "n": 11,
+      "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+    },
+    {
+      "n": 12,
+      "title": "US Treasury warns against rate hikes during US-Iran war energy 'shock'",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock"
+    },
+    {
+      "n": 13,
+      "title": "Russia is 'setting traps' in Ukraine talks, EU foreign policy chief warns",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit"
+    },
+    {
+      "n": 14,
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+    },
+    {
+      "n": 15,
+      "title": "Car bombings in Russia kill military officer, injure ex-Ukraine PM adviser",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
+    },
+    {
+      "n": 16,
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+    },
+    {
+      "n": 17,
+      "title": "All passengers and crew accounted for after New Orleans boat crash",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+    },
+    {
+      "n": 18,
+      "title": "Setback for SpaceX Starship rocket's double-catch test（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+    },
+    {
+      "n": 19,
+      "title": "Democratic Senate leader Schumer set to face leadership challenge（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
+    },
+    {
+      "n": 20,
+      "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
+    },
+    {
+      "n": 21,
+      "title": "US supreme court agrees to consider Trump's ban on asylum at US-Mexico border（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum"
+    },
+    {
+      "n": 22,
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+    },
+    {
+      "n": 23,
+      "title": "Trump says he wants to 'get Cuba done' before leaving office（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html"
+    },
+    {
+      "n": 24,
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds（未单列）",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+    },
+    {
+      "n": 25,
+      "title": "Export-banned Nvidia chips are behind China's most powerful AI models（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "n": 26,
+      "title": "AI agent startup LangChain hits $3B valuation（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "n": 27,
+      "title": "Uber confirms hackers stole thousands of drivers' license information（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
+    },
+    {
+      "n": 28,
+      "title": "Mamdani and Trump agree to delay on food stamp rules（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay"
+    },
+    {
+      "n": 29,
+      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+    },
+    {
+      "n": 30,
+      "title": "At least 10 killed in Guinea clashes over gold mining ban（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/at-least-10-killed-in-guinea-in-crackdown-on-gold-mining"
+    },
+    {
+      "n": 31,
+      "title": "Truck and bus crash in India's Assam state kills at least 24 people（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
+    },
+    {
+      "n": 32,
+      "title": "US Air Force responds to suspected drone activity at RAF Lakenheath（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/us-air-force-responds-to-suspected-drone-activity-at-raf-lakenheath"
+    },
+    {
+      "n": 33,
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo"
+    }
+  ]
+}
