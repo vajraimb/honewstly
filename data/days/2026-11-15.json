@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-15",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/14 约 08:05，即 UTC 11/14 00:05）至本期（11/15 约 08:15，UTC 00:15），约 24 小时，覆盖欧美周六（默认规格为 6 小时，周末沿用 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（世界、商业）、半岛电视台、CNBC（头条、科技）、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，正文均直接抓取原文。",
+  "thinDay": true,
+  "thinDayNote": "本期部分属于薄日：周六硬新闻较少，7 条中 3 条为新话题，其余为续报；索引中有较多周末专题和体育娱乐内容未列入。需注意：第 4 条「北约换顿巴斯」只有泽连斯基一方说法，美方未证实；第 7 条主要依据半岛电视台一家；第 3 条请愿签名数为网站自报。今日（周日）及下周关注：美国航班恢复情况、英伟达下周二（美东 11/17）财报、特朗普东盟及深圳 APEC 行程（11/17—11/19）和中方是否确认三方会晤。",
+  "vsYesterday": "相对上一期（11/14）：新话题：特朗普—普京—习近平深圳三方会晤；星舰首次回收上面级；意大利重罚 Meta。续报：FAA 停飞原因指向 L3Harris 铜线换光纤中的路由器异常（但根本原因未定）；英伟达风波转向大股东和请愿呼吁「慢选 CEO / 黄仁勋回归」；俄乌出现「北约换顿巴斯」说法；以色列组阁僵局。阿拉斯加州长民主党胜选、法国新一轮「黄背心」抗议（内政部称 10.6 万人）、特斯拉 Cybercab 个人预订等仅列入索引；伊朗—巴林雷达交火、美国 PPI/加息之争本窗口内无重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "交通部长达菲称全国停飞源于承包商 L3Harris 把铜线换成光纤过程中的一次设备升级：一台路由器每约 5 秒向其他路由器发起逾 1000 次连接请求，造成通信和雷达数据「不稳定」；FAA 局长称「零证据」显示恶意行为或与 AI 有关，但承认根本原因仍未确定；周六美国航班取消仍超 6000 架次",
+      "tag": "续报：美国",
+      "facts": [
+        "官方解释：达菲周六与 FAA 局长布莱恩·贝德福德联合召开记者会，称停飞发生在承包商 L3Harris 管理的电信系统更新之后；「至少」一处远程站点正在进行从铜线到光纤的切换，一台路由器以每约 5 秒逾 1000 次连接请求「淹没」了空管系统中的其他路由器，导致飞机通信和雷达数据出问题。达菲说正在查明是「用户错误、L3Harris 安装错误，还是装了有缺陷的路由器」（CNBC）。",
+        "原因仍未定：CNBC 另一篇报道称，记者会后「根本原因」仍不清楚。贝德福德称没有 FAA 设施「断联」，停飞是因为航路管制中心收到的信息「不稳定」，「我们无法解释这种不稳定」，约 45 分钟内不确定原因，因此不愿冒任何中心与飞机失联的风险；他还称「零证据」显示是恶意行为或与 AI 有关。达菲称「我们不认为」是网络攻击或敌对国家所为（CNBC、卫报）。",
+        "L3Harris 与设备：L3Harris 在 X 上称正配合 FAA 调查，并称与其他科技公司合作已完成逾 70% 的空域通信从铜线到光纤的转换。官员提到思科和 L3Harris 的产品与服务。贝德福德说更换路由器（「把 2000 台思科 600 换成瞻博路由器」）属日常业务，不属于 FAA 125 亿美元现代化项目，「不要混为一谈」；达菲则说在新架构建成前「我只能依赖拥有这张网络的 L3Harris」（CNBC）。",
+        "余波：截至美东周六 18:00（北京时间周日 07:00），FlightAware 显示美国当天取消逾 6000 架次、延误近 7100 架次；周五取消约 9000 架次（约占当天航班三分之一）、延误逾 7000 架次，部分与恶劣天气有关。Cirium 称周五取消数为 1 月暴风雪以来第二高。卫报称这是 25 年来时间最长的全国停飞（约 4 小时）。达迈航空向机组提供双倍薪酬补班，美国航空、美联航也提供额外报酬（CNBC、卫报）。",
+        "资金：CNBC 称达菲和国土安全部长马林周五呼吁全面改革航空出行，达菲向国会要求 500 亿美元。"
+      ],
+      "readingA": "解读 A：这次的解释印证了「基础设施老化」的说法：问题正是出在更换老旧铜线的过程中，说明现有网络缺乏隔离和冗余，一个站点的一台路由器就能把故障扩散到全国。加大投入、加快建设新架构是对的。",
+      "readingB": "解读 B：这次更像是变更管理和承包商监管的问题，而不只是「设备老」。一次常规升级就能引发全国停飞，说明测试、分段隔离和回滚程序不到位；FAA 局长特意把路由器更换与现代化资金切割，也说明不能把这次故障直接当成要更多钱的理由。",
+      "disagree": "两种解读都接受官方「非攻击」的说法，分歧在于定性：达菲把它归入「系统太老」并据此要钱，贝德福德强调这是日常业务、与现代化拨款无关。对承包商是否存在安装错误，目前没有结论。",
+      "synthesis": "综合（SYNTHESIS）：已知的是触发点（铜线换光纤过程中的路由器异常）和扩散机制（大量连接请求导致数据不稳定），未知的是为什么会这样，以及为什么没被隔离住。在 FAA 或独立调查给出技术报告前，问责对象（L3Harris、设备厂商或 FAA 流程）都还没有定论；感恩节出行高峰前的恢复速度是近期最直接的影响。",
+      "unknown": "未知（UNKNOWN）：根本原因（人为操作失误还是设备缺陷）；是否会有独立调查或国会听证；航班何时完全恢复；500 亿美元拨款请求的具体内容和国会态度。",
+      "confidence": "可信度（CONFIDENCE）：高（官方记者会内容、航班数据，多家来源一致）；中（「根本原因」官方自己也说未确定）；航班数字随时间变化。",
+      "sources": [
+        {
+          "label": "CNBC：Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system",
+          "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+        },
+        {
+          "label": "CNBC：'Root cause' of nationwide ground stop is unknown, FAA says",
+          "url": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html"
+        },
+        {
+          "label": "卫报：US officials say flight stoppage stemmed from 'routine maintenance'",
+          "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos"
+        },
+        {
+          "label": "The Verge：Work to replace old copper wire led to the FAA's ground stop",
+          "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+        },
+        {
+          "label": "BBC：How telecoms upgrade work sparked US flight chaos",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "白宫称特朗普、普京、习近平计划下周在深圳 APEC 峰会期间举行三方会晤，议题包括削减核武器，可能谈伊朗但不谈乌克兰；俄方已确认，中方尚未回应；美方官员称不会提英伟达和「间谍」问题，马斯克随行",
+      "tag": "新：国际",
+      "facts": [
+        "宣布：白宫发言人奥利维亚·威尔斯称，特朗普出席在深圳举行的亚太经合组织（APEC）峰会期间，将与普京、习近平举行三方会晤，「总统已明确表示，除其他议题外，他将讨论在全球削减核武器」。BBC 称据了解伊朗也可能被讨论，但不包括乌克兰。俄方已确认，中方尚未回应；中国官方媒体周五只报道了习近平将在峰会期间举行「双边」会谈（BBC）。",
+        "行程：特朗普周二（11/17）先赴菲律宾出席东盟峰会，周三（11/18）深夜抵达深圳，周四（11/19）与习近平举行双边会谈——为其 2025 年重返白宫后两人第四次会面，访华以三方会晤收尾。CNBC 称 APEC 峰会日期为 11 月 18—19 日。美联社和路透援引一名美国高级官员称，预计会谈后不会达成协议（BBC、CNBC）。",
+        "背景：美俄核军控条约已于今年 2 月到期，世界最大的两个核武库失去主要约束；联合国敦促双方尽快达成新框架，特朗普则称可用一个纳入中国的更好协议替代（BBC）。",
+        "英伟达与马斯克：美国高级官员周五在电话会上称，特朗普预计不会向习近平提及与前英伟达 CEO 黄仁勋有关的「间谍」指控，「我们在与中方的任何讨论和谈判中都不谈美国出口管制」，经济议题重点是「贸易协议的落实」。官员称马斯克将随行，理由是「他在美中关系上有巨大的商业利益」，可作为总统顾问（CNBC）。中方称有关黄爱丽（Alice Huang）的指控毫无根据（CNBC）。"
+      ],
+      "readingA": "解读 A：三方会晤是重启大国核军控的现实尝试。新削减战略武器条约失效后没有任何框架，把中国拉进来正是特朗普一直主张的方向；即使这次不出协议，能坐在一起谈本身就有价值。",
+      "readingB": "解读 B：形式大于实质。官员自己说不预期达成协议，中方连会晤都没确认；中国长期拒绝参加三边核裁军，而美方在英伟达风波、出口管制问题上主动回避，加上马斯克随行，说明这次行程的重点更可能是商业和贸易。",
+      "disagree": "分歧在于预期：A 看重开启对话的象征意义，B 认为中方未确认、美方先压低预期，实质成果有限。两者都承认目前没有任何关于具体议程或协议框架的公开信息。",
+      "synthesis": "综合（SYNTHESIS）：确定的是白宫的宣布和俄方的确认；中方表态是关键变量。下周值得看三点：北京是否确认三方会晤；核军控是否有任何后续机制；美中双边会谈在贸易协议落实和芯片问题上的措辞。",
+      "unknown": "未知（UNKNOWN）：中方是否会确认并参加三方会晤；会晤的具体形式和时长；乌克兰问题是否真的不谈；马斯克在行程中的角色。",
+      "confidence": "可信度（CONFIDENCE）：高（白宫官方宣布、俄方确认）；中（议程细节来自匿名官员）；低（中方立场，目前没有公开表态）。",
+      "sources": [
+        {
+          "label": "BBC：Trump, Putin and Xi plan historic joint meeting in China next week",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+        },
+        {
+          "label": "CNBC：Trump doesn't plan to raise Nvidia, spy issue during China trip",
+          "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "英伟达两大股东 Altimeter 和 Atreides 致信董事会，要求「缓慢、审慎」选定新 CEO，并考虑「黄仁勋回归的可能」；要求恢复黄仁勋职务的请愿称获逾 11.5 万人签名，含马斯克等科技高管和近 6000 名在职员工；韩、台、日政府称供货和项目不受影响",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "股东信：Altimeter Capital CEO 布拉德·格斯特纳周五在 X 上发布致英伟达董事会的公开信，Atreides Management 的加文·贝克联署，要求董事会对未来领导层「采取缓慢、审慎、深思熟虑的程序」，考虑包括「黄仁勋可能回归」在内的所有选项，「在查明所有事实前避免任何不必要的仓促替换」；信中称临时 CEO 科莱特·克雷斯能「胜任」，但并未要求立即复职。据 6 月 30 日的持仓披露，Altimeter 持有约 940 万股（近 19 亿美元），英伟达是其最大持仓；Atreides 持有 120 万股（近 2.5 亿美元）（CNBC）。",
+        "请愿：名为「Stand with Jensen」的请愿网站称，截至周六下午签名逾 11.5 万人，其中在职员工 5965 人、前员工 1108 人、股东 63063 人；支持者包括马斯克、Replit CEO 阿姆贾德·马萨德、Epic Games CEO 蒂姆·斯威尼、Y Combinator CEO 加里·谭。请愿称黄仁勋「未经正当程序」被撤换，要求董事会「在独立调查查明事实期间让他回来」（TechCrunch；签名数为网站自报，未经核实）。马斯克周六在 X 上称没有黄仁勋，一些「关键交易将会失去」（CNBC）。",
+        "国会：CNBC 称周五另有一封信要求商务部长卢特尼克到众院情报委员会就 Megaspeed 作证；卢特尼克已同意 12 月 10 日出席参院银行委员会听证，黄仁勋也被要求作证。",
+        "亚洲反应：韩国科学部称英伟达重申将向韩国供应 26 万块先进 GPU 并继续合作项目；台湾经济部长龚明鑫称黄仁勋离职不太可能显著改变全球 AI 产业增长，台北市政府称英伟达海外总部计划按原定推进；日本经产省称将密切关注。新加坡内政部称，曾于 2025 年 6 月扣押黄爱丽护照调查服务器申报问题，2026 年 2 月认定证据不足但她就其在 Megaspeed 的角色提供了不准确信息，对其警告并禁止再入境。路透称超过 30 亿美元依赖英伟达受限芯片的中国 AI 算力项目前景不明（TechCrunch）。",
+        "时间点：英伟达财报定于 11/17（周二，美东），参院银行委员会 12/3、12/10 听证。"
+      ],
+      "readingA": "解读 A：大股东和员工的公开表态说明，市场普遍认为黄仁勋对英伟达的价值难以替代。在独立调查还没结论前仓促定下新 CEO，可能伤害客户关系和人才留存；「慢一点」是对股东负责。",
+      "readingB": "解读 B：这次风波的核心是国家安全和出口管制合规，而不是黄仁勋个人能力。在调查进行中公开推动「回归」，等于向监管方和国会施压；请愿签名数是网站自报，不能代表股东整体意见，董事会需要对治理和合规负责。",
+      "disagree": "分歧在于事件的重心：A 把它看作企业领导层的连续性问题，B 把它看作合规和国家安全问题。两者都同意独立调查的结论是关键。",
+      "synthesis": "综合（SYNTHESIS）：两家大股东并没有要求立即复职，而是要求程序放慢；这会影响董事会的时间表，但不改变调查和国会听证的走向。下周二（11/17）的财报和管理层对客户、出口管制的表述，是检验影响的第一个硬数据。",
+      "unknown": "未知（UNKNOWN）：独立调查的进展和时间；董事会是否回应股东信；其他大机构股东的立场；财报中是否披露与 Megaspeed 相关的影响。",
+      "confidence": "可信度（CONFIDENCE）：高（股东信内容、各国政府表态均有原文或权威转述）；中（请愿签名数为自报）；中（持仓数据为 6 月 30 日披露，可能已变化）。",
+      "sources": [
+        {
+          "label": "CNBC：Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+        },
+        {
+          "label": "TechCrunch：Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+        },
+        {
+          "label": "TechCrunch：Asian governments react to Nvidia CEO Jensen Huang's exit",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "泽连斯基称美方在阿布扎比会谈中首次提出「若乌克兰加入北约，是否会撤出顿巴斯」，称北约「重回议程」，若有包含安全保障和重建资金的完整方案可交全民公投；美方未证实，库什纳呼吁「保密」并称将促成欧洲与俄罗斯直接对话",
+      "tag": "续报：欧洲",
+      "facts": [
+        "泽连斯基说法：泽连斯基办公室周六发布的讲话称，「美国人提出一个问题：如果乌克兰加入北约，乌克兰会从顿巴斯撤出吗？这是第一次提出」，「所以我认为北约重回议程」。他说美方问及的是俄军未控制的顿巴斯地区，他拒绝割让领土；若美方及其他北约伙伴确认一揽子方案（安全保障、不限制乌军、重建资金），他会把是否让出部分顿巴斯交全民公投，但不会承认被占领土属于俄罗斯，也不接受把中立写入宪法（BBC、半岛电视台）。",
+        "美方回应：美方未证实这一说法。一名美国官员对 BBC 称「许多想法仍在讨论，任何最终协议都须双方同意」。库什纳周六称谈判中出现了「极端」方案的报道和「强烈的政治言论」，呼吁对敏感进程「保密」；他说「双方」都知道必须妥协，他和威特科夫正在推进下一步，并表示希望促成欧洲与俄罗斯的会谈（BBC、半岛电视台）。",
+        "背景：周二阿布扎比美乌俄会谈未取得突破，但促成一次换俘。欧盟领导人周五决定由英、法、德、意、波五国代表欧洲参加未来和谈；马克龙周六在 X 上称欧洲必须「清楚说明」战后诉求，「包括对俄罗斯人」，并称乌克兰在北约中「完全有一席之地」（半岛电视台）。BBC 称俄方立场没有改变，仍坚持在最终协议达成前不停火，并要求乌方让出俄军未占领的顿巴斯部分。",
+        "战事：俄方称周五约 1200 架乌克兰无人机来袭，目标包括石油设施；乌方报告医院和敖德萨港遭袭（半岛电视台）。"
+      ],
+      "readingA": "解读 A：「北约换顿巴斯」把领土与安全保障挂钩，是一个可能打破僵局的新框架。泽连斯基愿意交公投，说明乌方在有足够保障的前提下愿意讨论妥协，而库什纳推动欧俄直接对话，也让欧洲的关切能进入谈判。",
+      "readingB": "解读 B：这个设想很难落地。俄罗斯把乌克兰入约视为红线，其他北约成员也不情愿，BBC 称乌方自己也认为入约不现实；泽连斯基公开此事更可能是为了把北约议题重新摆上桌面、对冲美方要求让地的压力，而库什纳的「保密」表态显示美乌之间仍有摩擦。",
+      "disagree": "分歧在于这是不是真实可谈的方案：A 认为是新的谈判空间，B 认为是试探红线或舆论攻防，俄方不会接受。双方都承认美方没有正式证实。",
+      "synthesis": "综合（SYNTHESIS）：可确认的是泽连斯基的说法和美方的模糊回应；俄方立场没有变化。短期内更现实的变化是欧洲五国代表团进入谈判，以及欧俄是否开启直接接触；北约换领土的设想，在没有莫斯科和其他北约成员表态前只能视为一次试探。",
+      "unknown": "未知（UNKNOWN）：美方是否正式提出过此方案；俄罗斯和其他北约成员的反应；欧俄直接会谈的时间与形式；下一轮美乌俄会谈安排。",
+      "confidence": "可信度（CONFIDENCE）：中（核心说法来自泽连斯基单方，美方未证实）；高（欧盟代表团组成、库什纳和马克龙的公开表态）。",
+      "sources": [
+        {
+          "label": "BBC：US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+        },
+        {
+          "label": "半岛电视台：US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato"
+        },
+        {
+          "label": "半岛电视台：US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+          "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "SpaceX 星舰第 15 次试飞首次用发射塔「筷子」机械臂接住从轨道返回的上面级：飞船绕地球 14 圈、任务约 22 小时；但「双回收」目标落空，Super Heavy 助推器周五偏离回收轨道、在墨西哥湾爆炸",
+      "tag": "新：科技/航天",
+      "facts": [
+        "结果：SpaceX 周六在得州星港用发射塔机械臂（「筷子」）接住了星舰上面级，这是首次从轨道回收上面级。上面级高约 52 米，在约 22 小时的任务中绕地球 14 圈（CNBC、卫报）。",
+        "助推器：本次是首次尝试同时回收助推器和上面级。周五助推器在起飞几分钟后改为海上溅落，在落水前于墨西哥湾爆炸。SpaceX 发言人丹·休特称，制导导航与控制系统检测到助推器「不在应有的位置」，因此触发不回收，「它在做它该做的事」（卫报、CNBC）。",
+        "载荷与背景：此次试飞还释放了 26 颗新一代 Starlink v3 卫星；SpaceX 称单次星舰最多可载 60 颗 v3 卫星，星座已有逾 1.1 万颗卫星。夏威夷交通部周五曾因残骸风险暂停部分西海岸航班（已解除）（CNBC）。卫报称马斯克在近期财报电话会上表示计划把试飞频率提高到每周一次、再到每周两次；NASA 计划 2028 年重返月面，已与 SpaceX 和蓝色起源签约。"
+      ],
+      "readingA": "解读 A：上面级在轨飞行后被塔架接住，是「完全可重复使用」最难的一步之一，说明星舰在热防护和精确返回上取得关键进展；对 Starlink 部署和 NASA 登月时间表都是利好。",
+      "readingB": "解读 B：「双回收」本来是本次试飞的主要目标，助推器却没能回收、还爆炸了，助推器的可靠性仍是问题。离每周发射、快速复用还很远，2028 年登月时间表依然紧张。",
+      "disagree": "分歧在于成败如何权衡：A 看重上面级首次回收的突破，B 看重助推器失败和整体进度。双方都不否认上面级回收是首次。",
+      "synthesis": "综合（SYNTHESIS）：这次试飞是「一半成功」：上面级回收是实质里程碑，助推器回收的失败是由安全逻辑主动触发的，不是结构失效，但仍需解释为何偏离位置。下一步看 SpaceX 能否复现上面级回收，以及发射频率能否按马斯克说的提升。",
+      "unknown": "未知（UNKNOWN）：助推器偏离位置的具体原因；回收的上面级状况能否快速复飞；下一次试飞时间；FAA 是否需要对助推器事故进行调查。",
+      "confidence": "可信度（CONFIDENCE）：高（多家媒体及 SpaceX 官方说法一致）；中（发射频率计划为马斯克表态）。",
+      "sources": [
+        {
+          "label": "CNBC：SpaceX catches upper stage of Starship rocket in historic first",
+          "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+        },
+        {
+          "label": "卫报：SpaceX's Starship returns to launch pad from orbit in victory for company",
+          "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch"
+        },
+        {
+          "label": "The Verge：Watch SpaceX successfully execute the first 'chopstick' catch of Starship",
+          "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "意大利数据保护局以 Facebook 安卓应用「从相册获取建议」功能未经明确同意读取用户照片、视频及元数据为由，对 Meta 罚款 8.05 亿欧元（约 8.87 亿美元），为该机构史上最大罚单，约 2000 万用户可能受影响；Meta 称「强烈不同意」",
+      "tag": "新：科技/监管",
+      "facts": [
+        "裁决：意大利数据保护局（Garante）周六称，Facebook 安卓应用的「浏览 Facebook 时从相册获取建议」功能「在未经特定同意、未告知用户的情况下访问意大利用户手机中的照片、视频及相关元数据」，违反了落实欧盟《电子隐私指令》的意大利法律；该功能默认开启，同意流程过于笼统（半岛电视台）。",
+        "规模：罚款 8.05 亿欧元，是意大利监管机构迄今最大罚单，约占 Meta 全球营业额的 0.47%；可能影响约 2000 万意大利安卓用户。监管方要求 Meta 在 60 天内把该功能改为默认关闭并单独征求同意，并称考虑了 Meta「缺乏合作」以及 2019 年曾被罚的前科（BBC、半岛电视台）。",
+        "Meta 回应：Meta 对 BBC 称「强烈不同意」监管方对事实的评估、法律适用和「不成比例的罚款金额」，称该功能需用户在设备上授权、可随时在设置中更改。Meta 有权上诉。半岛电视台称此案未涉及是否用这些内容训练 AI，Meta 否认这样做。",
+        "背景：BBC 称上月新墨西哥州一名美国法官判令 Meta 支付 250 亿美元，认定其多年来在如何处理 Facebook 用户数据上欺骗公众。"
+      ],
+      "readingA": "解读 A：这是对「默认开启 + 笼统授权」的典型纠正。读取手机相册属于高度敏感权限，一次性的应用级授权不足以让用户理解用途；高额罚款和 60 天整改期能推动行业改为逐项、明确同意。",
+      "readingB": "解读 B：罚款力度与损害不相称。用户已在系统层面授予相册权限，功能本身只是给出发帖建议，没有证据表明数据被外传或用于 AI 训练；各国监管叠加罚款，会增加科技公司在欧洲推出功能的不确定性。",
+      "disagree": "分歧在于系统权限是否等于知情同意：监管方认为不等于，Meta 认为用户已经授权。双方对罚款是否「成比例」看法相反。",
+      "synthesis": "综合（SYNTHESIS）：裁决依据是电子隐私规则中的同意要求，而不是数据泄露或 AI 训练。关键看 Meta 是否上诉，以及其他欧盟国家的监管方是否跟进类似功能的调查；短期内意大利用户的默认设置会改变。",
+      "unknown": "未知（UNKNOWN）：Meta 是否上诉及结果；其他国家是否对同一功能展开调查；iOS 版本是否受影响；用户是否会提起集体索赔。",
+      "confidence": "可信度（CONFIDENCE）：高（监管方公告和 Meta 回应均有多家来源报道）。",
+      "sources": [
+        {
+          "label": "BBC：Italy fines Meta €805m over accessing users' photos",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+        },
+        {
+          "label": "半岛电视台：Italy fines Meta $880m over photo privacy",
+          "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "以色列组阁僵局：看守总理内塔尼亚胡周六发视频呼吁与艾森科特组建「民族团结政府」以「彻底消除伊朗威胁」，提议「无先决条件」会面；获总统授权组阁的艾森科特数分钟内拒绝，称内塔尼亚胡「知道自己输了选举」",
+      "tag": "续报：中东",
+      "facts": [
+        "内塔尼亚胡：他在周六的视频声明中称，周四与艾森科特的会面「只是加强了组建民族团结政府至关重要的信念」，称这样的政府能「彻底消除伊朗威胁」，并称德黑兰「会毫不犹豫地对我们使用核武器」，提议「在一个房间见面，不设先决条件」（半岛电视台）。",
+        "艾森科特：这位前总参谋长几分钟内回应称，内塔尼亚胡「知道自己输了选举」，「谈判已经在进行，他却呼吁谈判」，「这些伎俩对我不管用」（半岛电视台）。",
+        "议席与程序：10 月 27 日大选无一方过半：内塔尼亚胡的右翼和宗教阵营 120 席中获 53 席，艾森科特的四党阵营 48 席，阿拉伯政党获创纪录的 19 席。总统赫尔佐格上周授权艾森科特组阁，此前有 67 名议员（含阿拉伯政党）推荐他、46 人推荐内塔尼亚胡。艾森科特有 28 天时间、可延长 14 天，他已排除让阿拉伯政党入阁，计划组建少数派「国家紧急政府」：其阵营 48 票对内塔尼亚胡支持者 46 票，阿拉伯和极端正统派政党的 26 名议员弃权即可获批。内塔尼亚胡警告这会导致以色列「崩溃」，他和盟友曾无根据地称阿拉伯政党「偷走」了选举（半岛电视台）。",
+        "同期：半岛电视台直播标题称，以色列看守政府虽处看守状态，仍誓言在加沙采取「进攻性政策」；欧盟周六呼吁立即允许人道主义物资进入加沙（标题）。"
+      ],
+      "readingA": "解读 A：内塔尼亚胡的团结政府提议是在承认无法独自组阁后的现实选择，以伊朗威胁为由争取跨阵营合作，有安全层面的逻辑；少数派政府依赖弃权，稳定性存疑。",
+      "readingB": "解读 B：这是拖延和分化对手的策略。艾森科特已获授权、谈判在进行中，内塔尼亚胡公开喊话更像是为了给对方阵营施压，并把选举失利归咎于阿拉伯政党，加深社会分裂。",
+      "disagree": "分歧在于内塔尼亚胡的提议是真诚的稳定方案还是政治策略；以及依赖弃权的少数派政府能否长期运作。",
+      "synthesis": "综合（SYNTHESIS）：目前主动权在艾森科特：他有 28+14 天时间，关键在极端正统派和阿拉伯政党是否会配合弃权。若组阁失败，可能出现新一轮授权或重新选举；看守政府期间的加沙和伊朗政策仍由内塔尼亚胡主导。",
+      "unknown": "未知（UNKNOWN）：极端正统派政党是否愿意弃权；双方是否会有正式会谈；组阁失败后的程序走向；看守政府在加沙的具体行动。",
+      "confidence": "可信度（CONFIDENCE）：高（双方公开表态和议席数据）；主要依据半岛电视台一家，其他细节未交叉核对。",
+      "sources": [
+        {
+          "label": "半岛电视台：Netanyahu says only a unity government can guarantee Israel's security",
+          "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security"
+        },
+        {
+          "label": "半岛电视台直播：Israel vows Gaza 'offensive policy' despite caretaker status",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT's Duffy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+    },
+    {
+      "n": 2,
+      "title": "'Root cause' of nationwide ground stop is unknown, FAA says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html"
+    },
+    {
+      "n": 3,
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+    },
+    {
+      "n": 4,
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+    },
+    {
+      "n": 5,
+      "title": "Trump doesn't plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html"
+    },
+    {
+      "n": 6,
+      "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+    },
+    {
+      "n": 7,
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
+    },
+    {
+      "n": 8,
+      "title": "Asian governments react to Nvidia CEO Jensen Huang's exit",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+    },
+    {
+      "n": 9,
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+    },
+    {
+      "n": 10,
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine"
+    },
+    {
+      "n": 11,
+      "title": "SpaceX catches upper stage of Starship rocket in historic first",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
+    },
+    {
+      "n": 12,
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+    },
+    {
+      "n": 13,
+      "title": "Netanyahu says only a unity government can guarantee Israel's security",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security"
+    },
+    {
+      "n": 14,
+      "title": "Democrat wins Alaska governor's seat for first time in nearly 30 years（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+    },
+    {
+      "n": 15,
+      "title": "More than 100,000 rally across France in new Yellow Vest protests（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests"
+    },
+    {
+      "n": 16,
+      "title": "Tesla opens Cybercab pre-orders 'for personal use,' with geo restrictions and a $299 monthly fee（未单列）",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
+    },
+    {
+      "n": 17,
+      "title": "Mike Johnson: 'Leaders have to take responsibility when things go wrong'（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses"
+    },
+    {
+      "n": 18,
+      "title": "EU calls for immediate humanitarian access to Gaza（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza"
+    },
+    {
+      "n": 19,
+      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town（未单列）",
+      "outlet": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town"
+    },
+    {
+      "n": 20,
+      "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb"
+    },
+    {
+      "n": 21,
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo"
+    },
+    {
+      "n": 22,
+      "title": "Philippines wins first Eurovision Song Contest Asia（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo"
+    },
+    {
+      "n": 23,
+      "title": "Microsoft says services fully restored after global outage hits governments（未单列）",
+      "outlet": "Guardian",
+      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+    },
+    {
+      "n": 24,
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister（未单列）",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo"
+    }
+  ]
+}
