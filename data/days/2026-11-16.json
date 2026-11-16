@@ -1,0 +1,392 @@
+{
+  "date": "2026-11-16",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/15 约 08:15，即 UTC 11/15 00:15）至本期（11/16 约 08:10，UTC 00:10），约 24 小时，覆盖欧美周日（默认规格为 6 小时，周末沿用 24 小时窗口）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，正文均直接抓取原文（另参考 X 新闻摘要检索，未作为事实来源）。",
+  "thinDay": true,
+  "thinDayNote": "本期部分属于薄日：周日硬新闻较少，7 条中 4 条为新话题；索引中有较多体育、娱乐和周末专题未列入。需注意：第 6、7 条各只依据一家媒体，第 7 条仅为简讯；第 5 条抗议人数只有组织方估计；第 1 条伊朗关于击中目标和油轮沉没的说法未经核实。本周关注（均为美东时间）：英伟达周二财报、特朗普东盟及深圳 APEC 行程（11/17—11/19）、Anthropic 周四上市、国际法院周四罗兴亚案判决、捷克 11/17 纪念日。",
+  "vsYesterday": "相对上一期（11/15）：新话题：爱沙尼亚关闭对俄边境；捷克公共媒体抗议；火神火箭失败、损失 40 颗亚马逊 Leo 卫星；日本三季度 GDP 意外萎缩。续报：伊朗三天内第二次袭击巴林美军设施（上期仅提「无重大新进展」）；英伟达风波转向贝森特「外部 CEO + 10 天期限」、Megaspeed 内部调查和黄仁勋同意闭门作证；Anthropic 公布本周四上市的发行价区间。FAA 停飞续报（达菲称问题路由器位于阿肯色州埃尔多拉多、特朗普归咎拜登政府、迈阿密机场滑行道碰撞、周一航班恢复正常）、四国呼吁以色列放行加沙援助、胡塞武装释放 600 名被拘者、泽连斯基呼吁解除星链限制、国际法院本周四宣判罗兴亚种族灭绝案等仅列入索引；特朗普—普京—习近平深圳会晤、以色列组阁本窗口内无重大新进展。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "伊朗周日用 6 架无人机袭击巴林里法空军基地的美军防空雷达设施，为三天内第二次、也是 9 月以来首轮针对海湾国家的袭击；巴林称已全部拦截；沙特、卡塔尔、约旦、埃及谴责；革命卫队称霍尔木兹海峡「已关闭」，并称一艘超级油轮触雷沉没（未经独立核实）",
+      "tag": "续报：中东",
+      "facts": [
+        "袭击：伊朗革命卫队称周日用 6 架无人机袭击巴林里法（al-Riffa）空军基地的美军防空雷达设施；巴林军方称防空系统在无人机「达成目标前」将其拦截摧毁，官方未立即公布损伤或伤亡。巴林全境拉响警报，内政部呼吁民众前往最近的安全地点（BBC、卫报）。",
+        "第二次：伊朗周五已向巴林发射无人机，为 9 月以来首次袭击海湾国家；革命卫队称当时击中美军预警雷达，美军否认，称两架单向攻击无人机均被美军击落、无伤亡和损坏（BBC）。",
+        "伊朗说法：革命卫队称「霍尔木兹海峡已关闭，美国敌人的任何侵略都将遭到更猛烈的回应」，称袭击是对美方近期「侵略」的报复；外交部发言人巴加埃称伊朗「不等任何人」。革命卫队还称两艘船在海峡触雷，其中一艘载油逾 200 万桶的超级油轮沉没，卫报称尚无独立核实；美军此前称已清除主航道水雷（BBC、卫报）。",
+        "美方行动：美国官员对 CBS 称，美军本周对霍尔木兹海峡的伊朗格什姆岛进行了「有限、防御性」打击，以回应革命卫队向美军飞机开火；美军中央司令部称在美方护航下海湾伙伴已经海峡运出逾「17 亿」原油（原文未注明单位）（BBC、卫报）。",
+        "外交背景：BBC 称美伊 6 月曾达成结束战争、重开海峡的初步协议，但数周后破裂；伊朗谈判方曾与调停方讨论「美方满足 7 项条件则两天内重开海峡」的方案。本周特朗普称美国不再有兴趣与伊朗达成协议，并让副总统万斯转而专注国内政治。",
+        "地区反应：沙特外交部称伊朗袭击违反国际法和睦邻原则，卡塔尔称持续袭击是「危险升级」，将使缓和努力复杂化；约旦、埃及亦谴责（卫报直播）。"
+      ],
+      "readingA": "解读 A：这是冲突重新升级的信号：在美方宣布放弃谈判、并持续打击伊朗沿海目标之后，伊朗两天内两次袭击美军在海湾的设施，并重申海峡「关闭」，说明双方都在把军事手段放在外交之前；海湾国家集体谴责也显示地区国家担心再次被卷入全面冲突。",
+      "readingB": "解读 B：这更像是有限度的相互「回敬」：袭击规模小（6 架无人机）、目标是雷达设施、均被拦截，美方也把自己的打击称为「有限、防御性」；双方都在维持压力和表态，但未必想回到全面战争。伊朗关于击中雷达和油轮沉没的说法此前多次未获证实，不宜直接当作战果。",
+      "disagree": "分歧在于：这是走向全面战事的转折点，还是围绕海峡控制权的低烈度消耗；以及美方放弃谈判后，是否还有任何调停渠道在运作。",
+      "synthesis": "确定的是：伊朗在三天内两次对巴林境内美军设施发动无人机袭击，均被拦截，海湾多国公开谴责；美伊在海峡的对峙在外交停滞后明显升温。不确定的是双方的意图边界。较稳妥的看法是：短期内海峡航运风险和油价波动风险上升，但目前还看不到大规模直接交战的证据。",
+      "unknown": "美方是否会对周日袭击作出军事回应；超级油轮沉没是否属实、是哪艘船；美伊是否还有间接谈判；海湾国家是否会调整对美军基地的态度。",
+      "confidence": "中高（袭击与拦截有巴林官方、BBC、卫报交叉报道）；伊朗关于战果和油轮沉没的说法未经核实。",
+      "sources": [
+        {
+          "label": "BBC：Iran targets US military base in Bahrain with drone attack",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+        },
+        {
+          "label": "卫报：Iran launches drone attacks against US military base in Bahrain",
+          "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain"
+        },
+        {
+          "label": "卫报直播：Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain",
+          "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "美国财长贝森特呼吁英伟达「大幅改组」、从外部选新 CEO，并给董事会和外部律师「10 天」交代出口管制合规问题；Megaspeed 称爱丽丝·黄已于 2025 年 8 月离职并启动内部调查；众议员穆勒纳尔称黄仁勋已同意闭门作证；英伟达周二发财报",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "贝森特：周日接受福克斯新闻采访称英伟达需要「大幅改组」，董事会应从公司外部寻找下任 CEO，其他高管也应就出口管制合规接受审视；他问「英伟达的文化是什么，他们是否在推动看似非法的销售来抬高营收和利润？」并称「如果这是一家银行，OCC（美国货币监理署）现在已经进驻，很多高管会被撤换」。他还质疑英伟达的财务披露，提到其中国销售下降时新加坡营收激增；英伟达 2025 年 11 月起不再单独披露新加坡营收（CNBC）。",
+        "10 天期限与立法：半岛电视台称贝森特提出「未来 10 天内需要董事会和外部律师给出答案」；他认为现有出口管制规则已足够，「我们不需要立法……只需要执行」。与此同时，共和党参议员吉姆·班克斯和民主党参议员沃伦等人试图借年度国防授权法案堵住中国企业获取美国芯片的漏洞（半岛电视台）。",
+        "国会：The Verge 称参院银行委员会主席蒂姆·斯科特已致函黄仁勋和商务部长卢特尼克要求公开作证，《远程访问安全法》重新受到关注，众议院议长约翰逊称国会在限制对华芯片出口上存在「日益增长的共识」。BBC 称众议院中国特别委员会主席穆勒纳尔周日表示，黄仁勋已同意在该委员会、外交委员会和情报委员会闭门作证，未发出传票，日期待定。",
+        "Megaspeed：这家新加坡公司对 CNBC 称爱丽丝·黄「2025 年 8 月 30 日正式离职」，目前在公司无任何职务，不评论其私人事务；称有关其业务和供应链的媒体报道「没有可核实证据支持」，已聘请外部律师进行「彻底的内部调查」。BBC 称 Megaspeed 是东南亚最大的英伟达芯片买家。",
+        "黄仁勋回归传闻：BBC 称《金融时报》周日报道黄仁勋正在讨论回归，其代表拒绝置评。",
+        "政府内部：CNBC 引述 Semafor 称贝森特和卢特尼克预计都将随特朗普本周访华；白宫官员此前称总统对卢特尼克「完全信任」。CNBC 称英伟达股价本周跌 13%，为 2025 年 7 月以来最低；临时 CEO 克雷斯将在周二（美东）迎来季度财报。"
+      ],
+      "readingA": "解读 A：贝森特的表态把问题从「CEO 个人丑闻」推向「公司合规文化」：新加坡营收的异常、Megaspeed 的地位和多机构早就主张把它列入实体清单，都指向可能存在系统性的出口管制漏洞；外部 CEO、限期答复和国会作证是必要的问责，否则「黄仁勋回归」只会让问题不了了之。",
+      "readingB": "解读 B：财长公开对一家上市公司施压、点名其财务披露，并给出「10 天」期限，本身也值得审视：英伟达尚未被认定违法，Megaspeed 否认指控，且爱丽丝·黄在 2025 年 8 月已离职；贝森特与卢特尼克的争执也有政府内部追责的成分。他一边否认需要新立法，一边施压企业，可能是在把监管失职的责任转移到公司身上。",
+      "disagree": "分歧在于：英伟达问题是个人行为、公司文化还是政府执法缺位；以及应通过公司改组、加强执法还是国会立法来解决。",
+      "synthesis": "事实层面：财政部、国会和英伟达最大东南亚客户都在本周末出了新表态，黄仁勋将闭门作证，但目前没有官方认定英伟达违法。较稳妥的看法是：周二财报（尤其是地区收入披露）和董事会对贝森特「10 天」要求的回应，将是判断事件走向的第一批硬信息。",
+      "unknown": "英伟达董事会是否回应贝森特、是否启动外部 CEO 搜寻；黄仁勋作证日期和内容；美方调查是否发现芯片转运证据；《金融时报》回归报道的真实性。",
+      "confidence": "高（贝森特、穆勒纳尔、Megaspeed 均为公开表态）；黄仁勋回归只是单一媒体报道，未获证实。",
+      "sources": [
+        {
+          "label": "CNBC：Bessent calls for 'dramatic shakeup' at Nvidia, urges outside CEO",
+          "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
+        },
+        {
+          "label": "半岛电视台：US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
+          "url": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia"
+        },
+        {
+          "label": "CNBC：Megaspeed says Alice Huang left in 2025 as it launches internal probe",
+          "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
+        },
+        {
+          "label": "BBC：Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+        },
+        {
+          "label": "The Verge：Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Anthropic 预计本周四（美东）在纳斯达克上市，发行价区间 70—78 美元，募资可能超 900 亿美元；AMD、博通、谷歌、美光、微软、英伟达、台积电合计将按发行价投入 260 亿美元；招股书显示 2026 年前九个月净亏损 1040 亿美元、未履行支出承诺逾 9000 亿美元",
+      "tag": "续报：科技/AI 市场",
+      "facts": [
+        "时间与价格：CNBC 称 Anthropic 预计周四在纳斯达克上市，目前预期发行价 70—78 美元/股；募资可能超过 900 亿美元，此外公司现有现金及短期投资 1320 亿美元。",
+        "基石投资：AMD、博通、谷歌、美光、微软、英伟达和台积电将按发行价合计投资 260 亿美元，其中部分为现有股东；早期投资者亚马逊的持股价值可能达数千亿美元。CNBC 称谷歌上市后将持有约 13%，并为 Anthropic 与 Terawulf 在肯塔基州的 190 亿美元数据中心租约兜底。",
+        "财务与承诺：最新招股书显示 2026 年前九个月净亏损 1040 亿美元；未履行支出承诺逾 9000 亿美元，包括十年内至少向亚马逊支出 1100 亿美元、向其他公司支出 4000 亿美元云算力，以及与数据中心和芯片伙伴的 3000 亿美元承诺；计划向谷歌采购 1250—1500 亿美元 AI 芯片。美银、黑石、花旗、摩根士丹利提出出资 630 亿美元购买由 Anthropic 租用的博通 AI 芯片机架，博通提供最高 430 亿美元兜底（CNBC）。",
+        "招股书原话：「过去我们严重低估了算力需求，导致产能受限，影响了产品开发和部署。」（CNBC）",
+        "市场背景：CNBC 称纳斯达克 10 月下跌 5.3%，为 2025 年 3 月以来最差月份，11 月开局仍在下跌；利率上升、中期选举中民主党大胜和多项限制数据中心的地方投票、英伟达风波都在压制科技股。"
+      ],
+      "readingA": "解读 A：Anthropic 上市是 AI 行业急需的「信心测试」：巨头们按发行价真金白银入股，说明他们认为 Anthropic 的增长和长期算力需求是真实的；成功上市能为整个 AI 基础设施链（芯片、云、数据中心）锁定多年的订单，也可能帮助科技股走出 10 月以来的低迷。",
+      "readingB": "解读 B：这些数字也显示了风险的集中：一家成立五年的公司前九个月净亏损逾千亿美元，却背负逾 9000 亿美元的长期承诺，而为其买单的芯片和云厂商同时又是它的投资者和供应商，形成循环依赖；正如 CNBC 引述的分析人士所说，三四年以上的合同「基本是在黑暗中扔飞镖」。一旦上市表现不佳，冲击会沿着这条链条扩散。",
+      "disagree": "分歧在于：长期算力承诺是理性的产能锁定，还是行业泡沫的放大器；以及在英伟达风波和利率上升的背景下，现在上市是好时机还是坏时机。",
+      "synthesis": "可确定的是：这是规模极大的 IPO，且主要科技公司深度绑定其中。上市首日表现只能说明市场情绪，真正的检验是营收增速能否追上支出承诺。较稳妥的做法是同时看周二英伟达财报和周四 Anthropic 定价，这两件事会相互影响市场对 AI 板块的判断。",
+      "unknown": "最终发行价和募资额；上市首日表现；1040 亿美元净亏损中非现金部分的构成（此前 S-1 显示大部分为非现金项目，本期 CNBC 报道未细分）；长期合同的可调整空间。",
+      "confidence": "中高（数据来自 CNBC 对招股书和合作方披露的引述）；发行价区间和上市日期仍可能变化。",
+      "sources": [
+        {
+          "label": "CNBC：Anthropic's IPO lands as the embattled AI trade looks for a much-needed bright spot",
+          "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "爱沙尼亚宣布 12 月 1 日起关闭与俄罗斯的全部边境口岸：周六一家军用无人机制造商 Threod Systems 遭未遂纵火爆炸袭击、8 人被拘，安全部门称袭击由俄军事情报总局（GRU）指使；总理米哈尔称这是对爱沙尼亚支持乌克兰的报复",
+      "tag": "新：欧洲",
+      "facts": [
+        "事件：周六上午，生产远程攻击和侦察无人机的爱沙尼亚防务公司 Threod Systems 遭未遂袭击，8 人被拘，公司安保团队处置，无人员伤亡和损失报告。爱沙尼亚内部安全局（Kapo）周日称，袭击意图「引发爆炸并纵火」；当局已申请对其中 5 人继续羁押（卫报引述爱沙尼亚公共广播 ERR）。",
+        "归因：当局称袭击由俄罗斯军事情报总局（GRU）下令。这是爱沙尼亚第二起被归咎于俄方的防务企业袭击，8 月 Milrem Robotics 曾遭纵火；当时克里姆林宫否认，称指控「毫无根据」（卫报）。",
+        "措施：总理克里斯滕·米哈尔宣布 12 月 1 日起关闭所有对俄边境口岸（北部纳尔瓦、南部科伊杜拉和卢哈马），称是为降低再次遭袭风险，并传递「攻击爱沙尼亚国防工业不可接受」的明确信息；当局未说明关闭多久。米哈尔称「俄罗斯的目的是让我们害怕、犹豫、削弱对乌克兰的支持」，外长察赫克纳称敌对行动「会有后果」（卫报）。",
+        "背景：卫报称多个欧洲情报机构多次警告俄方可能袭击防务企业，并通过网络通讯平台招募欧盟和北约国家公民实施破坏。截至抓取时未见俄方对此次事件的回应。"
+      ],
+      "readingA": "解读 A：关闭全部口岸是对「混合战争」的合理升级回应：两起针对防务企业的袭击都被归咎于俄方情报机构，若只是外交抗议，难以形成威慑；边境关闭能减少人员往来带来的渗透风险，也向盟友表明前线国家不会因破坏活动而退缩。",
+      "readingB": "解读 B：措施的代价和效果都值得追问：嫌疑人如何招募、是否经边境入境尚未公开，关闭口岸未必能阻止通过网络招募的本地人作案；同时会影响跨境居民（如俄语人口较多的纳尔瓦）的生活和贸易。目前公开的归因证据有限，俄方此前一贯否认。",
+      "disagree": "分歧在于：边境关闭是针对性的安全措施，还是象征性大于实际效果的政治信号；以及归因证据的强度。",
+      "synthesis": "事实层面：袭击未遂、8 人被拘、当局公开归因 GRU 并宣布关闭边境。较稳妥的看法是：这是波罗的海国家对俄「灰色地带」行动容忍度下降的又一例证，但关闭的时长、法庭程序中披露的证据，将决定这一措施的长期意义。",
+      "unknown": "嫌疑人身份和招募方式；俄方回应；边境关闭期限及对人员往来的豁免安排；其他北约国家是否跟进。",
+      "confidence": "中高（爱沙尼亚官方表态清晰）；俄方指使的结论目前来自爱沙尼亚当局，尚未经法庭检验；主要依据卫报一家。",
+      "sources": [
+        {
+          "label": "卫报：Estonia to close all border crossings with Russia after attack on drone maker",
+          "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+        },
+        {
+          "label": "半岛电视台视频：Estonia to close border crossings with Russia after alleged arson attack",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "捷克布拉格周日爆发大规模抗议，反对巴比什政府取消公共广播执照费、改由国家预算拨款的计划；组织方称约 40 万人参加，可能是捷克史上最大规模集会；政府称不会影响编辑独立",
+      "tag": "新：欧洲",
+      "facts": [
+        "规模：组织方「为民主的一百万个瞬间」称约 40 万人参加（BBC），半岛电视台称「数以万计」，组织方此前预计 40—60 万人，并称可能是「捷克历史上最大的公共集会」。抗议者聚集在布拉格莱特纳公园。",
+        "争议：政府计划取消每户每月 205 克朗（约 9.44 美元）的公共电视和广播费，改由国家预算拨款，并要求广播机构削减成本。法案上月底已在议会通过一读，待进一步审议（BBC、半岛电视台）。",
+        "双方说法：总理巴比什称「没人想控制公共媒体，没人想告诉他们说什么、做什么，没人想把它国有化」，称现行体系已经过时、「欧洲大多数国家都在走同样的路」；BBC 称法国、挪威等国近年已不再使用执照费模式。反对者认为改由预算拨款会让媒体更依赖政府、削弱新闻自由（BBC、半岛电视台）。",
+        "背景：执政联盟由民粹政党 ANO 和两个右翼疑欧政党组成。公共媒体员工自 6 月起持续罢工抗议，本月初曾举行一日罢工；欧洲广播联盟、欧洲记者联合会、无国界记者和国际新闻学会都批评该计划。抗议时间临近 11 月 17 日天鹅绒革命纪念日（半岛电视台、BBC）。"
+      ],
+      "readingA": "解读 A：把公共媒体资金从独立收费改为每年预算拨款，会让政府握有「钱袋子」这一杠杆，即便不直接干预内容，也可能通过削减预算施压；在一个由亿万富翁总理和疑欧政党组成的政府下，这种结构性风险更值得警惕，大规模抗议和国际媒体组织的批评正反映了这种担忧。",
+      "readingB": "解读 B：取消执照费本身并非独裁标志：法国、挪威等民主国家已改用税收或预算模式，许多家庭也认为强制收费不公平；政府明确表示不干预编辑方针，且法案仍需议会审议。关键在于法律中是否有防火墙（如多年期拨款、独立监管机构），而不在于资金来源本身。",
+      "disagree": "分歧在于：问题出在资金模式本身，还是出在这届政府的意图和配套保障；以及抗议是在捍卫制度，还是对一项常见改革的过度反应。",
+      "synthesis": "可确定的是：这是一场规模空前的抗议，焦点是公共媒体独立性。较稳妥的判断标准是看最终法案里有没有独立于年度预算的拨款保障机制，以及政府是否在后续审议中做出让步。",
+      "unknown": "实际参与人数（组织方数字未经独立核实）；法案二读、三读时间表；是否加入独立性保障条款；11 月 17 日纪念日前后是否有更多抗议。",
+      "confidence": "中（政策内容和双方表态清楚）；参与人数仅有组织方估计，BBC 与半岛电视台说法不一。",
+      "sources": [
+        {
+          "label": "BBC：Czechs rally against plan to switch funding of public media",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+        },
+        {
+          "label": "半岛电视台：Thousands rally in Czech Republic against state media funding changes",
+          "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes"
+        },
+        {
+          "label": "卫报：Hundreds of thousands of Czechs protest in Prague over media freedom",
+          "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "联合发射联盟（ULA）火箭「火神」发射约 10 分钟后发生「异常」，未能把 40 颗亚马逊 Leo 宽带卫星送入轨道，据报这是 ULA 20 年来首次任务失败；这是亚马逊向 ULA 购买的 38 次发射中的第一次",
+      "tag": "新：科技/航天",
+      "facts": [
+        "事件：ULA 在 X 上称，根据发射主任收到的数据，从 41 号发射台起飞的火神火箭在飞行约 10 分钟时「发生异常，未能将亚马逊任务送入轨道」；原因尚不清楚，公司承诺在调查中保持透明（The Verge）。",
+        "影响：The Verge 称这据报是 ULA 20 年历史上首次任务失败；40 颗卫星全部损失。本次是亚马逊从 ULA 购买的 38 次发射中的第一次（任务编号 LV-01）。Leo 是亚马逊对标 SpaceX 星链的卫星互联网项目，目前入轨卫星只占所需数量的一小部分。",
+        "亚马逊回应：亚马逊在 X 上称「任何发射都有风险，像 LV-01 这样的首发任务尤其如此。ULA 一直是值得信赖的伙伴，我们相信他们会从这次任务中吸取教训」（The Verge）。"
+      ],
+      "readingA": "解读 A：这对亚马逊是实质性挫折：Leo 本就落后于星链，部署进度高度依赖 ULA 等第三方火箭，首发即损失 40 颗卫星，加上火神需停飞调查，可能推迟后续多次发射，进一步拉大与 SpaceX 的差距。",
+      "readingB": "解读 B：单次失败未必改变大局：新火箭和新任务组合出现故障并不罕见，ULA 此前有长期可靠记录，亚马逊也公开表达了信任；若原因能较快查明并修复，影响主要是数周到数月的延误和卫星成本，而非项目方向。",
+      "disagree": "分歧在于：这是暂时性的延误，还是会暴露亚马逊过度依赖单一发射商的结构性风险；以及火神的停飞会持续多久。",
+      "synthesis": "事实是任务失败、原因未明、亚马逊表态支持 ULA。较稳妥的看法是：关键看 ULA 的故障调查结论和复飞时间，以及亚马逊是否把更多发射转给其他供应商。",
+      "unknown": "故障原因（发生在哪一级）；卫星是否投保及损失金额；火神后续任务（包括美国军方任务）是否受影响；亚马逊 Leo 部署时间表是否调整。",
+      "confidence": "高（ULA、亚马逊官方声明）；「20 年来首次失败」为 The Verge 引述的报道说法；主要依据一家媒体。",
+      "sources": [
+        {
+          "label": "The Verge：Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "日本第三季度 GDP 意外萎缩，按年化计算环比下降 0.1%，为一年来首次萎缩；上季度增长 1.4%，路透调查预期增长 0.3%；CNBC 称能源补贴到期拖累了消费",
+      "tag": "新：经济",
+      "facts": [
+        "数据：日本第三季度 GDP 年化环比收缩 0.1%，上一季度为增长 1.4%，路透社调查预期为增长 0.3%（CNBC）。",
+        "原因：CNBC 称能源补贴到期给消费带来压力。CNBC 标题称这是日本经济一年来首次萎缩，报道将其与能源和油价联系起来。",
+        "注：截至抓取时，CNBC 报道仅为简讯，未提供分项数据（如个人消费、出口、资本开支）。"
+      ],
+      "readingA": "解读 A：意外萎缩说明高能源价格（与中东战事和霍尔木兹航运受限相关）正在实际侵蚀日本家庭购买力，补贴一停消费就走弱；这会增加日本政府推出新刺激或延长补贴的压力，也让日本央行进一步加息更加困难。",
+      "readingB": "解读 B：-0.1% 的年化降幅很小，接近零增长，可能更多反映补贴到期带来的一次性扰动，而非趋势性衰退；初值常被修正，在没有分项数据前，不宜过度解读为日本经济转向。",
+      "disagree": "分歧在于：这是能源冲击导致的需求走弱信号，还是政策退出带来的短期技术性波动。",
+      "synthesis": "可确定的是：增长低于预期且转负。较稳妥的做法是等分项数据和修正值，并关注日本政府是否恢复能源补贴、日本央行如何表态。",
+      "unknown": "分项数据（消费、出口、投资）；是否会被修正；政府和日本央行的反应；对日元和日股的影响。",
+      "confidence": "中（数据本身可信，但只有一家媒体的简讯，细节不足）。",
+      "sources": [
+        {
+          "label": "CNBC：Japan's economy unexpectedly contracts for the first time in a year as third-quarter GDP shrinks 0.1%",
+          "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+    },
+    {
+      "n": 2,
+      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain – as it happened",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis"
+    },
+    {
+      "n": 3,
+      "title": "Bessent calls for 'dramatic shakeup' at Nvidia, urges outside CEO",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html"
+    },
+    {
+      "n": 4,
+      "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html"
+    },
+    {
+      "n": 5,
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+    },
+    {
+      "n": 6,
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+    },
+    {
+      "n": 7,
+      "title": "Anthropic's IPO lands as the embattled AI trade looks for a much-needed bright spot",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html"
+    },
+    {
+      "n": 8,
+      "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker"
+    },
+    {
+      "n": 9,
+      "title": "Czechs rally against plan to switch funding of public media",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+    },
+    {
+      "n": 10,
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites"
+    },
+    {
+      "n": 11,
+      "title": "Japan's economy unexpectedly contracts for the first time in a year as third-quarter GDP shrinks 0.1%",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+    },
+    {
+      "n": 12,
+      "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html"
+    },
+    {
+      "n": 13,
+      "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html"
+    },
+    {
+      "n": 14,
+      "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide"
+    },
+    {
+      "n": 15,
+      "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html"
+    },
+    {
+      "n": 16,
+      "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb"
+    },
+    {
+      "n": 17,
+      "title": "Yemen's Houthis unilaterally release 600 war detainees",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees"
+    },
+    {
+      "n": 18,
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o"
+    },
+    {
+      "n": 19,
+      "title": "World's top court to rule if Myanmar committed genocide against Rohingya",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj"
+    },
+    {
+      "n": 20,
+      "title": "Africa CDC says Ebola outbreak in DR Congo 'still not under control'",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control"
+    },
+    {
+      "n": 21,
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o"
+    },
+    {
+      "n": 22,
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo"
+    },
+    {
+      "n": 23,
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo"
+    },
+    {
+      "n": 24,
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader"
+    },
+    {
+      "n": 25,
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo"
+    },
+    {
+      "n": 26,
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam"
+    },
+    {
+      "n": 27,
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+    },
+    {
+      "n": 28,
+      "title": "Apple's first smart glasses are coming together",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together"
+    },
+    {
+      "n": 29,
+      "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space"
+    },
+    {
+      "n": 30,
+      "title": "Teenager Andreeva caps stunning week with WTA Finals title",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c61740145y7wo"
+    }
+  ]
+}
