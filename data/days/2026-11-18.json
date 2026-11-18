@@ -1,0 +1,463 @@
+{
+  "date": "2026-11-18",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/17 约 08:10，即 UTC 11/17 00:10）至本期（11/18 约 08:10，UTC 00:10），约 24 小时，覆盖欧美周二（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，正文均直接抓取原文。",
+  "thinDay": false,
+  "thinDayNote": "本期不属于薄日：周二硬新闻充足，6 条中 2 条为新话题。需注意：第 1 条证交会调查目前仅《华尔街日报》报道；第 2 条科威特无人机来源未宣布，霍尔木兹触雷船舶数量各源不一，CNN「脏弹」情报未经独立核实，白宫称目前无可信国土威胁；第 3 条铁路桥仍在运行，全面修复时间表为专家估计；第 4 条麻疹相关死亡数字来源不一（CNBC 称 10 人，卫报称 8 人）。本周关注：周四深圳习特普会晤；黄仁勋定于 12 月初到国会三个委员会接受书面记录问询；Anthropic 上市此前报为周四，本窗口未见已完成的报道。",
+  "vsYesterday": "相对上一期（11/17）：新话题：美国失去麻疹消除地位；加州禁止 Waymo 上高速，公司并在全美暂停高速公路运营。续报：英伟达发布首份「后黄仁勋时代」财报并上调展望，董事会正式表态不让黄回归，黄发表辞职后首份声明并同意 12 月初国会作证，公司宣布停售对华 H200；美伊在巴林与格什姆岛交火、科威特宣布拦截无人机、特朗普回应针对华盛顿的「脏弹」传闻；刻赤大桥公路拱桥坠入海中，损伤较昨日「受损但仍矗立」明显加重；美国故障链延至国家安全局内部网络和苹果服务，联邦航空局暂停安装新路由器。特朗普抵达菲律宾、马尼拉反特朗普抗议、以色列议会选出由内塔尼亚胡反对派支持的新议长、俄军用机在西伯利亚坠毁致 19 人死亡、亚马逊与谷歌在 Anthropic 上市后合计持股料近 30%、加州起诉 OpenAI 等仅列入索引；深圳三方会晤仍定于周四。",
+  "stories": [
+    {
+      "id": "1",
+      "title": "英伟达营收同比翻倍并上调展望，董事会主席在财报会上正式声明「无意」让黄仁勋回归；黄发表辞职后首份声明，称「完全承担」并「若董事会认为符合股东利益，将荣幸回归」；他已同意 12 月初到国会三个委员会接受问询；克雷斯宣布不再向中国销售 H200；《华尔街日报》称证交会正调查其对华业务",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "财报：英伟达公布截至 2026 年 10 月 25 日的 2027 财年第三季度营收 1158 亿美元，环比增 20%、同比增 103%；数据中心营收 1076 亿美元，同比增 110%；GAAP 和 non-GAAP 毛利率分别为 74.8% 和 74.9%，摊薄每股收益分别为 2.70 美元和 2.68 美元（公司新闻稿）。卫报援引彭博一致预期称，华尔街原先预计营收约 1091.5 亿美元、每股收益 2.47 美元。第四季度（含额外一周）营收展望为 1300 亿美元上下浮动 3%，指引中「未假设任何来自中国的数据中心计算营收」；第四季度毛利率展望为 71.0%–72.0%（公司新闻稿）。",
+        "展望与客户：临时 CEO 兼首席财务官克雷斯（Colette Kress）在电话会上把 2028 财年（至 2028 年 1 月）营收增长预期从约 70% 上调至 75%，称供应链「正在到位」，「我们非常有信心」；她还说「客户仍与我们在一起」，「从业务角度看，一切如常」，并拒绝在电话会上回答有关黄仁勋辞职及正在进行的调查的问题（CNBC、The Verge）。卫报称，盘后交易中英伟达股价较当日早些时候上涨约 5%。",
+        "董事会正式表态：董事会主席琼斯（Harvey C. Jones）在电话会上宣读声明：11 月 12 日，董事会在披露「与公司行为准则、标准和通例不符的个人行为」后宣布黄仁勋自愿辞去总裁、CEO 和董事职务，「董事会一致接受他的辞职，且无意让黄仁勋重新担任 CEO」；已聘请猎头公司 Heidrick & Struggles 寻找常任 CEO，将同时考察内部和外部人选，但「不会在找到合适人选之前仓促任命」（公司声明、NPR、The Verge、卫报）。公司同日宣布成立董事会层面的委员会，负责国家安全政策、出口管制合规和全球贸易风险（TechCrunch、The Verge）。",
+        "黄仁勋表态与国会：黄仁勋周二发表辞职后首份公开声明，称「我没有达到英伟达对每个人所要求的标准，在个人生活中犯了严重错误。我给董事会制造了问题，对此深感抱歉。我完全承担自己的错误，并承诺配合董事会的独立调查」；他又说，若董事会认为他回归「符合股东、员工、公司和美国的最佳利益」，他「将荣幸回应这些呼声、重返 CEO 职位」（CNBC、BBC、卫报）。卫报称，黄已同意于 12 月初到众议院外交委员会、众议院中国共产党问题特设委员会和众议院情报委员会接受有书面记录的问询。CNBC 称，要求其复职的请愿签名已接近 20 万。",
+        "对华业务与调查：克雷斯在电话会上表示，英伟达将不再在中国销售 H200 芯片（TechCrunch）。美国商务部和司法部在一份联合说明中称，两部门已于 2024 年对新加坡云厂商 Megaspeed 启动调查，以回应「公开报道中不准确的信息」；英伟达在 2025 年 6 月应商务部调取记录后将其列入「禁售」名单；其后美国官员与新加坡警方对 Megaspeed 进行现场检查并询问艾丽斯·黄（Alice Huang），司法部随后主导对该公司的刑事调查（CNBC、BBC）。卫报和 TechCrunch 均援引《华尔街日报》称，美国证交会正在黄辞职后调查英伟达的对华业务；英伟达公开材料中未见对此的直接确认。"
+      ],
+      "readingA": "解读 A：营收再创新高并不能掩盖治理危机已经公开化：董事会首次在财报会上把「不让黄回归」说死，同时新设国家安全委员会、停售对华 H200，等于承认公司必须用更硬的合规姿态回应华盛顿。黄在声明里既认错又为自己留回归之门，再叠加白宫前日的背书和即将到来的国会问询、据报中的证交会调查，说明这件事已从公司人事变成持续的政治与监管风险。",
+      "readingB": "解读 B：市场真正关心的需求并没有塌：指引上调、客户表态「仍在」、盘后上涨，说明客户并不因换帅而撤单。董事会拒绝在调查结束前让黄回归，是正常的公司治理，而不是对泄密或出口违规的定罪；停售 H200 是在新规和外交压力下的合规选择。黄表示配合调查、把是否回归交给董事会，也与「逼宫」不同。",
+      "disagree": "分歧在于：这份「超预期」财报是否意味着丑闻已被「业务基本面」消化，还是调查、作证和证交会程序仍将主导公司的真正风险定价。",
+      "synthesis": "可以确定的是：英伟达本季营收和展望都强于此前市场预期；董事会已公开排除让黄仁勋立刻回归；黄本人既认错也表示愿意回来，并已同意 12 月初到国会作证；对华 H200 销售被叫停。较稳妥的看法是：短期需求故事和监管/治理故事已经分开走，前者有公司财报和多家媒体交叉印证，后者（尤其是证交会调查）仍主要依赖单一报社报道，需要后续官方确认。",
+      "unknown": "Wachtell 调查和证交会程序（若属实）的范围与时间表；黄仁勋 12 月问询是自愿闭门还是将转为公开作证；停售 H200 后其他对华或经东南亚的出货安排；常任 CEO 人选何时确定；周四习特普会是否触及此事。",
+      "confidence": "高（营收、展望和董事会声明有公司新闻稿及 BBC、卫报、CNBC、NPR、The Verge 交叉报道）；证交会调查目前仅见《华尔街日报》转述；盘后涨幅仅见卫报。",
+      "sources": [
+        {
+          "label": "英伟达：2027 财年第三季度财报新闻稿",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+        },
+        {
+          "label": "卫报：英伟达营收翻倍，董事会称无意让黄仁勋回归",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+        },
+        {
+          "label": "BBC：英伟达公布强劲业绩，并称不会让黄仁勋复职",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+        },
+        {
+          "label": "CNBC：黄仁勋辞职后首份声明，表示愿意回归",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html"
+        },
+        {
+          "label": "卫报：黄仁勋将就「潜在国家安全漏洞」到国会作证",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+        },
+        {
+          "label": "TechCrunch：英伟达宣布不再向中国销售 H200",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "伊朗对巴林美军雷达设施发动五日内第三次无人机袭击，美军战斗机随后以精确弹药打击格什姆岛伊斯兰革命卫队导弹发射阵地；科威特宣布防空系统正在拦截「敌对无人机」，未说明来源；特朗普就 CNN 所报针对华盛顿的「脏弹」计划称「若属实将付出前所未有的代价」，白宫则称「目前没有针对国土的可信威胁」",
+      "tag": "续报：中东",
+      "facts": [
+        "巴林袭击：伊朗伊斯兰革命卫队称，周二对巴林谢赫·伊萨（Sheikh Isa）空军基地美方运营的雷达设施实施「精确」无人机打击，理由是美军无人机「多次侵犯伊朗领空」。巴林（美国海军第五舰队驻地）称防空系统成功拦截「背信弃义的伊朗空中袭击」；美军中央司令部称，飞向该雷达的单向攻击无人机「被拦截，美方装备未受损、人员未受伤」。这是五日内伊朗对巴林美军目标的第三次袭击，也打断了约两个月的战事平静（NPR、半岛电视台）。",
+        "美方反击格什姆：数小时后，一名不愿具名的美国官员称，美军战斗机以精确弹药打击霍尔木兹海峡附近格什姆岛上的革命卫队导弹发射阵地，以回应「针对美方人员和资产的攻击」。伊朗霍尔木兹甘省副省长艾哈迈德·纳菲西（Ahmad Nafisi）对官方媒体伊通社称，美方袭击「未对居民区、商业区或基础设施造成损害」，岛上局势受控；伊通社称当晚岛上听到五到六声爆炸（半岛电视台、NPR）。",
+        "科威特与航运：科威特军方当晚在社交平台称，该国遭到无人机袭击，防空系统正在拦截，「任何爆炸声都是防空拦截的结果」，但未说明无人机来源，也未公布伤亡或损失（半岛电视台）。伊朗武装部队称，周二有三艘油轮在试图通过霍尔木兹海峡时触雷；美军则称主航道地雷已被清除。半岛电视台还援引航运安全信息称，巴拿马籍油轮 Tara Gas 周一在阿曼穆桑达姆附近先遭袭击、后又第二次被击中，印度港口部长称船员弃船、一名印度水手失踪。各源对当日触雷或遇袭船舶数量的统计并不完全一致。",
+        "「脏弹」传闻：CNN 援引美国官员报道称，美方新近截获与伊朗可能在华盛顿对高级行政官员使用「脏弹」（常规炸药加放射性物质）有关的「非常具体」计划；卫报称消息源为七名未具名官员，并提到或还包括化学武器，CNBC 则称消息源为两名官员，并写明「CNBC 未能核实该报道」。白宫/政府发言人劳伦·比斯（Lauren Bis）对 CNN 表示，美方「正在监控任何潜在威胁，但目前没有针对国土的可信威胁」。特朗普被问及时说，美方「正在调查」，「如果属实，他们将付出任何一个国家都不曾付出过的代价」。国土安全部长马克韦恩·马林（Markwayne Mullin）在 CNBC 节目中称，这类威胁更具「愿望性质」，并非全新（CNBC、BBC、卫报）。",
+        "战事背景：代理海军部长 Hung Cao在参议院提名听证会上承认，「这场战争对我们的海军是一种负担」；美军「罗斯福」号航母已于周一抵达，与「布什」号、「华盛顿」号共同维持对伊朗航运的海上封锁。有美军士兵就其在战争开始 48 小时内于科威特舒艾巴港遭遇无人机袭击、造成六名军人死亡一事，向国会两院军事委员会提交吹哨人投诉，指事前多次预警被忽视（半岛电视台）；这起伤亡事件本身并非本窗口新发生，但投诉于本窗口被报道。"
+      ],
+      "readingA": "解读 A：约两个月的平静已经被打破。伊朗连续打击驻巴林美军设施，霍尔木兹再爆触雷，科威特也宣布遭无人机袭击，说明战事正在向更多海湾首都扩散；美军打击格什姆岛虽被说成「有限、精确」，但目标是伊朗本土岛屿上的导弹阵地。再叠加未经证实却足够具体的「脏弹」情报，华盛顿不能再把这场战争视为只发生在海湾的远程封锁。特朗普上周还曾说军事阶段「基本上结束」，与眼下的交火对不上。",
+      "readingB": "解读 B：一次次交火仍停留在「可拦截、可否认重大损失」的水平上：巴林和美军都说无人机被拦下、没有美方伤亡，伊朗地方官员也说格什姆岛居民区未受损。白宫明确否认存在针对国土的「可信威胁」，国土安全部长把「脏弹」说成「愿望性」威胁。这更像停战谈判陷入僵局后的有限报复循环，而不是战争质变。科威特袭击来源未宣布，不宜直接写成伊朗新战线。",
+      "disagree": "分歧在于：这是战事进入更危险的新阶段，还是漫长消耗战里又一轮仍然「可控」的对等打击；以及那份「脏弹」报道应被当成即将发生的本土威胁，还是尚未核实的情报噪音。",
+      "synthesis": "可以确定的是：伊朗五日内第三次袭击巴林美军目标，美军随后打击格什姆岛导弹阵地，科威特宣布正在拦截无人机，霍尔木兹附近再有船只遇袭或触雷。较稳妥的看法是，两个月的平静已经结束，但目前公开信息仍显示双方在控制对平民和美军人员的直接杀伤；「脏弹」传闻在得到更多可核证细节前，只能作为「有报道、官方降温」的情报争议，不能当成已证实的袭击计划。周四深圳三方会晤把伊朗战争列为议题，是下一个观察点。",
+      "unknown": "科威特无人机的来源和是否造成伤亡；格什姆岛被打击目标的实际毁伤；霍尔木兹当日遇袭或触雷船舶的准确数量与船员情况；CNN 所报「脏弹」情报的可信度、具体目标和是否仍在进行；特朗普与习近平、普京会晤是否会触及停火。",
+      "confidence": "高（巴林、格什姆岛有半岛电视台、NPR 对官方声明的交叉报道）；科威特来源和船舶数量仍不完整；「脏弹」报道未经独立核实，白宫口径与 CNN 消息源存在张力。",
+      "sources": [
+        {
+          "label": "NPR：伊朗对巴林发动五日内第三轮袭击，美方反击",
+          "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+        },
+        {
+          "label": "半岛电视台：科威特称遭无人机袭击，美伊在格什姆与巴林交火",
+          "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+        },
+        {
+          "label": "CNBC：特朗普就伊朗「脏弹」计划称「我们非常认真」",
+          "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html"
+        },
+        {
+          "label": "卫报：特朗普称正在调查，白宫称目前无可信威胁",
+          "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+        },
+        {
+          "label": "BBC：特朗普称美方「非常认真」对待任何针对华盛顿的伊朗图谋",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "乌克兰称对刻赤（克里米亚）大桥实施「史无前例」的多阶段打击，公路主拱坠入海峡，泽连斯基称之为筹备数周的行动；克宫称将「修得比以前更好」；铁路桥仍在，列车随后恢复运行",
+      "tag": "续报：俄乌",
+      "facts": [
+        "从「受损」到「坍塌」：上一期简报中，俄方称遭遇开战以来最大规模无人机袭击，刻赤大桥受损、交通一度中断。BBC 称，11 月 16 日夜间的打击后，公路拱桥可见损伤，但结构仍矗立、交通暂停后一度恢复。周二，乌克兰公布的图像和沿岸日间照片显示，这座约 12 英里（约 19 公里）长大桥的公路主拱已坠入海峡；泽连斯基称这是「史无前例」、筹备数周的行动（BBC、卫报）。",
+        "打击方式：泽连斯基说，乌克兰安全部门与总参谋部在数周内逐步摧毁防空、雷达和电子战等目标，再以多种导弹和无人机实施打击。BBC 称，一段经核实的视频来自乌克兰制「火烈鸟」（Flamingo）导弹上的摄像头，显示其飞向主跨钢拱、在撞击前定格；一名皇家联合军种研究所弹药专家对 BBC 表示，该导弹可能经过遥控改装以提高精度，其沉重弹头更适合打击加固桥墩。泽连斯基确认公路主拱（重达数千吨、长约 227 米）坠入海峡；日间图像显示约 200 米（约 660 英尺）的路面也被拖入水中（BBC）。",
+        "仍在运行的部分：与公路拱平行的铁路拱仍矗立，但可能也已受损。大桥交通最初全部中断，其后列车恢复运行。克宫发言人佩斯科夫称，大桥「将会重建，而且会比以前更好」（BBC）。",
+        "损伤评估与后勤含义：墨尔本莫纳什大学结构工程师科林·卡普里亚尼（Colin Capriani）对 BBC Verify 称，主跨损伤是「灾难性的」，在该桥明显处于乌克兰武器射程内的情况下，「很难设想」如何重建。工程咨询公司 COWI 的戴维·麦肯齐（David MacKenzie）称，最关键、最脆弱的部分被击中，残骸可较快清理，但恢复全部公路交通「需要一年以上」（BBC）。大桥是俄罗斯连接其占领的克里米亚的主要公路和铁路通道之一；陆路走廊和渡轮仍在，但运力有限，海运和邻近航道也面临无人机威胁。基辅市长克利奇科称，基辅第聂伯河上的北桥和南桥在俄方夜间打击后一度关闭，交通已部分恢复（BBC）。"
+      ],
+      "readingA": "解读 A：公路主拱坠入海里，已经不是「又一次象征性打击」，而是把普京 2018 年亲自开车开通的占领象征变成了沉在水底的残骸。专家认为修复将以年计，且桥址仍在射程之内，这意味着克里米亚的补给将更依赖本已紧张的陆路走廊和渡轮，政治和军事代价都会上升。",
+      "readingB": "解读 B：铁路仍在运行，陆路走廊和渡轮并未消失，克宫已公开承诺重建。这座桥在 2022 年和 2023 年也曾严重受损后恢复。在没有形成真正封锁之前，把它说成战争转折点还为时过早；对莫斯科而言，这可能仍是可吸收的基础设施损失，而不是前线作战能力的崩溃。",
+      "disagree": "分歧在于：这次坍塌主要是一次决定性的后勤打击，还是一次高象征意义、但后勤上仍可迂回的破坏。",
+      "synthesis": "可以确定的是：与昨日「受损但仍矗立」相比，公路主拱已确认坠入海峡，铁路交通后来恢复，俄方声称将重建。较稳妥的看法是，这是对这座桥迄今最严重、且有图像和多方报道交叉印证的破坏，已经提高了占领克里米亚的补给成本；但在陆路走廊仍通的情况下，尚不能等同于半岛被切断。",
+      "unknown": "铁路拱的实际损伤程度；沉入海峡的拱桥残骸是否阻塞航道；俄方修复时间表和防空加强措施；此次行动对前线弹药和燃料输送的可量化影响。",
+      "confidence": "高（坍塌有图像、泽连斯基声明、克宫回应，以及 BBC 与卫报交叉报道）；修复周期和后勤影响目前是专家估计。",
+      "sources": [
+        {
+          "label": "BBC：普京的克里米亚大桥部分坍塌，泽连斯基称「史无前例」",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+        },
+        {
+          "label": "BBC：对普京珍视的克里米亚大桥的打击是如何展开的",
+          "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo"
+        },
+        {
+          "label": "卫报：乌克兰如何打击作为普京统治象征的刻赤大桥",
+          "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "泛美卫生组织宣布美国失去麻疹消除地位，确认病毒在消失 26 年后再次成为美国的地方性流行；2026 年截至 11 月中已报告超过 5400 例，为 1991 年以来最严重疫情；幼儿园 MMR 接种率降至 92.4%，低于 95% 的群体免疫门槛",
+      "tag": "新话题：公共卫生",
+      "facts": [
+        "决定：泛美卫生组织（PAHO，世界卫生组织美洲区域机构）周二宣布，撤回美国的麻疹消除地位。PAHO 主任雅尔巴斯·巴尔博萨（Jarbas Barbosa）在新闻发布会上说，一个由八名科学家组成的独立委员会认定，玻利维亚、墨西哥和美国已重新出现地方性传播，他接受了撤回消除地位的建议。依据是连续 12 个月持续传播（CNBC、卫报、BBC）。美国已退出世界卫生组织，但仍是 PAHO 成员（CNBC）。",
+        "疫情规模：美国 2026 年截至 11 月中已报告超过 5400 例麻疹，为三十多年来（卫报称自 1991 年以来）最严重疫情。死亡数字各源不一：CNBC 称今年迄今有 10 例相关死亡（宾夕法尼亚 7 例、纽约 1 例、威斯康星 2 例），卫报称 8 例死亡。PAHO 称，在其追踪的 52 个美国州和领地中，48 个在 2025 年 1 月至 2026 年 1 月报告期内出现过疫情。已报告疫苗接种状态的死亡病例均为未接种者（CNBC）。",
+        "接种率：麻疹—腮腺炎—风疹（MMR）疫苗两剂有效率约 97%、单剂约 93%（疾控中心口径，经 CNBC 转述）。疾控中心汇总数据显示，2025–2026 学年美国幼儿园该疫苗覆盖率为 92.4%，低于通常用于阻断持续传播的 95% 门槛（CNBC）。美国医学会会长称，失去消除地位是「完全可以避免的、令人深感不安的倒退」（卫报、CNBC）。",
+        "官方回应：疾控中心主任埃丽卡·施瓦茨（Erica Schwartz）说，「保护美国人的不是消除地位这个名分，而是疫苗接种」，并称已向州和地方卫生部门投入 1 亿美元，以触达正在传播的社区。卫生部长罗伯特·肯尼迪在社交媒体上表示，他「继续推荐 MMR 疫苗作为预防麻疹最有效的方式」，「我们将填补接种缺口、重建公众信任」，并「努力重新获得消除地位」（CNBC、卫报）。卫报指出，特朗普近期曾在没有证据的情况下称，MMR 联合疫苗「合在一起，有可能相当致命」，并主张拆成单苗；也有专家提醒，不宜把疫情完全归咎于本届政府，MMR 误导已存在二十多年，加拿大、英国、西班牙等也先后失去消除地位。加拿大 2025 年失去该地位后，已有 60 天无传播，被巴尔博萨称为区域内的「好消息」（卫报）。"
+      ],
+      "readingA": "解读 A：失去维持了 26 年的消除地位，是疫苗犹豫、接种率掉到门槛以下的可预见结果。现任卫生部长长期质疑疫苗安全性，总统又公开散布对 MMR 联合疫苗的无依据担心，这些都会削弱本已脆弱的接种意愿。名分本身不是保护，但失去名分说明公共卫生体系没有守住一条本来守得住的线。",
+      "readingB": "解读 B：这是一场全球性回潮，并非美国独有：墨西哥、玻利维亚、英国、西班牙、加拿大都曾失去或正在失去消除地位，疫情期中断和长期误导是更深层原因。肯尼迪眼下公开推荐 MMR，疾控中心也在加投入，说明政府并没有放弃接种工具。把责任完全归到本届政府，会忽略二十多年来就存在的不信任，也可能帮不了需要被说服去接种的社区。",
+      "disagree": "分歧在于：这次「退步」在多大程度上应归因于本届联邦卫生领导层的言行，还是一场更长、更全球性的接种下滑。",
+      "synthesis": "可以确定的是：PAHO 已正式认定美国出现连续 12 个月的地方性传播，并撤回消除地位；病例数是三十多年来最高的，幼儿园接种率低于 95% 门槛。较稳妥的看法是，流行病学事实没有争议，政治问责有争议；要重新获得该地位，关键仍是把接种率拉回门槛以上，并持续阻断传播，而不是争论名分本身。",
+      "unknown": "美国将提交的纠正计划具体内容与时间表；死亡数字以哪一家统计为准；接种率能否在未来两个传播季回到 95% 以上；其他已消除疾病是否会出现类似倒退。",
+      "confidence": "高（PAHO 宣布和病例规模有 CNBC、卫报、BBC 交叉报道）；死亡数字存在 8 人与 10 人之差，需以后续官方汇总为准。",
+      "sources": [
+        {
+          "label": "BBC：美国 26 年后失去麻疹消除地位，病例创新高",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+        },
+        {
+          "label": "卫报：美国失去麻疹消除地位，为 1991 年以来最严重疫情",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
+        },
+        {
+          "label": "CNBC：美国正式失去麻疹消除地位",
+          "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "美国国家安全局内部机密通信网「NSA Net」出现中断，局方称是「计划中的例行维护」；苹果多项服务因「内部更新」中断；联邦航空局宣布暂停安装新路由器；国家情报总监称近一周多起故障未见恶意活动迹象",
+      "tag": "续报：美国基础设施",
+      "facts": [
+        "国家安全局：CNN 援引六名未具名消息源报道，国家安全局用于内部共享高度机密信息的网络「NSA Net」出现中断，目前没有证据显示是网络攻击。国家安全局随后声明称，「在计划中的例行维护期间出现暂时性性能下降」；「部分内部系统受到影响，但关键任务能力仍完全运转」，基础设施「有多层冗余」（半岛电视台援引路透、卫报）。卫报直播报道称，特朗普对此表示「没事」，并说「就像你又大又强、又有那么多钱的时候。这种事情会发生。没事。」",
+        "苹果：苹果的 iCloud、App Store、Apple Music，以及后来状态页增列的 iCloud 邮件、iCloud 网页应用、Apple School Manager 等服务出现中断。苹果对 TechCrunch 表示，故障由「一次内部更新」引起，「不是网络攻击」，「许多系统已经恢复，我们正在尽快使其余系统上线」（TechCrunch）。",
+        "航空与路由器：联邦航空局周二宣布，暂停安装新路由器，因相关技术问题导致周五罕见的全国地面停飞。交通部长达菲周日曾表示，南阿肯色州一台过载的路由器（属于 L3Harris 把通信网从铜缆改为光纤的升级）似乎压垮了向空管输送雷达等数据的系统。达菲周五曾要求国会再拨 500 亿美元升级空管；部分民主党议员指已有资金尚未用完。达菲称，把故障与人工智能工具联系起来「完全没有根据」，并说联邦调查局正在协助调查根因（CNBC）。",
+        "故障群与官方口径：过去约一周内，微软 Outlook/Teams、联邦航空局全国停飞、摩根大通等银行系统、美联航出港系统、国家安全局和苹果相继出现故障。英国广播公司称，银行服务正恢复正常。国家情报总监杰伊·克莱顿（Jay Clayton）排除了近一周大型科技公司和政府机构故障由恶意活动导致的怀疑。苹果、大通和国家安全局均将各自事件归因于内部更新、软件缺陷或维护；迄今没有一起被官方归因于网络攻击，但周五航空停飞的完整根因仍在调查中（CNBC、BBC、TechCrunch）。"
+      ],
+      "readingA": "解读 A：即便每一家都给出「维护」或「更新」的说法，航空、银行、情报机构和苹果在数日内接连出问题，本身就说明关键系统的冗余和变更管理不够用。联邦航空局暂停新路由器，等于承认升级路径出了安全问题；总统用「又大又强」来轻描淡写，并不能代替还没说清的根因调查。",
+      "readingB": "解读 B：把互不相关的软件故障写成「同一场危机」，是媒体并列报道造成的印象。国家情报总监、苹果、大通和国家安全局都否认或未发现网络攻击，这比社交平台上的猜测更有权重。大型系统在升级时出现中断并不罕见，关键是没有出现持续的服务崩溃或安全失守。",
+      "disagree": "分歧在于：这是一连串令人不安、可能仍有未解安全问题的系统性脆弱，还是被放在一起看才显得严重的例行技术故障。",
+      "synthesis": "可以确定的是：国家安全局、苹果和联邦航空局都在周二公布了新的故障或补救措施，官方目前都没有把它说成网络战；银行侧已在恢复。较稳妥的看法是，在没有公开证据表明存在协同攻击之前，不应把这些事件写成一次「网攻战役」，但周五全国停飞的根因仍未完结，联邦航空局暂停新路由器说明当局自己也不认为可以按原计划继续升级。",
+      "unknown": "NSA Net 实际中断时长和受影响系统范围；苹果剩余未恢复服务的清单；周五全国停飞是否最终被认定为设备缺陷、承包商操作还是其他原因；各起故障之间是否存在尚未披露的共同因素。",
+      "confidence": "中高（各机构均有官方声明，CNBC、BBC、TechCrunch、半岛电视台有交叉）；国家安全局最初细节来自匿名消息源；特朗普原话来自卫报直播；若干根因仍未公布。",
+      "sources": [
+        {
+          "label": "卫报：国家安全局内部机密通信网中断",
+          "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down"
+        },
+        {
+          "label": "半岛电视台：国家安全局称中断是「例行维护」",
+          "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage"
+        },
+        {
+          "label": "TechCrunch：苹果多项服务因内部更新中断",
+          "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"
+        },
+        {
+          "label": "CNBC：联邦航空局在全国停飞后暂停安装新路由器",
+          "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+        },
+        {
+          "label": "CNBC：银行、航空、国家安全局和苹果接连出现故障",
+          "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "加州机动车管理局以「紧迫危害」为由，禁止 Waymo 自动驾驶汽车在该州高速公路行驶；公司随后在其运营的其他市场也暂时停止高速运营，称相关事件未造成伤亡或碰撞",
+      "tag": "新话题：科技",
+      "facts": [
+        "禁令：加州机动车管理局（DMV）的限制令签发于 11 月 11 日（上周三），周二才对外公开。DMV 发言人乔纳森·格罗夫曼（Jonathan Groveman）称，禁止 Waymo「在加州所有高速公路上运营或测试其无人驾驶车辆」，因为其高速公路运营对公共安全构成「紧迫危害」（imminent hazard）。限制将持续到 Waymo 向该局证明已采取「有效纠正措施」（卫报、TechCrunch）。",
+        "触发事件：DMV 称，11 月 5 日有三辆 Waymo 车辆进入旧金山以南、伯林盖姆附近美国 101 公路的施工封闭区；次日在旧金山 280 号公路上，又发生与加州公路巡逻队车辆有关的事件。卫报称，社交媒体上流传的 11 月 6 日视频显示，一辆 Waymo 试图绕过正在实施交通阻断的公路巡逻车辆。DMV 指出，2026 年 5 月 18 日已发生过类似施工区闯入，当时也曾施加限制并要求纠正（卫报、TechCrunch）。",
+        "公司回应与范围：Waymo 发言人丹娜·加拉格尔（Dana Gallagher）称，「美国 101 公路近期施工区遭遇未涉及任何伤害或碰撞」；「出于安全第一原则，我们也在其他运营市场暂时限制高速公路运营，以评估表现」，并「正与加州 DMV 及其他州官员认真合作，以恢复高速运营」。该公司在城市道路上的运营继续。TechCrunch 称，Waymo 目前在美国 15 个城市有商业运营，高速公路服务始于 2025 年底，对湾区往返机场等行程特别重要。5 月高速公路运营曾突然停止，7 月在软件更新后恢复（TechCrunch、卫报）。"
+      ],
+      "readingA": "解读 A：「紧迫危害」不是轻微警告。公司在 5 月出过同类问题、做过软件修正并重返高速公路，却在半年内再次闯入施工区和交通阻断，说明现有系统在高速公路这种高速、封闭、临时变道的环境里并不可靠。Waymo 主动把限制扩到加州以外，也暗示它并不认为这只是加州的局部问题。",
+      "readingB": "解读 B：监管行动针对的是高速公路，不是全面禁止 Robotaxi；城市道路服务仍在，且当局和公司都确认所列举的事件没有造成伤亡或碰撞。Waymo 选择配合并在其他城市暂停高速运营，是谨慎而非默认技术失败。这更像一次可逆的、有条件的运营限制，而不是对自动驾驶的总判决。",
+      "disagree": "分歧在于：这些反复出现的施工区事件，证明高速公路自动驾驶尚未准备好，还是只是一次范围有限、可以靠软件和程序纠正的运营问题。",
+      "synthesis": "可以确定的是：加州已以安全为由禁止 Waymo 上高速，公司也在其他市场自愿暂停高速运营，城市道路服务仍在。较稳妥的看法是，这是对具体场景（施工封闭和交通阻断）的严肃监管反应，成败将取决于 Waymo 能否向 DMV 证明纠正措施有效，而不是取决于对自动驾驶的总体信念。",
+      "unknown": "11 月两次事件的完整官方事故报告；限制何时、以何种条件解除；其他州监管机构是否跟进；暂停对机场接驳和出行时间的实际影响。",
+      "confidence": "高（DMV 与 Waymo 均有书面表态，卫报与 TechCrunch 交叉报道）。",
+      "sources": [
+        {
+          "label": "卫报：加州禁止 Waymo 自动驾驶汽车上高速公路",
+          "url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways"
+        },
+        {
+          "label": "TechCrunch：加州命令后，Waymo 在全美暂停高速公路运营",
+          "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+    },
+    {
+      "n": 2,
+      "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang"
+    },
+    {
+      "n": 3,
+      "title": "Nvidia’s Kress tells CNBC that 'customers continue to be with us’ in exclusive interview: Live updates",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html"
+    },
+    {
+      "n": 4,
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+    },
+    {
+      "n": 5,
+      "title": "Jensen Huang to testify before Congress on ‘potential breach of national security’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/jensen-huang-testify-congress-nvidia-affair-spy"
+    },
+    {
+      "n": 6,
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+    },
+    {
+      "n": 7,
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/"
+    },
+    {
+      "n": 8,
+      "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html"
+    },
+    {
+      "n": 9,
+      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044213/jensen-huang-nvidia-congress"
+    },
+    {
+      "n": 10,
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain"
+    },
+    {
+      "n": 11,
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+    },
+    {
+      "n": 12,
+      "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html"
+    },
+    {
+      "n": 13,
+      "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington"
+    },
+    {
+      "n": 14,
+      "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces"
+    },
+    {
+      "n": 15,
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+    },
+    {
+      "n": 16,
+      "title": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule"
+    },
+    {
+      "n": 17,
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo"
+    },
+    {
+      "n": 18,
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+    },
+    {
+      "n": 19,
+      "title": "US loses measles elimination status amid worst outbreak since 1991",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
+    },
+    {
+      "n": 20,
+      "title": "National Security Agency network for internal communications goes down",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/nsa-national-security-classified-communications-network-down"
+    },
+    {
+      "n": 21,
+      "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage"
+    },
+    {
+      "n": 22,
+      "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/"
+    },
+    {
+      "n": 23,
+      "title": "FAA pauses installation of new routers after ground stop",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+    },
+    {
+      "n": 24,
+      "title": "US bank services returning to normal after major outage",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o"
+    },
+    {
+      "n": 25,
+      "title": "California bans Waymo self-driving cars from freeways",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/california-waymo-banned-freeways"
+    },
+    {
+      "n": 26,
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/"
+    },
+    {
+      "n": 27,
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines"
+    },
+    {
+      "n": 28,
+      "title": "Hundreds arrested in anti-Trump protests in Philippines amid anger over Iran war and AI pact",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/17/hundreds-arrested-manila-anti-trump-protests-philippines"
+    },
+    {
+      "n": 29,
+      "title": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents"
+    },
+    {
+      "n": 30,
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo"
+    },
+    {
+      "n": 31,
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
+    },
+    {
+      "n": 32,
+      "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff"
+    },
+    {
+      "n": 33,
+      "title": "American soldier held in UK suspected of spying for Russia taken into US military custody",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/17/american-soldier-brandon-carroll-tyner-spying-us-military-custody"
+    },
+    {
+      "n": 34,
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126"
+    },
+    {
+      "n": 35,
+      "title": "Tensions rise over draft climate deal at COP31",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31"
+    },
+    {
+      "n": 36,
+      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+    },
+    {
+      "n": 37,
+      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided"
+    },
+    {
+      "n": 38,
+      "title": "Actors in UK to get more rights over their ‘digital replicas’ in deal on AI protections",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/17/actors-uk-rights-digital-replicas-ai-protections"
+    },
+    {
+      "n": 39,
+      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
+    },
+    {
+      "n": 40,
+      "title": "Tobacco group Imperial Brands to axe up to 4,600 jobs as it uses more AI",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/17/uk-tobacco-imperial-brands-cut-jobs-cigarettes-ai"
+    }
+  ]
+}
