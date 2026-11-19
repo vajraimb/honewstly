@@ -1,0 +1,514 @@
+{
+  "date": "2026-11-19",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/18 约 08:10，即 UTC 11/18 00:10）至本期（11/19 约 08:10，UTC 00:10），约 24 小时，覆盖欧美周三（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功。正文以直接抓取的原文为主，并核对 Anthropic 公司定价声明；美联社关于深圳会晤安排的稿件因页面未能完整提取，仅作交叉线索，未单独作为事实来源。",
+  "thinDay": false,
+  "thinDayNote": "本期不属于薄日：周三硬新闻充足，7 条中 3 条为新话题。需注意：截至本简报发出时（北京时间周四上午），深圳三方会晤及特普双边会谈尚未举行，Anthropic 股票也尚未开盘；第 2 条估值（约 1.4 万亿至 1.5 万亿美元）来自媒体估算而非公司定价声明，260 亿美元定向增发亦未出现在公司新闻稿中；第 3 条霍尔木兹油轮事件可能存在重叠报道，伊朗「触雷」说法与英国海事机构「不明投射物」说法尚未对上同一批船只；第 5 条全员大会细节主要来自不愿具名的与会者。本窗口关注：今日稍晚的深圳三方会晤与特普会谈，以及 Anthropic 晚间美股开盘后的表现。",
+  "vsYesterday": "相对上一期（11/18）：新话题：特朗普抵达深圳，习近平亲自到停机坪迎接，三人出席亚太经合组织欢迎宴会，周四将举行首次三方会晤及特朗普与普京的双边会谈；Anthropic 将 IPO 定价为每股 83 美元，筹资额创纪录；以色列军方在加沙黄线以西发动地面行动。续报：科威特与巴林称击退伊朗空袭，科威特袭击已由双方归因，霍尔木兹再报油轮遇袭或触雷起火，沙特领导的联军称打击也门胡塞武装 60 个目标；英伟达在超预期财报后的首个交易日下跌，国会加大对商务部长卢特尼克的审查，黄仁勋同意出席参议院银行委员会；政府高官否认近期多起故障属系统性攻击，微软 CEO 解释 Outlook 中断，联邦航空局局长揽责。阿拉斯加参议员选举出结果、众议院民主党提名杰夫里斯为议长人选，作为美国政治续报写入正文。麻疹消除地位、Waymo 高速公路禁令无实质新进展，仅有跟进报道；刻赤大桥、脏弹传闻本窗口未见重大新发展。欧盟对乌克兰 450 亿欧元贷款提案、赫格塞思访问委内瑞拉、硅谷涉嫌间谍案等仅列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "title": "特朗普抵达深圳，习近平亲自到停机坪迎接并拥抱；特朗普与普京逾一年后首次握手，三人出席亚太经合组织欢迎宴会；克宫称周三仅是寒暄，周四将举行首次三方会晤，并另举行特普双边会谈；泽连斯基警告勿变成「雅尔塔」式安排",
+      "tag": "新话题：全球",
+      "facts": [
+        "抵达与迎接：美国总统特朗普周三抵达深圳，出席亚太经济合作组织（APEC，11 月 17–19 日）领导人会议。BBC 报道，中国国家主席习近平亲自到停机坪迎接他走下「空军一号」，两人在红地毯上握手并拥抱；现场有仪仗队、鲜花和军机飞过。BBC 称，这一安排呼应今年 9 月特朗普在华盛顿亲自迎接习近平的举动，习近平当时曾称那次迎接「特别」。新华社援引习近平的话说，他希望发展「基于尊重、公平和平等的建设性、战略性和稳定的关系」（BBC）。",
+        "与普京见面：BBC 称，特朗普随后在招待会前与俄罗斯总统普京握手并寒暄，这是两人自 2025 年 8 月阿拉斯加会谈以来首次当面见面；那次会谈未能就乌克兰战争取得突破。克宫发言人佩斯科夫说，两人周三尚未举行实质性会谈，只是互致问候。CNBC 驻场记者写道，当晚欢迎宴会上，普京坐在特朗普左侧不远处，并举杯响应习近平的祝酒。",
+        "周四安排：三方会晤定于周四举行，这是美中俄三国领导人首次同时当面会谈；完整议程尚未公布。BBC 称，各方暗示可能涉及乌克兰和伊朗两场战争、核扩散、贸易紧张和人工智能。佩斯科夫说，三方会谈「不超过一小时」。一名美国官员向半岛电视台等证实，特朗普与普京还将在峰会间隙举行一对一会谈，乌克兰战争可能被讨论。CNBC 称，周四日程还包括特朗普与习近平的双边会见。",
+        "习近平与普京先行会谈：NBC 等援引中国官方媒体报道，普京在特朗普抵达数小时前到达深圳，并与习近平举行约两小时会谈。习近平称普京为「老朋友」，并说「这是我们第 50 次会面」；普京则表示，双方正以建设性态度推动「更公平的多极世界秩序」。",
+        "乌克兰与平行外交：乌克兰总统泽连斯基担心在基辅或欧洲代表缺席的情况下讨论结束战争的方案。BBC 援引他的话说：「我们真的不希望这变成『雅尔塔 2、3、4』，变成影响力的再分配。」一名美国官员称，特使史蒂夫·威特科夫（Steve Witkoff）和贾里德·库什纳（Jared Kushner）将于周四在柏林会见乌克兰官员和欧洲伙伴，讨论战后安全保证和经济复苏方案，并称柏林会谈与特朗普在华活动「是协调一致的外交努力」；该官员还说，「任何最终协议必须得到相关各方的同意」（半岛电视台、NBC）。中国官方表态则较笼统，强调「维护世界和平、促进战略稳定」，是否把乌克兰列入深圳议程尚不明确（BBC）。"
+      ],
+      "readingA": "解读 A：把美中俄三巨头请到同一张桌子上，本身就是一次重新划分权势的展示。习近平亲自到停机坪迎接、宴会并列入座、再加特普单独会谈，等于在没有欧洲和乌克兰在场的情况下，给华盛顿、北京和莫斯科一个可以关起门来谈核、谈伊朗、谈乌克兰的场合。泽连斯基提出「雅尔塔」警告，正是担心和平方案会在当事方缺席时被大国写好。",
+      "readingB": "解读 B：到目前为止，外界看到的仍是迎接、握手和宴会，而不是已经谈成的协议。克宫自己也说周三只是寒暄，三方会谈还被预告为大约一小时；与此同时，美方安排威特科夫和库什纳在柏林见乌欧代表，并强调最终协议需当事方同意。更稳妥的读法是：这是一场高规格、高风险的接触，结果要等周四会谈之后才能判断，而不能用红地毯代替实质内容。",
+      "disagree": "分歧在于：这场会晤应被看作一次排除欧洲和乌克兰的权势再分配，还是一次仍受程序约束、且平行安排了乌欧沟通的接触？在会谈结束前，仪式与实质很容易被混为一谈。",
+      "synthesis": "可以确定的是：特朗普已抵达深圳并受到习近平的高规格迎接，与普京见了面但尚未举行正式会谈；三方会晤和特普双边会谈定于周四，完整议程仍未公布。较稳妥的看法是，把周三视为开场和姿态，把对核、伊朗和乌克兰的判断留到会谈有可核验的结果之后，同时继续观察柏林平行轨道是否真正把乌克兰和欧洲带进决策。",
+      "unknown": "周四三方会晤和特普、习特双边会谈的实际时长、出席范围和有无联合声明；乌克兰是否被正式列入议程；柏林会谈与深圳讨论如何衔接；会谈是否涉及人工智能出口管制或英伟达事件。",
+      "confidence": "高（抵达、迎接和宴会有 BBC、CNBC 现场及官方表态交叉报道）；会谈内容本身尚未发生，议程仍是各方暗示而非已公布清单。",
+      "sources": [
+        {
+          "label": "BBC：特朗普在历史性会谈前与普京、习近平握手",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+        },
+        {
+          "label": "半岛电视台：特朗普与普京将于周四在华举行一对一会谈",
+          "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday"
+        },
+        {
+          "label": "CNBC：特朗普、习近平与普京在深圳出席欢迎宴会",
+          "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+        },
+        {
+          "label": "BBC：史蒂夫·罗森伯格评习特普会晤对普京的意义",
+          "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Anthropic 将 IPO 定价为每股 83 美元，高于原定 70–78 美元区间；公司出售约 9.56 亿股、老股东另售约 2365 万股，合计筹资约 813 亿美元，超过 SpaceX 今年 6 月首发募资；股票定于周四以代码 ANT 在纳斯达克上市，媒体估算完全稀释估值约 1.4 万亿至 1.5 万亿美元",
+      "tag": "新话题：科技/AI",
+      "facts": [
+        "官方定价：Anthropic 于 11 月 18 日宣布，将 A 类普通股首次公开发行定价为每股 83.00 美元。发行规模为 9.80 亿股，其中公司出售 956,351,354 股，部分现有股东出售 23,648,646 股，公司不从后者获得资金。股票预计 11 月 19 日在纳斯达克全球精选市场以代码「ANT」开始交易，发行预计 11 月 20 日交割；公司还授予承销商 30 天内额外购买最多 1.47 亿股的选择权。注册声明已于 11 月 18 日获美国证交会宣布生效，主承销商为高盛和摩根士丹利（公司声明）。",
+        "筹资规模：按上述股数和价格计算，公司所得约 794 亿美元，含老股在内的发行总额约 813 亿美元。NPR 和 CNBC 据此称，这是有纪录以来规模最大的 IPO，超过埃隆·马斯克的 SpaceX 今年 6 月首发募资 750 亿美元；CNBC 补充，SpaceX 在承销商行使超额配售后合计募资 857 亿美元。公司此前计划出售 8.25 亿股、定价区间为 70–78 美元（CNBC）。截至本简报发出时（北京时间周四上午），交易尚未开始。",
+        "估值口径不一：BBC 称，按此定价，Anthropic 上市时估值「至少」约 1.4 万亿美元，此前 70–78 美元区间对应的估值上限约为 1.3 万亿美元。TechCrunch 报道，按完全稀释口径估值约为 1.5 万亿美元，高于今年 5 月私募融资时的 9650 亿美元，但低于数月前传闻中的 2 万亿美元目标。CNBC 写的是：市值取决于发行后总股本，但股价已高于公司此前瞄准的 1.4 万亿美元。公司定价声明本身未公布估值。",
+        "股东与额外认购：TechCrunch 称，亚马逊持股近 15%，谷歌持股近 14%，与昨日「合计近 30%」的报道相符；风险投资机构单家持股均不超过 5%。CNBC 和 TechCrunch 还称，包括谷歌、微软、英伟达、AMD 等在内的科技公司同意按发行价认购约 260 亿美元无投票权股份（TechCrunch 还列出博通、美光和「台积电合作方」）。此事未出现在公司 11 月 18 日的定价新闻稿中。CNBC 称，七名联合创始人各出售 338 万股，合计约 19.6 亿美元；TechCrunch 按每股 83 美元估算，每人约 2.82 亿美元。卫报称，首席执行官达里奥·阿莫代伊（Dario Amodei）将在开盘时与其他联合创始人一起敲响纳斯达克开市钟。",
+        "财务与风险：据 CNBC 援引最新招股书，截至 9 月 30 日的九个月营收为 332.4 亿美元，约同比增长 1200%；同期净亏损 1040 亿美元，其中大部分来自可转债和衍生负债的公允价值变动。公司称，10 月底的年化营收约 810 亿美元，较上月增加 100 亿美元。卫报援引招股书称，2026 年上半年营收 162.86 亿美元，净亏损 800 亿美元；未来 12 个月算力采购与租赁承诺超过 700 亿美元，至 2030 年超过 4500 亿美元，另有 4500 亿美元至 2045 年到期。BBC 称，一名早期投资者匿名表示，发行获得超过 10 倍超额认购。OpenAI 据报道已秘密提交上市文件，CNBC 称其上市可能要到 2027 年。"
+      ],
+      "readingA": "解读 A：在英伟达创始人离职、利率上升和「人工智能泡沫」讨论升温之后，Anthropic 仍能把发行价定在区间上方、并把募资规模做得比 SpaceX 首发更大，说明公开市场对一线大模型公司的需求仍然旺盛。超额认购、战略股东按发行价追加上百亿美元，也表明买家并不认为这只是一个普通的软件故事，而是要把这家公司当成行业的公开市场风向标。",
+      "readingB": "解读 B：高定价并不能自动证明泡沫已经消失。公司仍在大幅亏损，未来数年的算力承诺以千亿美元计，估值数字还取决于完全稀释股本如何计算；260 亿美元定向增发的买方又包括它的云和芯片供应商，交叉持股可能放大而不是消除风险。真正的考验是周四开盘之后，公开市场能否持续消化这一价格，而不是定价夜的账面纪录。",
+      "disagree": "分歧在于：这次发行是人工智能行业经受住近期冲击的信号，还是一次仍高度依赖供应商互投、亏损和远期算力承诺的高风险定价。",
+      "synthesis": "可以确定的是：Anthropic 已把发行价定为 83 美元，公司与老股东合计发行 9.80 亿股，筹资额约 813 亿美元，股票将于周四以 ANT 代码上市。较稳妥的看法是，把「有纪录以来最大 IPO」理解为发行规模，把 1.4 万亿至 1.5 万亿美元视为媒体估算的上市估值，并等到开盘后的价格和换手，再判断市场是否真正消化了这些数字。",
+      "unknown": "开盘价、首日涨跌和最终市值；260 亿美元定向增发的最终条款与完整买方名单（公司定价声明未提及）；承销商是否行使 1.47 亿股选择权；招股书中公允价值亏损对今后利润表的影响。",
+      "confidence": "高（发行价、股数和代码来自公司声明，NPR 与 CNBC 交叉核对筹资额）；估值和定向增发来自媒体对招股书或知情人士的报道，口径并不完全一致。",
+      "sources": [
+        {
+          "label": "Anthropic：首次公开发行定价声明",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+        },
+        {
+          "label": "NPR：Anthropic IPO 筹资创纪录的 813 亿美元",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+        },
+        {
+          "label": "CNBC：Anthropic IPO 筹资超 810 亿美元，超过 SpaceX 首发",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+        },
+        {
+          "label": "BBC：Claude 开发商 Anthropic 准备以约 1.4 万亿美元估值上市",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo"
+        },
+        {
+          "label": "TechCrunch：Anthropic 据报将 IPO 定价为每股 83 美元，高于原定区间",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
+        {
+          "label": "卫报：Anthropic 将上市定价定为 83 美元",
+          "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "科威特称击退两个多月来首次伊朗空袭，伊朗称目标是驻有美军的阿里·萨利姆基地；巴林称拦截数起伊朗空中袭击，为六日内第四次；霍尔木兹再报油轮遇袭或触雷起火，阿布扎比国家石油公司称一名船员失踪；沙特领导的联军称打击也门胡塞武装 60 个军事目标",
+      "tag": "续报：中东",
+      "facts": [
+        "科威特：BBC 报道，科威特称击退伊朗空袭，这是两个多月来该国首次遭遇此类攻击。伊朗军方称，无人机打击了驻有美军的阿里·萨利姆（Ali Al Salem）空军基地的爱国者防空系统和无人机、导弹发射平台；科威特当局未报告设施受损。科威特外交部谴责此次袭击「公然侵犯科威特主权，直接威胁其安全与稳定，严重违反国际法」。一名在科威特的埃及居民对法新社说，爆炸声听起来像来自远处，「在一段平静之后再次听到，既意外又令人担忧」。上一期简报中，科威特仅宣布拦截「敌对无人机」、未说明来源；本期双方已公开相互归因。",
+        "巴林与美方先行打击：巴林军方周三称，防空系统「拦截并摧毁了数起伊朗空中袭击」。该国是美国海军第五舰队驻地，BBC 称这是过去六天里的第四次袭击，此前有约两个月的平静。美方官员称，美军战斗机已于周二夜间以精确弹药打击霍尔木兹海峡附近格什姆岛上的导弹发射阵地，以回应「针对美方人员和资产的攻击」；伊朗媒体报道岛上有爆炸，但当地官员称基础设施未受损。伊朗陆军司令哈塔米（Amir Hatami）警告，若「敌人再犯同样的错误」，伊方将「更猛烈、更毁灭性、不受地理限制」地回击（BBC）。卡塔尔称，伊朗袭击邻国是「威胁为遏制紧张所做努力的危险升级」。",
+        "霍尔木兹航运：阿布扎比国家石油公司（Adnoc）称，其一艘油轮周二在霍尔木兹海峡遇袭，正在搜救一名失踪船员，其余船员已安全撤离，11 人接受治疗（BBC）。英国海事贸易行动中心（UKMTO）报告，一艘油轮在阿曼穆桑达姆半岛哈萨卜以北约 13 海里处被不明投射物击中，船上火势已被扑灭；CBS 援引该机构称，投射物击中机舱，船员均已清点安全，环境和损坏评估当时未知。伊朗则称，两艘油轮和一艘液化天然气船在「授权航线」上触雷起火（BBC）；半岛电视台直播汇总写的是，伊朗军方称三艘油轮在霍尔木兹以东触雷起火。这些表述是否指向同一批船只，目前不能确定。BBC 称，自战争开始以来，中东海域已有至少 25 名海员死亡。",
+        "也门战线：半岛电视台报道，沙特领导的联军发言人图尔基·马利基（Turki al-Maliki）周三称，联军周二在萨那、荷台达、阿姆兰和萨达省对胡塞武装（自称「支持上帝的人」）的 60 个军事目标实施「精确行动」，并摧毁用于弹道导弹储存和组装无人机的隧道作坊；打击发生在胡塞武装向也门国际承认政府临时首都亚丁推进之际。近日，也门政府军已从西塔伊兹省都巴卜机场和曼德海峡附近地带后撤以保卫亚丁。联军还称，周三拦截了两枚射向利雅得的巡航导弹；胡塞武装发言人叶海亚·萨里耶（Yahya Saree）称，该组织打击了利雅得附近的石油泵站和沙特南部一处雷达设施。吉赞、纳季兰和海米斯穆谢特一度发布警报。CBS 还称，联军稍后宣布摧毁萨达一处弹道导弹发射平台，并拦截一枚弹道导弹。"
+      ],
+      "readingA": "解读 A：约两个月的相对平静已经结束，而且战事不再只集中在巴林。科威特遭袭并被双方公开归因，意味着又一个东道国首都被拖进交火；霍尔木兹再出现人员失踪的油轮袭击，说明航运通道仍不安全。与此同时，胡塞武装向亚丁推进、沙特联军大规模空袭并拦截射向利雅得的导弹，显示伊朗及其支持力量与美国及其海湾伙伴的对抗正在多条战线同时升温。",
+      "readingB": "解读 B：目前看到的仍是有限、可拦截的空袭和「精确」反击，而不是已经宣布的新一轮全面进攻。科威特未报告基地受损，格什姆岛方面也说基础设施完好，巴林连续拦截成功。也门打击被联军描述为针对军事目标，胡塞向亚丁推进则是也门内战原有前线的变化。在没有新的大规模伤亡或航道彻底关闭的证据前，也可以把它读成双方在既有战争节奏里的对等报复，而不是质变。",
+      "disagree": "分歧在于：这些袭击和空袭是战争向更多海湾国家和曼德海峡扩散的标志，还是现有对抗的又一轮有限报复。霍尔木兹船只事件的相互矛盾说法，也让「航道正在失控」和「仍是局部袭击」两种判断同时存在。",
+      "synthesis": "可以确定的是：科威特和巴林都称击退了伊朗空袭，伊朗承认打击了科威特境内的美军相关设施；霍尔木兹再次出现油轮遇袭或起火，至少有一名船员一度失踪；沙特领导的联军宣布打击了也门境内大批胡塞目标，并拦截射向沙特的导弹。较稳妥的看法是，把这视为平静期结束后的多线升温，但对航道是否再次大规模关闭、以及也门地面战会走多远，仍需等待可核对的损失和伤亡数字。",
+      "unknown": "科威特基地和格什姆岛的实际损坏程度；Adnoc 油轮、UKMTO 报告的「不明投射物」和伊朗所称触雷船只是否为同一批事件，失踪船员是否已找到；胡塞武装在也门空袭中的伤亡（部分英文媒体有报道，但本窗口未在主源中核对清楚）；哈塔米「不受地理限制」警告是否意味着新的目标清单。",
+      "confidence": "中高（科威特、巴林和联军声明有 BBC、半岛电视台交叉报道）；航运事件各源描述不完全对应，也门地面进展和伤亡数字仍不完整。",
+      "sources": [
+        {
+          "label": "BBC：科威特称击退两个多月来首次伊朗袭击",
+          "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o"
+        },
+        {
+          "label": "半岛电视台：沙特联军称打击胡塞武装 60 个军事目标",
+          "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+        },
+        {
+          "label": "半岛电视台：美国以新制裁加强对伊朗支持的真主党施压",
+          "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "民主党人玛丽·佩尔托拉拿下阿拉斯加联邦参议员席位，民主党在参议院增至 56 席；众议院民主党以 251 票对 11 票提名哈基姆·杰夫里斯为议长人选，若 1 月 3 日当选将成为美国史上首位黑人众议长",
+      "tag": "续报：美国政治",
+      "facts": [
+        "阿拉斯加：民主党人玛丽·佩尔托拉（Mary Peltola）击败共和党现任参议员丹·S·沙利文（Dan S. Sullivan），拿下本轮中期选举最后一个被计出的联邦参议员席位。BBC 称，计票花了整整两周，因为要收集该州偏远地区的选票；在约 99% 选票清点后，佩尔托拉得票略高于 50%，沙利文低于 46%。CNBC 在美东时间周二晚 10:39 的数据为：佩尔托拉 50.1%，沙利文 45.8%，另一名共和党人杰拉尔德·海克斯（Gerald Heikes）2.1%，独立参选、与现任同名的丹尼尔·J·沙利文（Daniel J. Sullivan）1.6%。因超过 50%，无须进入排序复计。这是民主党本轮从共和党手中翻盘的第九个参议院席位，使该党在 1 月起拥有 56 席、共和党 44 席（BBC、CNBC）。",
+        "争议与核实：选战中出现与现任几乎同名的「搅局」候选人，司法部和阿拉斯加共和党州长均宣布调查；特朗普政府曾起诉，要求若现任落败则推迟认证，联邦法官已驳回该案，司法部正对民事败诉提出上诉，并另有刑事调查（BBC、CNBC）。佩尔托拉否认知情。BBC Verify 分析称，即便把丹尼尔·J·沙利文的全部选票都算给现任，佩尔托拉仍会获胜。佩尔托拉是首位当选联邦参议员的阿拉斯加原住民，也是 2008 年以来首位为该州赢得联邦参议员席位的民主党人；CNBC 称，她与佩吉·弗拉纳根（Peggy Flanagan）将是首两名当选联邦参议员的美国原住民女性。她在胜选声明中说，「从朱诺到乌特恰维克，阿拉斯加传达的信息很清楚：华盛顿的现状对阿拉斯加不起作用」。现任沙利文截至 BBC 发稿时尚未置评。参议院多数党领袖查克·舒默称，56 席「即使在几个月前也是难以想象的结果」。",
+        "杰夫里斯提名：众议院民主党周三在闭门会议中提名纽约州议员哈基姆·杰夫里斯（Hakeem Jeffries）为下一任议长人选，无人出面挑战。BBC 称投票结果为 251 票对 11 票；卫报称，知情人士透露他在 262 张投票中获得 251 张支持。正式选举将在 1 月 3 日新一届国会开幕时举行，届时民主党将掌握众议院多数。BBC 称，截至周三民主党在下届众议院至少拥有 257 席（过半需 218 席），仍有 7 场选举未计出。若当选，杰夫里斯将成为美国历史上首位黑人众议长，也将是南希·佩洛西退休后首位民主党籍众议长（卫报）。",
+        "党内分歧与其他职务：部分左翼新当选议员表示，中期选举的大胜说明选民要求改变，对杰夫里斯能否推动他们的优先事项仍有保留。七名即将上任的议员（包括纽约的 Darializa Avila Chevalier 和 Claire Valdez）发表声明称，「仍有工作要做，以确保本届国会的方向反映选民对领导层的要求」。国会进步党团主席格雷格·卡萨尔（Greg Casar）等祝贺提名，同时表示将继续推动医保和移民优先事项。杰夫里斯会后对记者说，提名是「崇高的荣誉和特殊的权利」，并承诺众议院民主党将「努力降低食品、汽油和住房的高昂成本」，「让每一个美国人都能负担医疗」。领导层其他人选包括：马萨诸塞州的凯瑟琳·克拉克（Katherine Clark）任多数党领袖，加州的皮特·阿吉拉尔（Pete Aguilar）任多数党党鞭，科罗拉多州的乔·内古斯（Joe Neguse）任助理议长；加州的刘云平（Ted Lieu）当选党团主席（BBC、卫报）。"
+      ],
+      "readingA": "解读 A：阿拉斯加是特朗普 2024 年以 13 个百分点拿下的州，却在高生活成本和长达两周的计票后把参议院席位交给民主党，说明本轮中期选举的浪潮已经延伸到原本不被看好的地方。再叠加上众议院多数和首位黑人议长人选，民主党不仅拿到了立法权，也拿到了 1 月起对特朗普政府开展调查的议事日程权。杰夫里斯承诺打生活成本，正是要把这次胜利理解成对现政府的问责授权。",
+      "readingB": "解读 B：议长提名并不是就任，1 月 3 日的正式选举前仍有变数；251 对 11 的票数说明左翼并没有全部跟着走，医保、对以援助等问题上的裂痕会被带进新多数。阿拉斯加的同名候选人争议也还没有从法律上完全结束，尽管独立计票显示它可能并未改变结果。更重要的是，白宫仍掌握否决权，特朗普已表示会否决他不喜欢的法案，民主党要把选战承诺变成法律，仍需面对分立政府的现实。",
+      "disagree": "分歧在于：这更应被看成一次已经完成的权力交接预告，还是一次仍受党内分歧、未决诉讼和总统否决权约束的多数组建过程。",
+      "synthesis": "可以确定的是：佩尔托拉已被宣布赢得阿拉斯加联邦参议员选举，民主党在参议院将有 56 席；众议院民主党已提名杰夫里斯为议长人选，正式选举定于 1 月 3 日。较稳妥的看法是，把 56 席和历史上的议长人选视为本轮中期选举结果的收官，同时把「能够落实多少议程」留到新国会开议、看党内能否形成可通过的法案之后再判断。",
+      "unknown": "司法部对阿拉斯加同名候选人的上诉和刑事调查结果；剩余 7 场众议院选举的最终计票；杰夫里斯在 1 月 3 日正式选举中能否维持党内票数；新多数将把哪些调查和立法作为开局优先事项。",
+      "confidence": "高（选举结果和提名票数有 BBC、CNBC、卫报和 NPR 交叉报道）；同名候选人争议的法律责任尚未判定。",
+      "sources": [
+        {
+          "label": "BBC：民主党赢得阿拉斯加联邦参议员选举",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo"
+        },
+        {
+          "label": "CNBC：玛丽·佩尔托拉赢得阿拉斯加联邦参议员选举",
+          "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html"
+        },
+        {
+          "label": "BBC：民主党提名哈基姆·杰夫里斯为美国众议长人选",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
+        },
+        {
+          "label": "卫报：民主党提名杰夫里斯为首位黑人众议长人选，进步派仍有疑虑",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
+        },
+        {
+          "label": "NPR：民主党正式提名杰夫里斯为众议长人选",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "英伟达股价在超预期财报后的首个交易日下跌 2.89%，一周累计跌逾 13%；临时 CEO 克雷斯在全员大会上称「让我们向前走」，并提前薪酬评审；众议院民主党要求审查商务部长卢特尼克家族公司与英伟达相关利益；黄仁勋与卢特尼克已同意出席参议院银行委员会听证",
+      "tag": "续报：科技/AI",
+      "facts": [
+        "股价与财报消化：CNBC 报道，英伟达周三再跌 2.89%，过去一周累计下跌超过 13%。这是公司在黄仁勋离职后发布首份财报的第一个正常交易日：第三季度营收 1158.4 亿美元，高于 LSEG 统计的分析师预期 1091 亿美元；第四季度指引 1300 亿美元，也高于预期的 1251 亿美元。克雷斯对 CNBC 的吉姆·克拉默说，超大规模云客户仍在「急切寻找更多算力」，「客户都还和我们在一起」。董事会主席琼斯周二在财报会上已表明，董事会「无意」让黄回归。",
+        "全员大会：CNBC 援引不愿具名的与会者称，克雷斯周三主持黄离职后首次全员大会，开场即说「让我们向前走」，并宣布把通常在 3 月进行的年度评审（加薪和授予更多股票）提前到 12 月；英伟达股价较 52 周高点已下跌 37%。新任董事长琼斯、超算业务负责人伊恩·巴克（Ian Buck）等高管出席，会议长约一小时，同时通过微软 Teams 直播。一名与会者称，会场情绪是希望黄回来；另有知情人士则说，员工欢迎管理层现身说明。CNBC 称，一份周末起流传的请愿已有近 20 万个签名，其中超过 1 万个自称是现任员工（公司约有 4.2 万名员工）；《华尔街日报》此前报道，高管纳德·哈利勒（Nader Khalil）曾致信董事会，警告若不考虑让黄回归可能失去「不可替代的人才」。这些内部细节目前主要来自匿名消息源。",
+        "国会日程：参议院银行委员会主席蒂姆·斯科特（Tim Scott，南卡罗来纳州共和党）周三在 CNBC 节目中称，黄仁勋和商务部长霍华德·卢特尼克都已同意出席该委员会听证，「希望圣诞节前完成」。斯科特最初函询希望黄在 12 月 3 日、卢特尼克在 12 月 10 日出庭，具体日期尚未由委员会证实。黄已同意 12 月 1 日接受三个众议院委员会的闭门、有书面记录问询；众议院外交事务委员会主席布赖恩·马斯特（Brian Mast）称，可能由相关委员会的两党首席成员及律师进行，地点仍在安排；英伟达总法务顾问蒂姆·泰特（Tim Teter）定于 12 月 2 日出面。众议院能源和商务委员会在周三的信函中，要求克雷斯不迟于 12 月 2 日汇报芯片出口及黄与爱丽丝·黄的关系，并要求卢特尼克出席讨论出口管制（CNBC）。",
+        "对卢特尼克和 Cantor Fitzgerald 的调查：众议院民主党人杰米·拉斯金（Jamie Raskin）、格雷戈里·米克斯（Gregory Meeks）和悉尼·卡姆拉格-达夫（Sydney Kamlager-Dove）在日期为 11 月 17 日的信中，要求卢特尼克之子、Cantor Fitzgerald 董事长布兰登·卢特尼克（Brandon Lutnick）提供材料，以查明商务部长「在出口管制、执法或国家安全政策上的行动或决定，是否可能受到 Cantor Fitzgerald 持股或商业利益的不当影响」，包括是否影响了未将 Megaspeed 列入实体清单的决定（半岛电视台、CNBC）。CNBC 称，卢特尼克确认提名时，该公司为客户持有的英伟达仓位据报约值 12 亿美元；2025 年 9 月至 2026 年 3 月，申报持股下降近 50%。民主党信函问：若报道属实，「商务部长是否为了给成年子女和 Cantor Fitzgerald 赚钱，而严重甚至不可逆地损害了美国国家安全利益？」CNBC 写明，目前没有已知证据表明其儿子事先掌握与英伟达或相关调查有关的内幕信息。Cantor 称该信「不准确」，指控「没有根据」：公司「没有对英伟达的重大自营仓位」，持股主要来自为客户股权互换做对冲，下降是客户减少互换后的对冲平仓；并称与东南亚公司的往来属「常规投行业务」。商务部发言人说，卢特尼克「已完全遵守道德协议，包括所有剥离和回避要求」，并已剥离在 Cantor、Newmark 和 BGC 的财务利益（半岛电视台）。"
+      ],
+      "readingA": "解读 A：财报再好，也没有消除权力真空和出口管制丑闻带来的折价。股价在「超预期」之后继续跌，说明市场在给治理风险定价。与此同时，国会把黄仁勋、克雷斯、卢特尼克和 Cantor 的家族公司一并拉进听证和调档，等于把「谁放任了 Megaspeed」从行政系统内部的互相指责，升级成立法部门的正式调查。员工请愿和要求黄回归的声音，则显示公司内部也还没有接受「向前走」这句口号。",
+      "readingB": "解读 B：全员大会、提前薪酬评审和「客户还在」的表态，也可以看成一次稳定军心的常规动作——英伟达本来就会在财报次日开全员会。Cantor 和商务部都给出了剥离、回避和「没有自营仓位」的解释，民主党的信目前仍是质询而非已证实的利益输送。黄和卢特尼克同意出席听证，说明他们选择配合，而不是对抗。在调查拿出新的文件之前，把家族持股直接写成已经影响了实体清单决定，还为时过早。",
+      "disagree": "分歧在于：当前下跌和国会动作，证明英伟达和商务部的治理问题已经大到足以压过财报，还是仍属于调查初期的政治和舆论压力，尚待文件和听证来验证。",
+      "synthesis": "可以确定的是：英伟达在超预期财报后的首个交易日继续下跌；克雷斯已主持全员大会并强调向前走；黄仁勋和卢特尼克同意出席参议院银行委员会，众议院民主党同时向 Cantor Fitzgerald 调档。较稳妥的看法是，把这些视为调查和公司治理进入更正式阶段的标志，而不是已经证明出口管制决定被家族利益左右。内部请愿和匿名转述只能作为情绪信号，不能代替董事会和国会的书面结论。",
+      "unknown": "参议院听证的最终日期是公开还是闭门；Cantor 调档能拿出哪些文件；请愿签名中到底有多少是现任员工；提前到 12 月的薪酬安排对留人是否有效；常任 CEO 遴选的时间表。",
+      "confidence": "中高（股价、国会信函和斯科特的公开表态有记录）；全员大会和员工请愿的细节主要来自匿名与会者及媒体转述。",
+      "sources": [
+        {
+          "label": "CNBC：英伟达财报后股价下跌，拖累部分 neo-cloud 公司",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+        },
+        {
+          "label": "CNBC：克雷斯在黄仁勋离职后首次全员大会上称「让我们向前走」",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html"
+        },
+        {
+          "label": "CNBC：斯科特称黄仁勋已同意出席参议院银行委员会",
+          "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html"
+        },
+        {
+          "label": "CNBC：民主党调查 Cantor Fitzgerald 与卢特尼克的英伟达相关利益",
+          "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html"
+        },
+        {
+          "label": "半岛电视台：美国议员启动对卢特尼克在英伟达丑闻中行为的调查",
+          "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal"
+        },
+        {
+          "label": "卫报：民主党要求卢特尼克就其家族公司与英伟达的关系作出说明",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "国务卿卢比奥和国家情报总监克莱顿称近期多起故障「互不关联」、美国「未遭系统性攻击」；微软 CEO 纳德拉称上周 Outlook 全球中断是「完美风暴」，承认测试不足；副总统万斯取消行程改开故障会议；联邦航空局局长揽责，调查人员已能复现路由器过载但根因未明",
+      "tag": "续报：美国基础设施",
+      "facts": [
+        "官方定性：美国国务卿马尔科·卢比奥对记者说，过去一周包括全美停飞、银行、苹果和微软服务在内的故障「互不关联」，「我们没有遭到系统性攻击」，「零证据」显示它们有联系。「我们所掌握的每一项指标都表明，每一件事都有与网络罪犯、敌对行为者或另一个国家无关的解释或原因。」（BBC、卫报）国家情报总监杰伊·克莱顿对福克斯新闻和众议院国土安全委员会作出类似保证，称这些事件「不是网络攻击」，「不是某个民族国家的协同行动」，许多机构正在打补丁或升级系统，因而出现中断（BBC、CNBC）。一名不愿具名的政府高官在电话通报中称，当局「相当有信心」认为这些事件来自系统升级、打补丁、硬件更换或其他「互不相干」的情况（CNBC）。",
+        "纳德拉与 Outlook：微软首席执行官萨提亚·纳德拉周三在 CNBC《Mad Money》节目中，把上周四导致大量美国企业停摆的 Outlook 中断称为「疯狂的完美风暴」：一个潜伏缺陷「只在特定流量模式下才被发现」。他说，「我们当然应该事先做好测试」，「应该设置隔舱（bulkheads），避免出现全球性中断」。他还说，人工智能让公司能更快找到并修复缺陷，但更高的「补丁速度」会给旧系统带来不稳定：「你们看到的，有一点是旧基础设施加上新补丁和不稳定。」TechCrunch 另引他的话说，很多关键基础设施「无法打补丁」。",
+        "政治与社会反应：副总统 JD·万斯周三临时取消原定在《纽约时报》DealBook 峰会的露面，改去参加有关此轮技术故障的会议（CNBC）。联邦航空局局长布莱恩·贝德福德（Bryan Bedford）在《国会山报》举办的航空活动上说：「我对此负全责」，「希望大家放过部长」，「如果一定要怪谁，就怪我」（卫报）。运输部长肖恩·达菲周五曾拒绝道歉，把责任指向国会资金不足和前任。部分共和党议员对白宫把航空升级要价从约 300 亿美元提高到 500 亿美元表示依据不足（卫报）。参议院情报委员会副主席马克·沃纳（Mark Warner）对 CNBC 说，他「理解为什么人们会慌」，并呼吁对人工智能安全有「更好的协调」和「预测试机制」。CNBC 还称，故障引发的恐慌性采购使开市客等零售商受益（分析师观点，未在本条展开）。",
+        "联邦航空局调查进展：知情人士告诉 CNBC，调查人员已能在佛罗里达实验室复现周五导致全美地面停飞的过载情况，但尚未确定两台路由器究竟为何失效；查清根因，关系到是否还有其他骨干路由器存在同类问题。事发于 L3Harris 在阿肯色州埃尔多拉多一处设施安装新路由器后约八分钟，该路由器开始在联邦航空局网络中发送过多数据；达菲曾说，每四到五秒出现 1000 次连接尝试，扰乱了航空通信和雷达。L3Harris 称已完成计划中铜缆改光纤工程的 70% 以上，并「支持联邦航空局调查」。达菲和贝德福德都表示，没有迹象显示路由器故障是网络攻击。这次地面停飞持续四个多小时，是 2001 年 9 月 11 日以来美国航班起飞中断时间最长的一次；卫报称受影响航班超过 1.24 万架次。"
+      ],
+      "readingA": "解读 A：短短一周内，航空、银行、苹果、微软和国家安全局内部网络相继出问题，已经超出「偶然撞车」容易让人安心的范围。即便每一起都能讲出升级或补丁的理由，它们叠加在一起也暴露出旧系统在加速修补时的脆弱。纳德拉承认测试不足、万斯取消公开行程、联邦航空局局长公开揽责，说明当局自己也知道公众不会只接受「互不关联」四个字。",
+      "readingB": "解读 B：卢比奥、克莱顿、达菲、贝德福德和各家涉事公司目前给出的说法是一致的：没有发现敌对网络攻击或协同行动。能在实验室里复现航空路由器过载，反而支持「新设备接入旧网络出了技术故障」这一解释。把多起不同系统、不同时间的故障写成同一次「系统性打击」，目前缺少公开证据；更接近的解释是，老旧基础设施在集中升级时集中暴露问题。",
+      "disagree": "分歧在于：密集故障是需要当作国家安全事件来对待的系统性风险，还是一批已被分别解释、只是时间上碰巧靠近的升级事故。",
+      "synthesis": "可以确定的是：美国政府高官已公开排除「系统性攻击」和事件之间的已知关联；微软把 Outlook 中断解释为潜伏缺陷加测试不足；联邦航空局调查有所进展，但路由器失效的根因仍未找到。较稳妥的看法是，先接受「目前没有公开的攻击证据」，同时把航空根因、其他故障的完整技术报告和是否需要改升级节奏，当作尚未完成的调查，而不是已经结束的故事。",
+      "unknown": "联邦航空局两台路由器失效的根因，以及其他路由器是否需要更换；国家安全局、银行和苹果故障的完整技术解释是否会公布；万斯主持的会议是否带来新的联邦应对措施；500 亿美元航空升级拨款在国会的前景。",
+      "confidence": "高（卢比奥、克莱顿、纳德拉和贝德福德均有可核对的公开表态）；航空调查的实验室进展来自不愿具名的知情人士，根因仍未公布。",
+      "sources": [
+        {
+          "label": "BBC：卢比奥称美国未遭系统性攻击，近期故障互不关联",
+          "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o"
+        },
+        {
+          "label": "卫报：卢比奥称「零证据」显示近期技术故障有关联",
+          "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio"
+        },
+        {
+          "label": "CNBC：纳德拉称 Outlook 中断是「完美风暴」",
+          "url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html"
+        },
+        {
+          "label": "CNBC：万斯取消行程，转而处理技术故障",
+          "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html"
+        },
+        {
+          "label": "卫报：联邦航空局局长称对停飞「负全责」，请外界「放过」达菲",
+          "url": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage"
+        },
+        {
+          "label": "CNBC：调查人员在实验室复现联邦航空局地面停飞的过载情况",
+          "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "以色列军方在加沙黄线以西发动「罕见」地面行动，称要拆除对以军构成直接威胁的「恐怖隧道」；哈马斯指责这是对 2025 年 10 月停火协议的公然违反；有居民被要求撤离，巴勒斯坦医务人员称袭击造成人员伤亡",
+      "tag": "新话题：中东",
+      "facts": [
+        "行动本身：BBC 报道，以色列地面部队在加沙地带中部其控制区以外发动「罕见」行动，并先向居民发出撤离命令。目击者称，坦克在炮火掩护下推进到努塞拉特难民营以东，并开上南北向主干道。以色列国防军说，此次「有针对性的」行动是与国内安全机构辛贝特联合进行，目的是拆除黄线以西一条「对以色列国防军士兵构成即时、直接威胁的恐怖隧道」。黄线标志着以色列目前占领的加沙超过 60% 的领土。以军还说，南线司令部部队「按照停火协议部署在该地区」，并将继续「消除任何即时威胁」。负责协调的军方机构 Cogat 的阿拉伯语发言人在周三下午早些时候宣布行动开始，警告努塞拉特和布雷杰难民营以北地区的巴勒斯坦人远离，并称萨拉赫丁公路一段将封闭。",
+        "哈马斯与居民：控制加沙其余地区的哈马斯称，以色列军车越过黄线和强制撤离居民，构成对 2025 年 10 月停火协议的「公然违反」和「危险升级」。以色列军方没有立即回应这一声明（卫报）。BBC Verify 核实的一段视频中，一名男子在萨拉赫丁公路上、黄线以西约 1.5 公里处听到炮击后奔跑。努塞拉特一名被迫逃离的居民对 BBC 阿拉伯语节目说，「情况极其严峻，以色列军队正在对流离失所者避难的区域不分青红皂白地开火」，他们来不及带走毯子和衣服。卫报援引加沙安全消息源对法新社的话说，努塞拉特以北有猛烈炮击，中部有军车、枪声和空袭。",
+        "伤亡与停火背景：巴勒斯坦医务人员称，袭击地点附近的一次空袭造成一人死亡；另有两人分别在戴尔巴拉赫和加沙城因以色列开火死亡。以色列军方称，对戴尔巴拉赫的事件不知情，并说在加沙城打击了一名武装人员；被问及死亡报道时，以军只发了关于此次行动的一般性声明（卫报、BBC）。加沙卫生部门称，自停火生效以来，至少有 1658 人在以色列袭击中死亡（BBC；卫报写的是至少 1600 人）；以军称同期有 5 名（卫报）或 6 名（BBC）士兵死亡。联合国称，约 190 万人、即加沙约 90% 的人口仍在流离失所。监督特朗普加沙计划的「和平委员会」在提交联合国安理会的第二份报告中说，协议与实地情况之间的差距是停火面临的最大威胁，「不能无限期维持一场看不到任何可见成果的停火」（卫报援引路透社所见报告）。"
+      ],
+      "readingA": "解读 A：黄线之所以重要，正是因为它被当作停火后的控制边界。以军把坦克开到这条线以西，并要求居民撤离主干道沿线，无论战术理由多么具体，在加沙居民和哈马斯看来都是停火被再次打破。和平委员会已经警告「没有可见成果的停火无法持续」，这次行动会强化一种判断：所谓停火，更多是以色列仍可随时越过的安排，而不是对双方都有约束力的界限。",
+      "readingB": "解读 B：以色列给出的理由是一条「对士兵构成即时、直接威胁」的隧道，并把行动称为有针对性、仍「按照停火协议」部署。若这一说法成立，这次出击也可以被读成有限的自卫行动，而不是全面重新占领黄线以西。目前公布的死亡数字相对有限，以军也没有宣布扩大地面攻势。在独立方面核实隧道威胁和行动范围之前，还不宜直接写成停火已经崩溃。",
+      "disagree": "分歧在于：越过黄线是停火被公然打破的标志，还是一次仍被以方定义为清除即时威胁的有限行动。",
+      "synthesis": "可以确定的是：以色列部队已在黄线以西的加沙中部展开地面行动，并发布了撤离警告；哈马斯称之为违反停火；双方对伤亡和行动性质的说法不一致。较稳妥的看法是，把黄线视为停火安排中最敏感的界线之一，此次越线本身已经构成重要事态，但其是「有限清隧」还是更大规模地面行动的开始，还要看行动是否在短时间内结束、以及独立来源能否核实以方所称的隧道威胁。",
+      "unknown": "以方所称隧道的位置、规模和「即时威胁」的具体证据；行动持续多久、推进多远；此次袭击的完整伤亡数字；和平委员会或美国方面是否会就此作出公开判断。",
+      "confidence": "中高（以军和哈马斯均有书面或可引用的表态，BBC 与卫报交叉报道）；伤亡数字和隧道细节仍不完整，且部分来自冲突一方的卫生部门或匿名安全消息源。",
+      "sources": [
+        {
+          "label": "BBC：以色列军方在加沙黄线以外发动罕见地面行动",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+        },
+        {
+          "label": "卫报：以色列坦克越过黄线进入哈马斯控制的加沙中部",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html"
+    },
+    {
+      "n": 2,
+      "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"
+    },
+    {
+      "n": 3,
+      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html"
+    },
+    {
+      "n": 4,
+      "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal"
+    },
+    {
+      "n": 5,
+      "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald"
+    },
+    {
+      "n": 6,
+      "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
+    },
+    {
+      "n": 7,
+      "title": "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
+    },
+    {
+      "n": 8,
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo"
+    },
+    {
+      "n": 9,
+      "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo"
+    },
+    {
+      "n": 10,
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+    },
+    {
+      "n": 11,
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+    },
+    {
+      "n": 12,
+      "title": "Trump and Putin to meet one-on-one in China Thursday",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday"
+    },
+    {
+      "n": 13,
+      "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+    },
+    {
+      "n": 14,
+      "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo"
+    },
+    {
+      "n": 15,
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o"
+    },
+    {
+      "n": 16,
+      "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
+    },
+    {
+      "n": 17,
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o"
+    },
+    {
+      "n": 18,
+      "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio"
+    },
+    {
+      "n": 19,
+      "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html"
+    },
+    {
+      "n": 20,
+      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html"
+    },
+    {
+      "n": 21,
+      "title": "FAA chief urges critics to ‘lay off’ Sean Duffy for flight stoppage: ‘Blame me’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage"
+    },
+    {
+      "n": 22,
+      "title": "Investigators make progress in hunt for cause of FAA ground stop",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html"
+    },
+    {
+      "n": 23,
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
+    },
+    {
+      "n": 24,
+      "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination"
+    },
+    {
+      "n": 25,
+      "title": "Democrats formally nominate Hakeem Jeffries for speaker of the House",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6043183/hakeem-jeffries-house-democrats-leadership-votes"
+    },
+    {
+      "n": 26,
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo"
+    },
+    {
+      "n": 27,
+      "title": "Democrat Mary Peltola wins Alaska Senate election",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html"
+    },
+    {
+      "n": 28,
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+    },
+    {
+      "n": 29,
+      "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+    },
+    {
+      "n": 30,
+      "title": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv"
+    },
+    {
+      "n": 31,
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
+    },
+    {
+      "n": 32,
+      "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+    },
+    {
+      "n": 33,
+      "title": "Russian national charged with spying on Silicon Valley tech and defense firm",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/18/russian-national-spying-silicon-valley"
+    },
+    {
+      "n": 34,
+      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/"
+    },
+    {
+      "n": 35,
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/"
+    },
+    {
+      "n": 36,
+      "title": "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 7% on earnings",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/palo-alto-networks-panw-q1-2027-earnings-.html"
+    },
+    {
+      "n": 37,
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit"
+    },
+    {
+      "n": 38,
+      "title": "Paris Hilton, Alexandria Ocasio-Cortez press House to pass Defiance Act to fight AI deepfake pornography",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/paris-hilton-aoc-defiance-act-ai-porn-deep-fake-congress.html"
+    },
+    {
+      "n": 39,
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+    },
+    {
+      "n": 40,
+      "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch"
+    }
+  ]
+}
