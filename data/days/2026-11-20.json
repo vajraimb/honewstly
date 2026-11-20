@@ -1,0 +1,503 @@
+{
+  "date": "2026-11-20",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/19 约 08:10，即 UTC 11/19 00:10）至本期（11/20 约 08:10，UTC 11/20 00:10），约 24 小时，覆盖欧美周四（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，窗口内共约 229 条标题。正文以直接抓取的原文为主。",
+  "thinDay": false,
+  "thinDayNote": "本期不属于薄日：周四硬新闻充足，7 条中 2 条为新话题（国际法院缅甸种族灭绝裁决；IMF 与 IEA 关于 AI 的宏观警告）。需注意：第 1 条三方会谈时长各家报道为 80–90 分钟不等，库什纳关于俄方接受「第五条式」保障的说法尚未获俄方确认；第 2 条市值因口径（盘中/收盘、基本/完全稀释）不同而有差异；第 3 条猎头接触哈斯仅来自彭博社报道，AMD 相关内容来自持有空头头寸的做空机构；第 5 条伤亡与流离数字来自哈马斯控制的机构。本窗口关注：特朗普周五（美东时间）白宫记者会、欧洲对普京「赴莫斯科」邀请的回应、Anthropic 第二个交易日走势、英伟达对加州传票的回应。",
+  "vsYesterday": "相对上一期（11/19）：深圳三方会晤已举行并发表宣言（续报，上期为抵达与欢迎宴会）；Anthropic 已开盘交易（续报，上期为定价）；英伟达风波新增加州传票、国会公开对华芯片许可数据和 CEO 遴选进展（续报）；以军已结束加沙黄线以西行动（续报）；参议院否决伊朗战争权力决议（中东/美国政治续报，本窗口未见海湾地区重大新袭击报道）。新话题：国际法院缅甸种族灭绝裁决；IMF 与 IEA 关于 AI 推高通胀与能耗的警告。美国基础设施故障、阿拉斯加选举等上期话题本窗口仅有评论或跟进，未写入正文；美委军事协议、日本首相高市访华遇冷、日本核心通胀创年内新高、GTA6 发售等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：全球",
+      "title": "美中俄首次三方会晤约 90 分钟后发表「迈向和平的元首宣言」：重申「核战争打不赢也绝不能打」、承诺增产成品油并改革联合国、称国际刑事法院等机构不得滥用管辖权，但通篇未提乌克兰与伊朗战争；普京称欧洲尚未准备妥协并邀欧方赴莫斯科，库什纳称俄方对「第五条式」安全保障「感到可以接受」",
+      "facts": [
+        "会晤与宣言：特朗普、习近平、普京周四在深圳麒麟山庄举行三国领导人首次三方会谈，BBC 与 CNBC 称约 90 分钟，卫报称约 1 小时 20 分钟。三国随后发布内容相同的声明，名为「迈向和平的元首宣言」，称三方就国际形势深入交换意见，承诺维护战略稳定与国际安全（CNBC）。",
+        "宣言要点：重申「核战争打不赢，也绝不能打」，承诺就降低核风险与防止核扩散开展对话；「计划增加成品油的生产与供应」，强调稳定的能源流动；承诺「改革联合国」；并称「国际刑事法院及其他类似机构不得滥用管辖权」（BBC、CNBC）。卫报与 CNBC 均指出，宣言未提及俄乌战争和美国对伊朗的战争；卫报称有关核战争的措辞与此前联合国安理会五常声明一致，并未提出无核化框架。",
+        "会前双边：CNBC 援引俄方助理乌沙科夫称，特朗普与普京会前单独会谈约 40 分钟，主要议题为乌克兰战争；特朗普称与普京「关系很好」。特朗普另与习近平会谈，称应合作结束俄乌战争；据中国官方媒体，习近平提出两国应合作防范人工智能安全风险并加强贸易沟通。在上午的 APEC 会议上，特朗普称反对监管人工智能，认为会「扼杀」产业（CNBC）。",
+        "各方表态：普京在记者会上称会晤是「外交史上重要一章」，称乌克兰和欧洲尚未准备好妥协，俄方已通过外交渠道邀请欧洲代表赴莫斯科了解其立场，并回应「雅尔塔」类比称「现实必须被接受」；他还誓言对乌克兰袭击克里米亚大桥作出「痛苦得多」的回应，并称曾考虑在若干领域停火，但因大桥遇袭作罢（BBC）。CCTV 称习近平形容会晤「积极、建设性、富有成效」。特朗普在返程「空军一号」上发文称此行「意义重大」，并称周五将在白宫召开记者会（BBC）。",
+        "柏林平行轨道：乌克兰盟友「志愿联盟」周四在柏林开会，特朗普从「空军一号」上远程接入。美方特使库什纳称，特朗普离开深圳时相信「和平可以实现」，俄方对乌克兰获得基于北约第五条理念的安全保障「感到可以接受」。德国总理默茨称「雅尔塔模式」带不来和平，并把深圳会晤称为「拍照机会」；泽连斯基说「普京总是说不」。同日基辅市中心遭无人机袭击，一人死亡，荷兰与奥地利使馆受损（BBC）。",
+        "美国国内反应：共和党参议员柯蒂斯对核问题表态表示欢迎，但称「普京和习近平不是我们的朋友」；民主党参议员沙欣称特朗普口中的「朋友」是「杀人的战犯」（BBC）。卫报另报道，有批评者指特朗普在习近平讲话时打瞌睡。"
+      ],
+      "readingA": "这是一次实打实的大国协调：三个最大核国家首次同桌并写下降低核风险对话、稳定能源供应和改革联合国的共同表述，对一个被伊朗战争推高油价、被俄乌战争撕裂的世界来说，先建立渠道本身就有价值。库什纳所说俄方接受「第五条式」保障、普京邀欧方赴莫斯科，都显示乌克兰议题出现了可以继续推进的缝隙。",
+      "readingB": "宣言最显眼的是它没写什么：两场正在进行的战争一字未提，核表述只是复述五常旧文，而「国际刑事法院不得滥用管辖权」反倒是三国领导人的共同利益。普京一边谈和平、一边誓言更痛苦的报复，基辅同日遭袭；欧洲和乌克兰对俄方「接受第五条式保障」并无确认。这更像一场仪式性胜利，尤其对寻求摆脱孤立的普京而言。",
+      "disagree": "分歧在于：这份宣言是可以落地的协调起点，还是回避核心冲突、主要服务于领导人形象的姿态？关键证据——俄方是否真正接受对乌安全保障、核对话是否有后续时间表——目前都只来自单方表述。",
+      "synthesis": "可以确定的是：三方会晤已举行并发表了一份宽泛的共同宣言，内容集中在核风险、能源和联合国改革，而回避了乌克兰与伊朗战争。较稳妥的看法是：把宣言视为开了一个渠道，而不是解决了任何冲突；判断它的分量要看三件事——特朗普周五白宫记者会会否披露更多细节、欧洲是否接受赴莫斯科的邀请，以及俄方是否公开确认库什纳关于安全保障的说法。",
+      "unknown": "宣言之外是否有未公开的谅解；「增加成品油供应」是否有具体数量或机制；核风险对话由谁牵头、何时开始；俄方是否亲口接受「第五条式」保障；克里米亚大桥报复的具体形式。",
+      "confidence": "高（会晤举行与宣言文本有 BBC、CNBC、卫报交叉报道）；会谈时长各家略有出入；库什纳关于俄方立场的说法为单方表述，中等。",
+      "sources": [
+        {
+          "label": "BBC：特朗普、普京和习近平在历史性会晤后发表「和平宣言」",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+        },
+        {
+          "label": "CNBC：美中俄承诺增产石油、改革联合国",
+          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+        },
+        {
+          "label": "卫报：三国和平宣言未提乌克兰与伊朗战争",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+        },
+        {
+          "label": "CNBC：特朗普在三方会晤前分别会见普京与习近平",
+          "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html"
+        },
+        {
+          "label": "BBC：欧洲领导人称准备与俄罗斯谈判结束战争",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：科技/AI",
+      "title": "Anthropic 纳斯达克首日：开盘约 111.5 美元、较 83 美元发行价高约 33%，盘中市值一度超 2 万亿美元，收盘回落至约 97 美元（+17%），市值近 1.3 万亿美元；美股尾盘走弱、芯片股普跌，纽约与旧金山出现反 AI 抗议，纽约有人被捕",
+      "facts": [
+        "首日走势：TechCrunch 报道，Anthropic 股票周四开盘后早盘报 111.50 美元，较 83 美元发行价溢价约 33%，按开盘价计市值超过 2 万亿美元。卫报报道，收盘价略高于 97 美元，较发行价上涨约 17%，总市值近 1.3 万亿美元，完全稀释约 1.75 万亿美元。",
+        "发行规模：卫报称公司周三晚宣布向承销商出售 9.8 亿股，扩大后的发行募资 813 亿美元，超过 SpaceX 6 月创下的约 750 亿美元纪录。TechCrunch 援引预期称，连同既有融资和同步进行的私募，公司现金储备预计约 2200 亿美元。",
+        "财务背景（据招股书，转引自卫报）：2026 年上半年收入 162 亿美元，2025 年全年为 46 亿美元；2026 年上半年亏损 800 亿美元（主要源于一次性费用），前九个月亏损扩大至 1040 亿美元；算力是最大开支。",
+        "CEO 表态：达里奥·阿莫代在敲响开市钟前称，上市「让公司财务更稳固，也只会加强我们做正确事情的决心」，并称希望证明「在安全上做出正确选择的同时仍能打造非常成功的公司」（TechCrunch、卫报）。",
+        "市场背景：卫报称美股收盘前走弱，多数主要芯片股收跌，英伟达连续第六个交易日下跌，美光和博通亦下跌。CNBC 头条称标普 500 指数走向连续第六天下跌。",
+        "抗议：卫报报道，约 30 名抗议者聚集在纽约时报广场纳斯达克大楼前，数人被捕；旧金山 Anthropic 总部外约三十多人抗议，关注数据中心环境影响、AI 与移民执法的关联以及「递归自我改进」风险。半岛电视台称纽约有三人被捕。"
+      ],
+      "readingA": "这是 AI 产业的里程碑：第一家纯前沿模型公司上市，首日即跻身全球市值最高的公司之列，创纪录的募资给了它业内罕见的资金厚度。收入从 2025 年全年 46 亿美元到 2026 年上半年 162 亿美元的增速，说明企业对 Claude 等产品的需求真实存在，市场愿意为这种增长定价。",
+      "readingB": "首日从 111.5 美元回落到 97 美元，同日芯片股和大盘一起走弱，说明一笔超大 IPO 并没有驱散对 AI 估值的疑虑。九个月 1040 亿美元的亏损、对算力的持续巨额投入，以及英伟达风波带来的行业不确定性，都意味着约 1.3 万亿美元市值押注的是远期，而不是当前的盈利能力；街头抗议也显示社会对 AI 的接受度并不稳固。",
+      "disagree": "分歧在于：首日 17% 涨幅应被读作对 AI 增长逻辑的确认，还是盘中大幅回吐与大盘下跌所揭示的谨慎？两种读法都能从同一张走势图里找到依据。",
+      "synthesis": "可以确定的是：Anthropic 已完成史上最大 IPO 并以高于发行价收盘，但盘中涨幅回吐近一半。较稳妥的看法是：首日价格主要反映稀缺性和情绪，真正的检验在于后续财报中的增速与亏损走势，以及大规模锁定期解禁时的表现；在此之前，把它当作 AI 板块情绪的温度计，而不是结论。",
+      "unknown": "首日成交结构与机构配售比例；2200 亿美元现金预期中私募部分的条款；第四季度收入与亏损；锁定期安排；英伟达风波对其算力采购的影响。",
+      "confidence": "高（价格与募资额有卫报、TechCrunch 交叉报道）；市值数字因计算口径（基本/完全稀释、盘中/收盘）不同而各家有差异，请以口径为准。",
+      "sources": [
+        {
+          "label": "卫报：Anthropic 首日收盘市值约 1.3 万亿美元",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+        },
+        {
+          "label": "TechCrunch：Anthropic 开盘报 111 美元，较发行价高 33%",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+        },
+        {
+          "label": "卫报：纽约和旧金山出现反 Anthropic 抗议",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests"
+        },
+        {
+          "label": "半岛电视台：纳斯达克外抗议中三人被捕（视频）",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "续报：科技/AI",
+      "title": "英伟达风波外溢：加州总检察长邦塔向英伟达发出调查传票，查芯片是否流入中国及公司是否误导投资者；众议院外委会公开文件显示商务部截至今年 5 月已批准逾 87.9 万颗 AI 芯片对华销售；猎头据报接触 Arm CEO 哈斯；AMD 遭做空报告后收跌 7.72%",
+      "facts": [
+        "加州传票：CNBC 报道，加州总检察长邦塔周四向英伟达发出调查传票，调查其先进芯片是否违反美国出口管制流入中国。邦塔称，正在调查「英伟达或黄仁勋的行为是否导致中国获得先进芯片或机密信息，以及英伟达是否就此风险误导投资者和公众」。英伟达未立即回应。CNBC 称，自黄仁勋承认婚外情以来的九个交易日，英伟达股价下跌 22%，并有望连续第七周下跌。",
+        "对华许可数据：众议院外交事务委员会周四投票公开文件，显示商务部工业与安全局截至 2026 年 5 月批准向阿里巴巴、腾讯等中国企业销售逾 87.9 万颗 AI 芯片，其中部分获批对象被美国国防部列为「中国军事企业」；12 月至 5 月共收到 340 万颗的销售申请（CNBC）。英伟达称其遵守当时有效的规定，审批附带严格条件，「我们此后已停止向中国发运 H200」；AMD 称遵守出口管制法规。伯恩斯坦分析师拉斯贡称获批量约为申请量的四分之一，在整体市场中「微不足道」。",
+        "CEO 遴选：卫报援引彭博社称，英伟达董事会聘请的猎头公司 Heidrick & Struggles 已开始接触候选人，Arm CEO 雷内·哈斯在列，并被视为热门人选；哈斯此前曾在英伟达任职七年。黄仁勋周二表示若董事会认为符合利益愿意回归，但董事长琼斯本周确认董事会「无意恢复其 CEO 职务」。",
+        "AMD：CNBC 报道，做空机构 Hunterbrook 发布报告称 AMD「也有中国问题」，指被列入黑名单的中国服务器厂商浪潮信息仍持续获得 AMD 固件更新，并称 AMD 逾 20% 收入来自中国大陆和香港客户；Hunterbrook 披露持有空头头寸。AMD 称报告「歪曲了公司业务」。AMD 股价周四收跌 7.72% 至 489.19 美元。",
+        "总统账户交易：CNBC 根据 9 月财务披露称，特朗普账户当月四次买入英伟达，金额在 15.2 万至 38 万美元之间；按其统计，特朗普 2025 年重返白宫以来英伟达交易至少 108 笔，总额 2720 万至 9790 万美元。"
+      ],
+      "readingA": "风波正在从一桩个人丑闻变成制度性问题：州检察官从证券欺诈角度介入，国会公开许可数据显示连被五角大楼点名的企业也获批购芯片，AMD 也被卷入同类指控。这说明出口管制的执行和企业披露都可能存在系统性漏洞，需要更严格的审查与立法。",
+      "readingB": "需要区分指控与已证实的事实：加州传票只是调查的开始；87.9 万颗获批量约占申请的四分之一，H200 在英伟达数据中心收入中占比很小，且公司称已停止对华发运；做空报告出自持有空头头寸的一方。把所有信息叠加成「芯片大规模流入中国」的结论，目前证据还不够。",
+      "disagree": "分歧在于：这些新信息揭示的是出口管制体系性的失灵，还是一个合法但有限的许可流程被政治化放大？双方都引用同一组数字——获批 87.9 万颗——却得出相反的判断。",
+      "synthesis": "可以确定的是：英伟达面临的法律与政治审查在扩大，CEO 遴选已启动，市场情绪正外溢到 AMD 等同行。较稳妥的看法是：把加州调查、国会许可数据和做空指控分开看待，各自等待可核验的结果——传票所涉文件、商务部的回应、AMD 对具体指控的反驳细节；对「芯片是否实际流入受限用户」这一核心问题，目前仍无公开的执法结论。",
+      "unknown": "加州传票的具体范围与期限；商务部对国会文件的回应；获批芯片中实际出货量；Megaspeed 相关调查进展；英伟达 CEO 人选与时间表；Hunterbrook 指控能否被独立核实。",
+      "confidence": "高（传票、国会文件与公司回应有 CNBC、半岛电视台交叉报道）；猎头接触哈斯仅来自彭博社报道（经卫报转引），中等；做空报告内容为单方指控。",
+      "sources": [
+        {
+          "label": "CNBC：加州总检察长就芯片流向中国向英伟达发出传票",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+        },
+        {
+          "label": "CNBC：商务部批准逾 87.9 万颗 AI 芯片对华销售",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+        },
+        {
+          "label": "半岛电视台：美国半年内批准近 90 万颗 AI 芯片对华销售",
+          "url": "https://www.aljazeera.com/economy/2026/11/19/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months"
+        },
+        {
+          "label": "卫报：英伟达猎头接触 Arm CEO 哈斯",
+          "url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
+        },
+        {
+          "label": "CNBC：AMD 因做空报告指其涉华风险而大跌",
+          "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+        },
+        {
+          "label": "CNBC：特朗普 9 月买入英伟达、Palantir、SpaceX",
+          "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "新话题：全球",
+      "title": "国际法院以 9 票对 6 票裁定缅甸对罗兴亚人犯下种族灭绝，为国际法院首次认定一个国家实施种族灭绝；法院认定约 1 万罗兴亚人在 2017 年「清剿行动」中被暴力杀害，缅甸须支付赔偿，数额日后确定；英国驱逐缅甸国防武官，美国称正在研究裁决",
+      "facts": [
+        "裁决：BBC 报道，国际法院（ICJ）周四裁定缅甸对罗兴亚少数民族犯下种族灭绝，这是国际法院首次认定一个国家实施种族灭绝。院长岩泽雄司称，缅甸有「摧毁」罗兴亚人相当一部分的意图，并「大规模销毁证据」。法官以 9 票对 6 票作出该裁决，并以多数认定缅甸违反了 1948 年《防止及惩治灭绝种族罪公约》的其他多项条款。",
+        "认定事实：此案由冈比亚提起，焦点是 2017 年若开邦「清剿行动」。法院认定约 1 万名罗兴亚人被「暴力杀害」，约 81.5 万人以某种方式成为目标，逾 70 万人逃往孟加拉国；并认定存在「不加区别」的杀戮、处决男性、「广泛」性暴力、针对儿童的极端暴力和蓄意焚烧房屋（BBC）。法院同时认定反罗兴亚仇恨言论运动与清剿行动存在「重叠」。",
+        "缅方立场与后续：缅甸一贯否认，称行动针对的是罗兴亚救世军（Arsa）对 30 多个警察哨所的袭击；其代表在宣判后表示「不予置评」。法院裁定缅甸有义务支付相应赔偿，具体数额日后确定。BBC 指出，国际法院不是刑事法院，执行力有限，需依赖联合国安理会和政治压力。卫报称，裁决还在国际法上正式确认罗兴亚人是一个独立族群。",
+        "各方反应：联合国人权事务高级专员蒂尔克称裁决「必须转化为实际行动」；人权观察称这是「迟来的承认」。英国外交大臣米利班德宣布驱逐缅甸国防武官并召见其代办。美国国务院发言人称正在「研究裁决以全面评估其影响」，并强调防止国际刑事法院「政治化」（BBC）。",
+        "与加沙案的关联：BBC 援引参与此案的律师桑兹称，南非诉以色列种族灭绝案是听证中的「房间里的大象」；裁定缅甸成立不意味着以色列案会得出同样结论，但若缅甸案未成立，以色列案「实际上就结束了」。以色列称针对它的指控「毫无根据」。"
+      ],
+      "readingA": "这是国际司法的历史性时刻：法院首次把种族灭绝责任归于国家，驳回了「反恐」辩护，并首次认定强奸和性暴力可构成种族灭绝行为。对罗兴亚幸存者而言，这是迟到多年的正式承认，也为今后的赔偿与问责、以及其他种族灭绝案确立了先例。",
+      "readingB": "裁决的象征意义大于执行力：9 比 6 的票数显示法官间分歧明显，国际法院无法逮捕任何人，赔偿要靠缅甸军政府配合，执行则取决于安理会中各大国的态度。而此案被普遍视为加沙案的风向标，这会让裁决本身更容易被卷入大国政治，美国的回应已体现出这一点。",
+      "disagree": "分歧在于：这份裁决会实质改变问责与对罗兴亚人的保护，还是主要停留在法律与道义层面？同时，它对加沙案的含义也被不同阵营用来支持截然相反的立场。",
+      "synthesis": "可以确定的是：国际法院已作出首例国家种族灭绝裁决，认定事实具体，但执行机制薄弱。较稳妥的看法是：把它看作法律标准的确立，后续值得关注三点——赔偿程序如何推进、安理会和各国是否据此采取制裁或其他措施，以及该裁决对证明「种族灭绝意图」的标准会如何被引用到其他案件中。",
+      "unknown": "持反对意见的六名法官的理由；赔偿数额与程序时间表；缅甸军政府是否会配合；安理会是否会讨论执行；对南非诉以色列案的具体影响。",
+      "confidence": "高（BBC、卫报一致报道裁决内容与票数）；对加沙案影响的判断属于法律人士的分析，而非法院表态。",
+      "sources": [
+        {
+          "label": "BBC：国际法院裁定缅甸对罗兴亚人犯下种族灭绝",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+        },
+        {
+          "label": "卫报：世界最高法院裁定缅甸对罗兴亚人犯下种族灭绝",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：中东",
+      "title": "以军称已完成加沙「黄线」以西的地面行动并重开萨拉赫丁公路；BBC 核实的视频显示破坏痕迹延伸至黄线以西 1.2 公里以上，可能是停火以来以军在加沙中部推进最远的一次；哈马斯控制的媒体办公室称约 6000 人被迫离家",
+      "facts": [
+        "行动结束：BBC 报道，以色列军方称已完成在加沙中部努塞拉特难民营以东、其控制区外的一次「有针对性的」地面行动，目的是摧毁黄线以西「对以军构成直接威胁的恐怖隧道」。以色列协调机构 Cogat 周四早上称「行动已经结束，萨拉赫丁轴线已重新开放」。",
+        "推进距离：BBC 核实的多段视频显示，破坏痕迹、土堤和重型车辆履带延伸至黄线以西 1.2 公里以上，这被认为是以军自停火前占领内察里姆走廊以来在加沙中部推进最远的一次。BBC 称，这也据报是停火以来以军首次公开宣布深入黄线以西的行动。黄线标示以色列占领的逾 60% 加沙领土。",
+        "伤亡与流离：哈马斯控制的政府媒体办公室称约 6000 人被迫离开住所和帐篷，并称这构成强迫迁移的战争罪；居民称遭遇「不加区别」的枪炮射击，有人员伤亡。哈马斯民防部门称周三在三次无人机袭击中有三人死亡；路透援引加沙卫生官员称周四另有两人死亡（BBC）。以军称打击了「多名武装分子」，未就居民所述伤亡具体回应。",
+        "相关：哈马斯称此次推进是对 2025 年 10 月停火协议的「公然违反」。半岛电视台另报道，以色列境内一座清真寺被纵火，引发针对内塔尼亚胡的政治反弹。"
+      ],
+      "readingA": "以军的行动是有限且已结束的：目标明确为隧道，事先发出疏散通知，行动后撤出并重开道路。从以方角度看，停火期间消除对部队的直接威胁是合理的自卫，并不意味着停火框架被放弃。",
+      "readingB": "推进深度创下停火以来新高，约 6000 人被迫离开，且发生在本已占领逾 60% 领土的情况下，这在巴方看来是对停火的侵蚀；近乎每日的空袭和持续伤亡也说明「停火」只是名义上的。行动结束并不等于风险消除，类似行动可能成为新的常态。",
+      "disagree": "分歧在于：这是停火框架内一次有限的安全行动，还是停火逐步失效、控制线持续西移的又一步？关键在于是否会出现更多同类行动。",
+      "synthesis": "可以确定的是：以军已完成并撤出这次行动，破坏延伸至黄线以西超过 1.2 公里，且有平民流离与伤亡的报告。较稳妥的看法是：把它视为停火脆弱性的一个具体指标，后续关注调解方（美国、埃及、卡塔尔）的反应，以及以军是否继续在黄线以西发动行动。",
+      "unknown": "伤亡的确切人数与身份；以军所称隧道的情况是否可独立核实；调解方是否作出回应；流离居民能否全部返回。",
+      "confidence": "中高（行动结束与推进距离有 BBC 核实的视频佐证）；6000 人流离与伤亡数字来自哈马斯控制的机构，未经独立核实。",
+      "sources": [
+        {
+          "label": "BBC：以军完成加沙黄线以西地面行动",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+        },
+        {
+          "label": "卫报：以军坦克越过「黄线」进入哈马斯控制的加沙中部",
+          "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+        },
+        {
+          "label": "半岛电视台：以色列一座清真寺被纵火引发政治反弹（视频）",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "续报：美国政治/中东",
+      "title": "美国参议院以 48 票对 51 票否决要求特朗普停止对伊朗战事的战争权力决议，为中期选举后国会首次就此表决；共和党柯林斯、穆尔科斯基、保罗投赞成票，民主党费特曼投反对票；路透/益普索民调称 71% 美国人支持国会立法结束战争",
+      "facts": [
+        "表决：卫报与半岛电视台报道，参议院周四以 48 票赞成、51 票反对否决了一项依据 1973 年《战争权力决议》提出的决议，该决议要求特朗普将美军撤出与伊朗的敌对行动，或寻求国会授权。众议院已于 9 月以 220 票对 204 票通过该决议。",
+        "跨党投票：共和党参议员柯林斯、穆尔科斯基和兰德·保罗与民主党人一道投赞成票；民主党人费特曼是唯一投反对票的民主党人（半岛电视台、卫报）。",
+        "背景：卫报称，这是 11 月 3 日中期选举后两院中任一院首次就此表决，共和党在该选举中失去了自明年起对两院的控制权。半岛电视台称，特朗普从未就对伊朗作战寻求国会授权；类似措施曾于 6 月在参议院通过，但此后的限制努力均告失败；该决议被描述为不具法律效力、主要为象征性。",
+        "民意：半岛电视台援引中期选举后发布的路透/益普索民调称，71% 的美国人支持国会立法结束对伊朗的战争，其中民主党人 93%、共和党人 51%；另一项 YouGov 民调显示 44% 的人更不可能支持支持战争的候选人。民主党参议员凯恩称，选举结果已「明白无误」地表明这场战争不受欢迎。"
+      ],
+      "readingA": "共和党在选举失利后仍为战争护航，说明现任国会与民意存在明显脱节；明年民主党接掌两院后，战争权力问题很可能重新提上议程，届时国会对战争的约束可能真正具备牙齿。",
+      "readingB": "表决结果本身变化不大：即便通过，该决议也会面临总统否决，且被描述为象征性措施。支持者认为总统在战争进行中需要灵活性，国会在战时收紧授权可能削弱谈判筹码；民调支持「结束战争」也不等同于支持某一具体的立法方式。",
+      "disagree": "分歧在于：这次否决是即将卸任的多数党对民意的抵抗，还是对战时行政权的合理维护？新国会就职后，这个问题会以更大的力度回来。",
+      "synthesis": "可以确定的是：参议院以微弱差距否决了战争权力决议，跨党投票人数很少，民调显示多数美国人希望国会采取行动。较稳妥的看法是：把这次表决视为新国会 1 月就职前的过渡信号，真正的考验是新一届国会是否会提出具有约束力的授权或拨款限制。",
+      "unknown": "新国会就职后的立法计划；白宫对战争授权的立场是否会调整；伊朗战场本周最新态势（本窗口未见重大新事件）。",
+      "confidence": "高（票数和跨党投票有卫报、半岛电视台一致报道）；对决议法律效力的描述来自半岛电视台。",
+      "sources": [
+        {
+          "label": "卫报：参议院否决要求停止伊朗战事的战争权力决议",
+          "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"
+        },
+        {
+          "label": "半岛电视台：参议院共和党人否决限制特朗普对伊朗战争权力的措施",
+          "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "新话题：科技/AI与经济",
+      "title": "国际货币基金组织总裁格奥尔基耶娃在 APEC 上警告，AI 硬件需求与中东战争带来的能源冲击共同推高通胀，「许多经济体需要收紧货币政策」，预计今年全球通胀 4.7%；国际能源署报告称到 2030 年数据中心用电将翻倍、相关碳排放增加约 70%",
+      "facts": [
+        "IMF：卫报报道，IMF 总裁格奥尔基耶娃在深圳 APEC 峰会上表示，对 AI 硬件和相关技术产品的需求正在推高全球消费价格，与中东战争造成的能源冲击叠加，「这需要许多经济体收紧货币政策」；她预计今年全球通胀将达 4.7%。她称 AI 硬件及相关产品已占全球货物贸易的十分之一以上，能源冲击终会消退，但「AI 是永久的」，并说「打盹就会输」。",
+        "央行背景：卫报称，欧洲央行 6 月加息（为 2023 年以来首次），美联储 9 月、英国央行本月相继加息；欧洲央行前一天在金融稳定报告中称 AI 企业举债与互联网泡沫、次贷泡沫存在「历史相似之处」。卫报同时指出，美国中期选举后油价已有所回落。",
+        "IEA 用电：CNBC 报道，国际能源署称到 2030 年全球数据中心用电量可能翻倍至约每年 1000 太瓦时，供应链紧张、地方反对和电网容量不足可能拖慢建设；在得州、弗吉尼亚、芬兰和英国等地，等待并网的数据中心总容量已超过当地现有峰值需求。",
+        "IEA 排放：卫报报道，IEA 预计到 2030 年数据中心碳排放将增加约 70%，原因是美国和中国倾向以化石燃料为 AI 供电；美国数据中心到 2030 年约 60% 电力预计来自天然气，截至 8 月相关新增燃气发电规划约 180 吉瓦；欧盟数据中心届时约 70% 电力预计来自可再生能源。IEA 执行干事比罗尔称看不到能源世界回到过去的「可信路径」。"
+      ],
+      "readingA": "AI 已从产业故事变成宏观变量：它推高物价、牵动利率、重塑电力投资与排放路径。IMF 与 IEA 同日发出警告，意味着各国需要把 AI 的能源与通胀外部性纳入政策框架，而不是只把它当作增长引擎。",
+      "readingB": "AI 对通胀的贡献难以与战争导致的能源冲击剥离，IMF 自己也承认 AI 推动了超预期增长；IEA 的预测基于情景假设，且明确指出电网、供应链和地方反对可能放慢建设——这意味着用电与排放的高增长并非定局。把加息主要归因于 AI 可能夸大了它的作用。",
+      "disagree": "分歧在于：AI 应被视为新的通胀与排放来源、需要政策约束，还是一个仍在早期、其宏观影响被短期能源冲击放大的增长动力？",
+      "synthesis": "可以确定的是：两大国际机构同日把 AI 列为影响通胀、利率和能源的重要因素，但它们的数字都是预测，且与中东战争的影响交织。较稳妥的看法是：关注实际数据——各国央行下一次决议中是否明确提及 AI 需求、数据中心并网排队的变化，以及油价回落能在多大程度上抵消 AI 带来的压力。",
+      "unknown": "AI 对通胀的贡献在 IMF 测算中的具体占比；IEA 各情景的发生概率；油价回落的持续性；各国央行对 AI 因素的实际权重。",
+      "confidence": "高（IMF 讲话与 IEA 报告内容有卫报、CNBC 报道）；所涉数字均为机构预测，而非实际统计。",
+      "sources": [
+        {
+          "label": "卫报：IMF 总裁警告 AI 需求将推高全球利率",
+          "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
+        },
+        {
+          "label": "卫报：IEA 称到 2030 年数据中心碳排放将增加 70%",
+          "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+        },
+        {
+          "label": "CNBC：IEA 称数据中心用电到 2030 年可能翻倍",
+          "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+    },
+    {
+      "n": 2,
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars"
+    },
+    {
+      "n": 3,
+      "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html"
+    },
+    {
+      "n": 4,
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+    },
+    {
+      "n": 5,
+      "title": "Kushner says Russia ‘comfortable’ with NATO-like guarantees for Ukraine",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine"
+    },
+    {
+      "n": 6,
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"
+    },
+    {
+      "n": 7,
+      "title": "Anthony Zurcher: Trilateral summit high on spectacle, short on substance",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro"
+    },
+    {
+      "n": 8,
+      "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china"
+    },
+    {
+      "n": 9,
+      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html"
+    },
+    {
+      "n": 10,
+      "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo"
+    },
+    {
+      "n": 11,
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/"
+    },
+    {
+      "n": 12,
+      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests"
+    },
+    {
+      "n": 13,
+      "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html"
+    },
+    {
+      "n": 14,
+      "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html"
+    },
+    {
+      "n": 15,
+      "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html"
+    },
+    {
+      "n": 16,
+      "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas"
+    },
+    {
+      "n": 17,
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html"
+    },
+    {
+      "n": 18,
+      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html"
+    },
+    {
+      "n": 19,
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+    },
+    {
+      "n": 20,
+      "title": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar"
+    },
+    {
+      "n": 21,
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+    },
+    {
+      "n": 22,
+      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126"
+    },
+    {
+      "n": 23,
+      "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected"
+    },
+    {
+      "n": 24,
+      "title": "AI demand will push up interest rates around the world, IMF head warns",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec"
+    },
+    {
+      "n": 25,
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns"
+    },
+    {
+      "n": 26,
+      "title": "Data center electricity use could double by 2030, IEA says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html"
+    },
+    {
+      "n": 27,
+      "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+    },
+    {
+      "n": 28,
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+    },
+    {
+      "n": 29,
+      "title": "US appeals court lets Trump end TPS deportation protections for Venezuelans",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/19/us-appeals-court-lets-trump-end-tps-deportation-protections-for-venezuelans"
+    },
+    {
+      "n": 30,
+      "title": "Haiti police say at least 34 suspected gang members killed in raid",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid"
+    },
+    {
+      "n": 31,
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo"
+    },
+    {
+      "n": 32,
+      "title": "EU-UK talks going down to the wire, says No 10",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go"
+    },
+    {
+      "n": 33,
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+    },
+    {
+      "n": 34,
+      "title": "Google is putting AI chats right on the homepage",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+    },
+    {
+      "n": 35,
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+    },
+    {
+      "n": 36,
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/"
+    },
+    {
+      "n": 37,
+      "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html"
+    },
+    {
+      "n": 38,
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html"
+    },
+    {
+      "n": 39,
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/"
+    },
+    {
+      "n": 40,
+      "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games"
+    },
+    {
+      "n": 41,
+      "title": "S&P 500 heads for 6th straight decline. Plus, J&J advances two key products",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/19/sp-500-heads-for-6th-straight-decline-plus-jj-advances-two-key-products.html"
+    },
+    {
+      "n": 42,
+      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html"
+    }
+  ]
+}
