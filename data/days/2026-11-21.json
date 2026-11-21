@@ -1,0 +1,500 @@
+{
+  "date": "2026-11-21",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/20 约 08:10，即 UTC 11/20 00:10）至本期（11/21 约 08:10，UTC 11/21 00:10），约 24 小时，覆盖欧美周五（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，窗口内共约 207 条标题。正文以直接抓取的原文为主。",
+  "thinDay": false,
+  "thinDayNote": "本期不属于薄日：周五硬新闻充足，7 条中 3 条为新话题（英欧「重置」协议；白宫撤换网络总监与 CISA 提名受阻；《GTA 6》创纪录首日销售），其余为深圳返程记者会、AI 抛售与 Anthropic 次日交易、英伟达听证与芯片政策、乌克兰/刻赤大桥的实质性续报。需注意：第 2 条 Anthropic 收盘跌幅 BBC/CNBC 报 8.5%、NPR 报 9.1%；路透社关于英伟达会计问题的报道未经 BBC 独立证实；第 1 条 AI「联合护栏」的军事表述主要来自贝森特对 CNBC 的转述，海外数据中心税尚无细节；第 5 条刻赤铁路段是否永久失效仍不明确。本窗口之后关注：COP31 周六谈判文本、护栏与「巨额税」是否形成书面政策、12 月 1 日黄仁勋众议院闭门问询及参议院公开听证日期、英欧协议立法文本。",
+  "vsYesterday": "相对上一期（11/20）：特朗普已举行返程白宫记者会，宣布与习近平为「超级智能」设立「联合护栏」、威胁对海外数据中心征收「巨额税」，并称与习近平面谈及黄仁勋（续报深圳三方会晤与英伟达风波）；周五 AI 板块大跌，纳斯达克年内转负，Anthropic 次日回吐部分首日涨幅，承销商行使超额配售（续报市场与 IPO）；黄仁勋将在参议院银行委员会公开作证（续报）；俄军袭击基辅桥梁，作为对刻赤大桥遇袭的报复（续报）。新话题：英欧布鲁塞尔「重置」协议；白宫撤换国家网络总监、蒂利斯阻截 CISA 提名人；《GTA 6》公布创纪录首日销售额。国际法院缅甸裁决、加沙黄线、参议院战争权力决议、IMF/IEA 警告等上期话题本窗口主要为跟进或评论，未再写入正文；COP31 谈判超时、加沙无人机袭击致七人死亡、拜耳 Roundup 和解、YouTube 据报 30 亿美元和解、参议院通过数据中心许可改革法案等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：全球/科技",
+      "title": "特朗普返程白宫记者会：称深圳三方会晤「极为成功」，但报道指具体成果有限；宣布与习近平商定为「超级智能」设立「联合护栏」，并威胁对海外建设数据中心的美企征收「巨额税」，同时承认尚未告知内阁；为与普京的关系辩护，指伊朗谈判缺乏诚意，并称若再来一次仍会开战",
+      "facts": [
+        "会晤评估：特朗普周五在白宫新闻发布厅举行返程后记者会，身旁有副总统万斯和国务卿鲁比奥，财政部长贝森特、国防部长赫格塞斯及新任白宫幕僚长米勒亦在场（半岛电视台、NPR）。他称此次亚洲之行——包括与习近平、普京的三方会晤——是巨大成功，并把会晤称为「多年来最重要的国际峰会之一」和「首开先河的三方和平协议」。NPR、CNBC 和半岛电视台均指出，记者会上几乎没有公布超出周四「迈向和平的元首宣言」的新的可核实成果，核风险话题仍是「继续讨论」的约定。欧亚集团总裁伊恩·布雷默周五在 CNBC 称，「场面令人印象深刻，但没有发生太多事情」。",
+        "AI 护栏：NPR 报道，特朗普在讲话中宣布，他与习近平同意为人工智能（他称为「超级智能」）设立「联合护栏」。特朗普说：「问题是，它可能太超前了。所以习近平主席和我同意，我们两个人要搞一些联合护栏。」NPR 称这与他此前反对监管、认为监管会扼杀创新并帮助中国的立场形成对比；目前没有公布护栏的内容、时间表或实施方式。贝森特对 CNBC 称，双方「同意人类应始终参与超级智能作出的任何军事决定，超级智能不得在重大军事行动中自主运行」。",
+        "数据中心：特朗普称不会允许美国公司在海外建设数据中心，否则将面临「巨额税」或「巨额惩罚」。他说：「我不知道这算不算突发新闻，但我还没对我的人说过。不过我现在告诉他们，他们就在这里。」BBC 指出，Meta 已在加拿大阿尔伯塔省破土动工，Anthropic 已签署租用新斯科舍拟建数据中心的长期协议；CNBC 称 Alphabet、亚马逊、微软、Meta 和甲骨文等已在海外建有数据中心。CNBC 全美经济调查称，64% 登记选民反对在住所 10 英里内建设 AI 数据中心，仅 13% 支持。特朗普同时呼吁社区「让他们付钱……但不要把它们拒之门外」。",
+        "普京与伊朗：被问及普京是否算美国的「朋友」时，特朗普说「我不能代表美国说话」，但称与普京、习近平都有「极好的关系」，「我们的国家因此更安全」（卫报、半岛电视台）。他指责伊朗谈判缺乏诚意，称这场战争即将满 10 个月：「他们想达成协议，但不想达成我能接受的协议。」关于万斯把共和党中期选举惨败归咎于伊朗战争，特朗普称可以接受，并说若被问「会不会再打一次」，「答案绝对是会，因为我们不能允许伊朗拥有核武器」（卫报）。卫报还称，他被问及伊朗可能在华盛顿引爆「脏弹」的报道时称之为「传言」，并说「如果他们这样做，我们会反击」。",
+        "马尼拉：NPR 称特朗普在前往中国前于马尼拉与泰国签署贸易协议，文件标志着谈判「实质结束」，细节仍在敲定。"
+      ],
+      "readingA": "记者会把周四那份空泛宣言落到了两个可检验的新方向上：中美开始谈 AI 安全护栏（至少在军事自主性上有了共同表述），以及把数据中心留在美国的产业政策。即便细节未定，总统当着内阁的面把意向说出来，本身就会改变企业的选址计算。",
+      "readingB": "所谓「成功」主要是重新包装已发表的宣言。护栏没有文本、时间表或执行机制；海外数据中心税连内阁都是第一次听说，而多家美企已在海外动工或签约。对普京关系的辩护和对伊朗「再打一次」的表态，说明深圳会晤并没有改变两场战争的轨迹。",
+      "disagree": "分歧在于：这次记者会应被读作政策转向的起点，还是一场以姿态填补成果真空的表演？关键在于护栏和「巨额税」会不会变成可执行的规则。",
+      "synthesis": "可以确定的是：特朗普举行了返程记者会，宣布了与习近平的 AI 护栏意向和尚未成形的海外数据中心惩罚，并对普京关系和伊朗战争作了辩护；深圳宣言之外，几乎没有新的可核实协议。较稳妥的看法是：先把这两项宣布当作政治信号，等白宫或相关部门拿出具体文本后再判断其约束力。",
+      "unknown": "护栏由谁起草、是否包括核与军事之外的内容；「巨额税」的税率、法律依据和对已在建项目是否追溯；泰国贸易协议的具体条款。",
+      "confidence": "高（记者会内容有 NPR、BBC、CNBC、卫报、半岛电视台交叉报道）；护栏的军事表述目前主要来自贝森特对 CNBC 的转述，中等偏高。",
+      "sources": [
+        {
+          "label": "NPR：特朗普称赞与习近平、普京的会晤，但拿出的具体成果有限",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+        },
+        {
+          "label": "BBC：特朗普威胁禁止美企在海外建设 AI 数据中心",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+        },
+        {
+          "label": "卫报：特朗普威胁对海外建设数据中心的美企施加「巨额惩罚」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        },
+        {
+          "label": "CNBC：特朗普称将阻止美企在海外建数据中心并征收「巨额税」",
+          "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+        },
+        {
+          "label": "半岛电视台：特朗普为与普京的关系辩护，并警告数据中心必须留在美国",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "新话题：科技/市场",
+      "title": "周五 AI 抛售：标普 500 收跌 3.7% 进入技术性回调，纳斯达克跌 5.3%、年内收益全部回吐并转为下跌；英伟达收跌约 14%，连续第七周下跌为 2008 年金融危机以来最长，七周市值约蒸发 2.6 万亿美元；Anthropic 次日收跌约 8.5%–9.1%，承销商行使超额配售后 IPO 募资额升至 935 亿美元",
+      "facts": [
+        "美股指数：NPR 报道，标普 500 指数收跌 3.7%（下跌 265.44 点，收于 6910.39），自 10 月 6 日历史高点回落超过 10%，进入技术性回调，并录得逾 18 个月来最差一周；纳斯达克综合指数收跌 5.3%（下跌 1261.47 点，收于 22617.73），年内由涨转跌，单周跌幅接近 2020 年 3 月疫情暴发以来最差水平；道琼斯工业平均指数收跌 1.9%（下跌 949.73 点，收于 48147.33），BBC 称标普与道指均进入回调。10 年期美国国债收益率自周四尾盘的 5.04% 降至 4.93%；布伦特原油上涨 0.6%，收于每桶 92.57 美元（NPR）。",
+        "芯片与科技股：NPR 称费城半导体指数跌 10.7%。英伟达收跌 13.8%（BBC 称 13.7%，CNBC 称约 14%），为过去 10 个交易日中第 9 个下跌日，并连续第七个交易日、连续第七周收跌，为 2008 年以来最长的周线连跌。CNBC 称这七周股价累计下跌 46%，市值约减少 2.6 万亿美元，目前市值约 3 万亿美元，排在苹果、微软和 Alphabet 之后；远期市盈率约 8.4 倍，而 AMD 约 29 倍。AMD 收跌 13.3%，美光跌 13.9%，博通跌 12.1%（NPR）。路透社周五报道美国证交会正在探究英伟达的潜在会计问题，BBC 称该报道未经其独立证实；此前已有《华尔街日报》报道存在相关调查。",
+        "Anthropic 次日：周四开盘 111.50 美元、收于 97.17 美元（较 83 美元发行价上涨 17%）。周五 BBC 与 CNBC 称收跌 8.5%，盘中一度跌逾 12% 至约 85 美元、接近发行价；NPR 称收跌 9.1%，收于 88.30 美元，较周四盘中高点 115.10 美元回落约 23%。CNBC 周五称承销商已行使超额配售（「绿鞋」），额外出售 1.47 亿股，IPO 募资总额由 813 亿美元增至 935 亿美元；另有包括 AMD、谷歌、微软、英伟达等参与的 260 亿美元同期私募。公司称 IPO 加私募的合计总募资额为 1195 亿美元（未扣除发行费用）。贝森特称 Anthropic 是「只可能发生在美国的故事」，并称其在向政府预检模型方面「非常合作」。",
+        "全球联动：日本软银集团周五收跌 14.48%，为 2024 年 8 月以来最差一日（CNBC）；其对 OpenAI 累计投资 646 亿美元，10 月跌 30%，本月迄今再跌 31%。日经指数与韩国综合指数隔夜均跌逾 5%，韩国综指收跌 5.21%；东京电子跌 7.06%，SK 海力士跌 5.92%，三星电子跌 7.01%，台积电跌 4.76%。卫报称富时 100 本周下跌 5.1%，为伊朗战争爆发以来最大单周跌幅；比特币跌破 6 万美元，为 7 月初以来首次。CNBC 援引 AlphaSense 策略师埃德·莫亚称，华尔街正从「不惜代价奖励增长」转向要求更强的现金流和更清晰的盈利路径。"
+      ],
+      "readingA": "这是一次对估值和叙事的集中修正：纳斯达克吐掉全年涨幅、英伟达出现 2008 年以来最长周线连跌，说明市场不再愿意为「AI 基建无限扩张」支付任何价格。Anthropic 再创纪录的募资并没有提振板块，反而提醒投资者：一家尚未盈利的公司无法独立支撑整个产业链的估值。",
+      "readingB": "单日和单周的剧烈波动，部分是黄仁勋事件、加息预期和中期选举后监管转向叠加的结果，不等于 AI 需求消失。Anthropic 仍高于发行价，贝森特仍在为它背书，且公司通过绿鞋和私募拿到了逾千亿美元现金。回调也可能是中长期买点，而不是故事的终结。",
+      "disagree": "分歧在于：周五的跌势是 AI 投资逻辑的转折，还是一次被个别公司风险放大的风险溢价重定价？",
+      "synthesis": "可以确定的是：周五出现了覆盖美股、亚洲芯片股和 Anthropic 次日交易的同步抛售，标普进入回调、纳斯达克年内转负，英伟达录得 2008 年以来最长连跌周。较稳妥的看法是：把这次下跌视为对「增长不计代价」定价方式的修正，真正的检验还要看后续资本开支指引、融资成本和英伟达在黄仁勋离职后的执行情况。",
+      "unknown": "路透社所报证交会会计问题调查的范围与进展；Anthropic 锁定期与后续供给；软银若需进一步为 OpenAI 出资将如何融资。",
+      "confidence": "高（主要指数与个股收盘数据有 NPR、BBC、CNBC 交叉报道）；Anthropic 收盘跌幅两家媒体略有出入（8.5% 对 9.1%）；证交会会计问题报道尚未被 BBC 独立证实，中等偏低。",
+      "sources": [
+        {
+          "label": "NPR：标普 500 收跌 3.7%，纳斯达克年内转负",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+        },
+        {
+          "label": "CNBC：英伟达收跌约 14%，连续第七周下跌为 2008 年以来最长",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+        },
+        {
+          "label": "BBC：科技股抛售拖累市场，Anthropic 股价下滑",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+        },
+        {
+          "label": "卫报：纳斯达克回吐 2026 年全部涨幅，Anthropic 次日承压",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        },
+        {
+          "label": "CNBC：承销商行使超额配售，Anthropic IPO 募资总额升至 935 亿美元",
+          "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+        },
+        {
+          "label": "CNBC：软银收跌 14.48%，为两年多来最差一日",
+          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "续报：科技/AI",
+      "title": "特朗普称与习近平谈到对黄仁勋的「共同好感」并再次希望他获「第二次机会」；贝森特称与中方官员的单独会谈未提及黄、且 H200 对华销售政策未变；参议院银行委员会确认黄仁勋将公开作证（日期未定，主席希望圣诞节前）；特朗普表示并未对商务部长拉特尼克失去信心",
+      "facts": [
+        "与习近平面谈：CNBC 称，特朗普周五说，他与习近平在华会谈中讨论了两人对前英伟达 CEO 黄仁勋的「共同好感」。财政部长贝森特同日早些时候在 CNBC 节目中被问及与中方的会谈是否提到黄仁勋时，回答「没有」，未作进一步解释。",
+        "「第二次机会」：特朗普在记者会上再次表示希望看到黄仁勋重回 CEO 职位：「我很希望詹森能得到第二次机会。我们是一个给第二次机会的国家……那是对我们非常重要的一家公司，他让我们比其他公司领先了整整十年。」CNBC 本周早些时候引述知情人士称，英伟达董事会不考虑让他复职（上期已报）。",
+        "芯片政策：贝森特对 CNBC 表示，允许向中国出售英伟达 H200 的政策在深圳会谈后「按原计划继续」：「我们已经同意，H200 是可以卖给中方的门槛级别芯片。」在被指出英伟达已表示停止对华销售 H200 后，他说「预计政策不会有任何变化」。特朗普在记者会上称，他只希望向中国出售「较旧的芯片」，也「可以接受」完全不卖，但提醒「中国自己也会造芯片」。",
+        "拉特尼克：特朗普被问及参议员汤姆·科顿（共和党，阿肯色州）对《华尔街日报》表示，若要撤换商务部长霍华德·拉特尼克，应赶在民主党掌控参议院之前完成确认时说：「汤姆是对的……但我并没有失去信心。」他称拉特尼克「不是传统那一类人，但是很好的商人」，并赞扬其推动美国入股英特尔。",
+        "国会作证：参议院银行委员会主席蒂姆·斯科特的发言人周五向 CNBC 确认，黄仁勋出席该委员会时将公开作证。斯科特本周早些时候已确认黄同意出席，但日期未宣布；他曾希望黄在 12 月 3 日出席，并告诉 CNBC 希望在圣诞节前听到黄和拉特尼克的证词。新一届国会定于 1 月 3 日开议，预计民主党参议员伊丽莎白·沃伦将接任银行委员会主席。黄仁勋还已与三个众议院委员会达成协议，于 12 月 1 日进行闭门、有记录的问询。",
+        "管理风格报道：TechCrunch 转述《纽约时报》报道称，有员工指黄仁勋以表扬和恐惧管理，并对下属使用极度羞辱性言辞；2005 年前任人力资源主管迈克尔·温斯顿曾威胁起诉，英伟达向其支付逾 100 万美元。黄的发言人称为捏造。数千名员工此前联署要求他回归。"
+      ],
+      "readingA": "总统当众谈及与习近平分享对黄仁勋的好感、并再次呼吁复职，等于把公司人事问题提升到外交层面；与此同时 H200 政策不变、拉特尼克留任，说明政府对「继续对华出售相对高端芯片」的路线并未因丑闻而收紧。即将到来的公开听证，将迫使这些矛盾被记录在案。",
+      "readingB": "「讨论共同好感」与贝森特「我这边没谈」可以同时成立，并不等于中美就此达成了什么安排。董事会已排除复职，公开作证日期未定，而《纽约时报》的管理风格报道会进一步加大让他回归的政治成本。政策「不变」也可能只是在调查和国会换届前的拖字诀。",
+      "disagree": "分歧在于：白宫是在保护一条既定的对华芯片与产业政策，还是在把个人关系置于出口管制和公司治理之上？",
+      "synthesis": "可以确定的是：特朗普公开说与习近平谈到了黄仁勋并希望他回归，贝森特则强调 H200 政策未变、自己与中方未谈及黄；参议院将安排公开听证，但日期未定。较稳妥的看法是：在 12 月 1 日众议院闭门问询和参议院公开听证举行之前，把复职可能性视为低、把出口政策视为「口头上未变」，同时关注新国会 1 月换届后的调查力度。",
+      "unknown": "特朗普与习近平谈话的具体内容；公开听证日期；证交会调查与加州传票的进展；H200「政策未变」与英伟达已停售之间如何衔接。",
+      "confidence": "高（记者会表态、贝森特采访和委员会确认有 CNBC 直接报道）；与习近平谈话的细节为特朗普单方表述；《纽约时报》管理风格报道目前经 TechCrunch 转述，英伟达方面否认，中等。",
+      "sources": [
+        {
+          "label": "CNBC：特朗普称与习近平谈到黄仁勋；贝森特称芯片出口政策未变",
+          "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+        },
+        {
+          "label": "CNBC：特朗普称仍对拉特尼克有信心",
+          "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
+        },
+        {
+          "label": "CNBC：黄仁勋将在参议院银行委员会公开作证",
+          "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html"
+        },
+        {
+          "label": "TechCrunch：黄仁勋去职背后，关于「恐惧管理」风格的提问",
+          "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "新话题：欧洲",
+      "title": "伯纳姆在布鲁塞尔与冯德莱恩、科斯塔宣布英欧「重置」协议：减少食品进出口检查、衔接碳排放交易、设立青年交流计划；首相称合计可带来约 0.5%、每年约 170 亿英镑的增长，政府评估食品部分到 2040 年约 50 亿英镑（0.14%）；超市欢迎但未承诺降价；欧盟学费问题改走「另一张纸」谈判，相关立法下周提交议会",
+      "facts": [
+        "协议内容：英国首相安迪·伯纳姆周五在布鲁塞尔与欧委会主席乌尔苏拉·冯德莱恩、欧洲理事会主席安东尼奥·科斯塔举行记者会，宣布一项涵盖食品检查、碳排放交易衔接和青年交流计划的协议（卫报、BBC）。伯纳姆称，这不是 2016 年的英国和欧盟，「生活在很多方面已经向前走了」，并把青年交流计划形容为送给被公投和疫情剥夺选择的一代人的「希望」。",
+        "经济评估：BBC 经济主编费萨尔·伊斯兰报道，政府评估称食品、碳排放和青年交流等安排合计可使经济获得约 0.5%、每年约 170 亿英镑的提振，高于近年来与澳大利亚、印度、日本、海湾和跨太平洋等协议的评估总和；其中食品部分到 2040 年约 50 亿英镑，或 0.14%。伯纳姆称 0.5% 的长期年增长贡献比其他任何单项措施都大。供电合作协议尚未达成，且需要向欧盟用于较贫穷地区的预算缴款。",
+        "食品与价格：玛莎百货董事总经理亚历克斯·弗洛伊德曼称协议是「重大进展」，并举例说把林肯郡的意面肉酱送到都柏林货架上目前需要「数百英里额外路程、大量文件、兽医签字，甚至还要写奶牛的拉丁文名」。特易购 CEO 肯·墨菲称「对英国农民和生产者是好消息」。但两家均未承诺因此降价。政府评估称 2019 年以来农产品出口实际价值下降 24%，其中一部分有望通过减少手续收回。批评者指出评估未计入需与欧盟法规对齐的代价，例如农药规定。",
+        "学费争议：一名欧盟官员早间向记者表示，青年流动、食品出口和碳排放安排的落实，将取决于英国在六个月内同意降低欧洲学生在英学费；该说法随后被其他欧盟人士淡化，并遭到英国政府直接反驳。冯德莱恩后来称之为写在「另一张纸」上的并行谈判（BBC）。",
+        "政治后续：卫报称，落实该协议的法案将于下周提交议会；工党首席党鞭安内莉丝·米奇利到场。伯纳姆公开向反对者叫板：「谁会拒绝这个？」奈杰尔·法拉奇在附近举行回应记者会。保守党发表谴责声明，但更多是批评伯纳姆「重揭旧日分裂」，而非针对条款。峰会前关于进一步靠近欧盟的议论，被改成较为含糊的「头脑风暴」，英方官员称任何下一步都可能需要数月。"
+      ],
+      "readingA": "这是脱欧十年来最实质性的一次关系修复：食品检查、碳市场和青年流动都是可落地的安排，政府评估的 0.5% 增长虽不算奇迹，但已超过此前多份贸易协定的总和。民意和议会多数已与 2016 年不同，伯纳姆选择把协议直接送进议会，是在把「向前走」变成法律。",
+      "readingB": "食品降价只是希望而非承诺，供电协议尚未谈成，学费问题被刻意拆到「另一张纸」上，说明核心交换——以监管对齐换取市场便利——仍然敏感。0.5% 是长期评估，不是明年就会出现在收据上的数字；若后续被当成「单一市场蓝图」，宪政争议可能很快盖过经济数字。",
+      "disagree": "分歧在于：这份协议是务实的成本削减，还是重新对齐欧盟规则的起点？",
+      "synthesis": "可以确定的是：英欧已宣布食品检查、碳市场衔接和青年交流三项安排，并计划下周立法；经济增长评估是政府自己的测算，超市并未承诺降价，学费问题仍在另轨谈判。较稳妥的看法是：先把它视为减少部分贸易壁垒的有限重置，立法文本和学费谈判结果出来后再判断它会不会成为更广泛对齐的模板。",
+      "unknown": "三项安排的生效时间和法律文本；青年交流的人数与停留期限；学费谈判会否反噬协议；供电协议的缴费规模。",
+      "confidence": "高（峰会与协议框架有卫报、BBC 交叉报道）；0.5% 与 50 亿英镑为政府评估，不是已实现的增长。",
+      "sources": [
+        {
+          "label": "卫报：伯纳姆在布鲁塞尔押注更紧密的英欧关系",
+          "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
+        },
+        {
+          "label": "BBC：这项削减成本的英欧协议，并不意味着价格一定会下降",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo"
+        },
+        {
+          "label": "BBC：伯纳姆首次体验欧盟交易，似乎还想要更多",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：欧洲/乌克兰",
+      "title": "乌克兰称对刻赤大桥发动第四次、也是最复杂的行动，公路桥面垮塌、铁路段或已中断；俄军随后以弹道导弹袭击基辅三座桥梁等，泽连斯基称为战争中「规模最大的袭击之一」，至少 9 人死亡；克里姆林宫反驳美方关于俄方可能接受西式安全保障的说法；丹麦宣布驱逐俄国防武官，指有人密谋暗杀美籍乌克兰说唱歌手",
+      "facts": [
+        "刻赤大桥：半岛电视台报道，乌克兰称对刻赤大桥的第四次、也是最复杂的行动在三天内摧毁公路段，并可能重创铁路段。总参谋部称「来自俄领土的短途补给线已被摧毁」。11 月 16 日无人机破坏桥面并损及拱跨；17 日安全局称用「Palyanytsia」自杀式无人机击中公路段并致其垮塌；泽连斯基称「海王星」「火烈鸟」导弹和 Ruta 无人机打击了铁路跨；18–19 日再次以「海王星」打击铁路段，铁路运输暂停，是否永久失效尚不清楚。俄国防部称在约 48 小时内拦截 4305 架乌克兰无人机，而此前一周日均约 882 架。普京称这是对「纯民用设施」的打击，「我们甚至没有通过这座桥运输石油或成品油」；乌方称大桥是运送燃料、弹药、装备和人员的「战争机器」。乌方还打击了 M-14 罗斯托夫–克里米亚公路以及亚速、伊利斯基、阿菲普斯基等地的炼厂和油库。",
+        "对基辅等地的报复：BBC 报道，俄军夜间以弹道导弹打击基辅的波迪尔斯科–沃斯克列先斯基桥、达尔尼茨基桥和南桥，三座桥均关闭。泽连斯基称为战争迄今「规模最大的袭击之一」，俄方发射 110 余枚导弹和 400 多架攻击无人机，并以每 20–30 分钟一波的方式增加灭火和抢修难度。目前确认至少 9 人死亡（基辅 7 人、利沃夫 2 人）、至少 28 人受伤；利沃夫斯克尼利夫火车站严重受损。市长克利奇科呼吁非必要不要开车进城。袭击发生在伯纳姆、马克龙、默茨等欧洲领导人表示愿与莫斯科谈判之后，也正值克里姆林宫反驳美方关于俄方可能接受西式对乌安全保障的说法（BBC）。",
+        "丹麦：丹麦安全情报局称，已阻止一场原定于 9 月 25 日音乐会上暗杀说唱歌手 Kyivstoner（真名阿尔伯特·瓦西里耶夫）的图谋；三人在场地附近的车中被截获，车上有枪支和刀具，其中两人被控谋杀未遂和协助外国情报机构，均不认罪，据称与被禁帮派 Loyal to Familia 有关。外交大臣拉斯·勒克·拉斯穆森宣布驱逐俄罗斯国防武官，令其 7 日内离境，并称这是俄方的「恐吓」。俄罗斯大使馆称指控「没有根据」，俄方称将作出「相应」回应。今年 7 月俄安全局曾指控瓦西里耶夫和乌克兰当局组织袭击俄军事设施，本人予以否认（BBC）。"
+      ],
+      "readingA": "乌克兰对刻赤大桥的持续打击显示它仍能袭扰俄方最象征、也最关键的补给线；俄方把报复打到基辅市内桥梁，说明普京周四「更痛苦的回应」并非空话。与此同时，欧洲一边说准备谈判，一边面对新的城市袭击和丹麦的暗杀指控，很难在没有安全保障的情况下让步。",
+      "readingB": "大桥铁路段是否真正瘫痪仍不清楚，俄方也可以改走陆地线路。对基辅桥梁的打击造成平民伤亡，但未必改变前线力量对比。美方关于俄接受「第五条式」保障的说法继续只有单方转述，克里姆林宫现已公开反驳，深圳会晤留下的那条缝隙可能正在收窄。",
+      "disagree": "分歧在于：这些袭击是把谈判推得更远，还是在谈判前各自展示筹码？",
+      "synthesis": "可以确定的是：乌克兰对刻赤大桥的公路段造成了严重破坏，俄军随即对基辅桥梁和交通设施发动大规模袭击并造成人员死亡；丹麦以暗杀图谋为由驱逐俄武官。较稳妥的看法是：把这些事件视为周四会晤后的一线现实——外交辞令并未换来战场停火，安全保障是否可谈，仍要看俄方是否公开改口。",
+      "unknown": "刻赤铁路桥是否已无法使用；基辅三座桥梁的结构损伤程度；丹麦案件中俄方角色的法庭证据；克里姆林宫对库什纳说法的正式立场全文。",
+      "confidence": "高（基辅遇袭有 BBC 详细报道）；刻赤大桥损毁程度主要依据乌方战报和俄方部分承认，铁路段是否永久失效仍不确定，中等。",
+      "sources": [
+        {
+          "label": "BBC：俄军在刻赤大桥遇袭数日后打击基辅桥梁",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+        },
+        {
+          "label": "半岛电视台：乌克兰打击刻赤大桥，普京盟友称「没有人需要欧洲」",
+          "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs"
+        },
+        {
+          "label": "BBC：丹麦指责俄罗斯密谋暗杀美籍乌克兰说唱歌手",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "新话题：美国/科技",
+      "title": "白宫在连续技术故障后撤换国家网络总监凯尔克罗斯，由已获参议院确认的国防部首席信息官戴维斯暂代；有消息称总统幕僚长米勒推动此事。共和党参议员蒂利斯另对特朗普提名的网络安全与基础设施安全局负责人洛萨皮奥发出阻挠，因其在听证会上否认 2021 年 1 月 6 日国会山遭到「袭击」",
+      "facts": [
+        "网络总监：BBC 和 CNBC 报道，白宫国家网络总监肖恩·凯尔克罗斯离任，国防部首席信息官克斯滕·戴维斯出任代理总监。该职位向总统提供网络安全建议并协调跨部门政策，常任人选须由总统提名、参议院确认。Axios 率先报道此事；CNBC 引述两名白宫官员称，此事由幕僚长斯蒂芬·米勒推动。一名了解白宫想法的消息人士对 CNBC 称，总统完全支持解职，理由是凯尔克罗斯「缺乏担任该职所需的过硬网络资历」，而戴维斯「具备胜任的资历且已经参议院确认」。白宫拒绝置评。戴维斯周四晚在 X 上发文感谢米勒和特朗普的信任。赫格塞斯和鲁比奥均表示祝贺。",
+        "故障背景：此事发生在一系列高调技术故障之后，包括全国范围航空停飞、微软 Outlook 全球中断，以及国家安全局内部机密通信网络据报中断。白宫坚称没有协同网络攻击或国家支持活动的迹象；鲁比奥本周早些时候称「零证据」显示这些故障相互关联，「我们没有遭受系统性攻击」。",
+        "CISA 提名：卫报报道，即将卸任的北卡罗来纳州共和党参议员汤姆·蒂利斯向 HuffPost 确认，他已对特朗普提名担任网络安全与基础设施安全局（CISA）负责人的迈克尔·洛萨皮奥发出阻挠（hold），使其无法纳入下月共和党失去参议院多数前的一揽子表决。洛萨皮奥是 Palantir 的首席信息安全官；周四听证会上，民主党参议员理查德·布卢门撒尔问「2021 年 1 月 6 日国会山是否遭到袭击」，他先称「我不知道」，随后说「不，我不认为那是袭击」。蒂利斯对 The Hill 称这个问题是「非此即彼」的，「一旦你假装它不存在，或甚至不能承认它，我就没时间了，因为这不是一个很会思考的人」。CISA 职责包括保护选举基础设施。"
+      ],
+      "readingA": "在连续发生影响航空、邮件和情报网络的故障后更换网络总监，是对公众焦虑的直接回应，改由已获确认、有国防部资历的人暂代，至少在程序上说得通。蒂利斯挡住一名否认 1 月 6 日袭击的 CISA 提名人，也说明选举安全机构的负责人不能在基本事实上含糊其辞。",
+      "readingB": "解职消息把责任指向个人资历，但白宫同时坚称这些故障并非攻击，也尚未公布更完整的技术调查结论。CISA 正是 2020 年后被特朗普持续攻击的机构，在换届前用人事斗争锁定岗位，可能使两个关键网络职位在民主党即将掌控国会之际同时处于代理或空窗状态。",
+      "disagree": "分歧在于：这是对故障问责和规范提名，还是一场加剧机构空窗的政治清洗？",
+      "synthesis": "可以确定的是：国家网络总监已被撤换、由戴维斯代理；蒂利斯因 1 月 6 日相关表态阻挠了 CISA 提名人的确认。较稳妥的看法是：把前者视为对近期故障的人事回应，把后者视为参议院在换届前的一次实质性卡关；两个岗位的常任安排，都要等到提名和投票重新启动之后才能看清。",
+      "unknown": "凯尔克罗斯离职是否还有未公开原因；近期故障的最终技术结论；CISA 提名在阻挠后是否会被撤回或改提他人。",
+      "confidence": "中高（离职与代理安排有 BBC、CNBC 报道）；米勒推动和解职理由来自匿名官员或消息人士；蒂利斯阻挠有其本人对媒体的确认，高。",
+      "sources": [
+        {
+          "label": "BBC：白宫在一系列技术故障后撤换网络安全负责人",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo"
+        },
+        {
+          "label": "CNBC：肖恩·凯尔克罗斯离任，戴维斯出任代理国家网络总监",
+          "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
+        },
+        {
+          "label": "卫报：共和党参议员因 1 月 6 日相关表态阻挠特朗普网络提名人",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "新话题：科技/文化",
+      "title": "《GTA 6》首日零售销售额约 37.9–38 亿美元，Take-Two 与 Rockstar 称为「任何媒介娱乐发行史上最高纪录」；预售 3250 万份；前作《GTA 5》曾以五天 11.5 亿美元保持游戏首周纪录",
+      "facts": [
+        "首日成绩：BBC 报道，Take-Two（Rockstar 母公司）周五称，《侠盗猎车手 6》（GTA 6）首个完整发行日零售销售额达 38 亿美元（约 29 亿英镑），统计截至周四结束，为「任何媒介娱乐」的纪录。The Verge 援引 Rockstar 公告称首日 37.9 亿美元，并预售 3250 万份。Rockstar 总裁兼创始人山姆·豪泽称「怀着巨大的感激进入新篇章」。BBC 称今年迄今全球票房最高的电影《蜘蛛侠：全新之夜》全程约为 25 亿美元。前作《GTA 5》曾以五天 11.5 亿美元保持游戏史最佳开周纪录。",
+        "发行与成本：游戏于周四发行，故事发生在以佛罗里达为原型的「里奥尼达」，主角为露西娅和杰森。BBC 称开发成本估计超过 10 亿美元，可能成为史上最昂贵的电子游戏。Sensor Tower 称约四分之三销量来自 PS5，其余为 Xbox，并预计该作将使玩家在其他单机游戏上的时间减少 10%。Niko Partners 预计该作今年全球销售额将超过 30 亿美元。Cloudflare 称英国 PS5 下载量在发行前后达到平常的 8.6 倍，新西兰在正式开卖前四小时出现 14.8 倍流量高峰（有玩家切区抢先），澳大利亚 Rockstar 在线服务流量达平常 11.2 倍。",
+        "社会反应：卫报报道，美国一些警察部门提醒玩家「把游戏留在游戏里」。"
+      ],
+      "readingA": "38 亿美元的首日成绩说明，即便在 AI 和宏观不稳定的一周，全球大众娱乐的付费需求依然极其旺盛。它也证明长期制作、高成本 3A 游戏在流媒体时代仍能创造比绝大多数电影更大的单日商业事件。",
+      "readingB": "首日数字包含大量预售，不能直接外推为全年利润；超 10 亿美元的开发成本和对主机平台的依赖，意味着后续必须持续高销量才能匹配预期。警察部门的提醒也说明，这款以犯罪为主题的游戏仍会带来现实争议。",
+      "disagree": "分歧在于：这首先是娱乐工业的里程碑，还是一个难以复制、对行业其他人参考价值有限的极端值？",
+      "synthesis": "可以确定的是：发行方公布的首日零售额约为 38 亿美元，并明确称为跨媒介纪录，预售 3250 万份。较稳妥的看法是：接受这是一次创纪录的发行，同时把「史上最成功」这类判断留到折扣期、在线服务收入和全年销量出来之后。",
+      "unknown": "数字中预售与首日新增的精确拆分；PC 版时间表；长期在线服务收入；是否会引发新的监管或评级争议。",
+      "confidence": "高（Take-Two/Rockstar 官方数字有 BBC 与 The Verge 交叉报道）；38 亿与 37.9 亿为同一批估计的四舍五入差异；开发成本「超过 10 亿美元」为估计。",
+      "sources": [
+        {
+          "label": "BBC：《GTA 6》单日销售 38 亿美元，称史上最大娱乐发行",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+        },
+        {
+          "label": "The Verge：Rockstar 称《GTA 6》首日销售额 37.9 亿美元",
+          "url": "https://www.theverge.com/games/1036279/gta-vi-sales"
+        },
+        {
+          "label": "卫报：美国警方提醒《GTA 6》玩家「把游戏留在游戏里」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Trump touts meeting with Xi and Putin but offers little results",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+    },
+    {
+      "n": 2,
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko"
+    },
+    {
+      "n": 3,
+      "title": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+    },
+    {
+      "n": 4,
+      "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us"
+    },
+    {
+      "n": 5,
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+    },
+    {
+      "n": 6,
+      "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html"
+    },
+    {
+      "n": 7,
+      "title": "Trump says he still has confidence in Lutnick",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html"
+    },
+    {
+      "n": 8,
+      "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html"
+    },
+    {
+      "n": 9,
+      "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+    },
+    {
+      "n": 10,
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+    },
+    {
+      "n": 11,
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    },
+    {
+      "n": 12,
+      "title": "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html"
+    },
+    {
+      "n": 13,
+      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+    },
+    {
+      "n": 14,
+      "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+    },
+    {
+      "n": 15,
+      "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html"
+    },
+    {
+      "n": 16,
+      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown"
+    },
+    {
+      "n": 17,
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/"
+    },
+    {
+      "n": 18,
+      "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit"
+    },
+    {
+      "n": 19,
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo"
+    },
+    {
+      "n": 20,
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
+    },
+    {
+      "n": 21,
+      "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs"
+    },
+    {
+      "n": 22,
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno"
+    },
+    {
+      "n": 23,
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo"
+    },
+    {
+      "n": 24,
+      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
+    },
+    {
+      "n": 25,
+      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee"
+    },
+    {
+      "n": 26,
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+    },
+    {
+      "n": 27,
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales"
+    },
+    {
+      "n": 28,
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime"
+    },
+    {
+      "n": 29,
+      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza"
+    },
+    {
+      "n": 30,
+      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation"
+    },
+    {
+      "n": 31,
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement"
+    },
+    {
+      "n": 32,
+      "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
+    },
+    {
+      "n": 33,
+      "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+    },
+    {
+      "n": 34,
+      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders"
+    },
+    {
+      "n": 35,
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+    },
+    {
+      "n": 36,
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+    },
+    {
+      "n": 37,
+      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army"
+    },
+    {
+      "n": 38,
+      "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"
+    },
+    {
+      "n": 39,
+      "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+    },
+    {
+      "n": 40,
+      "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa"
+    },
+    {
+      "n": 41,
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict"
+    }
+  ]
+}
