@@ -1,0 +1,494 @@
+{
+  "date": "2026-11-22",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/21 约 08:10，即 UTC 11/21 00:10）至本期（11/22 约 08:05，UTC 11/22 00:05），约 24 小时，覆盖欧美周六（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，窗口内共约 143 条标题（其中体育、生活类较多）。正文以直接抓取的原文为主。",
+  "thinDay": false,
+  "thinDayNote": "本期接近薄日：周六标题量较少（约 143 条，周五约 207 条），且体育、生活类占比高；但仍有 4 条新话题（黎曼猜想证明验证、联合国自主武器谈判、承包商行政令、墨西哥毒枭被捕）。需注意：第 1 条数学界的正式认可尚未完成；第 2 条入侵细节均来自匿名信源；第 4 条巴林与伊朗说法相互矛盾；第 6 条各报道伤亡与被捕人数不一致。本窗口之后关注：COP31 能否在周一前达成「安塔利亚协定」、克雷研究所对黎曼猜想的评估、FBI/农业部入侵的官方说明、卡塔尔调解的下一步。",
+  "vsYesterday": "相对上一期（11/21）：新话题：Anthropic 数学家借助 Claude 的黎曼猜想证明获两家 Lean 机构验证（上期仅在索引中列出「声称」）；联合国「杀手机器人」谈判未获约束性授权；特朗普行政令限制联邦承包商回应国会；墨西哥抓获「矮子伊西德罗」。续报：FBI 犯罪数据库和农业部遭入侵（接续技术故障与网络总监撤换）；伊朗袭击巴林、卡塔尔调解与万斯表态；克里维里赫遇袭、芬兰湾俄货轮遇袭与斯特里廷访基辅。深圳会晤、AI 抛售与 Anthropic 交易、英伟达听证、英欧协议、《GTA 6》本窗口无实质新进展，未写入正文；COP31 周六陷入僵局（各方改签航班至周一）、欧洲多国生活成本抗议、黎巴嫩总统讲话、博索纳罗住进重症监护室等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "新话题：科技/AI",
+      "title": "Anthropic 数学家阿尔普格称借助 Claude 约六周证明黎曼猜想，并以约 1700 万行 Lean 代码公开；周六下午 Lean FRO 与 Mathlib Initiative 宣布独立验证、「完全确信」证明正确；克雷数学研究所称这一宣布「具有历史意义」，但该问题在其网站上仍列为未解决",
+      "facts": [
+        "宣布：Anthropic 技术人员、土耳其裔美国数学家莱文特·阿尔普格（Levent Alpöge）周五在个人网站发布一份四页说明，称与公司的 AI 工具 Claude 合作找到了黎曼猜想的证明，历时约六周（卫报、NPR）。他写道：「这一次 Claude 在终点线附近远远超过了我……Claude 飞了起来，跳着舞，闪闪发光。」NPR 称，他在上周日深夜取得突破后，曾就「我能否宣布」询问 CEO 达里奥·阿莫代伊。",
+        "形式与验证：NPR 称，证明以约 1700 万行 Lean 代码发布（Lean 是用于编写和机器检验数学定理证明的编程语言）；阿尔普格称与 AI 的合作共产生逾 25 万页内容，并承认自己是在「尚未掌握其周边大片数学」之前就向世界呈现完整论证。卫报报道，周六下午 Lean 专注研究组织（Lean FRO）和 Mathlib Initiative 宣布已独立验证该证明：「我们完全确信阿尔普格对黎曼猜想的证明是正确的，并向他表示祝贺。」",
+        "学界反应：罗格斯大学数学系主任亚历克斯·孔托罗维奇对 NPR 说：「这是否意味着我理解了它？还没有。但计算机极其挑剔，比我挑剔得多……如果你能让计算机满意，就很有可能也让我满意。但我得自己下功夫。」克雷数学研究所所长马丁·布里德森称这是「具有历史意义的宣布」，但「从今天的宣布到真正理解，路途将漫长而艰难」；NPR 称宣布数小时后，该问题在克雷网站上仍被列为未解决，评估需要时间。",
+        "背景：黎曼猜想由伯恩哈德·黎曼于 1859 年提出，涉及素数分布，是克雷研究所 2000 年选定的七个千禧年大奖难题之一，每题奖金 100 万美元。卫报称，阿尔普格的说明发布于 Anthropic 纳斯达克上市次日，他写道「时机糟透了，如果可以，我会更早完成」；《纽约时报》报道一名意大利独立数学家亚历山德罗·马苏洛周五也发布了一份不完整的证明，他称未使用 AI。卫报还提到，OpenAI 9 月称其未公开的 AI 工具帮助解决了另一千禧年难题的一部分，当时动用了约 1 万个 AI 系统、花费 1500 万美元。",
+        "公司回应：NPR 称 Anthropic 未回复美联社的置评请求。"
+      ],
+      "readingA": "如果 Lean 验证成立，这是 AI 辅助数学的分水岭：形式化证明把「是否可信」交给机器检验，而不依赖少数专家读懂，两家专门机构已表态「完全确信」，这比一般的 AI 宣传更难反驳。",
+      "readingB": "机器检验的是代码，前提是形式化的定理陈述与黎曼猜想本身完全一致；1700 万行代码、25 万页材料、作者本人也未完全掌握，意味着人类理解远未到位。宣布紧随公司 IPO，克雷研究所仍未改列状态，学界正式承认还要时间。",
+      "disagree": "分歧在于：Lean 层面的验证能否等同于数学界认可的「证明」，以及这一成果应主要归功于人还是归功于模型，又在多大程度上受到商业时点的影响。",
+      "synthesis": "可以确定的是：阿尔普格公开了借助 Claude 完成的黎曼猜想形式化证明，两家 Lean 相关机构已宣布验证；克雷研究所称其意义重大但尚在评估。较稳妥的看法是：把它视为「已通过形式化检验、待人类数学界消化」的重大结果，关注定理陈述的审查和克雷的正式结论。",
+      "unknown": "形式化陈述是否被独立审查确认与经典黎曼猜想等价；是否会有可读的论文版本；克雷研究所的评估时间表与奖金归属；Claude 具体贡献了哪些步骤；Anthropic 官方表态。",
+      "confidence": "中等偏高（宣布与验证声明有卫报、NPR 交叉报道；但数学界的最终认可尚未完成，验证机构声明为卫报转述）。",
+      "sources": [
+        {
+          "label": "卫报：两家机构验证数学家关于 Claude 帮助证明黎曼猜想的说法",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+        },
+        {
+          "label": "NPR：Anthropic 员工称借助 AI 解决数学「圣杯」难题",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+        },
+        {
+          "label": "TechCrunch（11/20）：AI 声称解决 167 年的黎曼猜想，一名人类也是",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：美国/科技",
+      "title": "连串技术故障后再曝两起入侵：CNN 称 FBI 全国犯罪信息中心（NCIC）数据库遭黑客入侵，为 9 月以来第二次；NBC 称农业部农民支付系统遭网络攻击；特朗普在福克斯采访中称「不好」，又说或可有「正面解读」、借此了解「通俄骗局」和「选民欺诈」",
+      "facts": [
+        "FBI：CNN 周五援引两名知情人士报道，FBI 正调查其全国犯罪信息中心（NCIC）遭疑似黑客入侵（卫报、BBC、半岛电视台）。NCIC 是联邦、州和地方执法机构共享通缉令、背景调查等信息的全国数据库；CNBC 援引 MS NOW 消息称数据库包含 FBI 指纹记录、通缉人员、暴力重罪犯和失踪人员等信息，仅限执法使用但不属于机密，尚不清楚哪些数据被取走。一名前 FBI 官员对 CNN 称，担忧不仅是敏感信息外泄，还有黑客可能「破坏警员所依赖信息的准确性」。",
+        "农业部：NBC 援引两名前官员报道，农业部已告知员工，一个用于向农民付款的系统遭网络攻击（卫报）；BBC 称员工于周四获悉。The Verge 引述路透社称，前官员警告该系统可能成为通往食品安全数据和动物源性疾病研究等更敏感信息的「后门」。两起事件是否相关、由谁所为尚不清楚（卫报）。",
+        "特朗普表态：特朗普周六接受福克斯新闻采访时说：「我们刚听说，我得说这不好，我不喜欢。」但他又称：「也许我们会了解到原本永远不会了解的事情……你有『通俄、通俄、通俄』骗局。」并说：「也许我们会了解选民欺诈……我总喜欢往正面去解读」，「我想知道是谁干的，因为能了解『通俄』岂不很好？」（CNBC、TechCrunch、半岛电视台）。",
+        "背景：9 月 FBI 称在调查网络犯罪团伙 ShinyHunters 的入侵，对方声称窃取了全部约 3.8 万名员工的敏感信息（BBC）；The Verge 称 10 月国土安全部另遭入侵、涉及 4 万份员工记录。卫报指出，FBI 局长帕特尔周四刚在福克斯节目中宣传「冬季之盾行动」反网络攻击举措。BBC 称官方坚称上周银行、空管等领域的故障并非网络攻击所致，国家网络总监凯尔克罗斯本周被撤换（BBC 用「被解职」，The Verge 用「辞职」）。"
+      ],
+      "readingA": "在官方反复强调「故障互不关联、非系统性攻击」之后，执法核心数据库和农业部支付系统相继被曝入侵，说明联邦网络防御确有结构性漏洞；网络总监刚被撤换，防御体系处于真空期。",
+      "readingB": "入侵与此前的故障是不同性质的事件，目前均来自匿名消息，范围、数据损失和攻击者都未明；把所有事件串成一场「网络危机」可能夸大。特朗普的「正面解读」更多是政治表态，不是政策。",
+      "disagree": "分歧在于：这是一连串独立事件的巧合叠加，还是联邦政府整体网络安全失守的信号；以及总统对执法数据库被入侵的轻描淡写会否影响调查优先级。",
+      "synthesis": "可以确定的是：多家美国媒体报道 FBI NCIC 和农业部支付系统遭入侵，特朗普已在采访中确认知悉 FBI 事件；FBI 和农业部未公开回应细节。较稳妥的看法是：把它与此前「故障」区分开看，等待官方对入侵范围与归因的披露。",
+      "unknown": "攻击者身份（犯罪团伙还是国家行为者）；NCIC 数据是否被篡改；两起入侵是否相关；国会是否举行听证；新任网络总监人选。",
+      "confidence": "中等（入侵本身来自 CNN、NBC 匿名信源，经多家媒体转述；特朗普表态有多家交叉报道，较高）。",
+      "sources": [
+        {
+          "label": "卫报：农业部、FBI 在连串技术故障中遭黑客入侵",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+        },
+        {
+          "label": "BBC：FBI 据报正调查其犯罪数据库疑遭入侵",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+        },
+        {
+          "label": "CNBC：特朗普称 FBI 数据库遭入侵或有「正面解读」",
+          "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
+        },
+        {
+          "label": "The Verge：FBI 与农业部据报遭黑客入侵",
+          "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+        },
+        {
+          "label": "半岛电视台：FBI 全国犯罪数据库疑遭入侵",
+          "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "新话题：科技/军控",
+      "title": "联合国《特定常规武器公约》日内瓦会议未能就「杀手机器人」（致命性自主武器）达成具有法律约束力条约的谈判授权：通宵谈判至周六凌晨约 4:30–5:00，只同意两年内「讨论选项」、规则可能有约束力也可能是自愿性的；俄罗斯被指拖延阻挠，美国曾提出五年讨论非约束性准则",
+      "facts": [
+        "结果：NPR 报道，经过一周谈判、拖到周六凌晨，各国达成妥协：用两年时间提出可能具有法律约束力、也可能是可选的规则。卫报称，尽管《特定常规武器公约》（CCW）多数缔约方希望获得通向法律约束性条约的谈判授权，但协商一致原则迫使会议采纳更弱的方案，授权要求各国「以协商一致方式拟定」一项可能不具法律义务的文书；The Verge 称各国同意「开始讨论选项」。",
+        "各方立场：NPR 称，俄罗斯首日即以反对议程拖延会议，美国随后提议用五年时间讨论非约束性、自愿性的准则。卫报称，俄罗斯以「拖延战术」带头反对，外交官称其「故意冗长发言、缺乏诚意」，而美方代表在寻求共识声明；但美国、韩国、日本、土耳其、英国、法国和德国等均不愿受新法律约束。逾 100 个国家推动新法，欧洲和北约国家（含乌克兰）以及中国、伊朗表示支持或愿意接受新议定书。卫报称美方表示，人对自主武器的控制问题已在本周亚太经合组织峰会期间习近平与特朗普的会谈中讨论过。",
+        "批评：红十字国际委员会此前呼吁一年内起草具有约束力的规则，获联合国秘书长和教宗良支持；会后表示遗憾并再次呼吁条约（NPR）。红十字会法律顾问乔治娅·辛兹称，由算法决定生死是「不能跨越的道德红线」。未来生命研究所的马克斯·泰格马克称「屠杀机器人已经出现」，而各国认为「第 14 年继续谈」就够了；人权观察的邦妮·多彻蒂称条约可在 15 个月内谈成（卫报）。有活动人士称结果是「真正的失望」和「空心汉堡」。",
+        "背景：NPR 援引联合国称，今年苏丹 80% 的平民死亡由无人机造成；乌克兰、苏丹、加沙平民正遭半自主无人机杀伤。CCW 有 128 个缔约方、须一致同意，卫报称其 30 年来未通过新的武器法规。"
+      ],
+      "readingA": "在 AI 武器快速实战化之际，最后一次被寄予厚望的多边窗口基本落空；协商一致机制让少数国家即可否决，规则制定可能转向 CCW 之外（如集束弹药公约模式）。",
+      "readingB": "结果并非完全为零：各国至少获得两年的谈判授权，联合国裁军机制仍在运转；主要军事大国普遍不愿受约束，强行推出没有大国参与的条约效果有限。",
+      "disagree": "分歧在于：这份妥协是「聊胜于无」的起点，还是把问题再拖两年、让技术先于规则落地；以及责任主要在俄罗斯的阻挠，还是美欧等军事技术强国的普遍保留。",
+      "synthesis": "可以确定的是：CCW 未能获得法律约束性条约的谈判授权，只同意两年内讨论可能约束、也可能自愿的规则。较稳妥的看法是：短期内不会出现全球约束性规则，关注是否有国家联盟转向 CCW 外另起炉灶，以及中美「人类控制」表述是否落到文本。",
+      "unknown": "妥协文本全文与具体时间表；是否有国家启动 CCW 外的条约进程；中美峰会上关于人类控制的讨论细节。",
+      "confidence": "高（卫报、NPR、The Verge 交叉报道；各国立场细节主要来自卫报的与会外交官消息，中等偏高）。",
+      "sources": [
+        {
+          "label": "卫报：关于控制自主武器使用的联合国国际谈判破裂",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+        },
+        {
+          "label": "NPR：「杀手机器人」：联合国谈判未达成法律约束规则的期望",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+        },
+        {
+          "label": "The Verge：联合国未能就「杀手机器人」规则达成一致",
+          "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "续报：中东",
+      "title": "巴林称伊朗周六深夜袭击击中一处民用工业设施并起火、无人受伤；革命卫队称以导弹和无人机打击里法和阿瓦利两处美军阵地、摧毁两部「爱国者」雷达，称系报复美军无人机侵入领空；伊朗称卡塔尔调解团赴德黑兰会谈两小时但「尚非正式谈判」；特朗普称要「永久」协议，万斯未附和「伊朗接近拥核」说法",
+      "facts": [
+        "巴林遇袭：巴林国防军称周六深夜防空系统拦截多起伊朗空中袭击；内政部在 X 上称袭击击中一处民用工业设施并引发火灾，初步只有财产损失、无人受伤，但未说明设施名称和地点（半岛电视台）。伊朗革命卫队称以导弹和无人机联合打击巴林里法和阿瓦利两处美军阵地，摧毁两部美军「爱国者」防空雷达，称系对美军 MQ-1、MQ-9 无人机侵犯伊朗领空的回应；伊朗官方通讯社 IRNA 则援引一家名为 Bahrain News 的媒体称，一枚从美国第五舰队基地发射的拦截弹坠落在锡特拉岛引发大火。半岛电视台称巴林近日已遭三次无人机袭击。",
+        "卡塔尔调解：伊朗副外长加里巴巴迪称，卡塔尔代表团周五晚到访德黑兰，与伊方会谈两小时；会谈尚未成为正式谈判，若成为正式谈判将讨论核计划技术细节，但伊方立场是浓缩铀不得运出伊朗；他称伊朗视美国经济封锁为战争行为（半岛电视台援引塔斯尼姆）。外长阿拉格齐称，只要伊朗诉求未获满足，讨论霍尔木兹海峡开放「毫无意义」，伊方条件包括全面停战、解冻资产、解除石油制裁和结束美方对伊朗港口的反封锁。",
+        "华盛顿：特朗普周六对福克斯新闻称，希望达成阻止伊朗获得核武器的「永久」协议，称伊朗官员「非常非常难缠」，「我们达成协议，第二天他们就毁约」（半岛电视台）。卫报报道，万斯周五在白宫记者会上被问到战争是否值得时称「不该由我事后评判总统」，强调阻止伊朗拥核的目标正确、「总统说过他会再做一次」，但没有附和特朗普关于伊朗 2 月「两周内即可拥核」的说法；卫报指出该说法与 2025 年 3 月时任国家情报总监加巴德的国会证词不符。",
+        "黎巴嫩：黎巴嫩总统奥恩周六在独立日前夕讲话，要求以色列「从每一寸黎巴嫩领土撤出」，并批评「伊朗政权中一些有影响力的势力」干涉；以军当天继续空袭黎南部（半岛电视台）。"
+      ],
+      "readingA": "袭击和调解同时进行，说明德黑兰在边打边谈：用对美军基地的打击维持筹码，同时通过卡塔尔试探外交窗口；特朗普「永久协议」表态与伊方「浓缩铀不出境」立场之间仍有明显鸿沟。",
+      "readingB": "卡塔尔渠道仍停留在「接触」层面，伊方条件清单与美方要求几乎没有交集；对海湾的袭击频率在升高，误判风险可能先于外交进展到来。",
+      "disagree": "分歧在于：卡塔尔调解是否意味着谈判重启的前奏，还是双方各自对内对外的姿态；以及巴林工业设施起火是伊朗导弹直接击中还是拦截弹坠落所致。",
+      "synthesis": "可以确定的是：巴林再遭袭击、一处工业设施起火无人伤亡；伊朗确认与卡塔尔调解方会谈但称非正式谈判；美伊公开立场未见松动。较稳妥的看法是：把调解视为低概率窗口，继续关注海湾袭击频率与霍尔木兹航运。",
+      "unknown": "受损工业设施名称；美军雷达是否真被摧毁（美方未回应）；卡塔尔调解的下一步；美方是否会对巴林遇袭进行报复。",
+      "confidence": "中等（巴林、伊朗双方说法相互矛盾，主要来自半岛电视台转述；万斯表态有卫报原文记录，高）。",
+      "sources": [
+        {
+          "label": "半岛电视台：巴林称伊朗袭击导致工业设施起火",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+        },
+        {
+          "label": "半岛电视台：伊朗称与卡塔尔调解方会谈，敦促美国接受条件",
+          "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+        },
+        {
+          "label": "卫报：万斯未附和特朗普关于伊朗接近拥核的说法",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon"
+        },
+        {
+          "label": "半岛电视台：黎巴嫩总统要求以色列撤军，批评伊朗干涉",
+          "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "新话题：美国",
+      "title": "特朗普周五深夜签署行政令：要求所有联邦承包商和分包商在回应国会询问前与政府协商、扣留白宫认定享有特权的通讯，并与白宫和各机构协调「适当回应」，否则可能被终止合同、暂停未来合作；民主党 1 月接掌国会前，白宫正全面收紧对国会调查的配合",
+      "facts": [
+        "行政令内容：美联社报道（NPR、卫报转载），特朗普周五深夜签署的行政令要求联邦承包商和分包商就收到的国会询问与政府协商，扣留白宫认为享有特权的通讯，并与白宫和美国各机构协调「适当回应」；若不遵守，合同可能被终止、未来与联邦政府的合作可能被暂停。该令适用于全部承包商和分包商，涉及数以万计的企业。",
+        "背景：报道称，这是共和党政府为应对民主党 1 月接掌国会后预期的大规模调查而采取的最新措施；民主党已把政府合同列为首要调查目标之一，指联邦资金流向与特朗普家族有关的公司，尤其是在五角大楼。白宫法律顾问威尔·沙夫周一已告知各机构，出席国会前须获得其办公室和白宫立法事务办公室批准；他在致众议院监督委员会首席民主党人罗伯特·加西亚的信中暗示某些国会调查可能构成「公然犯罪」，并称民主党尚非多数、无法强制要求配合。",
+        "双方说法：白宫在情况说明书中称新要求是「保护行政特权免受国会越权侵犯」，指一些国会领导人「骚扰与联邦政府签约的私营公司」。加西亚称行政令是对国会宪定监督权的「公然攻击」，并说「我们才刚刚开始」。报道指出，两党总统都曾援引行政特权抵制国会调查，但该特权并非绝对，往往引发旷日持久的法律争议。"
+      ],
+      "readingA": "把私营承包商纳入行政特权的管控范围，等于在调查开始前就设置一道防火墙；以合同为杠杆，企业很难不配合白宫，国会监督的信息来源会被大幅收窄。",
+      "readingB": "行政特权的适用范围最终由法院裁定，私营企业的通讯是否属于特权本身存疑；新国会掌握传票和拨款权，这一行政令更可能开启一系列诉讼，而非真正挡住调查。",
+      "disagree": "分歧在于：这是保护行政机构正当保密的合法做法，还是借合同威胁阻挠国会监督；以及法院会在多大程度上支持对私营承包商适用行政特权。",
+      "synthesis": "可以确定的是：行政令已签署，要求承包商回应国会前与白宫协调，违者面临合同风险；民主党已表示反对。较稳妥的看法是：把它视为 1 月新国会开局前府会对抗的预演，关注首批传票与相关诉讼。",
+      "unknown": "行政令全文对「特权通讯」的界定；是否有企业或议员提起诉讼；国会民主党的具体反制措施。",
+      "confidence": "高（美联社报道，经 NPR、卫报转载；行政令全文未在本窗口直接读到）。",
+      "sources": [
+        {
+          "label": "NPR（美联社）：特朗普命令联邦承包商回应国会前先与白宫协商",
+          "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+        },
+        {
+          "label": "卫报：特朗普命令承包商就国会询问与白宫协商",
+          "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "新话题：拉美/安全",
+      "title": "墨西哥特种部队在锡那罗亚州瓜萨韦抓获 FBI「十大通缉犯」之一、贝尔特兰·莱瓦组织头目「矮子伊西德罗」梅萨·弗洛雷斯，墨方称行动依靠美方情报；突袭遭枪击和爆炸物抵抗，当地出现路障焚车，棒球场观众逃散；BBC 称 7 名嫌犯与 4 名军人死亡，各方伤亡与被捕人数说法不一",
+      "facts": [
+        "抓捕：墨西哥国防部称，特种部队周五晚在锡那罗亚州瓜萨韦抓获福斯托·伊西德罗·梅萨·弗洛雷斯（绰号「矮子伊西德罗」），他是 FBI「十大通缉犯」之一（BBC、NPR、半岛电视台）。墨方称他领导贝尔特兰·莱瓦犯罪组织，是锡那罗亚贩毒集团「马约」派的盟友，在墨西哥因有组织犯罪和毒品罪被通缉，并已有引渡至美国的命令；与贩毒集团前首领「矮子」古斯曼无亲属关系。",
+        "行动与暴力：墨方称部队以「隐蔽和突袭」包围住所，遭枪击和爆炸物攻击后进入并实施抓捕，随后将其用飞机押往墨西哥城移交检方（半岛电视台、NPR）。NPR 援引一名联邦官员称，因武装分子在瓜萨韦街头设置至少「10 个」焚车路障，部队直到周六凌晨 4 时才把他带离。视频显示棒球场观众躲避枪声逃散、汽车和加油站起火、直升机向地面射击（NPR、半岛电视台）。",
+        "伤亡与人数分歧：BBC 援引国防部称共逮捕 8 人（包括其表兄弟、二号人物和负责财务的妹夫），行动中 7 名嫌犯被击毙，另有 4 名赶去增援的军人死亡，并缴获榴弹发射器、毒品和现金；半岛电视台称与其一同被捕的是另外两名男子；NPR 较早的报道称「目前未报告伤亡」。",
+        "美方背景：美国检方 2012 年首次起诉他，2019 年的起诉书指控他在 2005–2019 年为美国市场制造和分销可卡因、海洛因、甲基苯丙胺和大麻；FBI 于 2025 年 2 月将其列入十大通缉犯，美国国务院悬赏最高 500 万美元（半岛电视台）。特朗普周五称华盛顿正与谢因鲍姆合作，「因为贩毒集团在掌控墨西哥」。NPR 称专家警告此次抓捕可能在已陷入派系争斗的地区引发新一轮暴力。"
+      ],
+      "readingA": "在美方持续施压下，墨西哥拿出了一份显著成果：抓获美方头号通缉的毒枭之一，并公开承认美墨情报合作，有助缓解双边安全紧张。",
+      "readingB": "「斩首」行动在锡那罗亚往往引发派系真空和报复性暴力；当晚的路障与枪战已显示代价，抓捕对毒品流入美国的实际影响尚难判断。",
+      "disagree": "分歧在于：这次抓捕是美墨合作有效的证明，还是会加剧锡那罗亚内斗的短期胜利；以及伤亡规模到底如何。",
+      "synthesis": "可以确定的是：梅萨·弗洛雷斯已被捕并押往墨西哥城，行动依靠美方情报并引发当地暴力。较稳妥的看法是：关注引渡进度、伤亡数字的官方核实以及锡那罗亚后续暴力走势。",
+      "unknown": "准确的伤亡与被捕人数；引渡时间表；美方情报合作的具体形式；对锡那罗亚派系格局的影响。",
+      "confidence": "抓捕本身高（BBC、NPR、半岛电视台交叉）；伤亡和被捕人数中等（各报道不一致）。",
+      "sources": [
+        {
+          "label": "BBC：FBI 十大通缉犯之一的墨西哥毒枭在枪战中被捕",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+        },
+        {
+          "label": "NPR：墨西哥抓获贩毒集团头目「矮子伊西德罗」，引发暴力",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+        },
+        {
+          "label": "半岛电视台：在墨西哥被捕的「矮子伊西德罗」是谁？",
+          "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "续报：欧洲/乌克兰",
+      "title": "俄军周五夜间袭击泽连斯基家乡克里维里赫，致一名 7 岁男孩和一名 20 岁女医护人员死亡、约 58–60 人受伤，并在救援人员赶到后再次打击；一艘驶往加里宁格勒的俄受制裁货轮在芬兰湾遭无人机袭击起火，芬兰称乌克兰可能是幕后；英国防长斯特里廷访基辅称普京是「冷血杀手」，北约秘书长谴责周五导弹落入波兰",
+      "facts": [
+        "克里维里赫：当地官员称，俄军周五夜间袭击泽连斯基家乡克里维里赫，造成一名 7 岁男孩和一名 20 岁女子死亡，约 60 人受伤（含 6 名儿童），约 25 栋公寓楼、一家医院、学校和商铺受损（半岛电视台）；BBC 称死者为一名 7 岁男孩（事发时在游乐场）和一名 20 岁女医护人员，另有 58 人受伤。市政负责人维尔库尔称救援人员赶到后同一地点再遭打击。扎波罗热州另有 2 人死亡；俄方称乌军袭击卢甘斯克一处居民区致 6 人死亡、含一名儿童（半岛电视台）。",
+        "芬兰湾：BBC 报道，驶往俄飞地加里宁格勒的货轮「斯巴达 II」号周六上午在芬兰湾东部遭无人机袭击起火，随后漂入芬兰水域；芬兰国防部门称乌克兰可能是幕后，基辅尚未回应。芬兰总理奥尔波称「战争正在蔓延到我们身边」，「乌克兰有权反击侵略者」。该船 2022 年被美国、今年被乌克兰制裁，运营公司称其 2011 年在俄国防部体系内成立。芬兰称船员已被转移至另一艘俄船，未发现环境损害；芬方还怀疑一架俄直升机侵犯其领空。",
+        "外交表态：泽连斯基对 BBC 称，对刻赤大桥的打击是对俄方 109 次袭击乌克兰桥梁的「公平回应」，并驳斥普京称大桥「纯民用」的说法。英国防长韦斯·斯特里廷在基辅称普京是「冷血杀手」，称俄导弹周五在「意愿联盟」演习期间落入波兰是「令人愤慨的挑衅」（BBC）。半岛电视台称周五有两枚俄导弹和一架疑似无人机落入波兰东南部，波兰总理图斯克称是蓄意挑衅，北约秘书长吕特周六予以谴责并承诺保卫波兰领土；泽连斯基周六称，自己不像华盛顿那样确信普京准备妥协。"
+      ],
+      "readingA": "俄方的报复打击、对北约成员国领土的越界和乌方在波罗的海的远程打击同时出现，战争外溢风险明显上升；深圳会晤后的「和平」叙事与战场现实反差扩大。",
+      "readingB": "双方都在为可能的谈判积累筹码：俄方以打击民用目标施压，乌方以刻赤大桥和海上目标展示远程能力；欧洲在基辅的表态更多是政治信号，并未改变谈判框架。",
+      "disagree": "分歧在于：战事外溢（波兰、芬兰湾）是否会迫使北约作出更强反应，还是被视作可控的摩擦；以及芬兰湾袭击是否确为乌克兰所为。",
+      "synthesis": "可以确定的是：克里维里赫平民伤亡、芬兰湾俄货轮遇袭、俄导弹落入波兰均已发生并获多方报道。较稳妥的看法是：关注基辅对芬兰湾事件的表态、北约对波兰事件的后续措施，以及美方斡旋是否因此受挫。",
+      "unknown": "芬兰湾袭击的确切发起方与发射地点；波兰事件是否为蓄意；克里维里赫伤亡最终数字。",
+      "confidence": "高（BBC、半岛电视台交叉报道；芬兰湾事件归因为芬方初步判断，中等）。",
+      "sources": [
+        {
+          "label": "半岛电视台：俄军袭击泽连斯基家乡致两死 60 伤",
+          "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+        },
+        {
+          "label": "BBC：驶往俄罗斯的货轮在芬兰湾遇袭",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        },
+        {
+          "label": "BBC：泽连斯基会见斯特里廷，称打击刻赤大桥是「公平回应」",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai"
+    },
+    {
+      "n": 2,
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai"
+    },
+    {
+      "n": 3,
+      "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack"
+    },
+    {
+      "n": 4,
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+    },
+    {
+      "n": 5,
+      "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html"
+    },
+    {
+      "n": 6,
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/"
+    },
+    {
+      "n": 7,
+      "title": "The FBI and USDA were reportedly hacked",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked"
+    },
+    {
+      "n": 8,
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports"
+    },
+    {
+      "n": 9,
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse"
+    },
+    {
+      "n": 10,
+      "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones"
+    },
+    {
+      "n": 11,
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+    },
+    {
+      "n": 12,
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility"
+    },
+    {
+      "n": 13,
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions"
+    },
+    {
+      "n": 14,
+      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon"
+    },
+    {
+      "n": 15,
+      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal"
+    },
+    {
+      "n": 16,
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president"
+    },
+    {
+      "n": 17,
+      "title": "Trump orders federal contractors to check with White House before responding to Congress",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress"
+    },
+    {
+      "n": 18,
+      "title": "Trump orders contractors to check with White House over any congressional inquiries",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order"
+    },
+    {
+      "n": 19,
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+    },
+    {
+      "n": 20,
+      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+    },
+    {
+      "n": 21,
+      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico"
+    },
+    {
+      "n": 22,
+      "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown"
+    },
+    {
+      "n": 23,
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+    },
+    {
+      "n": 24,
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo"
+    },
+    {
+      "n": 25,
+      "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges"
+    },
+    {
+      "n": 26,
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
+    },
+    {
+      "n": 27,
+      "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference"
+    },
+    {
+      "n": 28,
+      "title": "Thousands protest across Europe over living costs and housing",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing"
+    },
+    {
+      "n": 29,
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+    },
+    {
+      "n": 30,
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html"
+    },
+    {
+      "n": 31,
+      "title": "A tale of two Nvidias",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/"
+    },
+    {
+      "n": 32,
+      "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction"
+    },
+    {
+      "n": 33,
+      "title": "Indian man jailed over plot to kill Sikh separatist in US",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot"
+    },
+    {
+      "n": 34,
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck"
+    },
+    {
+      "n": 35,
+      "title": "Impunity fuels surge in settler violence across occupied West Bank",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank"
+    },
+    {
+      "n": 36,
+      "title": "India’s opposition stages protests against Meta over account removals",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals"
+    },
+    {
+      "n": 37,
+      "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls"
+    },
+    {
+      "n": 38,
+      "title": "UK should only rejoin EU if it innovates on technology, Blair warns",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c893r4923wngo"
+    },
+    {
+      "n": 39,
+      "title": "Virginia child dies in state’s first measles-associated death of 2026",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles"
+    },
+    {
+      "n": 40,
+      "title": "Storms expected on both coasts threatens Thanksgiving travel",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino"
+    },
+    {
+      "n": 41,
+      "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships"
+    },
+    {
+      "n": 42,
+      "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+    },
+    {
+      "n": 43,
+      "title": "State and federal battle over prediction markets regulation heats up after midterms",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html"
+    }
+  ]
+}
