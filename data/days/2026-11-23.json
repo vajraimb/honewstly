@@ -1,0 +1,499 @@
+{
+  "date": "2026-11-23",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/22 约 08:05，即 UTC 11/22 00:05）至本期（11/23 约 08:10，UTC 11/23 00:10），约 24 小时，覆盖欧美周日（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；本次所有 RSS 均抓取成功，窗口内共约 138 条标题（体育、娱乐、生活类占比较高）。正文以直接抓取的原文为主，第 4 条另读取了 OpenAI 官网原文。",
+  "thinDay": false,
+  "thinDayNote": "本期接近薄日：周日标题量较少（约 138 条，上期约 143 条），且体育、娱乐类占比高；但仍有两条新话题（OpenAI 困惑度上限提议、韩国 AI 作弊风波）和 COP31 破裂这一重大续报。需注意：第 2 条袭击方身份、伤亡均未经官方证实，各方说法矛盾；第 7 条主要依据单一来源（CNBC），伊朗军事说法未经核实。本窗口之后关注：COP31 后续程序改革讨论、乌克兰是否认领班加西袭击及俄方反应、12 月 1 日民主党参院领袖投票、感恩节出行周的系统稳定性、其他 AI 实验室对困惑度上限的回应。",
+  "vsYesterday": "相对上一期（11/22）：新话题：OpenAI 首席科学家提议以困惑度设定行业共同上限；韩国教育部长因 AI 作弊风波辞职。续报：COP31 未达成「安塔利亚协定」（上期称各方改签航班、预计周一收尾，结果周日即破裂）；俄乌战火延伸至利比亚班加西港（并跟进芬兰湾货轮、基辅州遇袭）；民主党拿下 1992 年以来最大众议院多数及参院领袖之争；技术故障续报（达美、克莱顿与贝森特表态）；海湾遭袭与伊朗外长表态。黎曼猜想证明本窗口无实质新进展（克雷研究所仍列为未解决，仅有小野健等评论，列入索引）；FBI/农业部入侵未见官方说明；深圳会晤后续仅有克莱顿就「朋友」一词的表态（并入第 3 条）；以色列定居者纵火袭击与利库德—亚沙尔组阁谈判无果、英伟达（肯尼迪参议员言论、贝森特称英伟达应尽快行动）、印度青年大会党冲击 Meta 办公室等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：气候",
+      "title": "COP31 安塔利亚气候大会以「无主协议」收场：会期拖到周日、成为史上最长的联合国气候大会，但由土耳其和澳大利亚联合主席国起草的「安塔利亚协定」因未提及「化石燃料」遭欧盟、英国、太平洋岛国等拒绝而未获通过；为 2009 年哥本哈根以来首次主要政治协议破裂",
+      "facts": [
+        "结果：BBC、卫报、NPR 报道，原定周五结束的谈判拖到周日下午，成为史上最长的联合国气候大会；由土耳其与澳大利亚联合主席国起草的「覆盖决定」（即「安塔利亚协定」）未获共识、未被通过。土耳其籍大会主席穆拉特·库鲁姆承认未就该文本达成一致。BBC 和半岛电视台称，上一次 COP 主要政治协议如此破裂是 2009 年哥本哈根会议。",
+        "分歧焦点：BBC 称，周日凌晨拿出的新草案全文没有出现「化石燃料」一词，仅间接提及 2023 年 COP28「转型脱离」化石燃料的协议；周一的初稿曾 6 次提到化石燃料，但产油国无法接受。卫报称，草案未采纳 130 多个国家要求的「转型脱离化石燃料」表述，还包含争议性的碳捕集与封存（CCS）条款。半岛电视台称，修订文本还删去了 1200 亿美元的适应资金目标；BBC 称文本未写入任何具体资金数字或衡量基线。",
+        "表态：代表欧盟发言的爱尔兰部长达拉·奥布莱恩称「气候协议竟不提化石燃料，这是不可原谅的」，欧盟不会认可「为化石燃料漂绿」的决定（BBC、卫报）；NPR 称他和欧盟气候委员胡克斯特拉随后离场，胡克斯特拉说「我们是怀着沉重的心情这样做的……但我们根本无法接受」。巴拿马、马绍尔群岛、挪威等也提出反对（卫报）。沙特代表称阿拉伯国家「始终真诚参与」，并为文本写入 CCS 辩护；俄罗斯警告不要在煤油气问题上「喊口号」（BBC、卫报）。卫报称，非洲集团、中国和巴基斯坦虽有保留但未反对该协议。",
+        "联合国与各方：古特雷斯称「深感失望」，指责「强大的化石燃料利益集团」照搬「大烟草的剧本」（BBC、半岛电视台）。「非洲权力转移」智库的穆罕默德·阿多称这是「史上最糟的 COP」，并批评欧洲「虚伪」（卫报）。英国能源大臣法恩布勒称结果「极其令人失望」（BBC）。",
+        "未完全落空的部分：BBC 称，会议在「公正转型机制」上取得进展；主席国称 80 多个国家支持土耳其提出的到 2035 年电力占全球能源使用 35% 的目标。卫报称，主席国通过一系列相关决定，避免了大会彻底崩溃。联合国气候变化框架公约执行秘书斯蒂尔称将就程序改革征求意见；下一届 COP32 定于 2027 年 11 月在埃塞俄比亚举行（BBC）。",
+        "背景：NPR 称，这是首次在联合国气候峰会上正式承认世界将突破 1.5°C 门槛；主持谈判的澳大利亚部长鲍文会后称「现实世界中转型脱离化石燃料不可避免」。卫报澳大利亚政治直播称，反对党议员特汉要求鲍文就 COP 结果辞职。"
+      ],
+      "readingA": "欧盟等国的「宁缺毋滥」是一种原则立场：如果最终文本连全球变暖的主因都不提、还删掉适应资金数字，签了反而等于为倒退背书；把分歧公开化可能为 2027 年由爱尔兰和图瓦卢合办的「转型脱离化石燃料」平行会议积累动力（NPR）。",
+      "readingB": "破局的代价主要落在最脆弱的国家：适应资金、公正转型等对穷国有实际意义的条款随整体文本一起搁浅；阿多等人指出欧洲一边要求别国制定化石燃料路线图、一边自己扩大化石燃料，这次拒绝也可能被视为富国把责任推给产油国。",
+      "disagree": "分歧在于：没有协议是否好过一份「弱协议」；共识机制能否在地缘分裂下继续运转（斯蒂尔称「它能行」，但承认这次「未达标」）；主责在产油国（沙特、俄罗斯）还是在资金承诺不足的富国。",
+      "synthesis": "可以确定的是：主要政治协议未获通过，这是 2009 年以来首次；核心分歧是化石燃料措辞和适应资金。部分技术性决定（公正转型等）通过了，但对 1.5°C 越限的正式承认随整体文本一起落空。后续看点是 UNFCCC 程序改革、2027 年平行会议和 COP32。",
+      "unknown": "已通过的技术性决定的具体文本和约束力；1200 亿美元适应资金目标是否会在其他场合恢复；各国国家自主贡献更新是否受影响；鲍文在澳国内的政治后果。",
+      "confidence": "高（BBC、卫报、NPR、半岛电视台交叉报道一致；各方引语来自现场发言）。",
+      "sources": [
+        {
+          "label": "BBC：COP31 未能达成重大气候协议，谈判暴露深刻分歧",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        },
+        {
+          "label": "卫报：Cop31 关键协议遭拒，气候谈判破裂",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+        },
+        {
+          "label": "NPR：气候谈判在最后几小时因化石燃料破裂",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+        },
+        {
+          "label": "半岛电视台：各国对 COP31 无果而终的反应",
+          "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：俄乌/地中海",
+      "title": "战火延伸至地中海：一艘停靠利比亚班加西港补给的俄海军轻型护卫舰「水星」号周日凌晨疑遭乌克兰海上无人机袭击后沉没，数小时后一艘与俄有关的货轮在班加西外海也遭无人机击中；利比亚东部政府称是对主权的侵犯；同日俄军袭击基辅州致多人死亡，一名 7 岁男孩被困 14 小时后获救",
+      "facts": [
+        "班加西：卫报援引利比亚东部政府官员对美联社的说法称，俄海军轻型护卫舰「水星」号（Merkury）在班加西港加油补给时，遭数架乌克兰海上无人机攻击，至少 4 架被拦截摧毁、2 架命中，引发爆炸。BBC 称美国卫星公司 Vantor 图像显示该 20380 型（守护级）护卫舰周六仍停泊港内，周日大部分已倾覆沉没、仅船首露出水面。卫报称这里距乌克兰南部逾 1000 英里，标志着近五年战争的显著地理扩展。",
+        "第二起袭击：卫报称，数小时后一艘据称载有军用物资、与俄有关的货轮「阿斯卡隆」号在班加西外海被海上无人机击中；半岛电视台称是一艘马耳他籍商船，东部政府卫生部称受伤船员已获救、伤势轻微且情况稳定。半岛电视台援引 Almasar 电视台称，海空军在该市外海至少摧毁另外 12 架海上无人机。",
+        "伤亡与归属说法不一：BBC 援引东部政府声明称首起袭击「无人员伤亡」；半岛电视台则援引当地消息人士称有数量不详的利比亚和俄罗斯人死亡，并称该船载有武器、弹药和无人机。俄方暂未回应，也无人宣称负责。美联社援引匿名消息人士称，无人机从乌克兰部队在利比亚西部运营的基地发射（半岛电视台）。英国皇家联合军种研究所的哈尔沙乌伊对 BBC 说「如果要我押注，我会押乌克兰人」。",
+        "利比亚反应：控制班加西的东部政府（与哈夫塔尔的「利比亚国民军」结盟、亲俄）谴责袭击侵犯主权，称利比亚「不是俄乌战争的一方」，并与俄方联合调查；的黎波里的国际承认政府则警告不要让外国军队使用港口设施（BBC、半岛电视台）。",
+        "波罗的海与乌克兰本土：BBC 称，周六在芬兰湾遭无人机袭击的受制裁俄货轮「斯巴达 II」号正被拖走，芬兰防务部门称乌克兰可能是幕后方，芬兰总理奥尔波说「战争正蔓延到我们身边」。BBC 另报道，俄军周日凌晨袭击基辅州德梅尔村一栋居民楼，致 6 人死亡、6 人受伤，一名 7 岁男孩在 14 小时后从废墟中获救；泽连斯基称另一次对维什涅韦一家杂货店的袭击致 3 死 13 伤。"
+      ],
+      "readingA": "若确认是乌克兰所为，这是战争中最成功的海上打击之一（卫报）：乌方已证明能在黑海之外、远离本土的港口打击俄军舰和运输链，削弱俄罗斯在利比亚、地中海的后勤节点，并让俄方感到难堪（哈尔沙乌伊）。",
+      "readingB": "这也是冲突的危险外溢：袭击发生在第三国的民用港口，可能危及当地平民和港口运转（卫报）；利比亚东西两个政府都表达了不满，哈夫塔尔家族可能视之为「个人冒犯」（BBC），使利比亚这一本已分裂的国家卷入大国冲突。",
+      "disagree": "分歧在于伤亡（东部政府称无伤亡、半岛电视台消息人士称有死亡）、船上货物性质，以及发动方是谁（目前均为推测和匿名消息）。",
+      "synthesis": "卫星图像显示「水星」号已沉没，这一点比较确定；袭击者身份、伤亡和货物仍未经官方证实。结合周六的芬兰湾事件，乌方的远程海上无人机打击似乎正同时扩展到波罗的海和地中海。",
+      "unknown": "乌克兰是否会认领；俄方是否承认损失及如何回应；利比亚西部是否确有乌方基地；「阿斯卡隆」号的船籍、货物和船员国籍。",
+      "confidence": "中（沉没有卫星图像佐证，高；归属和伤亡来自匿名或相互矛盾的说法，低至中）。",
+      "sources": [
+        {
+          "label": "卫报：俄军舰在班加西疑遭乌克兰无人机袭击后沉没",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+        },
+        {
+          "label": "BBC：利比亚港口俄船爆炸，官员称疑为无人机袭击",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        },
+        {
+          "label": "半岛电视台：俄船在班加西港疑遭乌克兰无人机击中",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+        },
+        {
+          "label": "BBC：芬兰湾遇袭的俄货轮被拖走",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        },
+        {
+          "label": "BBC：俄袭击后 7 岁男孩从废墟中获救",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "续报：美国政治",
+      "title": "中期选举收官：民主党人哈伯德在重新计票后以 330 票之差击败北卡共和党资深众议员福克斯，民主党拿下至少 258 个众议院席位，为 1992 年以来最大众议院多数；参议院民主党领袖之争升温，特朗普称若舒默出任多数党领袖将「很难与他合作」，范霍伦发起挑战，12 月 1 日闭门投票",
+      "facts": [
+        "北卡第 5 选区：BBC 称，民主党人查克·哈伯德在 99% 计票时以 330 票领先，击败自 2005 年起代表该选区的共和党众议员弗吉尼亚·福克斯；福克斯曾申请重新计票（州法允许差距小于 1% 时重计），周日认输。哈伯德 2024 年曾以 9 个百分点之差输给福克斯。",
+        "席位：BBC 称，民主党在中期选举中至少赢得 258 个众议院席位，共和党至少 173 席，另有 4 场未定（田纳西、明尼苏达各一场民主党微弱领先，路易斯安那两场 12 月决选）；1992 年克林顿当选那年民主党共赢得 258 席，此后两党都未赢得过这么多众议院席位。BBC 称，特朗普和副总统万斯都曾表示，伊朗战争导致的通胀可能是共和党失利的原因。",
+        "参议院领袖之争：半岛电视台援引路透和美联社称，特朗普周日在 Truth Social 上写道：「如果查克·舒默成为参议院多数党领袖，我将很难与他合作……他以前当『领袖』就败得很惨，是史上最差之一。」民主党定于 12 月 1 日以闭门无记名投票选出多数党领袖；舒默称「我会当选」，进步派支持的马里兰州参议员范霍伦在 NBC《与媒体见面》上也称有信心获胜。路透/益普索 11 月中旬民调显示，34% 的民主党人对舒默有好感，低于 2 月的 38%。",
+        "其他领导职位：众议院民主党上周已提名杰弗里斯为下届议长；共和党方面，图恩继续领导参议院共和党，众议员吉姆·乔丹将接替约翰逊成为众议院共和党领袖（半岛电视台）。",
+        "相关：卫报称，国家情报总监克莱顿周日在 CNN 和 ABC 节目上表示「完全信任」特朗普把普京称为「朋友」的说法，但也说普京「在乌克兰问题上不是美国的朋友」；舒默则在社交媒体上称特朗普的表态「令人尴尬、可鄙」。"
+      ],
+      "readingA": "选举结果是对特朗普执政，尤其是战争带来的生活成本上升的强烈否定：民主党连深红选区都能翻盘，1 月起将掌握两院，可以展开调查、阻挡任命，政策主动权明显转移。",
+      "readingB": "大胜之后，民主党内部的代际与路线之争立即浮出水面：舒默的支持率下滑、进步派发起挑战，特朗普借机公开施压；白宫此前已收紧对国会询问的配合，两党对抗可能先于合作。",
+      "disagree": "分歧在于：胜利主要归因于伊朗战争和通胀（特朗普、万斯的说法），还是更广泛的反特朗普情绪；民主党应由建制派还是年轻、反建制派领导。",
+      "synthesis": "258 席这一数字（至少）与 1992 年持平，最终可能更高；参议院领导层将于 12 月 1 日揭晓。新国会 1 月就任后，监督调查与白宫限制承包商回应国会的行政令之间可能发生碰撞。",
+      "unknown": "剩余 4 场众议院选举结果；12 月 1 日投票中舒默与范霍伦的实际票数；民主党新多数优先推进的调查和立法议程。",
+      "confidence": "高（BBC、卫报、半岛电视台报道一致；选票数据来自已宣布结果）。",
+      "sources": [
+        {
+          "label": "BBC：民主党翻盘北卡席位，赢得 1992 年以来最大众议院多数",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+        },
+        {
+          "label": "卫报：民主党至少拿下 258 个众议院席位",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep"
+        },
+        {
+          "label": "半岛电视台：特朗普批评舒默，民主党参院领导层之争升温",
+          "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate"
+        },
+        {
+          "label": "卫报：情报总监称信任特朗普称普京为「我的朋友」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "新话题：科技/AI",
+      "title": "OpenAI 首席科学家帕霍茨基发文，首次公开 OpenAI 内部预训练「困惑度」数据，提议以困惑度（交叉熵损失）作为各实验室共同的进展指标，并建议设定行业「共同上限」：在约 0.68—0.70 对数困惑度区间前，开发者承诺在监控能力达到具体里程碑之前不越线；奥尔特曼称这是「OpenAI 一段时间以来发表的最重要的东西」",
+      "facts": [
+        "文章：OpenAI 官网 11 月 22 日发布首席科学家雅库布·帕霍茨基（Jakub Pachocki）的文章《困惑度与智能》。他主张把困惑度（等价于交叉熵损失）确立为跨开发者比较的指标、为共同安全标准提供依据，并「作为第一步」公开 OpenAI 内部的预训练进展数据；他写道，公开这些数据「让竞争对手更清楚我们所处的位置」，但这一顾虑「被建立行业共同安全措施的紧迫性所压倒」。",
+        "数据：文中称，GPT-3.5 在其当前主要评测数据集上的对数困惑度约 0.99，GPT-4 约 0.91；「如今我们的损失已低于 0.8，在网络安全和数学等领域出现了变革性能力」。他写道，模型升级到对数困惑度约 0.76 后，开始在其内部用来测试的数学开放问题上产生「突破性结果」。文中称这些数字来自以 OpenAI 内部代码库为来源的留出数据集。",
+        "提议：他预计进入约 0.68—0.7 对数困惑度区间时会出现更多变革性能力，同时现有对齐审计手段会进一步退化；因此提议「基于困惑度和其他测量的共同上限」，开发者承诺在理解和监控 AI 行为的能力达到某个具体里程碑（例如开发出思维链监控的继任方法）之前不越过。他还写道，最早 2027 年可能出现预训练领域的「雪崩式」基础进展，而对齐和监控的进展「不太可能快到」足以匹配。",
+        "自认局限：文章列出困惑度作为共同指标的难题：各实验室评测数据和训练数据不同、难以横向比较；与可执行的评测脱节；无法反映预训练之外的进展（如思维链推理并不降低困惑度）；以及「下限未知」。",
+        "背景：TechCrunch 称，奥尔特曼称这篇文章是「OpenAI 一段时间以来发表的最重要的东西」；此前 Anthropic CEO 阿莫代伊发布了「为前沿定速」（pace the frontier）计划，呼吁企业就共同安全标准和「未经检验的 AI 进展速度上限」达成一致，TechCrunch 称该计划似乎得到奥尔特曼和马斯克的认可。"
+      ],
+      "readingA": "这是头部实验室首次提出可量化、可比较的「减速阀」：用一个各家都在内部追踪的指标设定门槛，比依赖很快过时的下游基准更可操作；主动公开内部数据也是一种可信承诺。",
+      "readingB": "提议目前只是 OpenAI 单方面的倡议，没有竞争对手正式同意；门槛设在 OpenAI 自己的数据集上、各家数据不可比，「里程碑」也很模糊；在 IPO、市场竞争和中美竞赛背景下，各方能否真的停下仍是疑问。",
+      "disagree": "分歧在于：困惑度是否适合作为监管或自律的「速度表」（作者自己列出了四大局限）；行业自律能否替代政府规则；这是安全承诺还是塑造规则以利于领先者。",
+      "synthesis": "可以确认的是，OpenAI 首席科学家公开了内部困惑度曲线，并具体建议在约 0.68—0.70 区间前设立共同上限；它与阿莫代伊的「定速」计划方向一致，但目前没有任何约束力或多方签署。",
+      "unknown": "Anthropic、谷歌等是否会公开可比数据或接受门槛；OpenAI 当前最强模型的具体困惑度；「具体里程碑」如何定义、由谁验证；政府是否会采纳类似指标。",
+      "confidence": "高（原文来自 OpenAI 官网，TechCrunch 报道一致）；奥尔特曼、马斯克的态度来自 TechCrunch 转述，中。",
+      "sources": [
+        {
+          "label": "OpenAI：《困惑度与智能》（帕霍茨基）",
+          "url": "https://openai.com/index/perplexity-and-intelligence/"
+        },
+        {
+          "label": "TechCrunch：OpenAI 首席科学家谈如何限制 AI 发展",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：美国/科技",
+      "title": "技术故障未止：达美航空周日因计算飞机重量与配平的系统出问题，亚特兰大枢纽进出航班大面积延误；国家情报总监克莱顿在 CNN 上提醒美国人为「路上的颠簸」做准备，称系统升级期间可能继续中断；贝森特把银行补丁比作「疫苗」；微软总裁史密斯称需为「未来几个月」做准备",
+      "facts": [
+        "达美：The Verge 援引《纽约时报》称，周日所有进出亚特兰大的达美航班因计算飞机总重量和重心的系统出问题而严重延误；达美声明称团队正使用「人工替代方案」安全放行航班，同时恢复自动化。The Verge 称此事距 FAA 故障导致全国停飞仅一周。",
+        "克莱顿：CNBC 称，国家情报总监杰伊·克莱顿在 CNN《国情咨文》节目上说：「美国人应当准备好看到大量投资用于升级我们的系统……每当技术出现阶跃式变化……路上就会有颠簸」，并称系统「可能会中断一段时间」。CNBC 称政府官员大体否认这些故障与协同攻击或 AI 网络攻击有关；FAA 称停飞因路由器升级引发数据洪流、无迹象显示遭网络攻击，微软称 Outlook 故障源于「此前一次网络容量升级中的问题」。",
+        "贝森特：在 CBS《面对国家》节目上被问及是否应担心金融机构安全时，财长贝森特说「不，不应该」，并称银行为防范 AI 而打的补丁「可能导致故障」，「美国人应该把它看作疫苗：胳膊可能会疼……但能提高长期免疫力」（CNBC）。",
+        "微软：The Verge 称，微软总裁布拉德·史密斯对 CBS 说：「我们必须为未来几个月做好准备……全世界的整个信息基础设施实际上正在被升级」，并称 AI 让发现漏洞更容易，既可用来打补丁，也可被不法分子用来入侵。",
+        "时间点：CNBC 称，警告发出时美国正迎来感恩节（周四）所在的全年最繁忙出行周之一。"
+      ],
+      "readingA": "官方口径是一致的：故障源自 AI 时代的大规模系统升级和打补丁，而非协同攻击；把短期中断解释为「疫苗副作用」，有助于防止恐慌。",
+      "readingB": "官员实际上在预告更多中断，却很少给出具体原因；在 FBI 数据库、农业部遭入侵等事件背景下，「升级」与「攻击」的界线并不清楚，史密斯也承认 AI 同样被攻击者利用。",
+      "disagree": "分歧在于故障主要是人为失误/升级副作用，还是 AI 助力攻击增加的结果；政府应主动披露细节，还是以稳定信心为先。",
+      "synthesis": "达美故障原因已由公司说明是配载系统问题，未见攻击说法；高层官员和微软一致预期未来几个月仍会有中断，感恩节出行周是近期考验。",
+      "unknown": "达美系统故障的根本原因与恢复时间；本轮多起故障是否存在共同诱因；FBI/农业部入侵调查进展。",
+      "confidence": "中高（引语来自 CNBC、The Verge 对电视访谈的转述；达美故障细节来自《纽约时报》经 The Verge 转引）。",
+      "sources": [
+        {
+          "label": "CNBC：国家情报总监克莱顿警告科技故障后会有「颠簸」",
+          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+        },
+        {
+          "label": "The Verge：达美亚特兰大航班因系统故障延误",
+          "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+        },
+        {
+          "label": "The Verge：重大技术故障还没完",
+          "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "新话题：科技/AI与社会",
+      "title": "韩国教育部长崔教珍因 AI 作弊风波辞职：一名税务师考试状元承认用微型摄像头拍题、发给 AI 并从手机读答案，引发高考（修能）前紧急防作弊措施，包括首次动用全国灾害警报系统；考试中查出 111 名考生携带违规智能设备；李在明接受辞呈",
+      "facts": [
+        "辞职：BBC、卫报报道，韩国教育部长崔教珍周日宣布辞职，称「作为主管部长，我认为无法逃避事前准备不足的批评」，「既然考试已结束，我承担全部责任」；总统李在明接受辞呈（卫报、BBC）。",
+        "起因：BBC 称，4 月税务师考试第一名、34 岁的韩元锡（音）上周末承认作弊，他在视频中说：「我用微型摄像头拍下试题发给 AI，再在手机上核对答案。」他 160 道题只错一道，此前已引发猜疑。卫报称，坦白发生在大学修学能力考试（修能）前四天。",
+        "紧急措施：卫报称，当局在考区屏蔽公共 Wi-Fi、监考人数翻倍、要求考生只带铅笔（橡皮由考场提供），并要求避免穿有纽扣的衣服，否则会在纽扣上贴贴纸以防隐藏摄像头；政府承诺对举报者至少奖励 7.5 万美元。BBC 称，周四考试日 08:00—15:00 间发出 3 次全国紧急警报，静音手机甚至漫游游客的手机也会响，这是韩国首次用国家灾害警报系统抓作弊；当局还检查了眼镜。",
+        "结果：BBC 称，教育部此前表示，约 50 万名考生中有 111 人被发现携带未经授权的智能设备。卫报称，72 岁的崔教珍此前在国会被问能否在考试日抓住作弊者时答「因为年纪，我没有信心」，引发舆论反弹；考前几天他也未出席记者会。"
+      ],
+      "readingA": "这是生成式 AI 冲击高风险考试体系的标志性事件：一部微型摄像头加一个 AI 就能拿到近乎满分，迫使国家动用灾害警报级别的手段，说明传统监考已难以应对。",
+      "readingB": "也有人认为政府反应过度且迟缓：教师工会批评措施姗姗来迟（卫报），全国警报、纽扣贴纸等做法扰民；问责部长更多是政治表态，真正的问题是以单一考试决定前途的制度，而李在明本就主张改革考试制度（BBC）。",
+      "disagree": "分歧在于：问题主要在技术（AI 与隐蔽设备）还是制度（高度依赖标准化考试）；严防死守还是改革考核方式。",
+      "synthesis": "可确认的事实是：一起 AI 辅助作弊坦白引发了修能前的紧急措施、111 人违规携带设备、部长辞职。这可能成为各国高风险考试应对 AI 的参照案例。",
+      "unknown": "111 名考生的处理结果及其中是否有人实际使用 AI；税务师考试作弊案的法律后果；继任部长人选及考试制度改革方向。",
+      "confidence": "高（BBC、卫报报道一致，引语来自部长社交媒体与韩联社）。",
+      "sources": [
+        {
+          "label": "卫报：AI 作弊丑闻席卷大学入学考试，韩国部长辞职",
+          "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+        },
+        {
+          "label": "BBC：韩国教育部长因考试作弊丑闻辞职",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "续报：中东",
+      "title": "周末海湾再遭袭：沙特称拦截胡塞武装射向利雅得的无人机和射向西部能源区的弹道导弹；巴林称伊朗袭击民用工业设施致两人受伤；伊朗外长阿拉格齐称 6 月签署的「伊斯兰堡谅解备忘录」已「不在桌上」，但美方在其中的承诺仍可为最终协议铺路",
+      "facts": [
+        "沙特：CNBC 称，沙特领导的也门联军周日在 X 上称「拦截并摧毁了胡塞恐怖民兵射向利雅得地区的一架无人机」；周六晚还称拦截一枚射向西部地区的弹道导弹，该地区有敏感的炼油和出口设施。",
+        "巴林：巴林内政部称「伊朗的恶劣侵略」击中一处民用工业设施并起火，后称一名巴林公民和一名巴基斯坦居民受伤（CNBC；上期已报道起火，本期新增伤者信息）。伊朗官方媒体称革命卫队以导弹和无人机打击巴林境内的美军设施，另称击落一架美军 MQ-9 无人机；美军中央司令部未立即回应 CNBC。",
+        "外交：CNBC 称，阿拉格齐对《伊朗报》说：「伊斯兰堡谅解备忘录已不在桌上，也不再具有执行意义」，但「美方在备忘录中接受的承诺，以及履行这些承诺可为达成最终协议铺路的原则，仍为双方所接受」。该备忘录由特朗普与伊朗总统佩泽希齐扬于 6 月签署，旨在发展永久和平协议，后来破裂。",
+        "航运与油价：CNBC 称，英国海上贸易行动办公室报告周六阿曼附近两艘油轮被不明飞行物击中；伊朗对霍尔木兹海峡航运的限制仍是谈判的主要障碍。尽管如此，油价已连跌三周，布伦特原油当周下跌 3.4%，美国原油下跌 5.2%。"
+      ],
+      "readingA": "伊朗在军事施压的同时释放「门未关」的信号：放弃已破裂的备忘录框架，但保留美方承诺作为谈判基础，显示德黑兰在寻求更有利的新协议。",
+      "readingB": "袭击仍在多点持续（巴林、沙特、阿曼附近航运），外交表态缺乏具体时间表；胡塞对沙特能源设施的打击可能使战事向海湾产油国进一步扩散。",
+      "disagree": "分歧在于伊朗的表态是真正的缓和信号还是谈判筹码；胡塞袭击是伊朗协调行动还是独立行为；伊朗关于击落 MQ-9、打击美军设施的说法未获美方证实。",
+      "synthesis": "确定的是：周末沙特、巴林都报告遭袭，巴林有两人受伤；伊朗官方称旧备忘录作废但愿意谈。市场目前更看重实际油流，油价反而下跌。",
+      "unknown": "美方对阿拉格齐表态的回应；卡塔尔、巴基斯坦调解的进展；阿曼附近油轮遇袭的责任方；MQ-9 是否真被击落。",
+      "confidence": "中（主要依据 CNBC 一家报道及各方官方声明；伊朗方面的军事说法未经核实）。",
+      "sources": [
+        {
+          "label": "CNBC：沙特、巴林报告新袭击，伊朗称仍愿与美达成协议",
+          "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+    },
+    {
+      "n": 2,
+      "title": "Cop31 climate talks break down as key deal rejected",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected"
+    },
+    {
+      "n": 3,
+      "title": "Climate change talks fall apart in final hours over fossil fuels",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+    },
+    {
+      "n": 4,
+      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse"
+    },
+    {
+      "n": 5,
+      "title": "Australian politics live: Tehan says Bowen should resign over Cop; Taylor pays tribute to ‘kind, gentle’ Meldrum",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
+    },
+    {
+      "n": 6,
+      "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+    },
+    {
+      "n": 7,
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+    },
+    {
+      "n": 8,
+      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya"
+    },
+    {
+      "n": 9,
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+    },
+    {
+      "n": 10,
+      "title": "Boy, 7, rescued from rubble hours after Russian strike in Ukraine, rescuers say",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go"
+    },
+    {
+      "n": 11,
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+    },
+    {
+      "n": 12,
+      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep"
+    },
+    {
+      "n": 13,
+      "title": "How did Republicans lose so badly in North Carolina?",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/republicans-lose-north-carolina"
+    },
+    {
+      "n": 14,
+      "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate"
+    },
+    {
+      "n": 15,
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend"
+    },
+    {
+      "n": 16,
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+    },
+    {
+      "n": 17,
+      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html"
+    },
+    {
+      "n": 18,
+      "title": "We haven’t seen the last of the major tech outages",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+    },
+    {
+      "n": 19,
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage"
+    },
+    {
+      "n": 20,
+      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams"
+    },
+    {
+      "n": 21,
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no"
+    },
+    {
+      "n": 22,
+      "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html"
+    },
+    {
+      "n": 23,
+      "title": "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank"
+    },
+    {
+      "n": 24,
+      "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+    },
+    {
+      "n": 25,
+      "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes"
+    },
+    {
+      "n": 26,
+      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy"
+    },
+    {
+      "n": 27,
+      "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china"
+    },
+    {
+      "n": 28,
+      "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems"
+    },
+    {
+      "n": 29,
+      "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations"
+    },
+    {
+      "n": 30,
+      "title": "Protesters storm Meta offices in India",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india"
+    },
+    {
+      "n": 31,
+      "title": "Indian opposition party’s youth wing warns of more Meta protests after police clashes",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad"
+    },
+    {
+      "n": 32,
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/"
+    },
+    {
+      "n": 33,
+      "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds"
+    },
+    {
+      "n": 34,
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+    },
+    {
+      "n": 35,
+      "title": "Trump to host private dinner for largest owners of his meme coin",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin"
+    },
+    {
+      "n": 36,
+      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport"
+    },
+    {
+      "n": 37,
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo"
+    },
+    {
+      "n": 38,
+      "title": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5"
+    },
+    {
+      "n": 39,
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo"
+    },
+    {
+      "n": 40,
+      "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o"
+    },
+    {
+      "n": 41,
+      "title": "Centrica boss 'hugely concerned' over impact of soaring energy bills",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o"
+    },
+    {
+      "n": 42,
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan"
+    },
+    {
+      "n": 43,
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+    },
+    {
+      "n": 44,
+      "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history"
+    }
+  ]
+}
