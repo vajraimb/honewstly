@@ -1,0 +1,543 @@
+{
+  "date": "2026-11-24",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/23 约 08:10，即 UTC 11/23 00:10）至本期（11/24 约 08:10，UTC 11/24 00:10），约 24 小时，覆盖欧美周一（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；卫报 RSS 首次抓取被拒（403），更换请求方式后成功，所有 RSS 最终均抓取成功，窗口内共约 213 条标题。正文均为直接抓取的原文。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：周一标题量较多（约 213 条，上期约 138 条），英伟达事件主导科技与财经版面，另有多条新话题。需注意：第 6 条海湾袭击仅见半岛电视台节目简介、缺乏具体地点和伤亡；特朗普「新年后打击」说法为福克斯转述；第 2 条亚马逊—Decart 金额来自彭博报道。本窗口之后关注：12 月 1 日黄仁勋众院闭门问询与民主党参院领袖投票、12 月 1 日爱沙尼亚关闭对俄边境、12 月 3 日参院银行委员会听证、12 月 8—9 日美联储议息会议（市场已充分定价加息 25 个基点）、艾奥瓦引爆日期、欧盟第 22 轮制裁表决。",
+  "vsYesterday": "相对上一期（11/23）：续报：英伟达风波出现最大转折，黄仁勋在特朗普推动下复任 CEO、股价单日涨约 31%，参院定 12 月 3 日听证，商务部拟将 Megaspeed 列入黑名单（上期仅在索引中提及肯尼迪参议员言论和贝森特表态）；俄乌：乌方正式认领班加西袭击、俄方警告报复并威胁爱沙尼亚、欧盟提出第 22 轮制裁；伊朗：美方新一轮影子银行制裁、特朗普称倾向新年后打击、伊朗再袭海湾美军设施。新话题：CrowdStrike 以 439 亿美元收购 Zscaler（并亚马逊收购 Decart 技术、克莱顿兼任代理网络总监）；弗州、俄州起诉 SpaceX 的 Grok 深度伪造问题；Anthropic 推出可自动批准代码变更的 Claude Ship；艾奥瓦叠氮化铅引爆之争（上期曾入索引，本期升级为正文）。COP31 破裂后仅有分析和 AI 数据中心议题评论，民主党参院领袖之争、OpenAI 困惑度上限、黎曼猜想证明、深圳会晤、韩国 AI 作弊风波本窗口无实质新进展；众议员戈麦斯因性不当行为调查辞职、英国制裁缅甸军方高层、塔吉克斯坦拟退出国际刑事法院、曼彻斯特演唱会疏散、纽约联储威廉姆斯暗示继续加息等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：科技/AI与政治",
+      "title": "英伟达董事会周一一致决定让黄仁勋即刻复任 CEO，距其 11 月 12 日因婚外情（其中一名女子被指涉中国间谍）辞职不到两周、距董事会明确表示不打算让他回归不到一周；特朗普称「是我促成的交易」、政府向董事会保证黄未违反国家安全法；英伟达股价单日大涨约 31%、市值回升近 1 万亿美元，两党议员强烈质疑，参院银行委员会定 12 月 3 日公开听证，商务部拟将 Megaspeed 列入黑名单",
+      "facts": [
+        "复任：BBC、卫报、CNBC 报道，英伟达周一上午宣布黄仁勋即刻复任总裁兼 CEO。董事长哈维·琼斯在声明中称，董事会认为黄仁勋是领导英伟达的「合适人选」、复任「符合股东、员工、合作伙伴和客户的最佳利益」；公司称董事会在「一系列讨论和会面」后一致投票，并称收到「美国政府高层的意见」，确信复任「不构成国家安全风险」。BBC 称，上周二董事会还明确表示无意让他回归。",
+        "特朗普的角色：特朗普周一在 CNBC 电话采访中说「是我说服了他们」「是我促成的交易」，称董事会要求就国家安全威胁提供保证，「我们给了保证，至少就我们所知的一切而言，而我们知道很多」，又说「失去他才是威胁」。CNBC 援引三名知情人士称，特朗普周日亲自承诺黄仁勋未违反国家安全法，是促成复任的关键；政府高层官员周五夜间联络董事会，黄仁勋随后参加了周六、周日的会议。特朗普还在 Truth Social 称司法部长托德·布兰奇确认政府「没有证据」表明黄有违法行为。卫报称特朗普事后发布一张经改图的图片，把黄仁勋的脸和英伟达旗帜叠加在 2024 年遇刺后举拳的照片上、手中举着一件红色胸罩。",
+        "其他推动因素：CNBC 称，辞职后股价急跌（一周内跌逾 25%）以及外界对临时 CEO、财务总监科莱特·克雷斯的质疑（财报电话会和全员大会表现被部分投资者认为「平淡」）也促成了决定；黄仁勋辞职后曾与奥尔特曼、布罗克曼、马斯克通话。卫报称，曾被接洽接任的 Arm CEO 勒内·哈斯已签约留任至 2033 年。",
+        "市场：CNBC 称，英伟达周一收涨 31.48%，市值回升近 1 万亿美元，为 2003 年 5 月以来最佳单日；此前一个月股价跌逾 40%。纳斯达克综合指数涨 6.51%，为 2025 年 4 月 9 日以来最佳单日（上周纳指跌 10%，三大股指均进入回调区间）；BBC 称标普 500 涨 4.75%，但英伟达收盘价仍略低于上周五开盘价、较一个月前约低 21%。美光涨约 19%、戴尔涨约 20%，CoreWeave、Nebius 等「新云」涨逾 20%；Anthropic 上市第三天跌 1.43%。（卫报写涨幅为 33%，各家数字略有出入。）",
+        "国会反应：卫报称，共和党参议员里基茨称黄仁勋的「行为不支持复任」；柯蒂斯追问「政府里是谁提供了意见、说了什么」；科宁质疑 FBI 是否做过防御性简报。参院银行委员会主席蒂姆·斯科特定于 12 月 3 日举行公开听证，题为「保护美国的 AI 优势：出口管制监督」，黄仁勋为唯一证人；他此前已同意 12 月 1 日出席众院三个委员会的闭门问询（TechCrunch、CNBC）。民主党沃伦称决定「鲁莽」、要求立法加强芯片出口管制，候任议长杰弗里斯要求在国防授权法中加入「铁定」条款；CNBC 称共和党众议员唐·培根称这是「品格的失败」，并点名商务部长卢特尼克可能需要负责。",
+        "Megaspeed：BBC、TechCrunch 称，商务部周一宣布准备把新加坡数据中心公司 Megaspeed 及其子公司 Speedmatrix 列入实体清单；被指为中国间谍的爱丽丝·黄（Alice Huang，与黄仁勋无亲属关系）曾任该公司高管/CEO。商务部称已调查该公司近两年，怀疑其帮助英伟达芯片流入中国公司；生效日期未公布。中方否认她是间谍，并警告美方不要以此为「技术封锁的借口」。"
+      ],
+      "readingA": "董事会在白宫背书后迅速掉头，说明英伟达和整个 AI 交易对单一创始人的依赖极深；政府给出「无国安风险」保证、股市随之大反弹，对投资者而言是一次止损。特朗普公开揽功，也显示政府把英伟达视为国家经济资产。",
+      "readingB": "公司治理和国家安全判断被总统个人背书取代：董事会依据的「政府意见」内容不透明，商务部同日又要把与黄仁勋有染的女子曾任职的公司列入黑名单，两者之间的张力未解释。两党议员都要求说明，12 月 1 日和 3 日的作证将是检验。",
+      "disagree": "分歧在于：复任是对市场和人才现实的理性回应，还是政治干预、牺牲国家安全审查；政府「没有违法证据」的结论能否等同于「没有国安风险」；董事会是否应为反复决策负责（卫报评论文章主张董事会辞职）。",
+      "synthesis": "可以确定的是：黄仁勋已复任，董事会明确引用政府意见，特朗普公开表示亲自促成；股价大幅反弹但尚未完全收复失地。接下来的关键节点是 12 月 1 日众院闭门问询、12 月 3 日参院公开听证，以及 Megaspeed 实体清单的正式生效。",
+      "unknown": "政府向董事会提供了哪些具体情报和保证；路透所报美国证交会（SEC）对英伟达会计问题的调查是否属实（BBC 未证实）；Megaspeed 列入实体清单的生效时间及对英伟达营收的影响；1 月民主党接掌国会后的调查范围。",
+      "confidence": "高（BBC、卫报、CNBC、TechCrunch 多源一致；董事会、特朗普表态有直接引语）；涨幅数字各家略有差异，以 CNBC 31.48% 为准。",
+      "sources": [
+        {
+          "label": "BBC：英伟达让黄仁勋复任，特朗普称「是我促成的交易」",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o"
+        },
+        {
+          "label": "CNBC：特朗普亲自承诺促成英伟达重新聘用黄仁勋",
+          "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
+        },
+        {
+          "label": "CNBC：黄仁勋回归后科技股大涨",
+          "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+        },
+        {
+          "label": "BBC：英伟达市值回升近 1 万亿美元",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"
+        },
+        {
+          "label": "卫报：共和党参议员批评英伟达让黄仁勋复任",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+        },
+        {
+          "label": "CNBC：国会两党痛批英伟达决定",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+        },
+        {
+          "label": "TechCrunch：黄仁勋定于下周在参院作证",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+        },
+        {
+          "label": "BBC：美国将把 Megaspeed 列入黑名单",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+        },
+        {
+          "label": "TechCrunch：Megaspeed 料将被列入美国黑名单",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "新话题：科技/网络安全",
+      "title": "网络安全业最大并购之一：CrowdStrike 宣布以约 439 亿美元全股票交易收购 Zscaler，称要打造「网络安全的操作系统」、应对 AI 加剧的网络攻击；同日亚马逊据报以 75 亿美元买下以色列初创公司 Decart 的 AI 优化技术和创始团队，为对外销售自研 Trainium 芯片做准备；情报总监克莱顿兼任代理国家网络总监",
+      "facts": [
+        "交易条款：CNBC、TechCrunch 报道，CrowdStrike 周一宣布以全股票方式收购 Zscaler，作价 439 亿美元，Zscaler 股东每股换 1.135 股 CrowdStrike；需监管批准，CNBC 称预计在 CrowdStrike 2028 财年下半年完成，TechCrunch 称约在明年此时完成。这是 CrowdStrike 迄今最大收购。",
+        "逻辑：CrowdStrike 主营终端（电脑、手机等设备）防护，Zscaler 为约 8000 家企业提供云端「零信任」安全产品；两家称合并将带来「最大的单一可寻址市场」、帮助客户安全采用 AI。CEO 乔治·库尔茨称「我们看到成为世界上最大的 AI 安全公司的路径」。",
+        "市场：CNBC 称，消息公布当天 CrowdStrike 股价跌 9%，Zscaler 涨近 18%；两家截至上周五合计市值超过 2650 亿美元，仅次于帕洛阿尔托网络（2820 亿美元）。CrowdStrike 同日公布第三财季每股收益 34 美分、营收 15.8 亿美元，高于 LSEG 预期；Zscaler 第一财季业绩也超预期。CNBC 将此放在近期微软、FAA、摩根大通等系统故障引发焦虑、企业加速打补丁和升级旧系统的背景下。",
+        "亚马逊—Decart：TechCrunch 援引彭博称，亚马逊以 75 亿美元收购以色列初创公司 Decart 的「Decart 优化栈」（DOS，帮助 AI 模型在英伟达、亚马逊、谷歌硬件上高效运行）技术和创始团队、研究人员；亚马逊高级副总裁彼得·德桑蒂斯称「AI 的每一次飞跃都始于从每颗芯片中榨取更多」。TechCrunch 称亚马逊正准备向客户出售 Trainium 芯片，与英伟达竞争。",
+        "网络总监：CNBC 援引白宫官员称，国家情报总监杰伊·克莱顿将兼任代理国家网络总监（他 10 月已兼任 AI 主管），直到提名人、五角大楼首席信息官柯尔斯滕·戴维斯获参院确认；前任肖恩·凯恩克罗斯被替换，特朗普上周五称换人是因为「我觉得那个人不够好」。"
+      ],
+      "readingA": "AI 让攻击更快更多，企业倾向于把终端、网络和身份安全交给少数平台；CrowdStrike 借此补齐网络安全短板、追赶帕洛阿尔托，是行业整合的自然延续。亚马逊买下优化软件，则是为了降低客户从英伟达迁移到 Trainium 的门槛。",
+      "readingB": "收购方股价下跌 9% 说明投资者对价格和整合风险有疑虑；全股票交易、完成时间在一年左右，期间还要过反垄断审查。在系统故障频发之际，安全行业更加集中也可能带来单点故障风险。",
+      "disagree": "分歧在于：超大型安全平台整合是提升防御还是增加集中风险；CrowdStrike 估值是否支撑这一溢价；亚马逊此举能否实质撼动英伟达在 AI 芯片软件生态中的地位。",
+      "synthesis": "确定的是：CrowdStrike—Zscaler 交易条款已公布、尚待监管批准；亚马逊—Decart 交易金额目前来自彭博报道，双方未回应 TechCrunch 置评。两者都显示 AI 正在重塑安全与算力两大基础设施市场。",
+      "unknown": "反垄断审查结果和交易最终完成时间；Zscaler 管理层安排；亚马逊—Decart 交易的官方金额与结构；Trainium 对外销售的时间表和价格。",
+      "confidence": "高（CrowdStrike 交易有公司公告、CNBC 和 TechCrunch 一致）；亚马逊—Decart 金额为中（来自彭博转述，亚马逊博客确认收购技术和团队）。",
+      "sources": [
+        {
+          "label": "CNBC：CrowdStrike 以 440 亿美元收购 Zscaler",
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+        },
+        {
+          "label": "TechCrunch：CrowdStrike 收购 Zscaler",
+          "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+        },
+        {
+          "label": "TechCrunch：亚马逊以 75 亿美元买下 Decart 的 AI 优化技术",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+        },
+        {
+          "label": "CNBC：情报总监克莱顿出任代理国家网络总监",
+          "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "新话题：科技/AI监管",
+      "title": "弗吉尼亚州和俄勒冈州成为首批起诉 SpaceX 的州：指控其 AI 聊天机器人 Grok 绕开行业通行安全措施、推广「辣味模式」，可生成真人（包括儿童）的色情或裸体深度伪造图像，违反州消费者保护法；SpaceX 未直接回应诉讼，称会处理违规账户并配合执法",
+      "facts": [
+        "诉讼：半岛电视台（美联社、路透）和 CNBC 报道，俄勒冈州总检察长丹·雷菲尔德周日晚向马尔特诺马县巡回法院、弗吉尼亚州总检察长杰伊·琼斯周一上午向里士满市巡回法院分别提起诉讼；截至周一早些时候尚待法院受理。此前多个州已宣布调查 Grok，但这两州是首批起诉的州。",
+        "指控：两州称 SpaceX 未设置足够防护措施阻止用户生成、传播有害深度伪造图像（尤其是 AI 生成的儿童性虐待材料），并虚假宣称 Grok 和 X 总体安全，分别违反弗州《消费者保护法》和俄州《不公平贸易行为法》。琼斯在诉状中写道：「为把落后的 Grok 推给数千万新用户，它去掉了行业标准的防护，推销专门用来生成裸露内容的『辣味模式』……对这些被告来说，薄弱的防护不是失误而是卖点。」",
+        "证据：弗州诉状引用反数字仇恨中心（CCDH）研究，估计 2025 年 12 月至 2026 年 1 月间 Grok 在 X 上生成并发布了数百万张性化图像，其中逾 2 万张描绘儿童；弗州调查人员称 Grok 的图像审核不一致，甚至会教用户避开触发词；自 1 月起把图像生成限定为付费用户，诉状称这并未阻止生成，反而让公司从中获利。",
+        "诉求：两州寻求禁令、民事罚款、追缴所得和诉讼费，弗州还要求赔偿消费者。CNBC 称 X 允许 13 岁以上未成年人使用。",
+        "公司回应：SpaceX 在 X 的 @Safety 账号称，有人试图突破防护生成此类内容时会处理账户并通知执法部门，「这些人应被最大限度地起诉」，并称试图生成者「故意违反服务条款」。CNBC 称，在巴尔的摩市起诉 xAI 的案件中，公司援引《通信规范法》第 230 条主张不对用户生成图像负责；在德州一案中，公司称 Grok 是「受用户控制的中性工具」。SpaceX 另面临十余起个人诉讼及英国、西班牙、爱尔兰、法国、加州等地调查。"
+      ],
+      "readingA": "州检察长绕开联邦层面的平台豁免争议，用消费者保护法追究「产品设计和虚假安全宣传」，与此前各州迫使社交媒体改变产品、支付赔偿（如 Meta 8 月约 170 亿美元和解）的路径一致，可能成为生成式 AI 责任的新模板。",
+      "readingB": "公司一方的核心论点是用户故意违规、工具本身中立，且第 230 条可能提供保护；生成式 AI 输出是否属于「平台上的用户内容」，法律上尚无定论，案件可能耗时多年。",
+      "disagree": "分歧在于：AI 生成内容的责任应在模型提供方还是使用者；第 230 条是否适用于 AI 自身生成的图像；「辣味模式」是产品设计缺陷还是被滥用的合法功能。",
+      "synthesis": "确定的是：两州已提交诉状、尚待受理，指控基于州消费者保护法而非联邦法。案件进展、法院对第 230 条的态度，将影响所有提供图像生成功能的 AI 公司。",
+      "unknown": "其他调查中的州是否跟进起诉；法院是否受理及首轮裁决；SpaceX 是否调整 Grok 产品功能；CCDH 估计数字能否在诉讼中得到确认。",
+      "confidence": "高（半岛电视台/美联社/路透与 CNBC 报道一致，引用诉状原文）；CCDH 数字为研究估计。",
+      "sources": [
+        {
+          "label": "半岛电视台：美国两州就 Grok 生成儿童性虐待材料起诉 SpaceX",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material"
+        },
+        {
+          "label": "CNBC：俄勒冈、弗吉尼亚就 AI 深度伪造色情起诉 SpaceX",
+          "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "新话题：科技/AI",
+      "title": "刚上市的 Anthropic 推出 Claude Ship：一组用于代码审查、修复并自动批准代码变更的 AI 代理，其中 Claude Approvals 可按团队写在代码库里的自然语言策略自动批准「常规」改动，把合并审批权部分交给 AI；新功能为测试版，建议先以「只观察」模式运行",
+      "facts": [
+        "产品：TechCrunch、The Verge 报道，Anthropic 周一发布 Claude Ship，包括已正式可用的 Code Review（3 月发布、10 月正式可用）和两款测试版新代理：PR Steward 处理 CI 检查失败、合并冲突和审查意见，并在每次推送后留言说明改了什么、如何回滚；Claude Approvals 依据团队以文件形式写在代码库中的审批策略自动批准常规变更，可参考 Code Review 结果或团队自定义的自然语言分类器。",
+        "理由：TechCrunch 引用 Anthropic 博客称，「大多数团队希望每个改动都有人批准，人写每一行代码时很容易跟上，但现在很多开发者用代理来构建……在 Claude Code 团队，Claude 写了我们大部分的代码，我们希望 PR 之后的一切也同样快。」",
+        "控制与范围：Anthropic 建议先以只观察模式运行审批功能，可从单一代码库开始并设置月度支出上限；团队可选择审查深度（快速、标准、深度）和哪些变更需升级给人类。目前面向 Claude Team 和 Enterprise 计划、仅支持 GitHub 代码库。",
+        "背景：CNBC 称，Anthropic 在 IPO 中募资创纪录的 935 亿美元，首日涨 17%、周五收跌 8.5%，周一（上市第三天）在短暂盘前上涨后收跌 1.43%。"
+      ],
+      "readingA": "AI 写代码的速度已经让人工审查成为瓶颈，把常规变更的审批交给可配置、可审计的策略代理，是顺理成章的下一步；回滚说明、观察模式和支出上限显示 Anthropic 在设计上考虑了风险控制。",
+      "readingB": "由同一家公司的模型写代码、审查代码并批准合并，削弱了「第二双眼睛」的独立性；在近期多起大规模系统故障之后，自动批准上线的风险和责任归属值得警惕。",
+      "disagree": "分歧在于：自动审批能否在效率与安全之间取得平衡；「常规变更」由谁、如何界定；出事时责任在团队策略还是 AI 供应商。",
+      "synthesis": "确定的是：Claude Ship 已推出，审批和修复代理为测试版、限于企业级付费计划和 GitHub。实际效果要看早期用户的数据，以及企业是否愿意把合并权限交给 AI。",
+      "unknown": "定价细节；早期用户的误批率或事故案例；是否会扩展到 GitHub 以外的平台；竞争对手（如 OpenAI、GitHub 自身）的回应。",
+      "confidence": "高（TechCrunch、The Verge 报道一致，引用 Anthropic 官方说明）。",
+      "sources": [
+        {
+          "label": "TechCrunch：Anthropic 推出 Claude Ship",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+        },
+        {
+          "label": "The Verge：Claude 现在可以自行审查 PR 并提交修复",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+        },
+        {
+          "label": "CNBC：科技股周一大反弹（含 Anthropic 股价）",
+          "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：俄乌/欧洲",
+      "title": "乌克兰正式确认用 7 艘国产海上无人机从「母船」发射，击沉停靠利比亚班加西的俄新型护卫舰「水星」号并击中货轮「安加拉」号；克里姆林宫警告将有「痛苦后果」，梅德韦杰夫再提核武；俄外交部指爱沙尼亚「濒临引发公开战争」；欧盟委员会提出第 22 轮对俄制裁，含 60 家银行移出 SWIFT 与体育禁令；卫报披露泄露数据显示逾千名俄军人自杀",
+      "facts": [
+        "乌方确认：卫报称，乌克兰安全局（SBU）说，行动中从一艘母船发射了 7 艘国产海上无人机；泽连斯基称行动「堪称典范」，并称另一艘被击中的干货船「安加拉」号被俄方用于运送武器。行动距前线约 2400 公里。卫报称普京 2019 年曾视察该舰建造、2023 年海军节点名称赞。",
+        "利比亚各方：半岛电视台称，东部政府已向联合国投诉，称袭击侵犯利比亚主权；卫报称的黎波里的联合国承认政府也谴责乌方行动、拒绝任何外国在利比亚领土或水域的军事行动；联合国利比亚支助团表示「严重关切」，呼吁独立调查。",
+        "俄方反应：半岛电视台称，克宫发言人佩斯科夫说国防部正在处理此事，乌方将面临「痛苦后果」，并称波罗的海袭击（周六驶往加里宁格勒的「斯巴达 II」号起火）是「非常危险的趋势」；梅德韦杰夫撰文称俄罗斯在某些情况下有权甚至有义务动用包括核武器在内的一切手段，但承认目前没有「直接必要」。总理米舒斯京称将花 470 亿卢布（约 5.76 亿美元）建造两艘铁路渡轮，2030 年起保障加里宁格勒运输。",
+        "爱沙尼亚：半岛电视台称，俄外交部召见爱沙尼亚临时代办，抗议其将从 12 月 1 日起关闭对俄边境至少 6 个月的决定，称这类行动「濒临引发与俄罗斯的公开战争」，并指爱方默许乌无人机借道其领空，爱方迅速否认。爱方此前指俄安全部门策划纵火袭击一家爱沙尼亚防务公司，俄方否认。",
+        "欧盟制裁：冯德莱恩周一提出第 22 轮对俄制裁方案：60 家银行移出 SWIFT、成立加密资产制裁特别工作组、禁止俄罗斯队伍和运动员以俄国旗参加欧盟境内赛事、禁止参战俄退伍军人入境签证；需 27 国一致同意（半岛电视台）。",
+        "自杀数据：卫报独家报道，根据黑客组织「网络游击队」和「沉默乌鸦」获取的逾 1100 万份俄罗斯死亡证明数据，全面入侵以来至少 1087 名俄军人被记录为自杀，另有 885 人死于「意图不明」的枪伤；分析人士称这几乎肯定低估了实际数字。克宫不公布军人自杀数据。"
+      ],
+      "readingA": "乌克兰把海上无人机战延伸到地中海并公开认领，显示其远程打击能力和打击俄「影子船队」、海外补给线的决心；欧盟新一轮制裁和波罗的海国家的强硬也在加大对俄压力。",
+      "readingB": "战火外溢风险上升：利比亚东西两个政府都表达不满，俄方以「痛苦后果」、核武言论和对爱沙尼亚的「公开战争」警告回应，北约成员国与俄的直接摩擦面在扩大。",
+      "disagree": "分歧在于：远程打击是削弱俄军后勤的有效手段，还是把第三国卷入战争；俄方对爱沙尼亚的警告是外交施压还是潜在升级信号；欧盟新制裁能否获得 27 国一致通过。",
+      "synthesis": "确定的是：乌方已正式认领班加西袭击，俄方尚未公布损失细节；12 月 1 日爱沙尼亚关闭边境是下一个可能的摩擦点；欧盟制裁仍是提案。",
+      "unknown": "「水星」号人员伤亡；俄方具体报复行动；欧盟成员国（如匈牙利、斯洛伐克）对新制裁的态度；卫报所获数据的完整性。",
+      "confidence": "中高（乌方认领、俄方表态、欧盟提案均有官方说法；伤亡和行动细节仍主要来自交战一方）。",
+      "sources": [
+        {
+          "label": "卫报：乌克兰确认用海上无人机袭击利比亚外海两艘俄船",
+          "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+        },
+        {
+          "label": "半岛电视台：俄方就利比亚和波罗的海袭击警告乌克兰",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks"
+        },
+        {
+          "label": "半岛电视台：俄罗斯威胁「敌对的」爱沙尼亚",
+          "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
+        },
+        {
+          "label": "半岛电视台：欧盟提出含体育禁令的新一轮对俄制裁",
+          "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
+        },
+        {
+          "label": "卫报：泄露数据显示逾千名俄军人自杀",
+          "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "续报：中东/伊朗",
+      "title": "美财政部在「经济弃儿行动」下对伊朗「影子银行」网络实施新一轮制裁，针对二十多家兑换所、幌子公司和人员；福克斯称特朗普表示若谈不成「倾向于」新年后下令打击伊朗；伊朗在一段相对平静后再次打击海湾美军设施，民用设施受损；伊朗对未戴头巾演出的歌手执行 74 鞭刑",
+      "facts": [
+        "制裁：半岛电视台称，美国财政部周一宣布制裁二十多家伊朗兑换所、幌子公司及关键人员，称其帮助伊朗在国际金融体系中转移数十亿美元，受伊朗中央银行监管；对象包括 Nesim Baharan 公司、Fashki 兑换公司和 Mellat 兑换公司。财长贝森特称影子银行是「破产政权最后的金融生命线」，财政部将继续拆解这些网络「直到斩断蛇头」。美方此前称制裁已使里亚尔创新低、通胀升至约 90%。",
+        "战争与外交：半岛电视台援引美联社称，伊朗外长阿拉格齐表示仍希望外交能结束与美国长达九个月的战争；特朗普称伊朗想要协议，但不是他能接受的。福克斯新闻称特朗普对其首席外事记者表示，若两国未能达成协议，他「倾向于」在新年后下令军事打击伊朗。",
+        "海湾：半岛电视台节目《Inside Story》称，在冲突相对平静一段时间后，伊朗再次打击海湾国家境内的美国资产，民用设施受损，并讨论德黑兰能否借此迫使白宫放松经济封锁。",
+        "人权：半岛电视台、BBC、卫报报道，歌手帕拉斯图·艾哈迈迪与四名制作团队成员周一在库姆被执行 74 鞭刑，起因是 2024 年 12 月发布在 YouTube 上的一段未戴强制头巾、与男乐手同台的演出视频；法院 6 月以「制作和发布淫秽不道德内容」定罪，五人还被禁止两年内从事艺术活动和出境。"
+      ],
+      "readingA": "华盛顿在经济上持续加码、军事上释放新年后打击的信号，意在以极限压力换取更有利的协议；伊朗恢复对海湾美军的打击则是以军事施压回应封锁。",
+      "readingB": "制裁、袭击与威胁同时升级，外交窗口在收窄；战争已经推高能源价格和通胀（纽约联储主席威廉姆斯同日也把伊朗冲突列为通胀压力来源之一），双方都缺乏可见的妥协路径。",
+      "disagree": "分歧在于：制裁是否真能迫使伊朗让步，还是促使其以军事手段反制；特朗普的打击表态是谈判筹码还是实际计划；鞭刑事件反映的是强硬派重新收紧，还是有选择的执法。",
+      "synthesis": "确定的是：新制裁名单已公布；特朗普的「新年后打击」说法来自福克斯转述；伊朗恢复对海湾目标的打击，但本窗口内缺乏具体袭击地点、伤亡的文字报道。",
+      "unknown": "伊朗最新袭击的具体目标和伤亡；卡塔尔、巴基斯坦调解进展；伊方对新制裁的回应；鞭刑事件后的国际反应。",
+      "confidence": "中（制裁有财政部公告；海湾袭击仅见半岛电视台节目简介，细节不足；特朗普表态为二手转述）。",
+      "sources": [
+        {
+          "label": "半岛电视台：美国升级对伊制裁，瞄准「影子银行」网络",
+          "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks"
+        },
+        {
+          "label": "半岛电视台 Inside Story：伊朗在平静后再袭海湾美军基地和民用设施",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull"
+        },
+        {
+          "label": "半岛电视台：伊朗对歌手帕拉斯图·艾哈迈迪执行鞭刑",
+          "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf"
+        },
+        {
+          "label": "CNBC：纽约联储威廉姆斯称需逐步采取行动应对通胀",
+          "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "新话题：美国",
+      "title": "艾奥瓦州军火厂约 9500 磅不稳定起爆药叠氮化铅的处置之争：特朗普周一暂停陆军的引爆计划，要求先获联邦第八巡回上诉法院同意、并须由候任民主党州长桑德同意，否则将让后者为「任何死亡或破坏」负责；数小时后上诉法院为引爆扫清道路；陆军警告有毒铅尘烟羽可能飘至 100 英里外",
+      "facts": [
+        "物质与地点：卫报称，艾奥瓦陆军弹药厂（位于约 400 人的米德尔敦镇）存放 68 桶、近 9500 磅叠氮化铅（主要用于雷管和起爆帽的铅氮炸药）。陆军原定上周五引爆，因公众对健康和环境影响的担忧先后三次改期，最近一次定在本周三（称当天天气最有利）。",
+        "法律之争：卫报称，司法部向上诉法院表示陆军将援引紧急例外；艾奥瓦环境委员会和塞拉俱乐部艾奥瓦分会提出异议，称环保署跳过了必要的许可程序，法院随即对许可实施行政暂缓。政府称气温降到 30 华氏度以下时存在「立即爆炸的风险」；据《得梅因纪事报》，存放仓库的防爆门已被拆除且无法更换。",
+        "特朗普表态：特朗普在 Truth Social 称，他已命令军方在第八巡回法院同意前不得行动，且决定「完全取决于」候任州长罗布·桑德是否同意；称专家认为受控引爆比放任其自行爆炸安全得多；若法院和桑德不同意则不会进行，并称将让桑德为「任何及所有死亡或破坏」负责。卫报随后报道，联邦上诉法院为陆军引爆扫清了道路。",
+        "风险与回应：陆军警告爆炸可能释放有毒铅尘烟羽，向东北延伸至多 100 英里，可能波及伊利诺伊州的新波士顿等地。桑德要求联邦政府向居民公开信息；共和党参议员格拉斯利也呼吁加强沟通，同时表示受控、安全地清除叠氮化铅「远胜于」意外灾难。"
+      ],
+      "readingA": "受控引爆是在两害中取其轻：材料已不稳定、防爆门无法复原、寒潮将至，拖延可能导致无预警的大爆炸；两党参议员和军方都倾向尽快处置。",
+      "readingB": "程序与透明度不足：环保许可被指跳过步骤，居民至今不清楚风险评估依据；特朗普把责任推给尚未就职的民主党候任州长，使安全问题政治化。",
+      "disagree": "分歧在于：紧急例外是否合法、是否应补足环保程序；受控引爆的铅尘污染与意外爆炸风险孰轻孰重；最终决定权和责任应在联邦还是州。",
+      "synthesis": "确定的是：上诉法院已为引爆扫清法律障碍，但特朗普另设了候任州长同意这一条件；具体引爆日期仍未确定。",
+      "unknown": "桑德是否同意；新的引爆日期；居民是否需疏散；铅尘扩散的实际监测方案。",
+      "confidence": "中高（卫报详细报道，引用特朗普帖文和法庭文件；上诉法院裁决细节在已读文本中有限）。",
+      "sources": [
+        {
+          "label": "卫报：联邦法院为陆军在艾奥瓦引爆制弹材料扫清道路",
+          "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court"
+        },
+        {
+          "label": "半岛电视台：特朗普推迟陆军在艾奥瓦引爆有毒炸药的计划（视频）",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o"
+    },
+    {
+      "n": 2,
+      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
+    },
+    {
+      "n": 3,
+      "title": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive"
+    },
+    {
+      "n": 4,
+      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated"
+    },
+    {
+      "n": 5,
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html"
+    },
+    {
+      "n": 6,
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/"
+    },
+    {
+      "n": 7,
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+    },
+    {
+      "n": 8,
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"
+    },
+    {
+      "n": 9,
+      "title": "Tech stocks see monster rally after Jensen Huang returns as Nvidia CEO",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/anthropic-nvidia-shares.html"
+    },
+    {
+      "n": 10,
+      "title": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return"
+    },
+    {
+      "n": 11,
+      "title": "Some women in tech have concerns about Huang's return",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia"
+    },
+    {
+      "n": 12,
+      "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html"
+    },
+    {
+      "n": 13,
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/"
+    },
+    {
+      "n": 14,
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "n": 15,
+      "title": "DNI Jay Clayton tapped as acting national cyber director",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html"
+    },
+    {
+      "n": 16,
+      "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material"
+    },
+    {
+      "n": 17,
+      "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html"
+    },
+    {
+      "n": 18,
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+    },
+    {
+      "n": 19,
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+    },
+    {
+      "n": 20,
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/"
+    },
+    {
+      "n": 21,
+      "title": "Meta throws out its net-zero goal — its competitors should be furious",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/"
+    },
+    {
+      "n": 22,
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit"
+    },
+    {
+      "n": 23,
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    },
+    {
+      "n": 24,
+      "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html"
+    },
+    {
+      "n": 25,
+      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
+    },
+    {
+      "n": 26,
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks"
+    },
+    {
+      "n": 27,
+      "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war"
+    },
+    {
+      "n": 28,
+      "title": "EU plans sports ban in sweeping new Russia sanctions proposal",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
+    },
+    {
+      "n": 29,
+      "title": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/23/leaked-data-shows-more-than-1000-russian-military-suicides-during-ukraine-war"
+    },
+    {
+      "n": 30,
+      "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks"
+    },
+    {
+      "n": 31,
+      "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull"
+    },
+    {
+      "n": 32,
+      "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf"
+    },
+    {
+      "n": 33,
+      "title": "Federal court clears way for army to detonate bomb-making material in Iowa",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court"
+    },
+    {
+      "n": 34,
+      "title": "Trump postpones US Army plan to detonate toxic explosives in Iowa",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa"
+    },
+    {
+      "n": 35,
+      "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
+    },
+    {
+      "n": 36,
+      "title": "Jimmy Gomez to resign after House ethics panel finds evidence of sexual misconduct",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct"
+    },
+    {
+      "n": 37,
+      "title": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo"
+    },
+    {
+      "n": 38,
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza"
+    },
+    {
+      "n": 39,
+      "title": "Israel’s southern Syria incursion triggers fear and destruction",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction"
+    },
+    {
+      "n": 40,
+      "title": "Tajikistan moves to leave ICC amid US push against court",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/tajikistan-moves-to-leave-icc-amid-us-push-against-court"
+    },
+    {
+      "n": 41,
+      "title": "Thousands flee Manchester concert after unknown substance released",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released"
+    },
+    {
+      "n": 42,
+      "title": "Kenya and DR Congo agree to restore ties after tensions over conflict",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro"
+    },
+    {
+      "n": 43,
+      "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal"
+    },
+    {
+      "n": 44,
+      "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu"
+    },
+    {
+      "n": 45,
+      "title": "Mexican soldiers attacked in wake of drug lord's arrest",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o"
+    },
+    {
+      "n": 46,
+      "title": "Protesting Bangladesh garment workers reject pay offer",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer"
+    }
+  ]
+}
