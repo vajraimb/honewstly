@@ -1,0 +1,604 @@
+{
+  "date": "2026-11-25",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/24 约 08:10，即 UTC 11/24 00:10）至本期（11/25 约 08:10，UTC 11/25 00:10），约 24 小时，覆盖欧美周二（默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；所有 RSS 均一次抓取成功，窗口内共约 222 条标题。正文均为直接抓取的原文。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：周二标题量约 222 条（上期约 213 条），英伟达及 AI 市场仍占据科技与财经版面，另有华为定罪、商船入侵等新进展。需注意：第 1 条全员大会内容来自匿名在场人士和不同媒体转述；第 4 条伊朗归因为匿名官员说法、尚在调查；第 5 条核卫星为德媒匿名信源报道；第 7 条份额数据来自单一机构 Forter。本窗口之后关注：北京时间 11/25 23:00 艾奥瓦引爆、美国感恩节（11/26）、12 月 1 日黄仁勋众院闭门问询与英伟达 GTC 华盛顿大会、12 月 1 日爱沙尼亚关闭对俄口岸、12 月 3 日参院银行委员会听证、俄方「报复」动向、荷台达局势。",
+  "vsYesterday": "相对上一期（11/24）：续报：英伟达风波进入「复任后」阶段——黄仁勋全员大会致歉并否认特朗普直接促成复任，布兰奇、帕特尔回避调查结论，舒默指其违反出口管制，特朗普称赦免「是一个选项」，Megaspeed 正式列入实体清单；AI 市场：英伟达回落近 6%，Anthropic 首次跌破 83 美元发行价，AI 信用利差扩大，戴尔 AI 服务器强劲；伊朗：美方调查多达 50 艘商船遭入侵与伊朗的关联，胡塞威胁沙特港口；俄乌：普京誓言就炼油厂遇袭报复，俄称爱沙尼亚处于「开战边缘」，韩国郁陵岛因俄机发布避难警报，德媒报道俄拟发射核卫星；艾奥瓦叠氮化铅引爆定于北京时间 11/25 23:00。新话题：华为在纽约被判 10 项罪名成立；Meta Muse 接入 Instagram 并在英国上线（此前仅入索引）。CrowdStrike–Zscaler、Grok 州诉讼、Claude Ship、COP31、深圳会晤、黎曼猜想证明本窗口无实质新进展；田纳西州民主党人布罗德里克翻转共和党深红选区、阿布雷戈·加西亚获准自愿离美、BBC Verify 揭露涉华网络用 AI 假视频抹黑台湾候选人、法院裁定 Meta 等不对布法罗枪击案担责、哥伦比亚汽车炸弹与卡塔赫纳人质事件、以军击杀哈马斯内部安全负责人等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：科技/AI与政治",
+      "title": "黄仁勋复任次日召开全员大会致歉、称在接受治疗，否认特朗普直接促成其复任、并坚持英伟达「不需要继任计划」；司法部长布兰奇和 FBI 局长帕特尔回避「是否调查过黄仁勋」的提问，舒默指其违反出口管制、称民主党委员会将调查；特朗普对《纽约邮报》称赦免黄仁勋「总是一个选项」；商务部正式将 Megaspeed 等 7 家东南亚公司列入实体清单",
+      "facts": [
+        "全员大会：CNBC 援引在场人士称，黄仁勋周二在复任后首次员工大会上语气悔恨，说「我伤害了你们所有人」，承诺第二次会做得更好；他称这是一生中第二艰难的会议（最艰难的是与妻子），并说自己在接受治疗。The Verge 援引《纽约时报》称他说「我犯了一些可怕的错误……我对 Lori 不忠，伤害了孩子，当然也伤害了你们所有人」；据彭博社他每天接受治疗。TechCrunch 援引 Wired 称，他承认违反了自己主导制定的行为准则，但称「违反行为准则并不意味着立刻被请出门」。",
+        "特朗普的角色：The Verge 援引 The Handbasket 记者 Kabas 称，黄仁勋在会上把「特朗普直接参与其复任」的说法称为「完全不实」，并说「不要以为政治在公司里起了作用，我们是最不政治化的公司」；但 TechCrunch 援引《华尔街日报》称，他感谢政府为英伟达「迅速提供情报」，帮助董事会判断复任的国家安全风险较低。白宫此前称特朗普「全程参与」。",
+        "继任与婚外情：CNBC 称黄仁勋告诉员工，英伟达有多位能干的领导者分管不同部门，继任计划只会制造「不必要的层级」。TechCrunch 援引《华尔街日报》称，他在复任前与董事会会面时承认的婚外情多于媒体已报道的两段，具体哪些不详。",
+        "司法部与 FBI：CNBC、半岛电视台报道，司法部长托德·布兰奇周二被问及司法部是否调查过黄仁勋时反问「调查什么？」，称「我不会谈论我与总统的沟通」，又称 FBI「一直在调查各种事情，不一定成为刑事调查」，并称英伟达是「好的企业公民」；FBI 局长卡什·帕特尔未回答 FBI 是否约谈过黄仁勋。被问到 Megaspeed 出口调查仍在进行时，布兰奇称「司法部任何时候都有数百起出口调查」。",
+        "国会：卫报报道，参院少数党领袖舒默指黄仁勋向中国运送「极先进的芯片」、违反出口管制法，称这「相当于太空竞赛时向苏联出售火箭发动机」；半岛电视台引述其声明称「我们的委员会将进行调查」。共和党参议员柯蒂斯称董事会在自身独立调查尚未结束时就让其复职，「我想知道发生了什么变化」。CNBC 称，12 月 1 日黄仁勋将接受众院外委会、中共问题特委会和情报委员会闭门问询（与英伟达华盛顿 GTC 大会同日，原定由他做主旨演讲），12 月 3 日以唯一证人身份出席参院银行委员会公开听证；加州总检察长、董事会委托 Wachtell Lipton 的内部调查以及据报道的 SEC 调查仍在进行。",
+        "赦免表态：卫报直播援引《纽约邮报》采访称，特朗普说赦免黄仁勋「总是一个选项，但我认为不会有必要」，并称黄仁勋不需要援引第五修正案拒答。",
+        "Megaspeed：CNBC 称，商务部在《联邦公报》中把新加坡 Megaspeed 及其印尼、马来西亚（MSFusion）、泰国关联实体等 7 家东南亚公司列入实体清单，许可申请适用「推定拒绝」；路透称阿里巴巴新加坡子公司 Apex 也被列入，阿里称 Apex 从未转运受管制芯片、将寻求一切法律途径。新加坡总理黄循财称「不希望新加坡被用作规避美国出口管制的通道」。"
+      ],
+      "readingA": "复任后的悔过姿态和「去政治化」表态是稳定员工和客户的必要动作；司法部称没有证据显示他违法，Megaspeed 也已被制裁，风险源被切断，公司应回到产品与业务（GTC、Nemotron 等）上。",
+      "readingB": "关键问题反而更模糊：黄仁勋否认特朗普促成复任、却感谢政府提供情报；司法部长与 FBI 局长回避调查结论；总统又公开谈赦免。在民主党明年掌控两院之际，这让「谁做了什么评估」成为国会调查焦点，董事会和公司治理（无继任计划）风险上升。",
+      "disagree": "分歧在于：政府「意见」是正式的安全评估还是政治背书；黄仁勋个人与英伟达在 Megaspeed 转运问题上的责任边界；拒绝继任计划是对公司结构的合理判断还是治理缺陷。",
+      "synthesis": "确定的是：黄仁勋已回归并公开致歉，政府官员未公开任何调查结论，12 月 1 日和 3 日的国会问询/听证照常进行；Megaspeed 已被正式列入实体清单。",
+      "unknown": "董事会内部调查结论及时间；黄仁勋向董事会承认的其他婚外情细节；司法部与 SEC 调查的实际范围；黄仁勋是否出席 GTC 主旨演讲。",
+      "confidence": "中高（CNBC、半岛电视台、卫报、TechCrunch、The Verge 多方报道；全员大会内容来自匿名在场人士和二手转述，措辞略有差异）。",
+      "sources": [
+        {
+          "label": "CNBC：黄仁勋告诉员工英伟达不需要继任计划",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+        },
+        {
+          "label": "The Verge：黄仁勋据报道告诉员工「特朗普促成复任」不实",
+          "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+        },
+        {
+          "label": "TechCrunch：全员大会上黄仁勋感谢白宫、称在接受治疗",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+        },
+        {
+          "label": "TechCrunch：黄仁勋据报道向董事会承认不止两段婚外情",
+          "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"
+        },
+        {
+          "label": "CNBC：布兰奇与帕特尔回避英伟达调查提问",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html"
+        },
+        {
+          "label": "半岛电视台：布兰奇拒绝确认是否调查过黄仁勋",
+          "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated"
+        },
+        {
+          "label": "卫报：舒默指黄仁勋违反出口管制",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress"
+        },
+        {
+          "label": "卫报直播：特朗普称对赦免黄仁勋持开放态度",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates"
+        },
+        {
+          "label": "CNBC：黄仁勋将在 GTC 同日接受华盛顿问询",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+        },
+        {
+          "label": "CNBC：美国将 Megaspeed 列入贸易黑名单",
+          "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：科技/AI市场",
+      "title": "「黄仁勋效应」一天即退潮：英伟达周二收跌 5.86%，美光、AMD、Arm 及 CoreWeave 等新云公司跌 8%—12%，纳指跌 1.48%；Anthropic 收跌 6.5% 至约 81.9 美元，首次跌破 83 美元 IPO 发行价，分析师仍普遍看多；AI 信用市场再度承压，CoreWeave 债券收益率逾 17%；戴尔财报 AI 服务器收入同比增 291%",
+      "facts": [
+        "股市：CNBC 称英伟达周二收跌 5.86%，回吐周一逾 30% 涨幅的一部分；美光跌 10.97%、迈威尔跌 9.10%、Arm 跌 8.55%、AMD 跌 8.86%，CoreWeave 跌 11.84%、Iren 跌 11.54%、Nebius 跌 10.74%。卫报称纳指收跌 1.48%、标普 500 跌 0.5%，道指微涨；英伟达周一市值增加逾 9000 亿美元。",
+        "Anthropic：CNBC 称 Anthropic 周二收跌 6.5%，跌破 83 美元 IPO 价；该股上周四以 111.50 美元在纳斯达克开盘后一路走低，IPO 募资 813 亿美元为史上最大。TechCrunch 称盘中最低约 76 美元、较周一收盘跌近 12%，并指跌破发行价通常被视为负面信号，可能压低私营 AI 初创估值、削弱其他 AI 公司 IPO 前景。卫报称收于 81.90 美元。",
+        "分析师：CNBC 称 Canaccord Genuity 首次覆盖给予买入评级、目标价 135 美元，Wedbush 跑赢大盘、120 美元，Oppenheimer 跑赢大盘、150 美元；Canaccord 同时称基础设施承诺和竞争差异化持久性方面的风险「异常大」。",
+        "信用市场：CNBC 称，CoreWeave 2031 年到期、票息 9.75% 债券收益率超过 17%，五年期 CDS 利差升 8.5% 至 1200 个基点以上；甲骨文 CDS 升 7%，Meta、亚马逊利差扩大逾 2%，英伟达 CDS 升 3.4%。英伟达在财报电话会上称截至 10 月 25 日为 AI 项目提供了 1180 亿美元担保。FedWatch Advisors 的埃蒙斯称市场把政府干预视为带有信用和利率风险的「道义劝说」。",
+        "戴尔：CNBC 称戴尔第三财季营收和盈利均超预期，总销售额同比翻倍以上；基础设施方案部门收入 419.7 亿美元（预期 352.7 亿），其中 AI 服务器 220 亿美元、同比增 291%，占总营收 85%；AI 服务器在手订单 1323 亿美元，下一财年 AI 服务器预测上调至 780 亿美元，并批准 250 亿美元回购；PC 业务 128.9 亿美元低于预期。"
+      ],
+      "readingA": "周二回调是对周一暴涨的正常消化（XTB 的布鲁克斯语）；戴尔的订单和分析师对 Anthropic 的高目标价说明 AI 实际需求仍强，跌破发行价更多是短期情绪。",
+      "readingB": "市场在两天内经历大涨大跌，说明 AI 交易高度依赖个人和政治事件；Anthropic 首周即破发、新云公司债券收益率和 CDS 走高，反映投资者对 AI 基础设施债务和「循环融资」的担忧并未因黄仁勋回归而消失。",
+      "disagree": "分歧在于：Anthropic 破发是估值回归还是行业见顶信号；英伟达为客户提供担保和融资是生态护城河还是信用风险；硬件订单（戴尔）能否转化为 AI 应用端利润。",
+      "synthesis": "确定的是：周二 AI 相关股票普遍回落，Anthropic 首次收于发行价下方，信用利差扩大；同日戴尔交出强劲 AI 服务器业绩。",
+      "unknown": "Anthropic 股价能否收复发行价；英伟达是否恢复大规模客户融资；新云公司再融资压力有多大。",
+      "confidence": "高（价格、财报数据来自 CNBC、卫报、TechCrunch 直接报道；各来源报价时点不同，盘中与收盘数字有差异）。",
+      "sources": [
+        {
+          "label": "CNBC：英伟达股价跌逾 5%，复任行情降温",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+        },
+        {
+          "label": "卫报：黄仁勋回归的狂热消退，科技股抛售重启",
+          "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+        },
+        {
+          "label": "CNBC：Anthropic 收于 83 美元发行价下方",
+          "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+        },
+        {
+          "label": "TechCrunch：Anthropic 跌破发行价，AI 初创的警示信号",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+        },
+        {
+          "label": "CNBC：AI 债务市场再度震荡",
+          "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html"
+        },
+        {
+          "label": "CNBC：戴尔财报 AI 强劲、批准 250 亿美元回购",
+          "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "新话题：科技/中美",
+      "title": "纽约联邦陪审团裁定华为 12 项指控中 10 项成立，包括合谋窃取商业秘密、银行欺诈、电信欺诈、违反制裁和洗钱，但宣告其敲诈勒索（RICO）合谋和妨碍司法两项不成立；量刑定于 2027 年 9 月 14 日，华为称指控「缺乏法律和事实依据」并将上诉",
+      "facts": [
+        "裁决：The Verge（援引 NBC、彭博）称，纽约联邦法院陪审团认定华为 12 项刑事指控中的 10 项成立，包括洗钱、违反美国制裁、银行欺诈、电信欺诈和合谋诈骗美国；敲诈勒索合谋和妨碍司法两项不成立。司法部称量刑定于 2027 年 9 月 14 日，可能面临罚金、没收和赔偿。",
+        "指控内容：半岛电视台称，华为及三家关联公司共面临 12 项指控；审判持续两个多月，检方传唤 60 多名证人、辩方 15 名。检方试图证明华为窃取思科路由器源代码、Quintel 天线技术，并雇用教授获取 CNEX 电路板；陪审团观看了据称显示华为员工把 T-Mobile 测试机器人部件放进背包的视频。检方还出示孟晚舟暂缓起诉协议所附声明，其中她承认公司在伊朗非法开展业务。",
+        "双方表态：司法部刑事司助理司法部长泰森·杜瓦称，「二十多年来，华为把全球帝国建立在欺诈、盗窃和欺骗的基础上」。华为律师赫伯利格称将上诉，但把敲诈勒索罪名不成立视为「洗清」，称那是「唯一把所有指控串在一起的罪名」，裁决「否定了政府的核心叙事」；辩方称检方从华为 20 多万名员工中「挑出」少数孤立事件。BBC 称华为在声明中表示，敲诈勒索罪名不成立「证实这些指控缺乏事实依据，印证了我们过去八年的一贯立场」；赫伯利格对 BBC 说将为争取最低刑罚「大力辩护」，随后预计上诉。",
+        "背景：此案源于 2018 年孟晚舟在加拿大被捕，2020 年追加窃密指控；美国 2019 年将华为列入贸易黑名单。半岛电视台称专家认为此案并未削弱华为业务，华为已成为中国 AI 布局的关键企业。"
+      ],
+      "readingA": "陪审团在长达两个月的审理后认定绝大多数指控成立，印证了美国多年来对华为窃密和违反制裁的指控，为出口管制和网络安全限制提供了法律背书。",
+      "readingB": "最重要的敲诈勒索合谋罪名不成立，说明检方「二十年系统性犯罪」的叙事未被陪审团接受；量刑要到 2027 年 9 月，且华为早已被排除在美国市场之外，实际商业影响有限，更多是中美科技对抗的象征性事件。",
+      "disagree": "分歧在于：这是对一家公司系统性行为的定罪，还是对个别员工行为的放大；判决对华为海外业务和中美关系的实际影响有多大。",
+      "synthesis": "确定的是：华为在 10 项罪名上被定罪、2 项被宣告无罪，将上诉；量刑在近一年后。",
+      "unknown": "罚金规模；上诉结果；中国政府的官方回应（本窗口抓取的报道中未见）；对华为在其他国家业务的连锁影响。",
+      "confidence": "高（The Verge、半岛电视台、BBC 报道一致；罪名清单细节以 The Verge 引述的司法部信息为准）。",
+      "sources": [
+        {
+          "label": "The Verge：华为被判窃取商业秘密罪名成立",
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+        },
+        {
+          "label": "半岛电视台：华为被判合谋窃取商业秘密罪名成立",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+        },
+        {
+          "label": "BBC：华为被判窃取商业秘密，但敲诈勒索罪名不成立",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "续报：中东/伊朗与网络安全",
+      "title": "美国政府调查多达 50 艘商船近期遭网络入侵是否与伊朗有关：黑客据称利用 Fortinet FortiGate 设备漏洞从船舶 IT 系统渗透到控制推进、转向和导航的运营技术网络，受影响船只包括一艘 LNG 运输船；同时沙特主导的联军下令疏散荷台达港平民，胡塞武装威胁袭击吉达等沙特红海港口",
+      "facts": [
+        "船舶入侵：NPR 援引一名美国官员、一名前军方网络作战人员和一名业内高管称，美国掌握的情报显示多达 50 艘商船近期遭网络攻击，联邦官员正调查是否与伊朗有关；此事最早由《华尔街日报》报道。TechCrunch 援引《华尔街日报》称，受影响的是运载石油、液化气和其他易爆化学品的船只，在亚洲和欧洲航行时被入侵；8 月数艘驶往美国海岸的油轮导航系统被攻破。",
+        "手法与风险：NPR 称黑客利用 Fortinet FortiGate 设备的已知漏洞，再从 IT 系统转入控制物理过程的运营技术（OT）网络；该官员称攻击者「本可以影响推进、转向、导航和货物管理系统」，但未提供实际发生的例子，并说「这不是复杂的攻击……基本的网络卫生就能缓解」。FBI 和海岸警卫队 8 月曾派专门小组登上墨西哥湾两艘驶往美国港口的外国商船，9 月发布网络公告。TechCrunch 称漏洞被称为 FortiBleed；FBI 未回应置评。",
+        "更大背景：NPR 称专家和美国官员认为伊朗黑客应对 8 月美国水处理系统遭攻击以及截至 11 月初美军基地和欧洲各地超市制冷系统攻击负责；伊朗否认对法国的冰箱攻击负责。TechCrunch 称今年美以发动的对伊战争导致伊朗最高领袖身亡，伊朗的许多报复以网络攻击形式出现。",
+        "红海：半岛电视台直播称，沙特主导的也门联军向荷台达港平民发出疏散令，胡塞武装军事发言人萨雷亚警告，若荷台达遭袭将打击吉达港及其他沙特红海港口；伊斯兰革命卫队司令瓦希迪警告未来战争「可能扩展到地区以外」，敦促邻国重新考虑与美国的安全关系。"
+      ],
+      "readingA": "船舶入侵说明伊朗正把对美网络报复从水务、医疗扩展到航运，联系红海港口威胁，海上能源运输面临物理与网络双重风险，需要强化港口检查和设备补丁。",
+      "readingB": "归因仍是「调查中」和匿名官员说法，官员自己也承认这是利用已知漏洞的低复杂度攻击、未见实际操控案例；在战时，公开渲染伊朗网络威胁也可能服务于舆论动员，应等待更具体的技术证据。",
+      "disagree": "分歧在于：攻击是否确为伊朗国家行为；入侵是否已具备造成碰撞、爆炸等实质破坏的能力；责任更多在攻击者还是在未打补丁的航运业。",
+      "synthesis": "确定的是：美方正在调查多达 50 艘商船遭入侵事件并已登船处置至少两艘；归因和破坏能力尚未公开证实。红海方向，荷台达疏散令与胡塞威胁使局势进一步升级。",
+      "unknown": "受影响船只名单和船旗国；是否有船舶系统被实际操控；Fortinet 的回应；联军是否会进攻荷台达。",
+      "confidence": "中（NPR 有三名信源但均匿名，TechCrunch 转述《华尔街日报》；红海部分仅见半岛电视台直播摘要）。",
+      "sources": [
+        {
+          "label": "NPR：美国政府调查多达 50 艘被黑商船与伊朗的关联",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
+        },
+        {
+          "label": "TechCrunch：据报道近几周数十艘油轮和货船遭入侵",
+          "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+        },
+        {
+          "label": "半岛电视台直播：胡塞武装因荷台达疏散令威胁沙特港口",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：俄乌/欧洲与亚太",
+      "title": "普京称乌克兰无视特朗普请求继续袭击俄炼油厂，报复「不可避免」；俄外交部称爱沙尼亚已处于「引发公开战争的边缘」，塔林否认；俄军机逼近韩国郁陵岛，当地罕见发布空袭避难警报；德国媒体报道俄罗斯拟 60 天内发射核武卫星，北约秘书长吕特称将防御太空威胁",
+      "facts": [
+        "能源打击：半岛电视台报道，普京周二在克里姆林宫对政府官员和石油高管说，基辅「无视美国总统的劝告和直接请求」继续袭击俄炼油设施，「我方的报复措施不可避免」；基辅称只有莫斯科停止打击，乌方才会停止袭击俄能源目标。路透援引两名业内人士估计，自 10 月底以来乌方无人机袭击使俄炼油厂原油加工量合计下降 45%，俄多个地区限制汽柴油零售。",
+        "爱沙尼亚：CNBC 称俄外交部就爱沙尼亚 12 月 1 日起关闭公路口岸向其代办提出正式抗议，称这些「挑衅且极其危险」的行动「处于引发与俄罗斯公开战争的边缘」，并指责爱沙尼亚对俄实施海上封锁、默许乌无人机借道其领空。爱沙尼亚否认，外长察赫克纳列举俄导弹落入波兰、丹麦破获俄情报机构策划的暗杀阴谋、爱沙尼亚挫败针对国防企业的纵火计划等。半岛电视台称波兰周二指责俄罗斯一架侦察无人机故意侵犯其领空。",
+        "韩国：卫报称，多架俄军机周二上午进入韩国防空识别区并逼近郁陵岛，「到了即将侵犯领空的地步」，韩国空军紧急升空；行政安全部 7:52 向约 8700 名居民发送避难警报（英文为「EVACUATION, AIR RAID」），7:55 解除。庆尚北道随后的短信误称为「推测是朝鲜飞机」，省方称是误用演习模板。这是今年第四次、一周内第二次俄军机进入该区，韩国防部召见俄武官抗议。",
+        "核卫星报道：BBC 称，德国 NDR、WDR 和《南德意志报》援引匿名军方和情报人士称，俄罗斯准备在 60 天内发射一颗代号「Sputnik-S」、搭载核弹头的卫星，可用于干扰或摧毁其他卫星；北约秘书长吕特在柏林称「将确保在太空领域也安全」，默茨称报道「不新但同样令人震惊」；克宫发言人佩斯科夫称匿名消息「不值得认真对待」，俄驻德使馆称是「宣传运动」。俄罗斯是禁止在轨道部署大规模杀伤性武器的 1967 年《外层空间条约》签约国。",
+        "其他：半岛电视台称俄军夜袭扎波罗热致 2 死 40 伤；英国安全官员警告向乌军提供「物质支持」的英国公司防范俄方破坏。"
+      ],
+      "readingA": "冲突正在外溢：乌方对俄能源和舰船的远程打击、俄对波罗的海国家和韩国周边的施压、太空核武传闻，显示欧洲及其盟友需要统一应对俄方升级。",
+      "readingB": "许多「升级」仍停留在言辞和未经证实的情报层面：核卫星报道来自匿名人士、德国政府也警告不要「过度紧张」；俄机进入防空识别区并不违反国际法，韩方警报还出现措辞失误。过度渲染可能削弱正在进行的外交努力。",
+      "disagree": "分歧在于：乌方打击俄炼油厂是否违背特朗普的「能源停火」呼吁、应否克制；俄方「报复」会以何种形式落地；核卫星情报的可信度。",
+      "synthesis": "确定的是：普京公开誓言报复，俄与爱沙尼亚关系进一步恶化，12 月 1 日爱沙尼亚将关闭口岸；韩国因俄机发布了罕见避难警报。核卫星报道尚无官方证实。",
+      "unknown": "俄方报复的目标与时间；核卫星报道的情报来源；韩国警报是否首例；和谈进展。",
+      "confidence": "中高（普京、俄外交部、韩方表态有直接引述；核卫星和炼油量数据为匿名或业内人士估计）。",
+      "sources": [
+        {
+          "label": "半岛电视台：普京称乌克兰袭击俄炼油厂后报复「不可避免」",
+          "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+        },
+        {
+          "label": "CNBC：俄罗斯指责北约成员爱沙尼亚的敌对行动处于「开战边缘」",
+          "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"
+        },
+        {
+          "label": "卫报：俄军机逼近后韩国要求岛民避难",
+          "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
+        },
+        {
+          "label": "BBC：俄核卫星报道后北约誓言防御太空威胁",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "续报：美国",
+      "title": "美国陆军宣布将于美东时间周三上午 10 点（北京时间 11/25 23:00）在艾奥瓦州米德尔敦弹药厂受控引爆 68 桶约 9700 磅（约 4.4 吨）不稳定的叠氮化铅，此前已三次改期；陆军称找不到「可行替代方案」，居民被要求 20 英里内关窗待在室内、西南方向 5 英里内可能疏散，恰逢感恩节出行高峰",
+      "facts": [
+        "时间与规模：卫报称引爆定于美东时间周三上午 10 点；The Verge 称共 68 桶、约 9700 磅叠氮化铅，计划中部时间约 9 点进行。陆军周二向手机发送「迫在眉睫威胁警报」，要求 20 英里内居民关闭门窗留在室内，以避开空气中的铅尘、噪音和振动；工厂西南 5 英里内部分居民可能被疏散。",
+        "为何引爆：代理陆军部长亚当·特勒称，全国专家一致认为「受控、经缓解的引爆远比不受控的自发爆炸可取」。ATF 局长塞卡达称 3 月检查发现桶外有「显著结晶」，开盖添加水和乙醇都可能引爆；第 71 爆炸物处理大队指挥官称化学中和法被证明不安全。部分材料已有 60 多年历史。",
+        "缓解措施与影响：卫报称陆军增设防爆屏障、用弹道凝胶和泡沫吸附铅尘并喷洒数千加仑水；最新模型显示烟羽将向西南进入艾奥瓦东南部和密苏里北部，约 350 个农场可能受影响，农业部官员称有防止重金属进入食品供应链的规程。艾奥瓦卫生部门建议受影响地区居民在爆炸后 24—48 小时留在室内，与感恩节前出行高峰冲突。",
+        "政治与法律：上诉法院此前为引爆扫清障碍；特朗普曾要求候任州长罗布·桑德同意，桑德表示决定完全在于联邦政府，现任州长雷诺兹在与国防部长赫格塞思等人沟通后表示支持。环保人士诉讼针对的是环保署许可的有效性。参议员恩斯特称军方「应给予更多而非更少的透明度」。卫报称周边社区直到 11 月 15 日才获通知，一位农资店员工说「最初只有五天预警」。"
+      ],
+      "readingA": "在材料已结晶、无法安全开盖的情况下，受控引爆是唯一现实选项；州、联邦和军方已达成一致，并采取了屏障、凝胶、喷水等多重缓解措施。",
+      "readingB": "这是长期管理失误的后果：本应定期检查的库存劣化到如此程度，邻近社区仅提前数天获知，时间表多次变更，选在感恩节前夕，民众对铅污染监测和事后检测缺乏信心。",
+      "disagree": "分歧在于：引爆时间安排是否合理；环保许可程序是否合法；铅尘对农场和密西西比河流域的长期影响及责任归属。",
+      "synthesis": "确定的是：引爆将在北京时间 11/25 晚 23:00 左右进行，若无新的法律或政治变数，事件将在本期发布后约 15 小时揭晓结果。",
+      "unknown": "实际烟羽路径和铅沉降监测数据；疏散范围；是否再度推迟；事后土壤和水源检测安排。",
+      "confidence": "高（卫报、The Verge、半岛电视台均直接引述陆军和 ATF 新闻发布会）。",
+      "sources": [
+        {
+          "label": "卫报：陆军发布铅尘烟羽路径图，引爆定于周三",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation"
+        },
+        {
+          "label": "卫报：艾奥瓦为受控爆炸做准备，「我们只有五天预警」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving"
+        },
+        {
+          "label": "The Verge：美国陆军为何要在艾奥瓦引爆近万磅不稳定炸药",
+          "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa"
+        },
+        {
+          "label": "半岛电视台：美军周三将在艾奥瓦引爆逾 4 吨叠氮化铅",
+          "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "新话题：科技/AI",
+      "title": "Meta 把 AI 代理 Muse 直接接入 Instagram 私信，并在英国上线；据 Forter 统计，截至 11 月 22 日当周 Muse 完成了 51% 的 AI 代理购物订单，Grok 占 24%、ChatGPT 占 22%；Meta 高管称无广告的 Muse 已在提升广告转化，英国监管机构表示将密切关注",
+      "facts": [
+        "Instagram 集成：TechCrunch 称，Instagram 用户周二起可在私信中与 Muse 对话，获取帖子、地点或商品的更多背景，或让它执行操作，如把咖啡馆加入行程、寻找黑五鞋子折扣；首批在美国、加拿大、墨西哥、日本和新加坡的 iOS 和安卓用户中推出。用户收藏帖子时会看到让 Muse 整理的提示（美加先行）。Meta 称未经用户批准不会分享、发布或发送任何内容。",
+        "商业逻辑：CNBC 援引知情人士称，约 20% 的 Instagram 日活用户每天至少收藏一条帖子，其中许多是可购物商品或广告；一名高管称 Muse 即便没有广告也「对广告业务非常有价值，因为它提高了广告主的转化率」。扎克伯格此前在财报会上称 25% 的 Muse 用户用它购物、平均客单价超过 200 美元，Meta 计划收取小额交易费。",
+        "市场份额：CNBC 援引 Forter Intelligence 数据称，截至 11 月 22 日当周 51% 的代理订单由 Muse 完成，SpaceX 旗下 Grok 占 24%，OpenAI 的 ChatGPT 占 22%，谷歌和初创公司 Instinct 合计 3%。",
+        "英国上线：卫报称 Muse 在英国推出，可作为独立应用或在 WhatsApp 中使用，已与玛莎百货、Currys、Sainsbury's、easyJet 等签约；Meta 称 Muse 看不到密码和支付方式，购买或发邮件前须经批准，另有「安全代理」核查其操作。英国信息专员办公室称 Meta 承诺参加「自愿监测和报告机制」，竞争与市场管理局称谈判后条款变得「更公平」，其负责人卡德尔称如有担忧「将毫不犹豫采取行动」。卫报副标题提到已有故障报告。"
+      ],
+      "readingA": "Muse 把代理购物嵌入用户已有的社交习惯中，减少摩擦、对用户有实际便利；Meta 设置了逐项授权和安全代理，并主动与英国监管机构沟通，是相对审慎的推广方式。",
+      "readingB": "一个「无广告」的代理正在为广告业务收集高价值的购物意图数据，用户隐私和竞争问题值得警惕；此前已有报道称 Muse 混淆对话、泄露私人数据（11/20 索引），而 Signal、联合航空和多家银行正在限制 AI 代理访问。",
+      "disagree": "分歧在于：代理购物的数据应否用于广告定向；用户授权机制是否足以防范错误操作和隐私泄露；Meta 在代理购物市场的过半份额是否引发竞争担忧。",
+      "synthesis": "确定的是：Muse 已进入 Instagram 私信并在英国上线，在代理购物订单中占据过半份额（按 Forter 口径）；变现路径以交易费和广告转化为主，英国监管机构已介入。",
+      "unknown": "Forter 数据的覆盖范围和代表性；Muse 何时引入广告；英国监管的后续动作；已报告故障的规模。",
+      "confidence": "中高（产品信息来自 Meta 公告的报道；广告价值说法来自匿名人士；份额数据来自单一第三方机构）。",
+      "sources": [
+        {
+          "label": "TechCrunch：Meta 把 Muse AI 助手直接带入 Instagram 私信",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+        },
+        {
+          "label": "CNBC：Meta 如何借 Instagram 让 Muse 提振广告",
+          "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
+        },
+        {
+          "label": "卫报：Meta 在英国推出 Muse",
+          "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+        },
+        {
+          "label": "CNBC：Signal 加入联合航空、银行限制 AI 代理",
+          "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+    },
+    {
+      "n": 2,
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+    },
+    {
+      "n": 3,
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+    },
+    {
+      "n": 4,
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"
+    },
+    {
+      "n": 5,
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo"
+    },
+    {
+      "n": 6,
+      "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated"
+    },
+    {
+      "n": 7,
+      "title": "Schumer accuses Huang of violating US export control laws amid shipments of chips to China",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress"
+    },
+    {
+      "n": 8,
+      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates"
+    },
+    {
+      "n": 9,
+      "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+    },
+    {
+      "n": 10,
+      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html"
+    },
+    {
+      "n": 11,
+      "title": "Nvidia shares fall more than 5% as Huang comeback rally cools",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+    },
+    {
+      "n": 12,
+      "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang"
+    },
+    {
+      "n": 13,
+      "title": "Anthropic closes below $83 IPO price, but analysts are still largely positive",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    },
+    {
+      "n": 14,
+      "title": "Anthropic shares fall below IPO price. Traders see even more pain",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-options-trading-ipo-price.html"
+    },
+    {
+      "n": 15,
+      "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html"
+    },
+    {
+      "n": 16,
+      "title": "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html"
+    },
+    {
+      "n": 17,
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+    },
+    {
+      "n": 18,
+      "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+    },
+    {
+      "n": 19,
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran"
+    },
+    {
+      "n": 20,
+      "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/"
+    },
+    {
+      "n": 21,
+      "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order"
+    },
+    {
+      "n": 22,
+      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation"
+    },
+    {
+      "n": 23,
+      "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html"
+    },
+    {
+      "n": 24,
+      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
+    },
+    {
+      "n": 25,
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo"
+    },
+    {
+      "n": 26,
+      "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship"
+    },
+    {
+      "n": 27,
+      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data"
+    },
+    {
+      "n": 28,
+      "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday"
+    },
+    {
+      "n": 29,
+      "title": "Iowa braces for controlled bomb blast: ‘We had only five days of warning’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving"
+    },
+    {
+      "n": 30,
+      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa"
+    },
+    {
+      "n": 31,
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+    },
+    {
+      "n": 32,
+      "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html"
+    },
+    {
+      "n": 33,
+      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping"
+    },
+    {
+      "n": 34,
+      "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html"
+    },
+    {
+      "n": 35,
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+    },
+    {
+      "n": 36,
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/"
+    },
+    {
+      "n": 37,
+      "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/"
+    },
+    {
+      "n": 38,
+      "title": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o"
+    },
+    {
+      "n": 39,
+      "title": "Meta and other social media firms are not liable for Buffalo mass shooting, court rules",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting"
+    },
+    {
+      "n": 40,
+      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html"
+    },
+    {
+      "n": 41,
+      "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms"
+    },
+    {
+      "n": 42,
+      "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us"
+    },
+    {
+      "n": 43,
+      "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
+    },
+    {
+      "n": 44,
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html"
+    },
+    {
+      "n": 45,
+      "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast"
+    },
+    {
+      "n": 46,
+      "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+    },
+    {
+      "n": 47,
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+    },
+    {
+      "n": 48,
+      "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert"
+    },
+    {
+      "n": 49,
+      "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria"
+    },
+    {
+      "n": 50,
+      "title": "EU to impose cap on Chinese hybrid EV imports next month",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk"
+    },
+    {
+      "n": 51,
+      "title": "China sentences official to death for spying for foreign country",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets"
+    },
+    {
+      "n": 52,
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o"
+    },
+    {
+      "n": 53,
+      "title": "Thomas Markle indicted by federal grand jury in US for possessing child sex abuse images",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crwy4egxn592o"
+    }
+  ]
+}
