@@ -1,0 +1,580 @@
+{
+  "date": "2026-11-26",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/25 约 08:10，即 UTC 11/25 00:10）至本期（11/26 约 08:10，UTC 11/26 00:10），约 24 小时，覆盖欧美周三（美国感恩节前一天；默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；所有 RSS 均一次抓取成功，窗口内共约 230 条标题。正文均为直接抓取的原文。",
+  "thinDay": false,
+  "thinDayNote": "本期不是薄日：周三标题量约 230 条（上期约 222 条），感恩节前美国政经新闻仍密集，另有关税、SpaceX 和以色列司法等新话题。需注意：第 1 条路透和 NPR 的关键内容来自匿名信源，特朗普与万斯对「是否调查过」的说法相互矛盾；第 2 条英伟达跌幅和美债收益率因统计时点不同而有出入；第 3 条对华关税总水平各媒体口径不一（约 45% 或约 40%）；第 5 条打击次数和战果多为交战方说法；第 7 条引爆时间和库存数量各媒体略有出入，且「零检出」只是初步数据。本窗口之后关注：美国感恩节休市（11/26）及周五半日交易、12 月 1 日黄仁勋众院闭门问询与英伟达 GTC 华盛顿大会、12 月 1 日参院民主党领袖选举（舒默对范霍伦）、12 月 3 日参院银行委员会听证、12 月 6 日艾森科特组阁期限、12 月 8–9 日美联储议息、1 月 25 日关税听证、荷台达与亚丁局势。",
+  "vsYesterday": "相对上一期（11/25）：续报：英伟达风波——万斯称黄仁勋「未受任何调查」、无需赦免，路透称司法部未正式调查其本人，NPR 称情报界无证据认定 Alice Huang 是间谍，标普考虑下调英伟达评级，BBC 核查特朗普账户 44 次交易英伟达；AI 市场：科技股续跌、英伟达再跌，10 月 PCE 升至 3.8%，Anthropic 反弹但仍低于发行价；也门：胡塞与沙特互袭升级至利雅得、吉达和荷台达；艾奥瓦叠氮化铅已完成引爆，军方称成功、EPA 称零检出（上期预告的结果）。新话题：美国以「产能过剩」拟对 14 个经济体加征关税；FCC 批准 SpaceX 百万颗轨道数据中心卫星；以色列法官建议撤销内塔尼亚胡最严重指控。华为定罪、伊朗商船入侵、Meta Muse（仅有亚马逊与 Meta 谈判解除封锁的报道，列入索引）、CrowdStrike–Zscaler、Grok 州诉讼、Claude Ship、COP31、深圳会晤、黎曼猜想证明本窗口无实质新进展；俄乌（乌克兰称击中五架俄军机、激光击落喷气式无人机，BBC 称俄方数据显示损失近 50 万人，默茨警告「俄罗斯想要的不止乌克兰」）、开罗油罐车起火致 30 余人死亡、阿布雷戈·加西亚抵达西班牙、哥伦比亚超市人质全部获救、纽约禁售 AI 玩具、梅西感恩节游行因天气推迟、英国能源账单 1 月起涨 26% 与 Poundland 破产等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：科技/AI与政治",
+      "title": "万斯称司法部和国安官员告诉他黄仁勋「未受任何调查」、也不需要赦免，但路透称司法部在特朗普推动复任前并未正式调查黄仁勋；NPR 称美国情报官员向国会幕僚表示无证据显示 Alice Huang 是中国间谍；标普考虑把英伟达评级从 AA 下调至 AA-；BBC 核查称特朗普账户今年 44 次交易英伟达股票",
+      "facts": [
+        "万斯表态：CNBC 报道，副总统 JD 万斯周三在俄亥俄州对记者说，「司法部和国家安全机构的多名官员告诉我，他没有受到任何调查……不只是不会被起诉，而是根本没有调查」，并称是司法部长布兰奇告诉他的。这与特朗普周一对 CNBC 所说「他们做了相当好的调查，认为他本人已被洗清」存在出入；白宫未回应置评。万斯还说「我认为他根本不需要赦免……我没看到他犯罪的证据」，称指控「基于匿名报道而非实际证据」，并说这是英伟达「专注于遵守美国出口管制」的机会。",
+        "路透报道：卫报直播和 CNBC 援引路透称，司法部在特朗普推动黄仁勋复任前没有对其进行正式调查；布兰奇是根据司法部对英伟达两家客户——超微电脑（Super Micro）和 Megaspeed——正在进行的调查，得出没有证据显示黄仁勋违法的结论，该判断「可能随调查推进而改变」，并据报是他周末告诉特朗普和万斯「没有证据表明黄仁勋构成国家安全风险」的关键依据。司法部未回应置评。",
+        "情报评估：NPR 援引一名了解闭门简报的匿名人士称，美国情报官员告诉国会幕僚，没有证据显示与黄仁勋有婚外情的 Alice Huang 是中国间谍或情报资产，也没有证据显示她为替中国政府搜集情报而发起这段关系，但据信她在关系开始后曾向外传递信息。众院情报委员会共和党议员、前 FBI 特工菲茨帕特里克表示，希望在黄仁勋下周出席众院问询前听取 FBI、CIA、布兰奇和商务部长卢特尼克的说明：「他们做过哪些简报？什么时候做的？」",
+        "信用评级：TechCrunch 报道，标普全球评级称因「高管监督薄弱、缺乏继任计划」和「关键人物风险」正考虑下调英伟达评级，预计 90 天内完成审查，可能从 AA 降至 AA-。英伟达 8 月宣布与高盛、阿波罗、黑石等六家机构安排 5000 亿美元 AI 基础设施融资、原定担保 25% 的贷款；彭博称此前贷款方已要求更高担保，降级可能促使其要求更多。",
+        "特朗普持股：BBC 核查依据向政府道德办公室提交的披露称，特朗普账户今年与英伟达股票相关的交易达 44 次；1 至 9 月买入金额区间为 520 万至 1700 万美元、卖出 440 万至 1200 万美元，2025 年底持有 1250 万至 5800 万美元；披露未覆盖近两周的风波。白宫称其投资组合由第三方独立管理，本人及家人无法影响买卖。",
+        "芯片转售：CNBC 援引三名人士称，自 11 月 16 日商务部宣布限制中国企业远程租用先进英伟达芯片的新规（11 月 19 日生效）以来，市场上出售的英伟达 GPU 数量异常增多，其中包括数千块 B300；GPU Mart 总裁 Duhamel 称这直接源于新规。美国贸易代表格里尔称新规旨在堵住经东南亚走私和第三国数据中心远程访问的「漏洞」。"
+      ],
+      "readingA": "万斯与路透的说法其实可以兼容：司法部没有专门立案调查黄仁勋，但在相关客户案件中未发现其违法证据；情报界也未认定 Alice Huang 是间谍。政府背书的依据比批评者描述的更具体，赦免问题也因此被万斯降温。",
+      "readingB": "特朗普说「调查过、已洗清」，万斯说「从未调查」，两种说法本身矛盾；以「未立案」为由作出国家安全担保，恰恰说明没有经过正式程序。情报界承认她在关系中可能传递过信息，标普的治理担忧和总统本人的持股记录，都让「政治干预商业」的质疑加深。",
+      "disagree": "司法部究竟是否调查过黄仁勋（特朗普与万斯、路透的说法不一）；「无证据是间谍」与「据信传递过信息」应如何定性；特朗普账户的交易是否构成利益冲突（白宫称第三方独立管理）。",
+      "synthesis": "可以确认的是：政府高层坚称黄仁勋不受调查、无需赦免，而依据是对其客户而非对其本人的调查；国会两党仍要求情报和执法机构说明情况；评级机构已把治理风险纳入考量。",
+      "unknown": "闭门简报的完整内容；超微与 Megaspeed 调查的进展；标普最终是否降级；黄仁勋 12 月 1 日众院闭门问询和 12 月 3 日参院听证的内容。",
+      "confidence": "中（万斯、标普、BBC 核查为公开表态或文件；路透与 NPR 的关键内容来自匿名信源）。",
+      "sources": [
+        {
+          "label": "CNBC：万斯称获告知黄仁勋未受司法部调查",
+          "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
+        },
+        {
+          "label": "卫报直播：万斯、路透报道与美国政坛动态",
+          "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates"
+        },
+        {
+          "label": "NPR：共和党议员要求 FBI 和 CIA 先作说明",
+          "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+        },
+        {
+          "label": "TechCrunch：标普考虑因治理和关键人物风险下调英伟达评级",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+        },
+        {
+          "label": "BBC：特朗普账户今年 44 次交易英伟达股票",
+          "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo"
+        },
+        {
+          "label": "CNBC：美国收紧远程访问后英伟达芯片卖家寻找新买家",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：科技/AI市场与美国经济",
+      "title": "美股感恩节前科技股续跌：纳指收跌 0.62%，道指盘中跌逾 1100 点后收涨 0.33%；英伟达再跌 3.4%–4%；10 月 PCE 通胀升至 3.8%、核心 3.3%，三季度 GDP 上修至 4.3%，市场完全定价 12 月加息；Anthropic 反弹逾 4% 但仍低于 83 美元发行价；阿莫代称「让人类交出控制权」的指控「荒谬」",
+      "facts": [
+        "收盘：CNBC 称道指周三抹去盘中逾 1100 点跌幅，收涨 164.25 点（0.33%）至 50,182.95；纳指跌 0.62% 至 23,585.80；标普 500 跌 0.25% 至 7,182.78。半岛电视台称早盘纳指一度跌 3.9%、标普跌 2.8%。BBC 称英伟达早盘一度跌 8%、收跌 3.4%（CNBC 称跌 4%）；CNBC 称美光跌 4%、甲骨文跌逾 5%，亚马逊和 Alphabet 跌约 2%，Meta 涨 3%。巴克莱美股策略主管 Krishna 称「这是恐慌」，市场在说「AI 增长叙事撞墙」。",
+        "Anthropic：CNBC 称 Anthropic 在跌破上周发行价后逆势上涨逾 4%；BBC 称其股价仍低于 83 美元发行价。",
+        "通胀与增长：CNBC 报道，10 月 PCE 价格指数同比 3.8%，与预期一致、比 9 月高 0.1 个百分点，接近美联储目标的两倍；核心 PCE 3.3%，高于预期 0.1 个百分点；三季度 GDP 修正为年化增长 4.3%；收入增 0.7%、支出增 0.3%；当周初请失业金人数降至 18.9 万。市场已完全定价 12 月 8–9 日加息 25 个基点，并押注 2027 年再加息两次，第三次的概率从周二的五成降至约三分之一。CNBC 称通胀在美以 2 月下旬袭击伊朗后再度上升，关税和 AI 建设需求也在推高物价。",
+        "避险：CNBC 称 10 年期美债收益率跌逾 3 个基点至 4.866%（半岛电视台称为 4.834%）；半岛电视台称金价跌逾 3%，至一年多来最低。卫报直播称特朗普在社交媒体上把股市下跌归咎于「11 月 3 日的选举结果」。",
+        "阿莫代：TechCrunch 报道，Anthropic CEO 阿莫代在 X 长文中称，说 Anthropic 认为应「交出人类自由意志」是「荒谬的」，「把治理交给 AI 是个坏主意」；他建议在「递归自我改进」上划线，承认「我们可能需要限制这一过程」，并称不认为让 Claude 在缺乏有意义人类监督的情况下自主构建后续前沿模型是安全的。此前 OpenAI 的奥特曼和 Meta 首席 AI 官汪滔（Alexandr Wang）都发表过强调人类掌控的言论。",
+        "假期：美股周四感恩节休市、周五半日交易。CNBC 称周四亚太市场预计开盘平淡，日经 225 期货报 57,370（前收 57,011.62），恒指期货报 22,149（前收 21,966.01）。"
+      ],
+      "readingA": "道指收复失地、英伟达跌幅收窄，说明抛售仍有承接；经济数据（GDP 4.3%、初请处于低位）强劲，问题在于估值和利率，而非衰退。",
+      "readingB": "通胀加速、加息预期叠加新关税，增长股的贴现率压力上升；英伟达复任行情只维持一天，Anthropic 仍低于发行价，说明市场对 AI 投入能否回本的怀疑在加深。",
+      "disagree": "这轮下跌是 AI 叙事见顶还是利率和关税冲击；英伟达当日跌幅（3.4% 与 4%）和 10 年期收益率的具体数值因媒体统计时点不同而有出入。",
+      "synthesis": "确定的是：科技股连续第二天下跌但收于低点之上；PCE 3.8% 巩固了 12 月加息预期；感恩节休市前资金流向债券避险。",
+      "unknown": "周五半日交易的走向；12 月议息会议的点阵图；新关税对通胀的实际传导；Anthropic 能否回到发行价之上。",
+      "confidence": "高（行情和宏观数据为公开数据；巴克莱等观点为个别分析师看法）。",
+      "sources": [
+        {
+          "label": "CNBC：科技股下跌但收于低点之上",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+        },
+        {
+          "label": "BBC：AI 担忧加剧，美股进一步下跌",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo"
+        },
+        {
+          "label": "CNBC：10 月 PCE 通胀升至 3.8%",
+          "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+        },
+        {
+          "label": "CNBC：通胀数据黏性之下 10 年期美债收益率下滑",
+          "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+        },
+        {
+          "label": "CNBC：亚太市场预计开盘平淡",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+        },
+        {
+          "label": "TechCrunch：阿莫代称「交出人类控制权」的指控荒谬",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "新话题：贸易/中美与全球",
+      "title": "美国贸易代表办公室依据「301 条款」以「结构性产能过剩」为由，拟对中国、欧盟、日本、印度等 14 个经济体加征新关税，多数税率 15%–20%，中国为额外 20%；最早明年 1 月生效、1 月 25 日举行听证；中国称「产能过剩」是伪命题，欧盟「坚决拒绝」这一前提",
+      "facts": [
+        "内容：卫报称，美国贸易代表办公室周三提议对 14 个贸易伙伴加征关税：中国、孟加拉国、柬埔寨、欧盟、印度、印尼、日本、韩国、马来西亚、新加坡、瑞士、台湾、泰国和越南。CNBC 援引格里尔称税率「大多在 15% 到 20%」，「并非真正叠加」，「最终只是上调几个百分点」，很多不会超过此前协议设定的税率。",
+        "中国：格里尔称中国面临 20%，「会有所上升」，但两国同时在取消对彼此部分商品的关税。CNBC 援引一名高级官员称，这 20% 将叠加在特朗普第一任期约 25% 的关税之上，使对华关税达到约 45%（卫报称总计约 40%）。半岛电视台称约 300 亿美元正通过双边「贸易委员会」机制考虑降税的中国商品不适用。中国外交部发言人郭嘉昆称「所谓『产能过剩』是伪命题」，反对以此为借口进行政治操弄。",
+        "时间：格里尔称新关税「不会早于几个月后」生效；卫报称最早 1 月生效，美国贸易代表办公室将于 1 月 25 日举行听证。墨西哥和挪威也在调查范围内，但因调查仍在进行而未被列入（半岛电视台）。白宫另提议对巴西航空工业公司的整机征收 10% 关税，并提高超配额巴西糖的关税。",
+        "法律背景：CNBC 称，最高法院 2 月推翻了特朗普依据《国际紧急经济权力法》实施的「解放日」关税，此后政府先依第 122 条征收 10% 全球关税 150 天，再以「强迫劳动」301 调查对数十国征收 10%–12.5% 关税，相关诉讼仍在审理中，原告指「强迫劳动」只是借口。",
+        "反应：欧盟委员会发言人吉尔称「坚决拒绝欧洲是结构性产能过剩来源这一前提」；瑞士政府拒绝相关指控；挪威外长艾德称挪威没有导致产能过剩的政策。乔治城大学教授谢弗称政府使用 301 条款是「犬儒」的，意在绕开国会的关税权。卫报援引耶鲁预算实验室称，现行关税已使每户家庭年均多支出约 900 美元。"
+      ],
+      "readingA": "新关税有明确法律程序（调查、听证、数月后生效），税率多为「补足」而非叠加，且对华同时推进降税，更像为 12 月 G20 和后续谈判准备筹码，冲击可控。",
+      "readingB": "在最高法院否决后，政府一再换用其他法条重建全球关税体系，绕开国会；在通胀 3.8%、刚在中期选举中失利的背景下再加税，会推高物价，并加剧与盟友的摩擦。",
+      "disagree": "对华关税加征后的总水平（约 45% 还是约 40%）；新税率实际叠加多少；301 条款的使用是否合法合宪。",
+      "synthesis": "确定的是：这是一项提议而非立即生效的措施，涉及 14 个经济体，中国税率最高；各方已表示反对，生效前还有听证和谈判空间。",
+      "unknown": "各经济体的具体税率表；1 月听证后是否调整；中美「贸易委员会」降税清单；法院对「强迫劳动」关税诉讼的裁决。",
+      "confidence": "中高（官方公告和格里尔公开表态；总税率口径有出入）。",
+      "sources": [
+        {
+          "label": "CNBC：美国拟对包括中国和欧盟在内的 14 个贸易伙伴征收新关税",
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        },
+        {
+          "label": "卫报：特朗普提议对包括中国和欧盟在内的 14 个伙伴征收新关税",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+        },
+        {
+          "label": "半岛电视台：世界回应特朗普新关税",
+          "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "新话题：科技/太空与AI基础设施",
+      "title": "美国联邦通信委员会有条件批准 SpaceX「Starmind」计划，允许部署多达 100 万颗轨道数据中心卫星，称这是美国首次此类授权；亚马逊、Viasat 和美国天文学会曾申请驳回，FCC 以超出职权为由驳回环境与天文观测方面的担忧",
+      "facts": [
+        "批准内容：TechCrunch、CNBC 报道，FCC 周三有条件批准 SpaceX 部署并运营多达 100 万颗卫星的轨道数据中心星座 Starmind，轨道高度 500 至 1,002 公里，卫星主要通过激光与 Starlink 等卫星互联。卫报称 FCC 表示这是美国历史上首次此类授权，并称其「让人类更接近卡尔达肖夫 II 型文明」。",
+        "期限：卫报援引 FCC 称，SpaceX 须在 2033 年 11 月前开始部署、2035 年 11 月前部署 10 万颗、2038 年 11 月前部署一半；The Verge 称 2040 年须达到 100 万颗。FCC 暂缓批准 SpaceX 把 600 公里以上的退役卫星移入「坟场轨道」的请求，称其未提供「足够信息」。",
+        "反对意见：CNBC 称亚马逊（Amazon Leo）、Viasat 和美国天文学会提交了驳回申请，亚马逊称这是「宏大抱负而非真正的计划」、建成需要「几个世纪」；FCC 主席卡尔反驳亚马逊应专注自身发射进度。FCC 表示驳回了「委员会无权管辖的议题，包括环境问题」以及对光学天文学的影响。天体物理学家贝克尔称此举有引发太空碎片连锁碰撞的严重风险。",
+        "背景：卫报称目前在轨卫星约 1.7 万颗，Starlink 略多于 1.1 万颗；SpaceX 当初申请 4.2 万颗 Starlink；政府问责局 7 月报告称太空数据中心可减少地面用地、用电和用水，但存在「工程和经济障碍」，散热是重大挑战。谷歌「Suncatcher」和蓝色起源也在推进类似计划。马斯克在 X 上感谢卡尔：「这将是美国和世界的巨大资产。」"
+      ],
+      "readingA": "在地面数据中心遭遇电力、用水和各州暂停令压力之际，监管提前放行给了美国在太空算力上的先发优势；里程碑条款也给了 SpaceX 约束和时间。",
+      "readingB": "100 万颗是现有在轨卫星的约 60 倍，FCC 把碎片处置、环境和天文影响排除在审查之外，风险由所有轨道使用者承担；运营方常超额申请以保留灵活性，批准数字未必反映真实计划。",
+      "disagree": "轨道数据中心在技术和经济上是否可行；FCC 驳回环境和天文担忧是否恰当；这一授权对亚马逊等竞争者是否公平。",
+      "synthesis": "确定的是：SpaceX 获得了带里程碑的有条件许可，但碎片处置等关键问题尚未批准，首颗卫星最晚 2033 年前入轨，近期不会出现大规模部署。",
+      "unknown": "Starmind 的实际部署节奏和成本；太空散热和芯片融资的解决方案；是否有诉讼挑战该授权。",
+      "confidence": "高（FCC 公告与多家媒体一致；期限表述略有差异）。",
+      "sources": [
+        {
+          "label": "TechCrunch：FCC 批准 SpaceX 把 AI 数据中心送上太空",
+          "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+        },
+        {
+          "label": "CNBC：SpaceX 获 FCC 批准部署 100 万颗轨道数据中心卫星",
+          "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html"
+        },
+        {
+          "label": "The Verge：FCC 批准 SpaceX 最多 100 万颗数据中心卫星",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        },
+        {
+          "label": "卫报：特朗普政府批准马斯克的太空数据中心计划",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：中东/也门与沙特",
+      "title": "胡塞武装与沙特冲突升级：沙特主导联军称拦截射向利雅得的弹道导弹和飞向吉达港的无人机，吉赞遭袭仅轻微损坏；此前一天胡塞无人机击中利雅得 PIF 大厦致 11 人受伤；联军空袭荷台达港，也门政府称当天对胡塞发动 654 次打击；迪拜以西油轮附近发生不明爆炸",
+      "facts": [
+        "沙特遭袭：半岛电视台报道，沙特主导联军周三称胡塞对吉赞的袭击只造成轻微损坏、无平民伤亡；联军发言人马利基随后称在吉达港上空拦截并摧毁一架胡塞无人机，之后又称防空系统拦截了射向首都利雅得的弹道导弹（半岛直播称为两枚）。此后萨那传出爆炸声。",
+        "PIF 大厦：CNBC 报道，胡塞周二用无人机袭击利雅得金融区的沙特主权财富基金 PIF 大厦，造成 11 人受伤（2 名沙特人、2 名印度人、3 名尼泊尔人、4 名埃及人），这是六天内第二次袭击该大厦。马利基称这是「懦弱的恐怖袭击」。",
+        "荷台达：胡塞军事发言人萨雷亚周三警告，若荷台达遭袭，吉达港及沙特所有红海港口都将成为目标。半岛电视台称胡塞的马西拉电视台报道沙特对荷台达港发动新空袭，袭击目标包括储油罐和吊车；该港承担也门 90% 的进口货物，记者称若关闭可能使人道状况濒临崩溃。联军 11 月 20 日曾要求平民撤离该港。",
+        "地面战线：也门政府军发言人称周三对胡塞发动 654 次打击，塔伊兹以西空袭已持续约 72 小时，焦点是俯瞰塔伊兹中部的萨贝尔山；胡塞称联军当天在萨那和 10 个省发动 105 次空袭和导弹袭击。卫报报道，胡塞 9 月击溃政府军后正在亚丁以北和以东集结、开始包围政府控制区，居民和非政府组织在准备撤离。",
+        "海上：半岛电视台直播援引英国海上贸易行动办公室（UKMTO）称，迪拜以西 50 海里处一艘油轮船长报告船只附近发生不明飞行物爆炸，无人员伤亡或损坏。CNBC 称巴林内政部称遭「伊朗侵略」袭击，一处民用工业设施起火、两人受伤。"
+      ],
+      "readingA": "胡塞对沙特首都和港口的连续打击、以及对亚丁的包围，说明伊朗盟友正借伊朗战争局势扩大战线，沙特的强力反击和对荷台达的施压是遏制其军事补给的必要手段。",
+      "readingB": "荷台达承担也门 90% 的进口，打击港口设施可能先伤及平民；双方都在打击机场、能源和经济设施，以牙还牙的升级逻辑让局势更难收场。",
+      "disagree": "荷台达港遭袭的规模与平民影响（双方说法不一）；打击次数等数字各自来自交战方，无法独立核实。",
+      "synthesis": "确定的是：沙特与胡塞之间的直接互袭在 48 小时内明显升级，波及利雅得、吉达、吉赞和荷台达，海湾航运也出现新的安全事件。",
+      "unknown": "荷台达港的实际受损程度；胡塞是否会真正打击吉达港；油轮附近爆炸的来源；亚丁战线的走向。",
+      "confidence": "中（多为交战方声明，经半岛电视台、CNBC 转述；伤亡数字来自沙特官方）。",
+      "sources": [
+        {
+          "label": "半岛电视台：胡塞瞄准沙特红海港口，打击升级",
+          "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate"
+        },
+        {
+          "label": "半岛电视台直播：萨那爆炸，利雅得上空拦截导弹",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+        },
+        {
+          "label": "CNBC：胡塞袭击沙特 PIF 大厦致 11 人受伤",
+          "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
+        },
+        {
+          "label": "卫报：胡塞逼近亚丁，也门人计划逃离",
+          "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "新话题：中东/以色列政治",
+      "title": "耶路撒冷地方法院法官建议检方放弃内塔尼亚胡腐败案中最严重的「4000 号案」贿赂指控，质疑「2000 号案」是否构成犯罪，并建议「1000 号案」以协议了结；内塔尼亚胡称「捏造的案件」正在瓦解、审判「必须结束」；同日议会初步通过 10·7 国家调查委员会和总理任期限制法案",
+      "facts": [
+        "法官建议：BBC 和半岛电视台报道，耶路撒冷地方法院合议庭周三以罕见方式召见总检察长巴哈拉夫-米亚拉，表示在 4000 号案（被控以监管优惠换取 Bezeq 旗下 Walla 网站正面报道）中定罪机会很低；以色列媒体援引法官弗里德曼-费尔德曼称「定罪机会低到值得重新考虑」。法官质疑 2000 号案（与《新消息报》老板的交易）是否达到犯罪门槛，并建议 1000 号案（被控收受雪茄、香槟等礼物）通过协议了结；BBC 称法官认为出于公共利益需要「重新思考」审判走向。",
+        "各方回应：巴哈拉夫-米亚拉称会考虑法官建议，对判决或认罪协议都做好准备。内塔尼亚胡在议会发表电视讲话称「十年可怕的痛苦……谁能把这些年还给我们？」，要求立即结束审判。看守内阁国防部长卡茨称应结束「从一开始就有缺陷」的审判。内塔尼亚胡 2019 年被起诉，是以色列首位受审的在任总理，一直否认指控。",
+        "组阁与议会：10 月 27 日大选结果不明，总统已授权反对派领袖艾森科特组阁，期限至 12 月 6 日（可延长 14 天）；其 Yashar 党已与利伯曼的「以色列我们的家园」党签署联合协议，但左翼民主党暂停组阁谈判。半岛电视台称议会周三初步通过设立 10·7 袭击国家调查委员会的法案（需四轮表决中的第一轮），并通过一项限制总理任期、禁止受起诉者担任总理的法案。BBC 称内塔尼亚胡仍面临国际刑事法院的逮捕令。"
+      ],
+      "readingA": "法官基于证据作出的评估说明这些案件本身存在缺陷，拖延多年的审判消耗了以色列政治，以协议方式了结符合公共利益。",
+      "readingB": "法庭建议出现在内塔尼亚胡争取政治生存的关键时刻，若以协议了结，可能削弱法治问责；议会同时推进任期限制和 10·7 调查，表明反对派仍在设法限制他的权力。",
+      "disagree": "法官建议是司法独立判断还是政治环境的产物；1000 号案以何种协议了结（是否包含认罪、对其从政有何影响）。",
+      "synthesis": "确定的是：最严重的贿赂指控很可能被撤回，审判可能通过协议提前结束；但组阁结果和议会立法仍将决定内塔尼亚胡的政治前途。",
+      "unknown": "总检察长的最终决定；协议条款；艾森科特能否在 12 月 6 日前组阁；任期限制法案后续能否通过。",
+      "confidence": "中高（法庭内容主要来自以色列媒体转述，BBC 与半岛电视台报道一致）。",
+      "sources": [
+        {
+          "label": "BBC：以色列法官建议撤销对内塔尼亚胡最严重的指控",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
+        },
+        {
+          "label": "半岛电视台：内塔尼亚胡称审判「必须结束」，法院建议撤案",
+          "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "续报：美国/环境安全",
+      "title": "美军在艾奥瓦州弹药厂完成对全美剩余约 9700 磅叠氮化铅库存的受控引爆，军方称「极为成功」、无二次爆炸和设施损坏，EPA 称实时监测「零」检出空气中的铅；当选州长桑德要求「立即公开透明」，国会议员和独立专家质疑感恩节前夕的安排和检测范围",
+      "facts": [
+        "引爆：卫报称美军周三上午（卫报称美东时间约 10 点，半岛电视台称当地 10:15、格林尼治 16:15，约北京时间 11/26 00:15）在艾奥瓦州米德尔敦（人口约 400）的艾奥瓦陆军弹药厂引爆约 9,700 磅（4,400 公斤）叠氮化铅，即全美剩余库存（The Verge 称共 68 桶）；半岛电视台称约 4,500 公斤（1 万磅）。现场画面显示白色烟柱升起后很快消散；一位当地居民对美联社说「什么都没有」。",
+        "军方与 EPA：负责此次处置的雪莉少将称空中画面显示「所有叠氮化铅桶已被彻底清除」，「没有二次爆炸、没有抛射物、设施内外没有损坏」，称行动「极为成功」。代理陆军部长特勒称「不受控自发爆炸的威胁已被消除」。EPA 称实时空气监测仪「在整个区域零检出空气中的铅」，局长泽尔丁称爆炸「完美地向内塌陷」。特朗普称缓解措施「远超预期」。",
+        "缓解与安置：The Verge 称军方用四个 1.6 万加仑水箱筑墙捕集铅颗粒，并用防水布、铅防护网和泡沫覆盖弹药库；FEMA 支持米德尔敦及周边居民自愿临时撤离，撤离区呈锥形向西南延伸约 5 英里，撤离居民安置至周五。军方称将发布铅尘扩散和地表沉积地图。",
+        "质疑：当选州长桑德（民主党）要求「立即公开透明」，以了解「事情如何、为何发展到这一步」，同时称联邦官员报告铅扩散有限、艾奥瓦人是安全的。伊利诺伊州民主党众议员奎格利称在感恩节前一天进行引爆、缺乏沟通「不可原谅」。独立环境检测专家史密斯称还应检测分解产物和含铅稳定剂、增塑剂。引爆原定上周五，因公众担忧和环保团体起诉而三次改期。"
+      ],
+      "readingA": "这是一项必要且执行良好的风险消除行动：老化结晶的叠氮化铅随时可能自爆，军方多重缓解措施和 EPA 实时监测显示结果符合预期。",
+      "readingB": "「零检出」是爆炸后约一小时的初步空气数据，铅不可降解，土壤和水体沉积需长期检测；库存为何恶化到必须紧急引爆，以及节前仓促安排，仍需问责。",
+      "disagree": "初步监测能否代表长期影响；引爆的具体时间和库存数量（各媒体数字略有出入）。",
+      "synthesis": "确定的是：引爆已完成、未出现二次爆炸，初步空气监测未检出铅；长期沉积数据和事件问责仍待后续。",
+      "unknown": "地表沉积和水体检测结果；撤离居民何时安全返回；国会或州政府是否就库存管理启动调查。",
+      "confidence": "高（军方、EPA 公开声明，多家媒体一致；长期影响尚未知）。",
+      "sources": [
+        {
+          "label": "卫报：美军在艾奥瓦引爆叠氮化铅库存",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide"
+        },
+        {
+          "label": "半岛电视台：美军称艾奥瓦叠氮化铅引爆「极为成功」",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful"
+        },
+        {
+          "label": "The Verge：EPA 称受控引爆后空气中铅「零」检出",
+          "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
+    },
+    {
+      "n": 2,
+      "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia"
+    },
+    {
+      "n": 3,
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/"
+    },
+    {
+      "n": 4,
+      "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo"
+    },
+    {
+      "n": 5,
+      "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+    },
+    {
+      "n": 6,
+      "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+    },
+    {
+      "n": 7,
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/"
+    },
+    {
+      "n": 8,
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/"
+    },
+    {
+      "n": 9,
+      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html"
+    },
+    {
+      "n": 10,
+      "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo"
+    },
+    {
+      "n": 11,
+      "title": "US stocks fall further as fears over AI intensify",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo"
+    },
+    {
+      "n": 12,
+      "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
+    },
+    {
+      "n": 13,
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
+    },
+    {
+      "n": 14,
+      "title": "10-year Treasury yield slides despite sticky inflation data as investors buy bonds for protection",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html"
+    },
+    {
+      "n": 15,
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/"
+    },
+    {
+      "n": 16,
+      "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html"
+    },
+    {
+      "n": 17,
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/"
+    },
+    {
+      "n": 18,
+      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+    },
+    {
+      "n": 19,
+      "title": "Trump proposing new tariffs on 14 partners including China and EU",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe"
+    },
+    {
+      "n": 20,
+      "title": "World reacts to Trump’s new tariffs as US stocks tumble",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble"
+    },
+    {
+      "n": 21,
+      "title": "Asia-Pacific markets set for subdued open as investors weigh fresh U.S. tariffs",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+    },
+    {
+      "n": 22,
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+    },
+    {
+      "n": 23,
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+    },
+    {
+      "n": 24,
+      "title": "Kalshi traders say state data center moratoriums are more likely than not",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html"
+    },
+    {
+      "n": 25,
+      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh"
+    },
+    {
+      "n": 26,
+      "title": "Houthis target Saudi Arabia’s Red Sea ports as strikes escalate",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/25/houthis-target-saudi-arabias-red-sea-ports-as-strikes-escalate"
+    },
+    {
+      "n": 27,
+      "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
+    },
+    {
+      "n": 28,
+      "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
+    },
+    {
+      "n": 29,
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
+    },
+    {
+      "n": 30,
+      "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case"
+    },
+    {
+      "n": 31,
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko"
+    },
+    {
+      "n": 32,
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant"
+    },
+    {
+      "n": 33,
+      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first"
+    },
+    {
+      "n": 34,
+      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+    },
+    {
+      "n": 35,
+      "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo"
+    },
+    {
+      "n": 36,
+      "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+    },
+    {
+      "n": 37,
+      "title": "Investors led by U.S. billionaire Todd Boehly to buy Lukoil's oil and gas assets outside Russia, sources say",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html"
+    },
+    {
+      "n": 38,
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"
+    },
+    {
+      "n": 39,
+      "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain"
+    },
+    {
+      "n": 40,
+      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates"
+    },
+    {
+      "n": 41,
+      "title": "All hostages rescued after Colombian security forces storm supermarket, police say",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket"
+    },
+    {
+      "n": 42,
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys"
+    },
+    {
+      "n": 43,
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+    },
+    {
+      "n": 44,
+      "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+    },
+    {
+      "n": 45,
+      "title": "Record-breaking California tides cause major flooding of roads and businesses",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/california-flooding-high-tides"
+    },
+    {
+      "n": 46,
+      "title": "Energy bills to rise by 26% from January after gas prices surge",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o"
+    },
+    {
+      "n": 47,
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
+    },
+    {
+      "n": 48,
+      "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space"
+    },
+    {
+      "n": 49,
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o"
+    },
+    {
+      "n": 50,
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o"
+    },
+    {
+      "n": 51,
+      "title": "A renovation to upgrade these Hong Kong homes ended in an inferno that killed 168",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o"
+    },
+    {
+      "n": 52,
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo"
+    },
+    {
+      "n": 53,
+      "title": "Duran Duran guitarist Andy Taylor dies aged 65",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po"
+    }
+  ]
+}
