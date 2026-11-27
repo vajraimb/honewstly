@@ -1,0 +1,600 @@
+{
+  "date": "2026-11-27",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/26 约 08:10，即 UTC 11/26 00:10）至本期（11/27 约 08:10，UTC 11/27 00:10），约 24 小时，覆盖欧美周四（美国感恩节，美股休市；默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、TechCrunch、The Verge 的 RSS 列表；所有 RSS 均一次抓取成功，窗口内共约 182 条标题。正文均为直接抓取的原文。",
+  "thinDay": false,
+  "thinDayNote": "本期接近薄日但不是薄日：感恩节当天标题量约 182 条（上期约 230 条），美国政经新闻明显减少，体育、节日和购物内容占比上升；但海湾袭击、俄乌与欧盟峰会、刚果埃博拉等全球新闻仍有实质内容。需注意：第 1 条暂停发货和新云要求均来自匿名信源，英伟达未确认；第 2 条对华总税率与休战到期日各媒体口径不一；第 3 条特朗普「故意造假」说法无证据；第 4 条归因和战果多为交战方说法；第 5 条欧盟峰会在窗口结束时仍未结束；第 6 条仅有一个直接抓取来源。本窗口之后关注：美股周五半日交易与黑色星期五、欧盟峰会结果、西班牙周末大选、12 月 1 日黄仁勋国会问询及英伟达 GTC 华盛顿大会、12 月 3 日参院银行委员会听证、12 月 8–9 日美联储议息、12 月迈阿密 G20、1 月 25 日关税听证。",
+  "vsYesterday": "相对上一期（11/26）：续报：英伟达风波——据报英伟达暂停向马来西亚、新加坡、泰国、印尼发运服务器，芯片卖家要求新云客户「零中国租户」，Alice Huang 间谍问题仍无公开定论；关税——中国称保留「必要措施」、巴西不排除报复、新加坡「非常失望」，全球股市反弹；海湾——科威特遇袭致两名莱茵金属意大利技术人员死亡（伊朗否认），沙特吉赞炼油厂遇袭一死；俄乌——泽连斯基 BBC 专访批美「过于关注中东」，特朗普与吕特联合警告俄罗斯，欧盟峰会就 450 亿欧元对乌贷款分裂；SpaceX——马斯克宣布向每个美国儿童赠两股（约 180 亿美元），墨西哥要求就星舰发射会谈。新话题：三季度 GDP 上修至 4.3%，特朗普称选前数据「造假」并要求调查；刚果埃博拉确诊超 1.2 万例。Anthropic/AI 市场（仅有欧洲科技股反弹，列入第 2 条）、内塔尼亚胡审判（仅有分析文章，列入索引）、艾奥瓦叠氮化铅（无新进展）、华为定罪、伊朗商船入侵、Meta Muse、COP31、深圳会晤、黎曼猜想本窗口无实质新进展；德科斯当选下任欧洲央行行长、法官再次否决特朗普出生公民权限制、联邦法官阻止 FCC 提前审查 ABC 执照、《纽约时报》称 CIA 水刑受害者多于承认人数、金正恩视察核材料工厂并誓言扩充核武库、伊维萨岛附近柴油油轮倾覆、FIFA 遭网络攻击、英国净移民降至 1997 年以来最低等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "续报：科技/AI与出口管制",
+      "title": "《华尔街日报》称英伟达已要求戴尔、超微电脑等伙伴暂停向马来西亚、新加坡、泰国和印度尼西亚发运服务器，以评估当地伙伴是否符合美国出口要求；CNBC 称芯片卖家告诉新型云服务商，只要有算力租给中国企业就不能买英伟达芯片；TechCrunch 梳理「Alice Huang 是否间谍」仍无定论，BBC 称亚洲经济对英伟达高度依赖",
+      "facts": [
+        "东南亚暂停发货：TechCrunch 援引《华尔街日报》称，英伟达已告诉包括戴尔和超微电脑在内的制造伙伴，暂停向马来西亚、新加坡、泰国和印度尼西亚发运服务器，期限未定，以评估其地区伙伴是否符合美国出口要求。原因是中国企业一直从这些国家的数据中心远程使用英伟达芯片，美国商务部本月早些时候（据报「勉强地」）堵住了这一漏洞；智库 Institute for Progress 估计，这类远程数据中心约提供中国 AI 算力的 24%。",
+        "新云服务商：CNBC 援引两名知情人士称，商务部工业与安全局（BIS）11 月 16 日宣布、11 月 19 日生效的限制远程访问 AI 芯片临时最终规则出台后，芯片卖家告诉新型云服务商（neocloud），若有任何算力将租给中国企业，就无法购买英伟达芯片；此前英伟达的标准是不向把超过 50% GPU 租给中国企业的客户销售。英伟达和 BIS 未立即回应置评。美国贸易代表格里尔称新规是为了堵住「经东南亚等地走私或从第三国数据中心远程访问」的间接渠道。CNBC 还称，英伟达曾提醒客户，已在众院通过、尚待参院表决的《远程访问安全法》将赋予政府更广泛的云服务管控权。",
+        "间谍疑云：TechCrunch 梳理称，Alice Huang 是中国间谍的说法「仍未证实」。该说法最早出自 3 月在国务卿鲁比奥监督下撰写、在特朗普 5 月访华前于白宫内部传阅的高度机密备忘录；《华尔街日报》称备忘录并未明确认定她是间谍，CNN 则称备忘录认定她是中国情报资产。《纽约时报》援引知情人士称，她自 2025 年春至今年秋与中国国家安全部一名官员有联系，时间与她和黄仁勋的关系重叠；中国政府称间谍指控是「抹黑」，Megaspeed 称她 2025 年 8 月已离职、公司业务合法。TechCrunch 指出，高级情报官员据报告诉国会「没有证据显示国安部指使她」发展这段关系，但「没有被指使发展婚外情不等于不是间谍」；CBS 报道称鲁比奥私下对黄仁勋复职的某些方面表示担忧。",
+        "亚洲依赖：BBC 称，本周黄仁勋复职风波令日本、韩国和台湾的科技股大起大落。南洋理工大学讲师 Dylan Loh 称英伟达是韩国、台湾、新加坡和马来西亚等地 AI 交易的「象征性风向标」；东亚经济研究公司创始人 Cavey 称台湾自 2024 年以来实际经济增长的跃升「源于 AI 相关出口大增」。BBC 称新加坡 Megaspeed 曾是东南亚最大的英伟达芯片买家，后被指走私芯片到中国，美国已表示打算禁止其在美经营；Megaspeed 称其业务合法，并已聘请外部律师进行内部调查。",
+        "业界反应：卫报称，马斯克（「错误已被纠正」）、奥尔特曼等人公开庆祝黄仁勋回归，卫报援引英国《金融时报》称，前 Uber CEO 卡兰尼克是游说特朗普和万斯推动英伟达董事会复任黄仁勋的一小群风投人士之一；谷歌、Meta、苹果的 CEO 未表态，贝索斯和纳德拉均称不了解细节。黄仁勋周二在全员会上为「一些可怕的错误」道歉，并称特朗普向董事会施压的说法「完全不实」。"
+      ],
+      "readingA": "英伟达主动暂停东南亚发货、收紧对新云客户的要求，说明它在复职风波后正以实际行动配合出口管制，这与万斯所说「专注合规」的方向一致，也有助于缓解国会和评级机构的治理担忧。",
+      "readingB": "暂停发货和「零中国租户」要求恰恰说明此前的远程访问漏洞规模巨大（约占中国 AI 算力的 24%），而间谍问题至今没有公开证据定论；政府在特朗普推动复职后淡化指控，时机本身就值得怀疑。",
+      "disagree": "Alice Huang 是否为中国情报资产（《华尔街日报》与 CNN 对备忘录结论的描述相反）；政府淡化指控是基于新情报还是政治压力；暂停发货会持续多久、影响多大。",
+      "synthesis": "本窗口的新进展集中在合规层面：据报英伟达暂停对东南亚四国发货并收紧新云客户条件。间谍问题仍主要依赖匿名信源，没有新的公开证据；下周国会问询是下一个节点。",
+      "unknown": "暂停发货的期限和涉及金额；英伟达是否正式确认《华尔街日报》报道；BIS 新规的执行细则；黄仁勋下周在国会的作证内容。",
+      "confidence": "中（发货暂停和新云要求均来自媒体援引匿名信源，英伟达未公开确认；间谍问题信源相互矛盾）。",
+      "sources": [
+        {
+          "label": "TechCrunch：英伟达暂停向东南亚发运芯片",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "label": "CNBC：英伟达芯片买家被告知须排除中国租户",
+          "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+        },
+        {
+          "label": "TechCrunch：Alice Huang 到底是不是间谍？",
+          "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+        },
+        {
+          "label": "BBC：亚洲押注英伟达，现在怎么办？",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo"
+        },
+        {
+          "label": "卫报：科技领袖对黄仁勋回归反应分化",
+          "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：贸易/中美与全球",
+      "title": "美国以「产能过剩」拟对 14 个经济体加征关税后，中国商务部称保留采取「必要措施」的权利、敦促美方落实 300 亿美元互降关税；巴西称「不会屈服」、不排除报复；新加坡「非常失望」；全球股市周四反弹，分析认为新关税「不如担心的那么糟」",
+      "facts": [
+        "中国：卫报和 CNBC 报道，商务部发言人何亚东周四称，中方敦促美方「纠正错误做法，回到通过对话协商解决问题的正确轨道」，将密切关注事态发展，并「保留采取必要措施的权利」；CNBC 称商务部还敦促美方落实双方 9 月底商定的 300 亿美元对等降税。中国驻美使馆发言人称「所谓『产能过剩』问题并不存在，不应被用作政治操弄的借口」；外交部发言人郭嘉昆称「关税战、贸易战没有赢家」。",
+        "税率：CNBC 称新关税起点为欧盟、韩国、瑞士和台湾 15%，越南最高 35%；中国上限 20%，叠加特朗普第一任期的 25% 关税，若去年 10 月在韩国达成的贸易休战 1 月后未延长，可能升至 40%。卫报称中国部分商品总税率可达 45%，休战于 2027 年 1 月 10 日到期；1 月 25 日举行听证，意味着最终税率可能 2 月或 3 月才生效。格里尔称将对约 300 亿美元中国商品「广泛豁免」，「很多已被市场消化」。",
+        "其他国家：巴西政府称「不会屈服于此类威胁」，称单方面决定在双边谈判过程中「不可接受」，不排除报复。新加坡贸工部称「非常失望」，副总理颜金勇称约 33%（94 亿新元，约 72 亿美元）直接出口受影响，若按最高 20% 征收，受影响出口的有效税率将从 7.8% 升至 10.3%。印度否认存在结构性产能过剩，格里尔称若达成协议印度税率上限为 17%；越南称正与美方尽快完成协议并提交反驳意见；欧盟称「遗憾缺乏联合行动」。",
+        "分析：BBC 经济编辑 Faisal Islam 称，新关税最早 1 月或 2 月生效，税率是可谈判的上限，与去年 4 月的「隔夜冲击」形成对比，各国普遍认为此举是为巩固关税的国内法律基础；当选众议院议长杰弗里斯称新国会头 100 天将「积极推动废除特朗普关税」；美国占中国出口的份额已降至约 10%（2018 年为 19%）。凯投宏观的 Williams 称提案「基本让大多数国家回到年初水平」，并统计美国贸易代表办公室关于越南的报告中「中国」一词出现 253 次、关于欧盟的报告中出现 315 次；美国企业研究所的 Scissors 则批评对华措施「几乎没提高税率」。",
+        "市场：CNBC 称周四全球股市反弹，泛欧斯托克 600 指数伦敦午盘涨 1.6%、德国 DAX 涨 1.9%、欧洲科技股指数涨 2.5%（本月累计跌约 12%）；日经 225 涨 0.86% 至 57,499.16，软银涨超 7%。美股周四感恩节休市，周三道指涨 0.33%、纳指跌 0.62%、标普 500 跌 0.25%，周五半日交易。AJ Bell 的 Mould 称新一轮关税「没有担心的那么糟」。"
+      ],
+      "readingA": "各方反应以谈判和法律程序为主：中国未宣布报复、强调落实 300 亿美元降税和对话，市场也已回暖；新关税更多是 12 月迈阿密 G20 特朗普—习近平会晤前的筹码。",
+      "readingB": "中国「保留必要措施」、巴西不排除报复、新加坡等盟友公开表示失望，说明以「产能过剩」为名的普遍加税正在消耗信任；民主党控制的新国会和州诉讼也让这些关税的持久性存疑。",
+      "disagree": "对华最终税率（约 40% 还是 45%）及休战到期日（「1 月后」还是 1 月 10 日）；新关税是加压还是「回到原点」；国会能否推翻。",
+      "synthesis": "确定的是：主要贸易伙伴均已表态反对或希望谈判，暂无国家宣布具体报复措施；新关税要经过 1 月 25 日听证，最早 1 月至 3 月生效，期间各国有动力加快谈判。",
+      "unknown": "中国「必要措施」的具体内容；巴西是否启动报复；G20 迈阿密峰会中美会晤结果；休战能否延长。",
+      "confidence": "高（官方声明和多家媒体一致；生效时间和总税率口径略有出入）。",
+      "sources": [
+        {
+          "label": "卫报：中国称保留「必要措施」，巴西称不会屈服",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        },
+        {
+          "label": "CNBC：关税威胁向伙伴施压签协议",
+          "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+        },
+        {
+          "label": "BBC：Faisal Islam：为什么特朗普新关税威胁较小",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o"
+        },
+        {
+          "label": "CNBC：全球股市在关税与 AI 担忧中反弹",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "新话题：美国经济/政治",
+      "title": "美国商务部将三季度 GDP 年化增速从初值 3.4% 上修至 4.3%，特朗普在感恩节帖文中称选前数据是「假的」、属于「破纪录的错误」并要求「立即调查」，但未提供证据；CNBC 称这是 2020 年二季度以来最大的修正，但远非历史纪录；市场几乎完全预期美联储 12 月加息",
+      "facts": [
+        "数据：CNBC 报道，商务部周三公布的数据显示，三季度实际 GDP 年化增长 4.3%，较 11 月初选举前几天发布的初值 3.4% 大幅上修。",
+        "特朗普表态：特朗普周四在 Truth Social 写道，祝「那些在选举前发布假经济数据、三周后才在昨天更正……的人」感恩节快乐，称这是「破纪录的错误」，「严重到应立即调查」，「为什么选举前没有公布正确数字？……这不是小错误，而是巨大的、故意的错误」。卫报称他未提供证据；CNBC 称他「错误地」将修正定性为失误。",
+        "核查：CNBC 称，0.9 个百分点的修正是自 2020 年二季度 1.2 个百分点以来最大的一次，但按绝对值在 1990 年以来所有初值到第二次估算的修正中并列第 16 位，约为 147 个季度平均修正幅度（0.43 个百分点）的两倍；初值本身已好于当时经济学家预期。白宫发言人 Middleton 称上修显示特朗普的政策「正在见效」。",
+        "背景：卫报称，民主党在本月中期选举中夺回国会两院和多个州长职位；GDP 由商务部下属的经济分析局（BEA）计算。特朗普同一帖文还讽刺「想要重新分配财产」的人。",
+        "利率预期：CNBC 称 Plante Moran 的 Baird 认为经济韧性给了美联储「进一步加息的更有力理由」；据 CME FedWatch，交易员几乎 100% 预期 12 月议息会议加息，并预期 1 月再加一次。10 月 PCE 同比升至 3.8%，核心 3.3%。"
+      ],
+      "readingA": "数据修正是统计常态：初值依赖不完整调查，后续补充数据导致变化；即便是初值也好于预期，不存在压低数据影响选举的动机或证据。",
+      "readingB": "总统在选举失利后再次质疑官方统计机构的公正性，延续了他对不利数据的攻击，可能损害公众对联邦经济数据的信任；同时，强劲增长与 3.8% 通胀叠加，意味着加息压力更大。",
+      "disagree": "修正是否「破纪录」（CNBC 数据显示不是）；是否存在「故意」（无证据）；经济强劲对选民生活成本的实际意义。",
+      "synthesis": "确定的是：GDP 被上修 0.9 个百分点，是近六年最大修正但非历史纪录；特朗普的「故意造假」指控没有公开证据。更值得关注的是强劲增长和高通胀共同推高 12 月加息预期。",
+      "unknown": "是否真的会启动调查以及由谁调查；BEA 是否回应；12 月 8–9 日议息会议的实际决定。",
+      "confidence": "高（数据和帖文原文可查；「故意」说法无证据）。",
+      "sources": [
+        {
+          "label": "CNBC：特朗普要求调查 GDP「破纪录错误」",
+          "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+        },
+        {
+          "label": "卫报：特朗普无证据指称选前经济数据「造假」",
+          "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "续报：中东/海湾安全",
+      "title": "科威特一处「重要设施」遭无人机袭击，两名为德国莱茵金属公司维护防空系统的意大利技术人员死亡，科威特和意大利归咎伊朗，伊朗否认并称事件「可疑」；同日沙特阿美吉赞炼油厂遇袭起火、一名尼泊尔工人死亡，沙特主导的联军指胡塞武装所为并称已摧毁其在荷台达的导弹发射平台",
+      "facts": [
+        "科威特：BBC 报道，科威特国防部称检测并拦截了多架来自伊朗的无人机，坠落弹片致四人受伤，包括两名意大利人、一名科威特人和一名巴基斯坦人；两名意大利人随后死亡。意大利外交部称二人是莱茵金属技术人员；莱茵金属称他们正在为防空系统提供技术支持。科威特陆军称袭击针对「国内一处重要场所」，是「伊朗的卑劣侵略」。意大利外长据意大利媒体称调查显示无人机为伊朗制造。",
+        "伊朗否认：伊朗外长阿拉格齐称事件「可疑」，像是「预先做好的战争配方」，将与科威特和意大利合作「查明原因」，并已向两国外长致哀；伊朗武装部队发言人称伊朗「没有进行任何军事或进攻行动」。欧盟委员会主席冯德莱恩称「必须加大对伊朗的压力」，意大利总理梅洛尼致哀。BBC 称此事发生在科威特称击退伊朗对一处美军驻扎空军基地的无人机袭击仅一周多之后。",
+        "吉赞炼油厂：半岛电视台报道，沙特能源部称周四袭击导致吉赞炼油厂起火、部分作业暂停，一名尼泊尔工人死亡、多人受伤；该厂位于沙特西南部靠近也门边境，设计日处理原油 40 万桶。能源部声明未点名袭击者，但沙特主导的联军称系胡塞武装所为，发言人马利基称将予以「坚决军事回应」，随后称已摧毁胡塞在荷台达省用于此次袭击的弹道导弹发射平台；胡塞方面未立即回应。",
+        "战事：半岛电视台称，前一天胡塞声称袭击了沙特最大炼油厂拉斯坦努拉以及吉达和吉赞港口；沙特支持的也门政府军称周四对胡塞阵地进行 767 次打击，「消灭」117 名武装人员。世卫组织称，自 8 月战事升级至周一，也门已有 2361 人死亡、10982 人受伤；联合国称逾 36 万人流离失所。"
+      ],
+      "readingA": "伊朗及其代理人正把战火扩大到海湾能源与防务设施：科威特事件的无人机据称为伊朗制造，胡塞接连打击沙特炼油厂，欧洲人员伤亡将推动欧盟对伊朗加压。",
+      "readingB": "科威特事件的归因尚有争议——伊朗明确否认，科威特称死者因拦截后坠落弹片遇难，责任链条需调查；吉赞袭击则是胡塞与沙特已持续数月的互袭的一部分，联军的战果说法同样未经独立核实。",
+      "disagree": "科威特袭击是伊朗直接所为、代理人所为还是另有原因；交战各方报告的打击次数和战果。",
+      "synthesis": "确定的是：科威特事件造成两名意大利技术人员死亡，吉赞炼油厂遇袭造成一死并短暂停产；归因方面，科威特、意大利指向伊朗，伊朗否认，吉赞袭击由联军指向胡塞。海湾能源设施的风险继续上升。",
+      "unknown": "科威特遇袭设施的具体性质和完整调查结果；吉赞炼油厂恢复时间；油价反应（美国休市）；欧盟是否采取新措施。",
+      "confidence": "中（伤亡由官方确认；归因和战果多为交战方说法）。",
+      "sources": [
+        {
+          "label": "BBC：两名意大利人在科威特遇袭身亡，伊朗否认",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+        },
+        {
+          "label": "半岛电视台：沙特阿美吉赞炼油厂遇袭一死",
+          "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：俄乌/欧洲",
+      "title": "泽连斯基接受 BBC 专访称美国「过于关注中东」、延迟交付爱国者导弹、对俄施压不够，称特朗普把普京称为「朋友」很「奇怪」；特朗普与北约秘书长吕特联合声明敦促俄罗斯避免扩大战争；欧盟特别峰会围绕 2028–2034 长期预算和 450 亿欧元对乌贷款激烈分歧，匈牙利总理称当天达成协议的机会「几乎为零」",
+      "facts": [
+        "泽连斯基专访：BBC 称，泽连斯基在基辅办公室用英语表示，特朗普发布与普京拥抱的照片并称其为「我的朋友」很「奇怪」：「他是侵略者，是杀人犯……不可能是朋友」。他称本月阿布扎比和谈「了解得越多，问题越多」，不清楚欧洲谈判代表是否会如美国特使所说参与；称乌军能摧毁约 70% 的俄最快无人机，但拦截弹道导弹的拦截弹「非常非常短缺」，美国在推迟交付爱国者系统：「很遗憾他们把重点放在中东，更多地帮助他们」。他还确认星链及其军用版星盾在被占领区仍受限制，「技术上是 SpaceX，政治上我不知道」。",
+        "美国与北约：CNBC 称，特朗普与吕特周三在海湖庄园会面后发表联合声明，称讨论了「俄罗斯避免任何有意或无意扩大战争的行为的重要性」，以及尽快和平解决战争；双方还讨论增加国防开支。特朗普在 Truth Social 称在中国与普京峰会时敦促俄罗斯「撤回针对欧洲领土的一切军事侵略」，并认为和平协议「很有可能」；称美国将重点生产爱国者、萨德和战斧导弹。俄外交部未立即回应。",
+        "俄军打击：CNBC 称，俄军对乌克兰能源设施的打击近几周加剧，克里维里赫夜间遇袭导致停电、市政电动公交停运；乌方称周三五个地区停电。BBC 称平民死亡人数处于历史最高水平。",
+        "欧盟峰会：卫报和半岛电视台报道，欧盟领导人周四在布鲁塞尔召开特别峰会，讨论科斯塔提出的 1.78 万亿欧元 2028–2034 年预算方案，并讨论委员会上周提出的 450 亿欧元 2027 年对乌贷款（250 亿欧元军事、200 亿欧元民用）。默茨坚持 27 国都应支持：「欧盟是 27 个成员国，不是 23 或 24 个」；斯洛伐克、匈牙利和捷克希望退出，菲佐指责默茨「敲诈」，保加利亚表示愿意出资但不能用于武器。梅洛尼称「离解决方案还有光年之遥」；匈牙利总理马扎尔称当天达成协议的机会「几乎为零」，圣诞前达成也不太可能。科斯塔称需在年底前一致通过。"
+      ],
+      "readingA": "美国与北约联合警告俄罗斯、欧洲推动 450 亿欧元贷款，说明西方仍在为乌克兰提供政治和资金支撑；泽连斯基的抱怨更多是在争取更快的防空交付。",
+      "readingB": "泽连斯基罕见公开批评美国「中立」、偏重中东，加上欧盟内部预算和对乌贷款严重分裂、法国大选风险，乌克兰在冬季能源攻势下面临的外部支持正在变得更不确定。",
+      "disagree": "美国在和谈中是否「中立」；和平协议是否「很有可能」（特朗普）还是俄方立场已倒退（BBC）；对乌贷款是否应与长期预算捆绑。",
+      "synthesis": "确定的是：和谈无明显进展，俄军对能源设施的打击加剧，欧盟对乌贷款尚未达成一致。窗口结束时峰会仍在进行（可能延至周五），结果未知。",
+      "unknown": "欧盟峰会最终结果；爱国者交付时间表；欧洲是否参与下一轮和谈；星链在被占领区的限制由谁决定。",
+      "confidence": "中高（专访、联合声明和峰会表态均有原文；峰会结果未出）。",
+      "sources": [
+        {
+          "label": "BBC：泽连斯基称美国过于关注中东、对俄施压不够",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        },
+        {
+          "label": "CNBC：特朗普与北约秘书长警告俄罗斯",
+          "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+        },
+        {
+          "label": "卫报：欧盟领导人在预算谈判中就对乌援助交锋",
+          "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+        },
+        {
+          "label": "半岛电视台：欧盟领导人难以就长期预算和对乌贷款达成一致",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "新话题：全球卫生/非洲",
+      "title": "刚果（金）东部埃博拉疫情确诊病例突破 1.2 万例（12,021 例），近半数死亡，成为史上增长最快的埃博拉疫情；由无获批疫苗和疗法的本迪布焦病毒引起，伊图里省军队与反政府武装交火迫使部分救援人员撤离",
+      "facts": [
+        "规模：NPR 刊发的美联社报道称，刚果卫生部周四数据显示确诊病例达 12,021 例，近半数患者已死亡；这是史上增长最快的埃博拉疫情，也是刚果 17 次疫情中最致命的一次，有望超过 2014–2016 年西非疫情约 1.1 万人的死亡人数。",
+        "病毒：疫情于 5 月宣布，由罕见的本迪布焦（Bundibugyo）病毒引起，目前没有获批的疫苗或疗法。救援面临武装冲突、道路状况差以及因不信任和错误信息引发的居民暴力。",
+        "冲突：周四上午，政府军与反政府武装「人民革命大会」（CRP）在伊图里省首府布尼亚以北约 25 公里的矿镇 Iga-Barrière 再度交火，新一批流离失所者涌向布尼亚。CRP 由前军阀卢班加去年创立，他 2012 年被国际刑事法院以招募 15 岁以下儿童参战定罪。",
+        "救援受阻：世卫组织埃博拉事件负责人 Smallwood 周三称，本周早些时候的战斗已使团队无法进入部分社区、打乱了对接触者的监测，并导致一些治疗中心人手减少；包括两名世卫人员和刚果卫生官员在内的约十人在 Akwe 一家医院受困交火三天后，周二被撤离到布尼亚。"
+      ],
+      "readingA": "这是一场正在失控的公共卫生危机：病例超过 1.2 万、病死率近半、无疫苗无疗法，加上冲突阻断接触者追踪，需要国际社会大幅加强投入。",
+      "readingB": "疫情规模部分反映的是检测和报告能力提高（确诊病例口径），关键在于能否恢复安全通道；仅靠医疗手段而不解决东部冲突，难以遏制传播。",
+      "disagree": "疫情增速的主要驱动因素（冲突、不信任还是病毒特性）；国际援助是否足够（本文未提供资金数据）。",
+      "synthesis": "确定的是：确诊病例已超 1.2 万、近半死亡，冲突正直接阻碍防控。这是本窗口最严重但在欧美新闻中关注度较低的全球性事件之一。",
+      "unknown": "准确死亡人数和病死率；是否扩散至邻国；候选疫苗或疗法试验进展；国际资金缺口。",
+      "confidence": "中高（刚果卫生部数据和世卫官员表态，经美联社报道；仅一个直接抓取的来源）。",
+      "sources": [
+        {
+          "label": "NPR（美联社）：刚果埃博拉疫情确诊突破 1.2 万例，部分救援人员撤离",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "续报：科技/太空与AI基础设施",
+      "title": "FCC 批准百万颗轨道数据中心卫星数小时后，马斯克宣布向每个美国儿童赠送两股 SpaceX 股票（SpaceX 一股、他本人一股），按周三收盘价 127.44 美元计约 180 亿美元；墨西哥总统辛鲍姆要求与美方会谈星舰发射对墨领空的使用，甚至可能要求迁移发射场；美国天文学会对 FCC 决定「沮丧和失望」",
+      "facts": [
+        "赠股：半岛电视台报道，SpaceX 周三称将向每个有效的「特朗普账户」捐赠一股新发行 A 类普通股，马斯克个人按同等数量匹配；马斯克在 X 上称 SpaceX 的股份下月转入，「我本人的那一股将在明年 6 月锁定期结束时转出」。白宫 10 月称已开设近 7000 万个特朗普账户（面向 18 岁以下美国人）；SpaceX 周三收于 127.44 美元，承诺价值近 180 亿美元。SpaceX 未回应赠股是否与特朗普账户挂钩的置评请求。",
+        "评价：华侨银行的 Anbu 称此举「扩大公众对 SpaceX 故事的参与」；Mitrade 的 Brankin 称这将「建立庞大的长期散户股东基础」。半岛电视台指出，反对数据中心建设的候选人是本月中期选举中民主党的最大赢家之一。",
+        "天文学界：美国天文学会称对 FCC 的决定「沮丧和失望」，警告该星座将「严重削弱数十年来联邦对天文设施的投资」。",
+        "墨西哥：半岛电视台报道，辛鲍姆周四称墨方正通过大使馆寻求美墨空域主管部门会谈，以确定墨西哥领空的使用许可和频率，「必要时迁移发射场」。墨西哥环保检察署称本月星舰发射失败后在塔毛利帕斯州马塔莫罗斯海滩回收了疑似残骸；SpaceX 称发现的残骸很少且「不明确来自 SpaceX」。SpaceX 正申请把星舰基地每年发射次数从 25 次增至 456 次、着陆从 50 次增至 912 次。"
+      ],
+      "readingA": "赠股把 SpaceX 的 AI 与太空叙事和普通家庭直接绑定，配合 FCC 批准，有助于扩大公众支持和长期散户基础。",
+      "readingB": "在数据中心和科技亿万富翁影响力日益遭到选民反对之际，这更像一次公关和政治操作；而天文学界反对、墨西哥要求重谈领空和发射场，说明 SpaceX 的扩张正面临越来越多的外部阻力。",
+      "disagree": "赠股是慈善、投资者关系还是政治姿态；残骸是否来自 SpaceX；FCC 批准的环境和科学代价。",
+      "synthesis": "确定的是：马斯克和 SpaceX 已公开承诺赠股，价值按收盘价约 180 亿美元；墨西哥正式寻求就星舰发射进行双边会谈。百万卫星计划的实际部署和合规挑战仍在后面。",
+      "unknown": "赠股的税务和法律安排；特朗普账户的实际覆盖人数；美墨会谈是否举行；FAA 对星舰基地扩容申请的决定。",
+      "confidence": "高（马斯克帖文、SpaceX 声明和墨西哥总统表态均有直接引述；残骸归属有争议）。",
+      "sources": [
+        {
+          "label": "半岛电视台：马斯克承诺向每个美国儿童赠送两股 SpaceX 股票",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child"
+        },
+        {
+          "label": "半岛电视台：墨西哥就疑似 SpaceX 残骸寻求与美会谈",
+          "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+    },
+    {
+      "n": 2,
+      "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+    },
+    {
+      "n": 3,
+      "title": "Is Alice Huang a spy or not?",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/"
+    },
+    {
+      "n": 4,
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo"
+    },
+    {
+      "n": 5,
+      "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech"
+    },
+    {
+      "n": 6,
+      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html"
+    },
+    {
+      "n": 7,
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+    },
+    {
+      "n": 8,
+      "title": "Semiconductor chips are the new oil. Here's why",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
+    },
+    {
+      "n": 9,
+      "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+    },
+    {
+      "n": 10,
+      "title": "What will Trump’s latest tariffs mean for the world?",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world"
+    },
+    {
+      "n": 11,
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o"
+    },
+    {
+      "n": 12,
+      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+    },
+    {
+      "n": 13,
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
+    },
+    {
+      "n": 14,
+      "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+    },
+    {
+      "n": 15,
+      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+    },
+    {
+      "n": 16,
+      "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms"
+    },
+    {
+      "n": 17,
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+    },
+    {
+      "n": 18,
+      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait"
+    },
+    {
+      "n": 19,
+      "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations"
+    },
+    {
+      "n": 20,
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+    },
+    {
+      "n": 21,
+      "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+    },
+    {
+      "n": 22,
+      "title": "EU leaders struggle to agree on long-term budget, $49bn Ukraine loan",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine"
+    },
+    {
+      "n": 23,
+      "title": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks"
+    },
+    {
+      "n": 24,
+      "title": "What would happen if Russia detonated a nuclear weapon in space?",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space"
+    },
+    {
+      "n": 25,
+      "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+    },
+    {
+      "n": 26,
+      "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+    },
+    {
+      "n": 27,
+      "title": "Musk pledges two SpaceX shares for every US child",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/26/musk-pledges-two-spacex-shares-for-every-us-child"
+    },
+    {
+      "n": 28,
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html"
+    },
+    {
+      "n": 29,
+      "title": "Mexico seeks US talks about suspected SpaceX debris",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/mexico-seeks-us-talks-about-suspected-spacex-debris"
+    },
+    {
+      "n": 30,
+      "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space"
+    },
+    {
+      "n": 31,
+      "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest"
+    },
+    {
+      "n": 32,
+      "title": "Taking on Starlink: Europe’s largest satellite factory opens in push to rival Musk",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/starlink-satellites-aerospacelab-factory-belgium.html"
+    },
+    {
+      "n": 33,
+      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship"
+    },
+    {
+      "n": 34,
+      "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"
+    },
+    {
+      "n": 35,
+      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted"
+    },
+    {
+      "n": 36,
+      "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+    },
+    {
+      "n": 37,
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo"
+    },
+    {
+      "n": 38,
+      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
+    },
+    {
+      "n": 39,
+      "title": "Israel ‘officially sanctions’ torture of Palestinian prisoners to extract confessions, report concludes",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/26/israel-officially-sanctions-torture-palestinian-prisoners-confessions-report"
+    },
+    {
+      "n": 40,
+      "title": "Netanyahu’s corruption trial: Is it really all over?",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over"
+    },
+    {
+      "n": 41,
+      "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction"
+    },
+    {
+      "n": 42,
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack"
+    },
+    {
+      "n": 43,
+      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31"
+    },
+    {
+      "n": 44,
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do"
+    },
+    {
+      "n": 45,
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+    },
+    {
+      "n": 46,
+      "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather"
+    },
+    {
+      "n": 47,
+      "title": "Guinea-Bissau military leaders delay presidential election until 2028",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years"
+    },
+    {
+      "n": 48,
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo"
+    },
+    {
+      "n": 49,
+      "title": "Bangladesh garment workers clash with police over low wages",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages"
+    },
+    {
+      "n": 50,
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o"
+    },
+    {
+      "n": 51,
+      "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information"
+    },
+    {
+      "n": 52,
+      "title": "Fifa staff asked to attend interviews as Infantino sell-off scheme investigated",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-gianni-infantino-sell-off-scheme-investigated"
+    },
+    {
+      "n": 53,
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o"
+    },
+    {
+      "n": 54,
+      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
+    },
+    {
+      "n": 55,
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo"
+    },
+    {
+      "n": 56,
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+    },
+    {
+      "n": 57,
+      "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026"
+    },
+    {
+      "n": 58,
+      "title": "X finally gets parental controls after 20 years",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/"
+    },
+    {
+      "n": 59,
+      "title": "Android app developers will soon have to share their address publicly",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
+    },
+    {
+      "n": 60,
+      "title": "GTA VI developers vote against unionization",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb"
+    },
+    {
+      "n": 61,
+      "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html"
+    },
+    {
+      "n": 62,
+      "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead"
+    }
+  ]
+}
