@@ -1,0 +1,586 @@
+{
+  "date": "2026-11-28",
+  "title": "早间简报",
+  "windowNote": "窗口：自上一期（北京时间 11/27 约 08:10，即 UTC 11/27 00:10）至本期（11/28 约 08:10，UTC 11/28 00:10），约 24 小时，覆盖欧美周五（美国黑色星期五，美股半日交易；默认规格为 6 小时，此处沿用 24 小时窗口以接续上一期）。索引条目取自卫报（世界、美国、科技）、BBC（头条、世界、商业）、半岛电视台、CNBC（头条、科技）、NPR、The Verge 的 RSS 列表；所有 RSS 均一次抓取成功，但 TechCrunch 订阅源最新条目停在 UTC 11/26 20:03，窗口内无新条目。窗口内共约 164 条标题。正文均为直接抓取的原文。",
+  "thinDay": false,
+  "thinDayNote": "本期接近薄日但不是薄日：黑色星期五当天标题量约 164 条（上期约 182 条），美国政经新闻偏少，购物优惠、体育和英国本地新闻占比较高，TechCrunch 窗口内无更新；但海湾、俄乌、中国股市、网络安全、OpenAI 诉讼等仍有实质内容。需注意：第 1 条指控均为诉讼一方说法；第 2 条归因与战果多为交战方声明；第 3 条未取得美股周五收盘点位；第 4 条空军入侵基于匿名消息人士；第 6 条结果未出。本窗口之后关注：西班牙周日（11/29）大选结果、DWP 服务恢复、12 月 1 日黄仁勋国会问询、12 月 9 日美联储议息、欧盟 12 月中旬预算峰会、12 月迈阿密特朗普—习近平会晤/G20。",
+  "vsYesterday": "相对上一期（11/27）：新话题：OpenAI 反诉苹果窃取商业秘密；国务院首提「国家队」托市，中国芯片股创单日最大涨幅，美股节后半日科技股反弹，SAP 据报拟裁员 1 万；英国 DWP「网络事件」致福利和养老金在线服务瘫痪，美国空军 Cloud One 据报遭入侵；西班牙周日大选前最后集会；肯尼亚邪教首领麦肯齐再获 123 项过失杀人罪。续报：海湾——意大利称科威特事件无人机为伊朗制造、伊朗提议联合调查，美军击伤第 15 艘破封锁商船，伊朗称两艘油轮触雷；俄乌——乌方提黑海停火，普京新核潜艇入列，泽连斯基称特朗普与普京的「友谊」奇怪，欧盟预算峰会无果、12 月中旬再议。英伟达/出口管制（仅有市场评论，列入索引）、三季度 GDP「造假」说（仅在第 3 条背景中提及）、SpaceX（股价与 FCC 表态并入第 3 条）、内塔尼亚胡审判（仅有法官建议撤诉后的分析文章，列入索引）、艾奥瓦叠氮化铅（仅评论文章，列入索引）、关税、刚果埃博拉、Anthropic、华为、Meta Muse、COP31、深圳会晤、黎曼猜想、欧洲央行、出生公民权、金正恩本窗口无实质新进展；委内瑞拉拟废除禁止反对派任职的法律、加拿大最高法院基本维持魁北克宗教标志禁令、联合国加沙特别报告员阿尔巴内塞被拒入境哥斯达黎加、挪威大西洋航空破产、台湾核电公投、比利时叫停谷歌数据中心建设等列入索引。",
+  "stories": [
+    {
+      "id": 1,
+      "tag": "新：科技/AI",
+      "title": "OpenAI 在加州联邦法院对苹果提起反诉，指控苹果借「回聘」一名前员工获取其 AI 硬件路线图等商业秘密，并劝阻供应商为 OpenAI 未来设备供货；苹果称反诉是「明显的转移视线」",
+      "facts": [
+        "反诉内容：卫报（转路透）称，OpenAI 周五在北加州联邦法院提起反诉，指控苹果窃取其商业秘密并劝阻硬件供应商参与 OpenAI 未来设备的工作；OpenAI 称苹果的用工做法旨在「困住」员工、阻止其为竞争对手工作。",
+        "具体指控：OpenAI 称苹果通过回聘一名曾在 OpenAI 工作六个月的前员工获得机密信息，该员工在此期间接触到一款新设备的具体信息及 OpenAI 未来硬件产品路线图；OpenAI 称「从时间上看，窃取这些文件可能正是他加入 OpenAI 的原因」（半岛电视台）。",
+        "个人设备问题：OpenAI 批评苹果鼓励员工用个人苹果设备和账户办公，离职时却不让其有序分离工作与个人账户，并称苹果在员工离职后仍访问其个人设备和账户，从而「监控并诱捕」跳槽者；OpenAI 称迄今已有 400 名员工从苹果跳槽到 OpenAI。",
+        "竞争定位：OpenAI 在文件中称其正在开发的 AI 个人电子设备可能在「苹果视为自己地盘」的领域击败苹果；半岛电视台称分析人士认为 OpenAI 正在研发手机或其他自有设备。",
+        "苹果回应：苹果否认利用回聘员工获取 OpenAI 机密，也否认压制 AI 设备制造领域的竞争，称「OpenAI 的反诉是明显企图转移对苹果诉讼实质内容的注意力」。",
+        "背景：苹果今年 7 月起诉 OpenAI 及前员工 Tang Tan、Chang Liu，指控其挪用商业秘密服务于 OpenAI 的消费硬件业务；Tan 曾在苹果工作 24 年、任 iPhone 与 Apple Watch 产品设计副总裁，参与创立后于 2025 年被 OpenAI 收购的 io Products。OpenAI 及两人否认指控，并称苹果的诉讼依赖于在 Liu 离职后未经授权监控其个人消息。"
+      ],
+      "readingA": "这是 AI 硬件之争的公开化：OpenAI 的设备若成功，可能绕开应用和操作系统、分流 iPhone 用户注意力，苹果以诉讼和用工条款设障，OpenAI 反诉意在把「人才流动受压制」与反竞争问题摆上台面。",
+      "readingB": "反诉是常见诉讼策略：苹果的原诉指控具体（前高管、商业秘密），OpenAI 的反诉同样只是单方说法，「400 人跳槽」「监控个人账户」等指控尚待法庭质证，不能据此判断谁更有理。",
+      "disagree": "谁先窃取了谁的机密；苹果对离职员工个人设备/账户的访问是正当的安全措施还是不当监控；苹果是否向供应商施压。",
+      "synthesis": "确定的是：双方现在互诉商业秘密窃取，焦点是 OpenAI 的消费级 AI 设备。所有核心指控均为诉讼一方的说法，尚无法院认定。",
+      "unknown": "反诉全文中涉及的供应商名单与证据；OpenAI 设备的形态和发布时间；法院排期；Tan、Liu 律师的回应。",
+      "confidence": "高（诉讼事实与双方表态由路透报道、两家媒体转载）；指控本身真伪：低至中（未经审理）。",
+      "sources": [
+        {
+          "label": "卫报：OpenAI 反诉苹果窃取商业秘密",
+          "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+        },
+        {
+          "label": "半岛电视台：AI 竞赛升温，OpenAI 就商业秘密反诉苹果",
+          "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tag": "续报：海湾/伊朗战争",
+      "title": "意大利外长塔亚尼称科威特调查确认致两名意大利人死亡的无人机为伊朗制造，伊朗否认从本国发射并提议加入联合调查；美军击伤试图突破对伊封锁的帕劳籍商船「太平洋射手」号，为 4 月以来至少第 15 艘；伊朗革命卫队称两艘油轮触雷",
+      "facts": [
+        "无人机归属：半岛电视台直播称，意大利外长塔亚尼表示科威特的调查确认袭击所用无人机为伊朗制造；德黑兰否认从其领土发射，并提出与意大利、科威特一起参加调查委员会。CNBC 此前报道，科威特军方称两名意大利人死于导弹碎片，另有两人受伤；伊朗外长阿拉格齐称伊朗「没有任何作用或牵连」，称事件「可疑，像是预先做好的战争配方」。",
+        "封锁行动：美国中央司令部（CENTCOM）称，军机周四向帕劳籍商船 M/V Pacific Archer 船尾发射「精确弹药」，船只动力最终被瘫痪，船员无人受伤；美方称该船从伊朗阿巴斯港出发，船舶追踪网站显示目的地为新加坡。半岛电视台称这是封锁 4 月开始以来美军公开承认瘫痪的至少第 15 艘船、7 月恢复封锁以来第 6 艘，上一艘在 11 月 7 日；美军称 7 月以来已令 158 艘商船改道。",
+        "伊朗方面：伊朗革命卫队周五称，两艘油轮试图经「未经授权」航线通过霍尔木兹海峡，其中一艘触雷、另一艘被迫折返；半岛电视台直播称革命卫队说两艘油轮在阿曼哈萨布港附近和海峡东部触雷起火爆炸。伊朗海军司令伊拉尼称将开展「不仅打破海上封锁，还要把敌人赶出本地区水域」的行动。",
+        "美以表态：CNBC 称，以色列军方发言人德夫林周四对 Kan 电视台表示，以色列准备「随时」打击伊朗，即使美军不参与；特朗普周四在 PBS 称美国在伊朗冲突中「胜利在望」，胜利将在「我想要的任何时候」到来，同时称仍在给伊朗「一切机会达成协议」。",
+        "沙特：半岛电视台称「麦加协定」盟友谴责胡塞对沙特的「令人发指」的袭击；BBC 发文称胡塞袭击考验沙特的安全形象（见索引）。"
+      ],
+      "readingA": "意方公开引用科威特调查指向伊朗制造，加上美军继续击伤破封锁船只、伊朗扬言打破封锁、以色列称可单独行动，海湾局势仍在升级轨道上。",
+      "readingB": "「伊朗制造」不等于「伊朗发射」——伊朗承认无人机来源问题之外的一切均否认，并主动提议联合调查；触雷、击伤商船的说法多来自交战一方，尚无独立核实。",
+      "disagree": "科威特袭击的发射方与责任；触雷事件是伊朗布雷还是其他原因；美方「多次警告后才开火」的说法。",
+      "synthesis": "本窗口的新信息是：意方称无人机为伊朗制造、伊朗提议联合调查；美军第 15 次公开瘫痪破封锁船；伊朗称两艘油轮触雷。归因与战果仍主要是各方声明。",
+      "unknown": "科威特调查报告全文；触雷油轮的船名、伤亡与泄漏情况；油价反应（周五美股半日交易，相关数据未见于本窗口抓取的报道）；美伊谈判是否重启。",
+      "confidence": "中（官方声明可核对；事实归因多为交战方说法）。",
+      "sources": [
+        {
+          "label": "半岛电视台直播：意大利称科威特致命袭击所用无人机为伊朗制造",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
+        },
+        {
+          "label": "半岛电视台：美军称瘫痪试图突破伊朗封锁的商船",
+          "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+        },
+        {
+          "label": "CNBC：两名意大利人在科威特遇袭身亡；特朗普称伊朗战争「我想何时结束就何时结束」",
+          "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tag": "新：市场/AI",
+      "title": "国务院常务会议罕见在交易时段发布通稿，首次明确提出发挥「国家队」稳市作用，中证半导体指数单日大涨 17.6% 创纪录、科创板指数涨 14%、沪深 300 涨 4%；美股感恩节后半日交易科技股反弹，SpaceX 涨 4.83%、闪迪涨近 16%；彭博称 SAP 拟裁员至少 1 万人",
+      "facts": [
+        "中国股市：CNBC 称周五国务院常务会议（李强主持）通稿在交易时段（当地时间约 13:00）发布，官员承诺加强「国家队」（国家支持资金）稳定市场、确保流动性，并强化中央汇金等「平准基金」作用；上海经济学家 Bob Chen 称在国务院会议中明确提到「国家队」尚属首次。",
+        "涨幅：据万得数据，科创板指数涨 14%，由长鑫、寒武纪、中芯国际领涨；40 只芯片股组成的中证半导体指数涨 17.6%，为有记录以来最大单日涨幅（此前纪录为 2024 年末近 17%）；沪深 300 涨 4%，为 2024 年 10 月以来最大涨幅；恒指涨 2%。沪深京三市成交额较前一交易日增 52%。CNBC 称沪深 300 周四刚跌至 2025 年春美中关税战升级以来最低。",
+        "其他承诺：通稿还提出引导保险、社保等中长期资金入市，鼓励上市公司分红和回购，并打击金融造假。Lotus 资管的洪灏称这「实际上把中央汇金的稳定基金角色制度化」；CNBC 也指出依赖干预抵消波动引发对涨势持久性的疑问。",
+        "美股：CNBC 称周五为感恩节后缩短交易日（美东 13:00 收盘）；盘前标普 500 期货涨近 2%、纳指 100 期货涨 2.3%，英伟达盘前涨超 4%。SpaceX 股价当日涨 4.83%，美光、高通、Lumentum、特斯拉涨逾 5%，闪迪涨 15.96%；马斯克在 X 上称「每年再向所有美国孩子捐一股 SpaceX」。FCC 主席卡尔称批准 SpaceX 100 万颗数据中心卫星将产生行业连锁效应。",
+        "背景：CNBC 称标普 500 于 11 月 20 日跌入修正区间（当日跌 3.7%，收于 6,910.39，较 10 月 6 日高点 7,818.93 低 11.6%），德银策略师 Allen 称自 1962 年以来熊市都伴随衰退、经济数据恶化或加息周期之一，目前均未出现。",
+        "SAP：CNBC 援引彭博称 SAP 正准备裁减至少 1 万个岗位以面向 AI 时代重塑业务；SAP 称「除此之外尚未就进一步措施作出决定，不评论猜测」。SAP 同时披露发现「可疑活动」，称没有证据显示客户业务数据遭未授权访问。"
+      ],
+      "readingA": "北京以前所未有的明确措辞为股市托底，叠加美国收紧 AI 芯片远程访问后的自主化逻辑，中国芯片股迎来报复性反弹；美股科技股周五也在大跌后买入抄底。",
+      "readingB": "政策驱动的单日暴涨此前多次很快消退；CNBC 也提到干预依赖的疑问。美股反弹发生在节后缩短、成交清淡的交易日，标普仍处修正区间，不宜视作趋势反转。",
+      "disagree": "「国家队」入市能否带来持久上涨还是又一次短暂反弹；美股 AI 板块抛售是否结束。",
+      "synthesis": "确定的是：国务院首次明确提「国家队」，中国芯片股创单日纪录涨幅；美股周五科技股反弹。持续性无从判断。",
+      "unknown": "美股周五三大指数收盘点位（本窗口抓取的报道未给出）；国家队实际买入规模；SAP 裁员是否正式公布；SAP「可疑活动」的性质。",
+      "confidence": "高（指数涨幅与官方通稿来自数据和官方发布）；对后市的判断：低。",
+      "sources": [
+        {
+          "label": "CNBC：北京释放更大力度托市信号，中国芯片股创最大单日涨幅",
+          "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"
+        },
+        {
+          "label": "CNBC：科技股反弹推升股指期货，结束动荡一周",
+          "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+        },
+        {
+          "label": "CNBC：SpaceX 股价在科技股反弹中涨逾 4%",
+          "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+        },
+        {
+          "label": "CNBC：标普 500 处于修正区间，但熊市和衰退并不总会随之而来",
+          "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+        },
+        {
+          "label": "CNBC：SAP 据报为推进 AI 裁员至少 1 万人",
+          "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tag": "新：网络安全",
+      "title": "英国就业与养老金部（DWP）因「网络事件」关闭养老金、通用福利（Universal Credit）、PIP 申请等在线服务，数百万人无法访问，唐宁街不排除黑客攻击；路透称美国空军旗舰云平台 Cloud One 遭入侵",
+      "facts": [
+        "DWP：BBC 称截至周五约 12:00 GMT，养老金、通用福利和 PIP 申请的在线系统以及用于通报死亡的「Tell Us Once」系统均无法访问，政府未说明何时恢复；DWP 称关闭是「预防措施」，常规福利和养老金照常发放，并正与国家网络安全中心（NCSC）和政府网络协调中心调查。",
+        "是否为攻击：唐宁街未排除黑客企图，但称「目前没有证据」显示个人数据丢失；官员不能排除「恶意行为者」介入，但称「没有证据」显示其他部门遭同类攻击。英国前首席技术官 David Knott 对 BBC《新闻之夜》称他「强烈怀疑」这是一次攻击。",
+        "影响：部分领取者称钱款未到账，担心因无法填写求职在线日志而被处罚；DWP 称不会因事件期间缺填日志而处罚。NHS 的 Healthy Start 在线申请也不可用，但付款未中断。BBC 提到 NCSC 本月报告警告 AI 可能推动网络事件「前所未有地增加」。",
+        "美国空军：卫报援引路透称，黑客入侵美国空军旗舰云计算平台 Cloud One，可能危及敏感的战术、人事和后勤数据；入侵在过去一个月左右的系统升级中被发现，导致平台中断，但路透无法确定黑客身份、入侵范围或是否有数据被盗。空军称不评论具体网络的安全状况。",
+        "Cloud One 用途：该平台使用微软、亚马逊、甲骨文和 Alphabet 四家云服务，承载人事、薪酬、后勤和维护，也用于指挥控制及追踪全球 200 多个地点弹药库存的 TICMS 系统；一名消息人士称入侵者利用软件漏洞到达控制系统。卫报称此前还有 CIA/ODNI 一个非密分析系统遭入侵的报道。"
+      ],
+      "readingA": "关键公共与军事系统接连出事，叠加 NCSC 关于 AI 加速攻击的警告，说明政府 IT 防御跟不上威胁；DWP 事件直接影响低收入群体的生计。",
+      "readingB": "两起事件性质都未确认：DWP 官方只称「网络事件」且无数据丢失证据，路透关于空军的报道依赖匿名消息人士且无法确认数据是否被盗；BBC 也提到许多近期故障源于升级出错和陈旧系统，而非攻击。",
+      "disagree": "DWP 事件是攻击还是技术故障；空军入侵的范围与攻击者身份。",
+      "synthesis": "确定的是：DWP 主要在线服务周五下线，政府称付款照常；空军 Cloud One 入侵由路透基于两名消息人士报道，官方未证实也未否认。",
+      "unknown": "DWP 服务恢复时间与事件原因；空军入侵是否涉及数据外泄及攻击者；两事件是否与其他近期入侵相关。",
+      "confidence": "中（DWP 服务中断为官方确认；攻击定性与空军入侵细节为未证实信息）。",
+      "sources": [
+        {
+          "label": "BBC：数百万人因「网络事件」无法访问福利和养老金服务",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o"
+        },
+        {
+          "label": "卫报：黑客据报入侵美国空军旗舰云计算平台",
+          "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tag": "续报：俄乌/欧洲",
+      "title": "乌克兰外长西比哈提出黑海停火以保障粮食出口，称正等待俄方回应；普京出席新核潜艇「彼尔姆」号入列仪式，称 2030 年前再交付 5 艘；泽连斯基对 BBC 称特朗普把普京称作「朋友」很「奇怪」；欧盟峰会就 2028–2034 年预算未达成协议，将于 12 月中旬再议",
+      "facts": [
+        "黑海停火：半岛电视台称，西比哈周五在「来自乌克兰的粮食」会议上宣布提议，称基辅准备恢复航行自由、保障农产品不间断出口，「所有提议都已转达，正等待俄方回应」；俄方希望把石油运输纳入，乌方称该问题属于更广泛的能源停火。8 月路透曾报道乌克兰粮食出口同比下降 76%。",
+        "新核潜艇：普京周五在北德文斯克北方机械制造厂出席「彼尔姆」号（亚森-M 级）升旗仪式，称俄罗斯是少数能建造此类具有「全球射程和意义」核潜艇的国家，海军将在 2030 年前再接收 5 艘潜艇，其中 3 艘为亚森-M 级（半岛电视台标题称其携带高超音速武器）。",
+        "泽连斯基专访：BBC 称泽连斯基批评特朗普称普京为「我的朋友」并发布拥抱合照，称「他是侵略者和杀手……不能是朋友」，并称美方延迟交付爱国者系统、拦截弹道导弹的拦截弹「非常非常」短缺；他说乌军可摧毁约 70% 的俄最快无人机，星链及其军用版 Starshield 在被占领区仍受限。特朗普周四称「我可以说他不是朋友……我想达成协议」。BBC 称 11 月阿布扎比会谈无明显进展，欧洲谈判代表是否上桌不明。",
+        "欧盟预算：CNBC 称欧盟领导人周四未能就 2028–2034 年长期预算（科斯塔提出的 1.58 万亿欧元方案，较原案缩减约 10%）达成一致，会谈持续 12 小时；科斯塔称「我们没有达成协议」，默茨称有「新进展」，领导人将于 12 月中旬再议。马克龙称 12 月 31 日后他将无法再推动预算谈判。",
+        "前线：半岛电视台称乌克兰称赞一次名为「熊阱」的新行动，俄军伤亡上升（见索引）；BBC 记者辛普森记述基辅冬季夜间大部分时间处于黑暗中。"
+      ],
+      "readingA": "乌方以黑海停火争取主动并寻求外部压力，泽连斯基公开批评华盛顿；普京展示核潜艇意在强调核威慑，俄方立场据 BBC 判断已回到最初的强硬立场。",
+      "readingB": "黑海停火提议此前已有多轮，俄方以纳入石油为条件，短期难有突破；欧盟预算僵局意味着对乌长期资金仍不明朗，但 12 月中旬还有窗口。",
+      "disagree": "美国「中立」是否等于纵容俄罗斯（泽连斯基 vs 特朗普政府）；黑海停火应否涵盖石油运输。",
+      "synthesis": "本窗口新增：乌方正式提出黑海停火、俄方新核潜艇入列、欧盟预算峰会无果并定 12 月中旬再议。和谈总体仍无进展。",
+      "unknown": "俄方对黑海停火的回应；欧洲是否参加下一轮和谈；450 亿欧元对乌贷款的具体结果（本窗口抓取的报道未给出）。",
+      "confidence": "中高（多为官方表态和可核对事件）。",
+      "sources": [
+        {
+          "label": "半岛电视台：普京扩充海军之际，基辅提出黑海停火",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"
+        },
+        {
+          "label": "半岛电视台：普京公布新核动力潜艇",
+          "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons"
+        },
+        {
+          "label": "BBC：泽连斯基在 BBC 专访中批评特朗普与普京「奇怪」的友谊",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        },
+        {
+          "label": "CNBC：欧盟领导人未能打破 1.7 万亿美元预算僵局",
+          "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tag": "新：欧洲政治",
+      "title": "西班牙周日（11/29）大选前各党举行最后集会：桑切斯称「无法想象我们会输」，人民党费霍奥在民调中小幅领先、可能依靠极右翼 Vox 组阁；周六为「反思日」，禁止竞选活动",
+      "facts": [
+        "选情：BBC 称人民党（PP）在民调中小幅领先，大多数民调显示结果接近；按法律周一以来未再公布民调。半岛电视台称禁令前几乎所有民调都显示 PP 与 Vox 联合占明显优势；桑切斯称内部数据显示工人社会党（PSOE）将获最多选票，可在小型左翼盟友支持下连任。",
+        "集会：桑切斯在马德里举行最后大型集会，称「无法想象我们会输」，并称 PP 和 Vox 想复制特朗普和米莱的政治；费霍奥在巴塞罗那和塞维利亚称「这次我们一定会做到」（他在 2023 年赢得最多席位但未能组阁）；Vox 领导人阿瓦斯卡尔在瓦伦西亚斗牛场集会，BBC 称有小部分人群高喊「佛朗哥万岁」。",
+        "议题：BBC 称住房危机主导最后阶段，费霍奥承诺四年建 100 万套住房，桑切斯称住房应是权利；Vox 希望把三年前的 33 席几乎翻倍，主张「国民优先」和「再移民」。约 3,900 万人有投票权，议会共 350 席，安达卢西亚 61 席最多。",
+        "外交议题：半岛电视台称电视辩论中桑切斯在费霍奥称以色列在加沙的行为是「屠杀」时打断称「这是种族灭绝」；CNBC 标题称选举结果可能让马德里更靠近特朗普的华盛顿（见索引）。"
+      ],
+      "readingA": "欧洲少有的左翼政府面临下台，若 PP+Vox 执政，叠加 5 个月后法国大选，欧洲两大经济体可能接连右转（BBC 观点）。",
+      "readingB": "桑切斯以动员左翼选民为赌注，民调差距不大，且费霍奥称希望以多数执政、只与 Vox 签「议会支持协议」，结果和组阁形式都存在变数。",
+      "disagree": "选民动员能否抵消民调劣势；Vox 是否入阁。",
+      "synthesis": "目前只能确定 PP 在禁令前民调中小幅领先，组阁很可能依赖 Vox。",
+      "unknown": "投票率与最终席位；组阁谈判时长；对欧盟预算与对以政策的影响。",
+      "confidence": "高（选前事实）；对结果的判断：低。",
+      "sources": [
+        {
+          "label": "BBC：西班牙首相与对手举行最后集会拉票",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo"
+        },
+        {
+          "label": "半岛电视台：桑切斯押注左翼投票激增以对抗民调",
+          "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tag": "新：非洲/司法",
+      "title": "肯尼亚蒙巴萨法院裁定末日邪教首领保罗·麦肯齐对 123 名成年信徒饿死案犯有过失杀人罪，其妻等 29 人同案定罪、60 人无罪；他本月已因谋杀 191 人（几乎均为儿童）被判 200 年",
+      "facts": [
+        "判决：BBC 称麦肯齐被裁定在 2021 年 1 月至 2023 年 9 月间命令成年信徒在沙卡霍拉森林绝食至死，对 123 人犯过失杀人罪；包括其妻 Rhoda Mumbua Maweu 在内的 29 人同时被定罪，60 名被告无罪，检察长办公室表示将对无罪判决上诉。",
+        "法官与辩方：半岛电视台援引路透称，裁判官 Alex Ithuku 称麦肯齐「下达了绝食至死的指示」；麦肯齐否认，其律师称将在量刑后上诉。",
+        "此前判决：11 月 6 日他因谋杀 191 人（其中 190 名儿童）被判 200 年监禁；本周还被判虐待儿童、伤害、激进化和「恐怖主义相关罪行」，美联社称虐童和激进化罪将于 12 月量刑。检方称周五裁决是对他的「最后一项定罪」。",
+        "背景：2023 年警方接线报后逮捕他，此后在沙卡霍拉森林浅坟中发现 400 多具遗体；检方称其计划「儿童先死，然后是妇女，再是男人，麦肯齐本人最后」。他此前曾两次因儿童死亡被捕后获释；鲁托总统 2023 年称作为国家元首对政府未能阻止死亡负责。"
+      ],
+      "readingA": "系列判决为受害者家庭带来一定正义，也推动对宗教团体加强监管的呼声。",
+      "readingB": "此前两次逮捕后释放暴露执法失误，60 人无罪及检方上诉意味着司法程序仍未结束；仅判决本身无法回答监管缺位问题。",
+      "disagree": "受害者是否「自愿」绝食（辩方）与被系统性操纵（法院认定）；宗教团体监管应如何加强。",
+      "synthesis": "法院已认定麦肯齐对沙卡霍拉事件的主要罪责；量刑与上诉程序仍在进行。",
+      "unknown": "过失杀人罪量刑；对 60 人无罪判决的上诉结果；肯尼亚宗教团体监管立法进展。",
+      "confidence": "高（法院判决，两家媒体一致）。",
+      "sources": [
+        {
+          "label": "BBC：肯尼亚末日邪教首领再因 123 人死亡被定罪",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo"
+        },
+        {
+          "label": "半岛电视台：肯尼亚邪教首领对 123 人饿死案犯过失杀人罪",
+          "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths"
+        }
+      ]
+    }
+  ],
+  "index": [
+    {
+      "n": 1,
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets"
+    },
+    {
+      "n": 2,
+      "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up"
+    },
+    {
+      "n": 3,
+      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran"
+    },
+    {
+      "n": 4,
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade"
+    },
+    {
+      "n": 5,
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+    },
+    {
+      "n": 6,
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo"
+    },
+    {
+      "n": 7,
+      "title": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia"
+    },
+    {
+      "n": 8,
+      "title": "Is Iraq facing renewed instability?",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/27/is-iraq-facing-renewed-instability"
+    },
+    {
+      "n": 9,
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"
+    },
+    {
+      "n": 10,
+      "title": "Tech rally lifts stock futures to wrap up a volatile week of trading",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/tech-rally-lifts-stock-futures-to-wrap-up-a-volatile-week-of-trading.html"
+    },
+    {
+      "n": 11,
+      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html"
+    },
+    {
+      "n": 12,
+      "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+    },
+    {
+      "n": 13,
+      "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html"
+    },
+    {
+      "n": 14,
+      "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html"
+    },
+    {
+      "n": 15,
+      "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html"
+    },
+    {
+      "n": 16,
+      "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html"
+    },
+    {
+      "n": 17,
+      "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+    },
+    {
+      "n": 18,
+      "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+    },
+    {
+      "n": 19,
+      "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o"
+    },
+    {
+      "n": 20,
+      "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+    },
+    {
+      "n": 21,
+      "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children"
+    },
+    {
+      "n": 22,
+      "title": "Allstate has been suffering an outage since Monday",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday"
+    },
+    {
+      "n": 23,
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+    },
+    {
+      "n": 24,
+      "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy"
+    },
+    {
+      "n": 25,
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons"
+    },
+    {
+      "n": 26,
+      "title": "‘Bear trap’: Ukraine hails new operation as Russian casualties mount",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/ukraine-rejects-unfavourable-compromises-as-it-frees-more-territory"
+    },
+    {
+      "n": 27,
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o"
+    },
+    {
+      "n": 28,
+      "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+    },
+    {
+      "n": 29,
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo"
+    },
+    {
+      "n": 30,
+      "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html"
+    },
+    {
+      "n": 31,
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo"
+    },
+    {
+      "n": 32,
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office"
+    },
+    {
+      "n": 33,
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o"
+    },
+    {
+      "n": 34,
+      "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges"
+    },
+    {
+      "n": 35,
+      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks"
+    },
+    {
+      "n": 36,
+      "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike"
+    },
+    {
+      "n": 37,
+      "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica"
+    },
+    {
+      "n": 38,
+      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers"
+    },
+    {
+      "n": 39,
+      "title": "At least eight found dead on migrant boat off Spain’s Canary Islands",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-eight-found-dead-on-migrant-boat-off-spains-canary-islands"
+    },
+    {
+      "n": 40,
+      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "outlet": "半岛电视台",
+      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai"
+    },
+    {
+      "n": 41,
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o"
+    },
+    {
+      "n": 42,
+      "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+    },
+    {
+      "n": 43,
+      "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol"
+    },
+    {
+      "n": 44,
+      "title": "Pizza history: AI agent’s cardless purchase is a first for UK",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer"
+    },
+    {
+      "n": 45,
+      "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
+      "outlet": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/27/ai-shopping-agents-retailer-blocks.html"
+    },
+    {
+      "n": 46,
+      "title": "Three studies link glyphosate to cancer, contradicting claims of Trump EPA",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa"
+    },
+    {
+      "n": 47,
+      "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa"
+    },
+    {
+      "n": 48,
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo"
+    },
+    {
+      "n": 49,
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo"
+    },
+    {
+      "n": 50,
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo"
+    },
+    {
+      "n": 51,
+      "title": "Thousands still without power after storms that snarled Thanksgiving travel",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving"
+    },
+    {
+      "n": 52,
+      "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o"
+    },
+    {
+      "n": 53,
+      "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+      "outlet": "NPR",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court"
+    },
+    {
+      "n": 54,
+      "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition"
+    },
+    {
+      "n": 55,
+      "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy95295835o"
+    },
+    {
+      "n": 56,
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo"
+    },
+    {
+      "n": 57,
+      "title": "GTA 6 crashes into top end of music chart after its record launch",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego"
+    },
+    {
+      "n": 58,
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "outlet": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o"
+    },
+    {
+      "n": 59,
+      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
+      "outlet": "卫报",
+      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results"
+    }
+  ]
+}
